@@ -1,0 +1,723 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>FTW Labs AI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" />
+<style id="app-style">
+:root {
+  --paper: #E8E1CE;
+  --paper-raised: #DFD7C0;
+  --ink: #1C1A22;
+  --ink-soft: #55505A;
+  --ink-faint: #8A8478;
+  --hot: #D5294F;
+  --gold: #A6701E;
+  --teal: #1F6F64;
+  --line: #B3A98D;
+  --focus: #1C1A22;
+  /* Fixed "stamped ink" tones for sections that must always read as a dark
+     print run regardless of theme — deliberately NOT redefined below, since
+     --ink/--paper swap meaning between light and dark mode and would flip
+     an always-dark section into an inconsistent light card. */
+  --stamp-dark: #1C1A22;
+  --stamp-light: #ECE6D6;
+  --stamp-hot: #FF5D82;
+  --stamp-gold: #E3A94A;
+  --stamp-teal: #4CBBAA;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #18151C;
+    --paper-raised: #221E28;
+    --ink: #ECE6D6;
+    --ink-soft: #B6AEA0;
+    --ink-faint: #756F65;
+    --hot: #FF5D82;
+    --gold: #E3A94A;
+    --teal: #4CBBAA;
+    --line: #3C3742;
+    --focus: #ECE6D6;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #18151C;
+  --paper-raised: #221E28;
+  --ink: #ECE6D6;
+  --ink-soft: #B6AEA0;
+  --ink-faint: #756F65;
+  --hot: #FF5D82;
+  --gold: #E3A94A;
+  --teal: #4CBBAA;
+  --line: #3C3742;
+  --focus: #ECE6D6;
+}
+
+* { box-sizing: border-box; }
+html { color-scheme: light dark; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
+}
+
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 clamp(20px, 5vw, 56px); }
+
+.eyebrow {
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--hot);
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.eyebrow::before {
+  content: "";
+  width: 22px;
+  height: 1px;
+  background: var(--hot);
+}
+
+h1, h2, h3 {
+  font-family: 'Big Shoulders Display', 'Arial Narrow', sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.005em;
+  text-wrap: balance;
+  margin: 0;
+  color: var(--ink);
+}
+
+/* ---------- crop marks ---------- */
+.crop-divider {
+  position: relative;
+  height: 1px;
+  background: repeating-linear-gradient(90deg, var(--line) 0 6px, transparent 6px 12px);
+  margin: 0;
+}
+.crop-divider::before, .crop-divider::after {
+  content: "";
+  position: absolute;
+  top: -5px;
+  width: 1px;
+  height: 11px;
+  background: var(--line);
+}
+.crop-divider::before { left: clamp(20px, 5vw, 56px); }
+.crop-divider::after { right: clamp(20px, 5vw, 56px); }
+
+/* ---------- header ---------- */
+header.site {
+  padding: 22px 0;
+}
+header.site .wrap { display: flex; align-items: center; justify-content: space-between; }
+.wordmark {
+  font-family: 'Big Shoulders Display', sans-serif;
+  font-weight: 900;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-decoration: none;
+}
+.wordmark span { color: var(--hot); }
+.header-tag {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-faint);
+  letter-spacing: 0.08em;
+}
+
+/* ---------- hero ---------- */
+.hero {
+  padding: clamp(40px, 8vw, 96px) 0 clamp(48px, 8vw, 88px);
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: clamp(28px, 5vw, 64px);
+  align-items: center;
+}
+@media (max-width: 860px) { .hero { grid-template-columns: 1fr; } }
+.hero h1 {
+  font-size: clamp(2.6rem, 7vw, 5rem);
+  line-height: 0.96;
+  margin-top: 18px;
+}
+.hero h1 em {
+  font-style: normal;
+  color: var(--hot);
+}
+.hero-sub {
+  margin-top: 22px;
+  max-width: 46ch;
+  font-size: 1.08rem;
+  color: var(--ink-soft);
+}
+.hero-actions {
+  margin-top: 32px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+}
+.hero-canvas-frame {
+  position: relative;
+  border: 1px solid var(--line);
+  aspect-ratio: 1 / 1;
+  background: var(--paper-raised);
+}
+.hero-canvas-frame canvas { display: block; width: 100%; height: 100%; }
+.hero-canvas-frame .corner { position: absolute; width: 14px; height: 14px; }
+.hero-canvas-frame .corner::before, .hero-canvas-frame .corner::after { content: ""; position: absolute; background: var(--ink-faint); }
+.hero-canvas-frame .corner::before { width: 14px; height: 1px; top: 0; left: 0; }
+.hero-canvas-frame .corner::after { width: 1px; height: 14px; top: 0; left: 0; }
+.hero-canvas-frame .corner.tr { right: -1px; top: -1px; left: auto; }
+.hero-canvas-frame .corner.tr::before, .hero-canvas-frame .corner.tr::after { left: auto; right: 0; }
+.hero-canvas-frame .corner.bl { bottom: -1px; }
+.hero-canvas-frame .corner.bl::before, .hero-canvas-frame .corner.bl::after { top: auto; bottom: 0; }
+.hero-canvas-frame .corner.br { bottom: -1px; right: -1px; }
+.hero-canvas-frame .corner.br::before, .hero-canvas-frame .corner.br::after { top: auto; bottom: 0; left: auto; right: 0; }
+.hero-caption {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  margin-top: 8px;
+  text-transform: uppercase;
+}
+
+/* ---------- buttons ---------- */
+.btn {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 14px 24px;
+  border: 1px solid var(--ink);
+  background: var(--ink);
+  color: var(--paper);
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+.btn:hover { transform: translateY(-1px); }
+.btn:active { transform: translateY(0); }
+.btn:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
+.btn[disabled] { cursor: default; opacity: 0.72; transform: none; }
+.btn-ghost {
+  background: transparent;
+  color: var(--ink);
+  border-color: var(--line);
+}
+.btn-ghost:hover { border-color: var(--ink); }
+
+/* ---------- sections ---------- */
+section { padding: clamp(48px, 8vw, 96px) 0; }
+.section-head { max-width: 62ch; }
+.section-head h2 { font-size: clamp(1.9rem, 4.4vw, 3rem); margin-top: 14px; line-height: 1.02; }
+.section-head p { margin-top: 16px; color: var(--ink-soft); font-size: 1.02rem; max-width: 58ch; }
+
+/* ---------- problem list ---------- */
+.problem-grid {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+}
+@media (max-width: 720px) { .problem-grid { grid-template-columns: 1fr; } }
+.problem-item {
+  background: var(--paper);
+  padding: 26px 28px;
+}
+.problem-tag {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--hot);
+}
+.problem-item p { margin: 10px 0 0; color: var(--ink-soft); font-size: 0.98rem; }
+
+/* ---------- pipeline ---------- */
+.pipeline {
+  margin-top: 48px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  position: relative;
+}
+@media (max-width: 900px) { .pipeline { grid-template-columns: 1fr; gap: 1px; background: var(--line); border: 1px solid var(--line); } }
+.stage {
+  border-top: 2px solid var(--ink);
+  padding: 20px 22px 0 0;
+  position: relative;
+}
+@media (max-width: 900px) { .stage { background: var(--paper); border-top: none; padding: 24px 26px; } }
+.stage-num {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-faint);
+}
+.stage h3 {
+  font-size: 1.15rem;
+  margin-top: 10px;
+  letter-spacing: 0.01em;
+}
+.stage p {
+  margin-top: 10px;
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+.stage-swatch { width: 30px; height: 6px; margin-bottom: 6px; }
+
+/* ---------- proof ---------- */
+.proof {
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  padding: clamp(32px, 6vw, 56px);
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: clamp(24px, 5vw, 48px);
+  align-items: start;
+}
+@media (max-width: 720px) { .proof { grid-template-columns: 1fr; } }
+.proof-stamp {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  color: var(--teal);
+  border: 1px solid var(--teal);
+  padding: 10px 14px;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+.proof-body h3 { font-size: clamp(1.5rem, 3vw, 2.1rem); }
+.proof-body p { margin-top: 14px; color: var(--ink-soft); max-width: 62ch; }
+.proof-links { margin-top: 18px; display: flex; gap: 18px; flex-wrap: wrap; }
+.proof-links a { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.06em; color: var(--ink); text-decoration: underline; text-underline-offset: 4px; text-decoration-color: var(--line); }
+.proof-links a:hover { text-decoration-color: var(--hot); }
+
+/* ---------- features ---------- */
+.features {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+}
+@media (max-width: 900px) { .features { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 540px) { .features { grid-template-columns: 1fr; } }
+.feature {
+  background: var(--paper);
+  padding: 24px 22px;
+}
+.feature-swatch { width: 26px; height: 26px; margin-bottom: 14px; }
+.feature h3 { font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink); }
+.feature p { margin-top: 10px; font-size: 0.9rem; color: var(--ink-soft); }
+
+/* ---------- waitlist ---------- */
+/* This section always reads as a "stamped on a dark garment" print run,
+   independent of the page's own light/dark theme — so it uses the fixed
+   --stamp-* tokens throughout, never the theme-relative --ink/--paper/etc,
+   which would otherwise flip this section's contrast in dark mode. */
+.founding {
+  background: var(--stamp-dark);
+  color: var(--stamp-light);
+}
+.founding .eyebrow { color: var(--stamp-hot); }
+.founding .eyebrow::before { background: var(--stamp-hot); }
+.founding .section-head h2 { color: var(--stamp-light); }
+.founding .section-head p { color: color-mix(in srgb, var(--stamp-light) 72%, transparent); }
+.waitlist-card {
+  margin-top: 40px;
+  border: 1px solid color-mix(in srgb, var(--stamp-light) 30%, transparent);
+  padding: clamp(28px, 5vw, 44px);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.count-block { font-family: 'IBM Plex Mono', monospace; }
+.count-num {
+  font-family: 'Big Shoulders Display', sans-serif;
+  font-weight: 900;
+  font-size: clamp(2.4rem, 6vw, 3.6rem);
+  color: var(--stamp-light);
+  line-height: 1;
+  display: block;
+  font-variant-numeric: tabular-nums;
+}
+.count-label {
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--stamp-light) 65%, transparent);
+  margin-top: 8px;
+  display: block;
+}
+.founding .btn { background: var(--stamp-hot); border-color: var(--stamp-hot); color: var(--stamp-dark); }
+.founding .btn:focus-visible { outline-color: var(--stamp-light); }
+.founding .btn[disabled] { background: var(--stamp-teal); border-color: var(--stamp-teal); color: var(--stamp-dark); }
+.waitlist-note {
+  margin-top: 14px;
+  font-size: 12px;
+  color: color-mix(in srgb, var(--stamp-light) 55%, transparent);
+  max-width: 32ch;
+}
+.waitlist-status { font-size: 12px; margin-top: 10px; min-height: 16px; color: var(--stamp-gold); }
+
+/* ---------- footer ---------- */
+footer.site { padding: 40px 0 56px; }
+footer.site .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px; align-items: flex-end; }
+.footer-note { max-width: 52ch; font-size: 0.85rem; color: var(--ink-faint); }
+.footer-mark { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--ink-faint); letter-spacing: 0.06em; }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <a class="wordmark" href="#top">FTW <span>Labs</span> AI</a>
+    <span class="header-tag">RUN 001 — CONCEPT PREVIEW</span>
+  </div>
+</header>
+
+<div class="crop-divider"></div>
+
+<main id="top">
+  <section class="hero">
+    <div class="wrap" style="display:contents;">
+      <div>
+        <span class="eyebrow">For The Win</span>
+        <h1>Stop guessing<br />what <em>sells.</em></h1>
+        <p class="hero-sub">FTW Labs AI turns real search, video, and sales signal into print-on-demand drops — matched to real Printify and Printful catalog availability, priced against a hard profit floor, before you spend a dollar on inventory.</p>
+        <div class="hero-actions">
+          <a class="btn" href="#founding">Signal interest →</a>
+          <a class="btn btn-ghost" href="#pipeline">See how it works</a>
+        </div>
+      </div>
+      <div>
+        <div class="hero-canvas-frame">
+          <canvas id="signal-canvas" width="640" height="640" aria-hidden="true"></canvas>
+          <span class="corner tl"></span><span class="corner tr"></span><span class="corner bl"></span><span class="corner br"></span>
+        </div>
+        <p class="hero-caption">Fig. 1 — search demand, halftoned</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div class="crop-divider"></div>
+
+<section id="problem">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">The old way</span>
+      <h2>Most POD sellers<br />are printing guesses.</h2>
+    </div>
+    <div class="problem-grid">
+      <div class="problem-item">
+        <span class="problem-tag">NO SIGNAL</span>
+        <p>Picking designs off vibes, Pinterest scrolling, and what a competitor happened to post last week.</p>
+      </div>
+      <div class="problem-item">
+        <span class="problem-tag">NO FLOOR</span>
+        <p>Pricing by gut, discovering the margin was gone after fees and shipping ate it.</p>
+      </div>
+      <div class="problem-item">
+        <span class="problem-tag">NO CATALOG CHECK</span>
+        <p>Designing for a color and size combo the provider doesn't actually stock.</p>
+      </div>
+      <div class="problem-item">
+        <span class="problem-tag">NO RECEIPTS</span>
+        <p>No record of why a call got made, so nothing gets smarter on the next drop.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="crop-divider"></div>
+
+<section id="pipeline">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">The pipeline</span>
+      <h2>Four stages. Every one runs on evidence.</h2>
+      <p>Not a black box — every stage below is a real, working mechanism, not a roadmap slide.</p>
+    </div>
+    <div class="pipeline">
+      <div class="stage">
+        <div class="stage-swatch" style="background:var(--hot);"></div>
+        <span class="stage-num">01 / SIGNAL</span>
+        <h3>Score the demand</h3>
+        <p>Search, video, and purchase demand scored and ranked by the same evidence-weighted engine behind TrendForge, our internal trend-intelligence build. Every number ships with its source and confidence — never an unqualified claim.</p>
+      </div>
+      <div class="stage">
+        <div class="stage-swatch" style="background:var(--gold);"></div>
+        <span class="stage-num">02 / DESIGN</span>
+        <h3>Generate the concept</h3>
+        <p>AI-assisted design concepts matched to validated niches. The design engine isn't theoretical — it's dogfooded daily on FreeThinkers.AI, a live AI-art practice publishing one piece a day.</p>
+      </div>
+      <div class="stage">
+        <div class="stage-swatch" style="background:var(--teal);"></div>
+        <span class="stage-num">03 / FULFILL</span>
+        <h3>Match the catalog</h3>
+        <p>Every concept checked against real Printify and Printful catalog data — actual colors, sizes, and provider availability, not assumed ones.</p>
+      </div>
+      <div class="stage">
+        <div class="stage-swatch" style="background:var(--ink);"></div>
+        <span class="stage-num">04 / DROP</span>
+        <h3>Price and publish</h3>
+        <p>Priced against a hard profit floor before it goes live, then tracked — the same margin-floor logic already running our own Shopify drops today.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="crop-divider"></div>
+
+<section id="proof">
+  <div class="wrap">
+    <div class="proof">
+      <span class="proof-stamp">✓ Verified, not pitched</span>
+      <div class="proof-body">
+        <h3>Built by the people running the drops.</h3>
+        <p>FTW Labs AI isn't a slide deck. It's the internal stack behind an active AI-art-to-merch operation: FreeThinkers.AI for the daily design practice, TrendForge for trend intelligence, and a live Printful + Shopify pipeline with margin-floor pricing already running. We're productizing our own toolchain, not guessing what creators need.</p>
+        <div class="proof-links">
+          <a href="https://freethinkers.ai" target="_blank" rel="noreferrer">freethinkers.ai ↗</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="crop-divider"></div>
+
+<section id="features">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">What's inside</span>
+      <h2>No number claims more than the data behind it.</h2>
+    </div>
+    <div class="features">
+      <div class="feature">
+        <div class="feature-swatch" style="background:var(--hot);"></div>
+        <h3>Evidence-scored</h3>
+        <p>Every opportunity ships with its sources, confidence level, and what's still unproven.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-swatch" style="background:var(--gold);"></div>
+        <h3>Catalog-matched</h3>
+        <p>Checked against real Printify/Printful variants before you commit to a design.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-swatch" style="background:var(--teal);"></div>
+        <h3>Margin-floored</h3>
+        <p>Auto-priced against a hard profit floor, not a gut-feel number.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-swatch" style="background:var(--ink);"></div>
+        <h3>Full provenance</h3>
+        <p>Labeled by evidence strength — "observed" and "model-inferred" are never blurred together.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="founding" id="founding">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Founding run</span>
+      <h2>We're opening a small first cohort.</h2>
+      <p>No pricing is locked yet — the Founding Run shapes it. One click below adds you to the signal count. No email required, nothing to fill in.</p>
+    </div>
+    <div class="waitlist-card" id="waitlist-root"><!-- rendered by app-script --></div>
+  </div>
+</section>
+
+<div class="crop-divider"></div>
+
+<footer class="site">
+  <div class="wrap">
+    <p class="footer-note">A product of the team behind FreeThinkers.AI. Built in the open — nothing above is marketing copy for a product that doesn't exist yet; it's the plan for one being built from real, running infrastructure.</p>
+    <span class="footer-mark">FTW LABS AI © <span id="year"></span></span>
+  </div>
+</footer>
+
+<script id="app-script">
+(function () {
+  "use strict";
+
+  var STATE = {"count": 0};
+
+  document.getElementById("year").textContent = new Date().getFullYear();
+
+  /* ---------- halftone signal canvas ---------- */
+  function drawSignal(canvas, animate) {
+    var ctx = canvas.getContext("2d");
+    var dpr = Math.min(window.devicePixelRatio || 1, 2);
+    var size = canvas.clientWidth || 320;
+    canvas.width = size * dpr;
+    canvas.height = size * dpr;
+    ctx.scale(dpr, dpr);
+
+    var styles = getComputedStyle(document.documentElement);
+    var paper = styles.getPropertyValue("--paper-raised").trim() || "#DFD7C0";
+    var hot = styles.getPropertyValue("--hot").trim() || "#D5294F";
+    var ink = styles.getPropertyValue("--ink-faint").trim() || "#8A8478";
+
+    var cols = 22;
+    var rows = 22;
+    var cell = size / cols;
+
+    function frame(t) {
+      ctx.fillStyle = paper;
+      ctx.fillRect(0, 0, size, size);
+
+      for (var y = 0; y < rows; y++) {
+        for (var x = 0; x < cols; x++) {
+          var cx = x * cell + cell / 2;
+          var cy = y * cell + cell / 2;
+          var wave = Math.sin((x * 0.5) + (y * 0.35) + t) * 0.5 + 0.5;
+          var dist = 1 - Math.min(1, Math.hypot(x - cols * 0.32, y - rows * 0.5) / (cols * 0.55));
+          var mix = Math.max(0, wave * 0.6 + dist * 0.4);
+          var r = (cell * 0.46) * mix;
+          if (r < 0.4) continue;
+          ctx.beginPath();
+          ctx.arc(cx, cy, r, 0, Math.PI * 2);
+          ctx.fillStyle = mix > 0.62 ? hot : ink;
+          ctx.globalAlpha = mix > 0.62 ? 0.92 : 0.5;
+          ctx.fill();
+        }
+      }
+      ctx.globalAlpha = 1;
+    }
+
+    if (!animate) { frame(0); return; }
+    var start = null;
+    function loop(ts) {
+      if (start === null) start = ts;
+      var t = (ts - start) / 900;
+      frame(t);
+      window.requestAnimationFrame(loop);
+    }
+    window.requestAnimationFrame(loop);
+  }
+
+  var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var signalCanvas = document.getElementById("signal-canvas");
+  if (signalCanvas) drawSignal(signalCanvas, !reduceMotion);
+  window.addEventListener("resize", function () {
+    if (signalCanvas) drawSignal(signalCanvas, false);
+  });
+
+  /* ---------- waitlist counter ---------- */
+  var LOCAL_KEY = "ftw_signaled";
+
+  function renderWaitlist(state) {
+    var joinedHere = false;
+    try { joinedHere = localStorage.getItem(LOCAL_KEY) === "1"; } catch (e) {}
+    var root = document.getElementById("waitlist-root");
+    if (!root) return;
+    root.innerHTML =
+      '<div class="count-block">' +
+        '<span class="count-num">' + state.count.toLocaleString() + '</span>' +
+        '<span class="count-label">makers have signaled interest</span>' +
+      '</div>' +
+      '<div>' +
+        '<button class="btn" id="join-btn"' + (joinedHere ? " disabled" : "") + '>' +
+          (joinedHere ? "✓ You're counted in" : "Count me in →") +
+        '</button>' +
+        '<p class="waitlist-note">This is a live, shared count across everyone viewing this page.</p>' +
+        '<p class="waitlist-status" id="waitlist-status"></p>' +
+      '</div>';
+
+    var btn = document.getElementById("join-btn");
+    if (btn && !joinedHere) btn.addEventListener("click", handleJoin);
+  }
+
+  function setStatus(msg) {
+    var el = document.getElementById("waitlist-status");
+    if (el) el.textContent = msg;
+  }
+
+  async function handleJoin() {
+    var btn = document.getElementById("join-btn");
+    if (btn) { btn.disabled = true; btn.textContent = "Counting..."; }
+
+    if (!window.claude || typeof window.claude.use !== "function") {
+      try { localStorage.setItem(LOCAL_KEY, "1"); } catch (e) {}
+      setStatus("Saved on this device — the live shared count only updates on the hosted preview.");
+      if (btn) btn.textContent = "✓ Counted (this device)";
+      return;
+    }
+
+    var artifact;
+    try {
+      artifact = await window.claude.use("artifact");
+    } catch (e) {
+      artifact = null;
+    }
+
+    if (!artifact) {
+      try { localStorage.setItem(LOCAL_KEY, "1"); } catch (e) {}
+      setStatus("Counted locally — live sync isn't available in this view.");
+      if (btn) btn.textContent = "✓ Counted (this device)";
+      return;
+    }
+
+    var newState = { count: STATE.count + 1 };
+    try {
+      /* Re-fetch this page's own pristine served source rather than
+         serializing the live DOM — the live DOM can carry viewer-session
+         state and platform-injected runtime scripts that would otherwise
+         get baked into every future publish. A fresh fetch of our own
+         URL is unaffected by any of that. */
+      var raw = await fetch(location.href, { cache: "no-store" }).then(function (r) { return r.text(); });
+      var stateLine = /var STATE = \{[^}]*\};/;
+      if (!stateLine.test(raw)) throw new Error("state marker not found in fetched source");
+      var updated = raw.replace(stateLine, 'var STATE = ' + JSON.stringify(newState) + ';');
+      await artifact.publish(updated);
+      try { localStorage.setItem(LOCAL_KEY, "1"); } catch (e) {}
+      /* publish() reloads this view to the new version on success */
+    } catch (err) {
+      var code = err && err.code;
+      if (code === "not_writer" || code === "not_granted" || code === "consent_required") {
+        setStatus("Signups are open to the founder's own view right now.");
+      } else if (code === "conflict") {
+        setStatus("Someone else was counted a second before you — try again.");
+      } else {
+        setStatus("Couldn't reach the live count — try again in a moment.");
+      }
+      if (btn) { btn.disabled = false; btn.textContent = "Count me in →"; }
+    }
+  }
+
+  renderWaitlist(STATE);
+})();
+</script>
+
+</body>
+</html>
