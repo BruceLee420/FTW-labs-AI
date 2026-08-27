@@ -290,6 +290,39 @@ section { padding: clamp(48px, 8vw, 96px) 0; }
 }
 .stage-swatch { width: 30px; height: 6px; margin-bottom: 6px; }
 
+/* ---------- live demo ---------- */
+.live-frame {
+  margin-top: 40px;
+  border: 1px solid var(--line);
+  background: var(--paper-raised);
+}
+.live-frame-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--line);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+}
+.live-frame-bar a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-color: var(--line);
+}
+.live-frame-bar a:hover { text-decoration-color: var(--hot); }
+.live-frame iframe {
+  display: block;
+  width: 100%;
+  height: min(720px, 80vh);
+  border: 0;
+  background: #0b0d12;
+}
+
 /* ---------- proof ---------- */
 .proof {
   background: var(--paper-raised);
@@ -331,9 +364,23 @@ section { padding: clamp(48px, 8vw, 96px) 0; }
 .feature {
   background: var(--paper);
   padding: 24px 22px;
+  display: block;
+  text-decoration: none;
+  transition: background-color 0.15s ease;
 }
+.feature:hover { background: var(--paper-raised); }
+.feature:hover .feature-cta { color: var(--hot); }
 .feature-swatch { width: 26px; height: 26px; margin-bottom: 14px; }
 .feature h3 { font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink); }
+.feature-cta {
+  display: block;
+  margin-top: 12px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  transition: color 0.15s ease;
+}
 .feature p { margin-top: 10px; font-size: 0.9rem; color: var(--ink-soft); }
 
 /* ---------- waitlist ---------- */
@@ -481,19 +528,41 @@ footer.site .wrap { display: flex; flex-wrap: wrap; justify-content: space-betwe
         <span class="stage-num">02 / DESIGN</span>
         <h3>Generate the concept</h3>
         <p>AI-assisted design concepts matched to validated niches. The design engine isn't theoretical — it's dogfooded daily on FreeThinkers.AI, a live AI-art practice publishing one piece a day.</p>
+        <p style="margin-top: 10px;"><a href="https://freethinkers.ai" target="_blank" rel="noreferrer" style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: var(--ink); text-decoration: underline; text-underline-offset: 4px; text-decoration-color: var(--line);">See the daily practice ↗</a></p>
       </div>
       <div class="stage">
         <div class="stage-swatch" style="background:var(--teal);"></div>
-        <span class="stage-num">03 / FULFILL</span>
+        <span class="stage-num">03 / FULFILL &middot; LIVE</span>
         <h3>Match the catalog</h3>
         <p>Every concept checked against real Printify and Printful catalog data — actual colors, sizes, and provider availability, not assumed ones.</p>
+        <p style="margin-top: 10px;"><a href="/app/#catalog" style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: var(--ink); text-decoration: underline; text-underline-offset: 4px; text-decoration-color: var(--line);">Launch it →</a></p>
       </div>
       <div class="stage">
         <div class="stage-swatch" style="background:var(--ink);"></div>
-        <span class="stage-num">04 / DROP</span>
+        <span class="stage-num">04 / DROP &middot; LIVE</span>
         <h3>Price and publish</h3>
         <p>Priced against a hard profit floor before it goes live, then tracked — the same margin-floor logic already running our own Shopify drops today.</p>
+        <p style="margin-top: 10px;"><a href="/app/#monetize" style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: var(--ink); text-decoration: underline; text-underline-offset: 4px; text-decoration-color: var(--line);">Launch it →</a></p>
       </div>
+    </div>
+  </div>
+</section>
+
+<div class="crop-divider"></div>
+
+<section id="live-demo">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Not a mockup</span>
+      <h2>This is the actual dashboard, running.</h2>
+      <p>No screenshot, no staged demo video — scroll, click into a page, even import a CSV. It's the same app linked throughout this page, just embedded here so you don't have to leave.</p>
+    </div>
+    <div class="live-frame">
+      <div class="live-frame-bar">
+        <span>ftwlabs.ai/app/</span>
+        <a href="/app/" target="_blank" rel="noreferrer">Open full screen ↗</a>
+      </div>
+      <iframe src="/app/" title="TrendForge POD Intelligence — live preview" loading="lazy"></iframe>
     </div>
   </div>
 </section>
@@ -524,26 +593,30 @@ footer.site .wrap { display: flex; flex-wrap: wrap; justify-content: space-betwe
       <h2>No number claims more than the data behind it.</h2>
     </div>
     <div class="features">
-      <div class="feature">
+      <a class="feature" href="/app/#opportunity">
         <div class="feature-swatch" style="background:var(--hot);"></div>
         <h3>Evidence-scored</h3>
         <p>Every opportunity ships with its sources, confidence level, and what's still unproven.</p>
-      </div>
-      <div class="feature">
+        <span class="feature-cta">Open Opportunity Lab →</span>
+      </a>
+      <a class="feature" href="/app/#catalog">
         <div class="feature-swatch" style="background:var(--gold);"></div>
         <h3>Catalog-matched</h3>
         <p>Checked against real Printify/Printful variants before you commit to a design.</p>
-      </div>
-      <div class="feature">
+        <span class="feature-cta">Open Provider Catalog →</span>
+      </a>
+      <a class="feature" href="/app/#monetize">
         <div class="feature-swatch" style="background:var(--teal);"></div>
         <h3>Margin-floored</h3>
         <p>Auto-priced against a hard profit floor, not a gut-feel number.</p>
-      </div>
-      <div class="feature">
+        <span class="feature-cta">Open Monetize →</span>
+      </a>
+      <a class="feature" href="/app/#sources">
         <div class="feature-swatch" style="background:var(--ink);"></div>
         <h3>Full provenance</h3>
         <p>Labeled by evidence strength — "observed" and "model-inferred" are never blurred together.</p>
-      </div>
+        <span class="feature-cta">Open Data Sources →</span>
+      </a>
     </div>
   </div>
 </section>
