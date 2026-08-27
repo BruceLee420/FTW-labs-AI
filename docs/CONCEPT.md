@@ -72,10 +72,10 @@ guessing at a market before touching it.
 
 ## Open questions — genuinely unresolved, not glossed over
 
-- **The name and domain.** `ftwlabs.ai` is unregistered as of this
-  research (returns HTTP 404, no public company found under that name).
-  Before any public-facing launch, confirm the domain is actually
-  available and register it, or pick a different name.
+- **The name and domain.** ~~Unregistered~~ — `ftwlabs.ai` is already owned
+  (registered via Cloudflare). It returned HTTP 404 during initial research
+  simply because nothing was published there yet, not because it was
+  available. Resolved: the landing page now deploys to it (see README).
 - **Competitive landscape.** This document has *not* done a competitive
   scan of existing POD trend-research or automation tools. That's a real
   gap to close before pitching this externally — don't assume a clear
@@ -91,8 +91,8 @@ guessing at a market before touching it.
 
 1. Decide internal-only vs. external product (see Who it's for) — this
    determines almost everything else.
-2. If committing to the brand: check and register `ftwlabs.ai` (or a
-   fallback domain).
+2. ~~Register `ftwlabs.ai`~~ — done, already owned on Cloudflare. Custom
+   domain is wired to the GitHub Pages deploy (see README).
 3. Run TrendForge's existing "send to studio-drop" hand-off on a real
    opportunity and track what it actually produces — the first real data
    point for this whole concept.
