@@ -1,9 +1,10 @@
 # FTW Labs AI
 
-**Status: pre-launch concept.** This repo currently holds the pitch, not a
-product — see [`docs/CONCEPT.md`](docs/CONCEPT.md) for the full thinking,
-including what's genuinely unresolved (pricing, competitive research not
-yet done).
+**Status: one real stage live, the rest still a pitch.** Stage 01 (SIGNAL)
+is a working app, not a mockup — see [`app/`](app/) below. Stages 02-04 are
+still concept only. See [`docs/CONCEPT.md`](docs/CONCEPT.md) for the full
+thinking, including what's genuinely unresolved (pricing, competitive
+research not yet done).
 
 **Live at:** [ftwlabs.ai](https://ftwlabs.ai) (once DNS finishes
 propagating — see below) and
@@ -33,9 +34,22 @@ manual guesswork, at the hand-off points between them.
 
 ## What's here
 
-- [`index.html`](index.html) — the concept landing page. Open it directly
-  in a browser, or serve it statically (GitHub Pages, Netlify, Vercel —
-  no build step, no dependencies).
+- [`index.html`](index.html) — the landing page. Open it directly in a
+  browser, or serve it statically (GitHub Pages, Netlify, Vercel — no
+  build step, no dependencies).
+- [`app/`](app/) — **the actual Stage 01 (SIGNAL) app, live and working**:
+  a built copy of [TrendForge POD
+  Intelligence](https://github.com/BruceLee420/everydays-inspiration-node) —
+  real CSV/XLSX import, real filtering, real evidence-weighted opportunity
+  scoring, real Printify/Printful catalog matching. Served at
+  `ftwlabs.ai/app/`. It's a static build (`vite build --base=/app/`)
+  committed as built output, not source — the source lives in the
+  TrendForge repo linked above. **To update it:** rebuild TrendForge with
+  `npx vite build --base=/app/`, copy `dist/*` over this folder, and
+  reapply the small back-link banner this folder's `index.html` has at
+  the top of `<body>` (a plain fixed-position `<a>` tag, not part of the
+  React build — diff against git history if it gets clobbered by a raw
+  copy).
 - [`docs/CONCEPT.md`](docs/CONCEPT.md) — the full concept: problem,
   solution, audience, business model options, and honestly-flagged open
   questions.
@@ -87,6 +101,11 @@ minutes to a few hours after DNS propagates).
 
 ## Status
 
-No backend, no live provider integrations, no committed pricing. This is
-the pitch stage — see `docs/CONCEPT.md`'s "Immediate next steps" for what
-comes before any of that gets built.
+Stage 01 (SIGNAL) is a real, working app — try it at `/app/`. Stages 02-04
+(DESIGN, FULFILL, DROP) are still separate, unconnected tools
+(FreeThinkers.AI, TrendForge's Provider Catalog, and studio-drop
+respectively) — nothing yet hands off between them automatically. No
+backend, no live provider API integrations (TrendForge's own CSV import is
+real; its Printify/Printful/YouTube/Shopify *live* connectors are not), no
+committed pricing. See `docs/CONCEPT.md`'s "Immediate next steps" for what
+comes before the rest gets built.

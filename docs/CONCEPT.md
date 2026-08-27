@@ -31,7 +31,7 @@ Independent POD sellers and artists making the jump to merch typically:
 
 | Stage | What it does | What already exists for it |
 |---|---|---|
-| 01 SIGNAL | Score search/video/purchase demand with sources and confidence, never an unqualified claim | **TrendForge POD Intelligence** (this account's trend-intelligence dashboard) — CSV/XLSX ingestion, evidence-weighted opportunity scoring, already built and running |
+| 01 SIGNAL | Score search/video/purchase demand with sources and confidence, never an unqualified claim | **TrendForge POD Intelligence** — CSV/XLSX ingestion, evidence-weighted opportunity scoring. **Live at `ftwlabs.ai/app/`**, not just described here |
 | 02 DESIGN | Turn a validated niche into an AI-assisted design concept | **FreeThinkers.AI** — a live daily AI-art practice (Adrian Grimaldo / VoxMOHAWK), proof the design engine works, not a theoretical capability |
 | 03 FULFILL | Check the concept against real provider catalog data | TrendForge's Provider Catalog page (Printify/Printful variant matching) — built |
 | 04 DROP | Price against a hard profit floor, publish, track | **studio-drop** — the existing Google Drive → Printful → Shopify pipeline with a 21%-minimum-margin profit floor and a price-decision log |
@@ -102,7 +102,9 @@ guessing at a market before touching it.
 
 ## Relationship to this repository
 
-This repo (`ftw-labs-ai`) currently holds the concept pitch only: this
-document and the landing page (`index.html`). It intentionally does not
-yet contain a product build — per the venture's own next steps above, that
-comes after step 3, not before.
+This repo (`ftw-labs-ai`) holds the pitch (this document, `index.html`)
+and, as of the most recent update, a real working copy of Stage 01 under
+`app/` — a built copy of TrendForge, not a mockup of it. Stages 02-04 are
+still separate, unconnected tools (see the table above); step 3 in
+Immediate next steps — running a real hand-off end to end — hasn't
+happened yet.
