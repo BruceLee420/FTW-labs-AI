@@ -1,0 +1,28 @@
+name = "ftw-studio-drop"
+main = "src/index.ts"
+compatibility_date = "2026-08-01"
+
+# Serve from the site's own domain so Cloudflare Access can protect the
+# hostname and the dashboard can call it with cookies attached.
+routes = [
+  { pattern = "ftwlabs.ai/api/studio/*", zone_name = "ftwlabs.ai" }
+]
+
+# R2 binding — this is what removes the need for any S3 access key.
+[[r2_buckets]]
+binding = "DROPS"
+bucket_name = "ftw-studio-drops"
+
+[vars]
+ALLOWED_ORIGIN = "https://ftwlabs.ai"
+# Set these to your Zero Trust values (see docs/STUDIO_DROP.md).
+# ACCESS_TEAM_DOMAIN = "yourteam.cloudflareaccess.com"
+# ACCESS_AUD = "<application audience tag>"
+
+# Abuse dampening on top of Access. `period` accepts only 10 or 60.
+# Note: the limit is per Cloudflare location, not global, and is documented as
+# eventually consistent — treat it as a speed bump, not a quota.
+[[ratelimits]]
+name = "UPLOAD_LIMITER"
+namespace_id = "2001"
+simple = { limit = 20, period = 60 }
