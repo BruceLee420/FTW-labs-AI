@@ -13,8 +13,24 @@ routes = [
 binding = "DROPS"
 bucket_name = "ftw-studio-drops"
 
+[[d1_databases]]
+binding = "DB"
+database_name = "ftw-studio-queue"
+# database_id = "<from: wrangler d1 create ftw-studio-queue>"
+
+# Drives auto-deploy. Every 5 minutes is granular enough for a 2-hour window
+# without burning invocations.
+[triggers]
+crons = ["*/5 * * * *"]
+
 [vars]
 ALLOWED_ORIGIN = "https://ftwlabs.ai"
+# Grace window before a queued piece publishes itself.
+PUBLISH_WINDOW_MINUTES = "120"
+# Master switch for the cron's publish step. Must be exactly "true".
+# Left off until the storefront adapter is genuinely wired and tested —
+# see queue.ts:publishToStore.
+PUBLISH_ENABLED = "false"
 # Set these to your Zero Trust values (see docs/STUDIO_DROP.md).
 # ACCESS_TEAM_DOMAIN = "yourteam.cloudflareaccess.com"
 # ACCESS_AUD = "<application audience tag>"

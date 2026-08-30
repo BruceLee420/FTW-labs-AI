@@ -3,8 +3,9 @@
 The drop box: sign in, drag today's art in, pick Sketch / WIP / Final, walk
 away. Storage is Cloudflare R2; the front door is Cloudflare Access.
 
-**Nothing publishes on its own.** Only a piece explicitly marked **Final**
-enters the review queue, and the queue still waits for you.
+**Only a piece explicitly marked Final ever publishes.** It gets a grace
+window in the review queue first — edit it and the clock restarts; leave it
+and it ships itself. See Auto-deploy below.
 
 ---
 
@@ -42,7 +43,7 @@ worth it for this.
 | Stored XSS — hostile file served as active content from your domain | Bucket stays **private**. Reads go through the Worker with a forced `Content-Type` from the allowlist, `nosniff`, and a locked-down CSP. A `.html` disguised as an image can never execute. |
 | Content-type spoofing | Type is confirmed against the file's **magic bytes**, and the stored type comes from the server allowlist — the client's claim is advisory only |
 | Info leak via errors | Client gets a generic message; the detail goes to the Worker log |
-| Accidental publish | Stage defaults to **Sketch**. Only an explicit Final, behind a confirmation code, is publish-eligible. |
+| Accidental publish | Stage defaults to **Sketch**; only an explicit Final, behind a confirmation code, is publish-eligible. Final then auto-publishes after the grace window — the hold conditions below are what stop a bad one. |
 
 ### The confirmation code is not authentication
 
@@ -154,11 +155,59 @@ half-coloured drawing is indistinguishable from a finished one to a model.
 - The confirmation code is not a secret and doesn't need rotating; it isn't
   protecting anything.
 
+## Auto-deploy
+
+A piece marked **Final** enters the review queue with a grace window
+(`PUBLISH_WINDOW_MINUTES`, default **120**). Leave it alone and it publishes
+itself. Edit it and the clock restarts. Edit it *after* it's live and it
+re-publishes in place rather than creating a duplicate.
+
+The countdown runs in a **Cloudflare Cron Trigger**, every 5 minutes — not in
+the browser. A timer that only ticks in an open tab stops exactly when you're
+away, which is the whole scenario this exists for.
+
+### Hold conditions override the timer
+
+Auto-deploy is for the ordinary case. Any of these pins a piece to `held`
+until you deal with it, no matter how long the clock has run:
+
+- Margin below your floor (default 21%) — the reason pricing is automated at
+  all is to never ship at a loss
+- Missing or implausibly short title / description
+- No price set
+- Stage isn't Final
+
+Holds are re-evaluated **at fire time**, not just when queued — a stale "safe"
+verdict is how a bad listing slips out.
+
+### Setup
+
+```bash
+npx wrangler d1 create ftw-studio-queue     # paste database_id into wrangler.toml
+npx wrangler d1 execute ftw-studio-queue --file=./schema.sql --remote
+```
+
+`PUBLISH_ENABLED` must be exactly `"true"` for the cron to publish anything.
+It ships **off**.
+
+## Known blocker — storefront publishing
+
+`queue.ts:publishToStore` is a stub, and `PUBLISH_ENABLED` is `false`.
+
+The connected Shopify store currently returns `operation_not_allowed` —
+*"This shop is unavailable for API access. The merchant may need to resolve a
+billing issue or upgrade their plan."* With the store unreachable there's no
+way to observe a real `productCreate` request/response, and shipping a guessed
+mutation would mean the first live run is also the first test.
+
+Everything upstream is real and working: drop, queue, edits, holds, timer,
+re-publish. To finish: restore store API access → read the `ProductInput`
+schema → verify against a draft product → implement `publishToStore` → set
+`PUBLISH_ENABLED = "true"`.
+
 ## Not built yet
 
-- The review queue itself (drafted copy + pricing awaiting approval)
 - Variant generation and rating
 - Signature/watermarking as a pipeline step
-
-Deliberately deferred — see the scope discussion. The drop path is the part
-that has to be frictionless and safe first.
+- Drafting the copy itself (the queue accepts and edits it; generation is
+  still to come)

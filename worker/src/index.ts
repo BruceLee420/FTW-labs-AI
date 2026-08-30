@@ -33,9 +33,24 @@
  */
 
 import { createRemoteJWKSet, jwtVerify } from "jose";
+import {
+  applyEdit,
+  cancel,
+  DEFAULT_WINDOW_MINUTES,
+  enqueue,
+  getRow,
+  listQueue,
+  runAutoDeploy,
+  setPaused,
+} from "./queue";
 
 export interface Env {
   DROPS: R2Bucket;
+  DB: D1Database;
+  /** Must be exactly "true" for the cron to publish anything. */
+  PUBLISH_ENABLED?: string;
+  /** Grace window in minutes before a queued piece auto-publishes. */
+  PUBLISH_WINDOW_MINUTES?: string;
   /** Zero Trust team domain, e.g. "ftwlabs.cloudflareaccess.com". */
   ACCESS_TEAM_DOMAIN: string;
   /** Access application AUD tag. */
@@ -198,10 +213,79 @@ async function handleUpload(request: Request, env: Env, identity: { email: strin
 
   console.log(`[drop] stored ${key} (${total} bytes, ${stage}) by ${identity.email}`);
 
+  // Only a Final enters the queue. Sketches and WIPs are stored and nothing
+  // more — the safe default is that nothing is ever queued by accident.
+  let queueId: string | null = null;
+  if (stage === "final") {
+    const windowMinutes = Number(env.PUBLISH_WINDOW_MINUTES) || DEFAULT_WINDOW_MINUTES;
+    queueId = await enqueue(env.DB, { r2Key: key, stage, windowMinutes }, identity.email);
+  }
+
   return new Response(
-    JSON.stringify({ key, stage, bytes: total, contentType: actual, url: `/f/${encodeURIComponent(key)}` }),
+    JSON.stringify({
+      key,
+      stage,
+      bytes: total,
+      contentType: actual,
+      url: `/f/${encodeURIComponent(key)}`,
+      queueId,
+    }),
     { status: 201, headers: cors(env, { "Content-Type": "application/json" }) },
   );
+}
+
+/** Queue routes: list, edit (pre- and post-publish), pause, cancel. */
+async function handleQueue(
+  request: Request,
+  env: Env,
+  identity: { email: string },
+  path: string,
+): Promise<Response | null> {
+  const windowMinutes = Number(env.PUBLISH_WINDOW_MINUTES) || DEFAULT_WINDOW_MINUTES;
+
+  if (path === "/queue" && request.method === "GET") {
+    const rows = await listQueue(env.DB);
+    return new Response(
+      JSON.stringify({
+        items: rows,
+        windowMinutes,
+        publishEnabled: env.PUBLISH_ENABLED === "true",
+        serverTime: Math.floor(Date.now() / 1000),
+      }),
+      { headers: cors(env, { "Content-Type": "application/json" }) },
+    );
+  }
+
+  const match = path.match(/^\/queue\/([a-z0-9-]+)(\/[a-z]+)?$/i);
+  if (!match) return null;
+  const [, id, action] = match;
+
+  if (request.method === "PATCH" && !action) {
+    const body = (await request.json()) as Record<string, unknown>;
+    const patch: Record<string, unknown> = {};
+    if (typeof body.title === "string") patch.title = body.title.slice(0, 300);
+    if (typeof body.description === "string") patch.description = body.description.slice(0, 5000);
+    if (typeof body.tags === "string") patch.tags = body.tags.slice(0, 500);
+    if (typeof body.price_cents === "number" && Number.isFinite(body.price_cents)) {
+      patch.price_cents = Math.max(0, Math.round(body.price_cents));
+    }
+    const updated = await applyEdit(env.DB, id, patch, { windowMinutes }, identity.email);
+    if (!updated) return fail(env, 404, "No such queue item.");
+    return new Response(JSON.stringify(updated), { headers: cors(env, { "Content-Type": "application/json" }) });
+  }
+
+  if (request.method === "POST" && (action === "/pause" || action === "/resume")) {
+    await setPaused(env.DB, id, action === "/pause", identity.email);
+    const row = await getRow(env.DB, id);
+    return new Response(JSON.stringify(row), { headers: cors(env, { "Content-Type": "application/json" }) });
+  }
+
+  if (request.method === "POST" && action === "/cancel") {
+    await cancel(env.DB, id, identity.email);
+    return new Response(JSON.stringify({ ok: true }), { headers: cors(env, { "Content-Type": "application/json" }) });
+  }
+
+  return null;
 }
 
 /**
@@ -256,6 +340,11 @@ export default {
       return handleFetchFile(decodeURIComponent(url.pathname.slice(3)), env);
     }
 
+    if (url.pathname.startsWith("/queue")) {
+      const handled = await handleQueue(request, env, identity, url.pathname);
+      if (handled) return handled;
+    }
+
     if (url.pathname === "/whoami" && request.method === "GET") {
       return new Response(JSON.stringify({ email: identity.email }), {
         headers: cors(env, { "Content-Type": "application/json" }),
@@ -263,5 +352,18 @@ export default {
     }
 
     return fail(env, 404, "No such endpoint.");
+  },
+
+  /**
+   * Cron entry point — this is what makes auto-deploy real. The countdown has
+   * to live server-side; a timer running in the browser stops the moment the
+   * tab closes, which is precisely when you're off living your life.
+   */
+  async scheduled(_event: ScheduledController, env: Env, ctx: ExecutionContext): Promise<void> {
+    ctx.waitUntil(
+      runAutoDeploy(env.DB, env).catch((err) => {
+        console.error("[drop] auto-deploy run failed:", err);
+      }),
+    );
   },
 };
