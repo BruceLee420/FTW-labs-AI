@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T17:01:54.722Z",
+  "generatedAt": "2026-08-30T19:58:52.656Z",
   "sources": [
     {
       "id": "google_trends_rss:US",
@@ -56,120 +56,60 @@
   },
   "trends": [
     {
-      "title": "prince harry, duke of sussex",
+      "title": "jaydon blue",
       "traffic": 2000,
       "trafficLabel": "2000+",
-      "pubDate": "Sun, 30 Aug 2026 09:20:00 -0700",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
       "geo": "US",
       "newsItems": [
         {
-          "title": "Harry and Meghan are ghastly and back in Britain. Good",
-          "url": "https://www.economist.com/britain/2026/08/27/harry-and-meghan-are-ghastly-and-back-in-britain-good",
-          "source": "The Economist"
+          "title": "Cowboys to waive 2025 fifth-rounder Jaydon Blue",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-to-waive-2025-fifth-rounder-jaydon-blue",
+          "source": "NBC Sports"
         },
         {
-          "title": "Prince Harry and Meghan land in UK days after announcing move",
-          "url": "https://www.bbc.com/news/articles/czrzm6p6zxeo",
-          "source": "BBC"
+          "title": "Cowboys Cutting RB Jaydon Blue",
+          "url": "https://nfltraderumors.co/cowboys-cutting-rb-jaydon-blue/",
+          "source": "NFLTradeRumors.co"
         },
         {
-          "title": "Meghan’s next role? Managing the school run",
-          "url": "https://www.telegraph.co.uk/royal-family/2026/08/26/meghans-next-role-managing-the-school-run/",
-          "source": "The Telegraph"
-        }
-      ],
-      "trademarkRisk": "low",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "yankuba minteh",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Liverpool have ‘reactivated talks’ to sign £80m winger to replace Cody Gakpo",
-          "url": "https://www.football365.com/news/liverpool-yankuba-minteh-brighton",
-          "source": "Football365"
-        },
-        {
-          "title": "Brighton and Hove Albion boss looks for commitment from Minteh",
-          "url": "https://www.brightonandhovenews.org/2026/08/29/brighton-and-hove-albion-boss-looks-for-commitment-from-minteh/",
-          "source": "Brighton and Hove News"
-        },
-        {
-          "title": "What is going on with Yankuba Minteh? - Liverpool transfer latest and injury update",
-          "url": "https://www.sussexexpress.co.uk/sport/football/brighton-and-hove-albion/what-is-going-on-with-yankuba-minteh-liverpool-transfer-latest-and-injury-update-8945202",
-          "source": "SussexWorld"
+          "title": "Cowboys Make Unexpected Decision on Jaydon Blue Amid 53-Man Roster Cuts",
+          "url": "https://www.si.com/nfl/cowboys/onsi/cowboys-decision-jaydon-blue-53-man-roster-cuts",
+          "source": "Sports Illustrated"
         }
       ],
       "trademarkRisk": "medium",
       "podRelevance": 0.25,
       "printable": false,
       "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+        "Contains \"cowboys\" — commonly a protected mark or event name."
       ]
     },
     {
-      "title": "man united vs ipswich town",
+      "title": "wnba games today",
       "traffic": 2000,
       "trafficLabel": "2000+",
-      "pubDate": "Sun, 30 Aug 2026 07:40:00 -0700",
-      "geo": "AU",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "European soccer live updates: Rashford starts as Man United host Ipswich",
-          "url": "https://www.espn.com.au/football/story/_/id/49735720/european-soccer-live-updates-marcus-rashford-starts-manchester-united-host-ipswich-town",
-          "source": "ESPN"
+          "title": "Valkyries vs Fire Prediction, Picks & Odds for Tonight’s WNBA Game",
+          "url": "https://www.covers.com/wnba/valkyries-vs-fire-prediction-picks-best-bets-parlay-sunday-8-30-2026",
+          "source": "Covers.com"
         },
         {
-          "title": "Man United vs Ipswich Town LIVE: Latest updates as Rashford starts for hosts",
-          "url": "https://www.espn.com.au/football/story/_/id/49772198/man-united-vs-ipswich-town-live-latest-updates-old-trafford",
-          "source": "ESPN"
+          "title": "Golden State Valkyries visit Portland Fire. Here's how to watch",
+          "url": "https://www.cbsnews.com/sanfrancisco/news/golden-state-valkyries-visit-portland-fire-heres-how-to-watch/",
+          "source": "CBS News"
         },
         {
-          "title": "Manchester United v Ipswich: Michael Carrick press conference",
-          "url": "https://www.news.com.au/sport/manchester-united-v-ipswich-michael-carrick-press-conference/video/78546f6b12184666a2541bdf5092f4c2",
-          "source": "News.com.au"
+          "title": "How to watch Valkyries vs. Fire: TV channel and streaming options for August 30",
+          "url": "https://www.nytimes.com/athletic/7550190/2026/08/30/how-to-watch-valkyries-vs-fire-tv-channel-and-streaming-options-for-august-30/",
+          "source": "The New York Times"
         }
       ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "real madrid vs málaga",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Sun, 30 Aug 2026 07:10:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Real Madrid vs Málaga: Spanish La Liga stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cmvgyx9y35n8t",
-          "source": "BBC"
-        },
-        {
-          "title": "José Mourinho: Kylian Mbappé and Vinícius Júnior have \"super quality,\" muses on Mbappé Balllon d'Or chances",
-          "url": "https://www.espn.com.au/football/story/_/id/49761250/real-madrid-jose-mourinho-kylian-mbappe-vinicius-junior-la-liga",
-          "source": "ESPN"
-        },
-        {
-          "title": "Mourinho’s Real Madrid train ahead of Malaga home game in La Liga",
-          "url": "https://www.news.com.au/sport/mourinhos-real-madrid-train-ahead-of-malaga-home-game-in-la-liga/video/173016de98b578a897a803dae13f99d6",
-          "source": "News.com.au"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
       "printable": false,
       "reasons": [
         "Contains \"vs\" — commonly a protected mark or event name.",
@@ -177,236 +117,56 @@
       ]
     },
     {
-      "title": "laliga",
+      "title": "dewanna bonner",
       "traffic": 1000,
       "trafficLabel": "1000+",
-      "pubDate": "Sun, 30 Aug 2026 09:00:00 -0700",
-      "geo": "CA",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "Cucurella, Brahim start in a 4-2-3-1: How Real Madrid can line up against Malaga",
-          "url": "https://ca.sports.yahoo.com/news/cucurella-brahim-start-4-2-191500535.html",
-          "source": "Yahoo Sports Canada"
-        },
-        {
-          "title": "R. Madrid - Málaga live",
-          "url": "https://www.marca.com/en/soccer/laliga-ea-sports/r-madrid-malaga/2026/08/30/01_0101_20260830_186_182-live.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "Real Madrid - Málaga, en directo: partido de LaLiga EA Sports hoy, última hora en vivo",
-          "url": "https://as.com/futbol/primera/real-madrid-malaga-hoy-en-directo-ultima-hora-de-laliga-ea-sports-en-vivo-f202608-d/",
-          "source": "Diario AS"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "man utd",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Sun, 30 Aug 2026 08:30:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Liverpool captain Virgil van Dijk urges club to keep a hold of Cody Gakpo",
-          "url": "https://www.espn.com.au/football/story/_/id/49771534/liverpool-cody-gakpo-man-city-premier-league-transfers-virgil-van-dijk",
+          "title": "Sources: DeWanna Bonner signing with Dream after Mercury buyout",
+          "url": "https://www.espn.com/wnba/story/_/id/49735947/sources-dewanna-bonner-signing-dream-mercury-buyout",
           "source": "ESPN"
         },
         {
-          "title": "Cody Gakpo: Man City close in on £85m-rated Liverpool winger",
-          "url": "https://www.thetimes.com/sport/football/article/bradley-barcola-to-have-liverpool-medical-qwxxpgbr3",
-          "source": "The Times"
+          "title": "Atlanta Dream Signs Two-Time WNBA Champion DeWanna Bonner",
+          "url": "https://www.wnba.com/news/atlanta-dream-sign-dewanna-bonner",
+          "source": "WNBA"
         },
         {
-          "title": "Liverpool star opts to join Manchester City in $160million blockbuster, United offered striker: EPL transfer latest",
-          "url": "https://football360.com.au/cody-gakpo-man-city-liverpool-alvarez-atletico-madrid-man-utd-transfer-news/",
-          "source": "football360.com.au"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"united\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "pickleball",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Sun, 30 Aug 2026 09:40:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Indoor pickleball facility opens in Milpitas",
-          "url": "https://www.mercurynews.com/2026/08/30/indoor-pickleball-facility-opens-in-milpitas/",
-          "source": "The Mercury News"
-        },
-        {
-          "title": "Pickleball is the star of the sports comedy 'The Dink'",
-          "url": "https://www.fredericknewspost.com/news/arts_and_entertainment/pickleball-is-the-star-of-the-sports-comedy-the-dink/article_6db9ddad-627d-5892-94d3-ee1882a2a7a7.html",
-          "source": "The Frederick News-Post"
-        },
-        {
-          "title": "REVIEW: ‘The Dink’ Plays A Familiar Formula Straight Down The Middle",
-          "url": "https://butwhytho.net/2026/08/the-dink-review-jake-johnson-apple-tv/",
-          "source": "But Why Tho?"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "wisconsin volleyball",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "What channel is Wisconsin volleyball on tonight? TV, streaming, time",
-          "url": "https://www.jsonline.com/story/sports/college/uw/2026/08/28/watch-wisconsin-volleyball-vs-stanford-pittsburgh/91484378007/",
-          "source": "Milwaukee Journal Sentinel"
-        },
-        {
-          "title": "Season Starts at Opening Spike Classic",
-          "url": "https://gostanford.com/news/2026/08/26/season-starts-at-opening-spike-classic",
-          "source": "Stanford Cardinal"
-        },
-        {
-          "title": "No. 6 Badgers drop four-set battle to No. 5 Stanford",
-          "url": "https://uwbadgers.com/news/2026/8/28/volleyball-no-6-badgers-drop-four-set-battle-to-no-5-stanford",
-          "source": "Wisconsin Badgers"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"season\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "napoli",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "LIVE Alle 18.30 Napoli-Como, le ufficiali: Allegri con Lang, Fabregas sceglie Baturina",
-          "url": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/30-08-2026/napoli-como-live-risultato-e-gol-in-diretta-serie-a.shtml",
-          "source": "La Gazzetta dello Sport"
-        },
-        {
-          "title": "Napoli-Como, le formazioni ufficiali: Lang titolare",
-          "url": "https://www.fantacalcio.it/news/calcio-italia/30_08_2026/napoli-como-formazioni-ufficiali-497191",
-          "source": "Fantacalcio"
-        },
-        {
-          "title": "Napoli, Allegri loda il Como e spiega le scelte: \"Visto bene sia Lang che Olivera, il Como palleggia benissimo\"",
-          "url": "https://www.sportmediaset.mediaset.it/calcio/napoli-allegri-loda-il-como-e-spiega-le-scelte-visto-bene-sia-lang-che-olivera-il-como-palleggia-benissimo_116033585-202602k.shtml",
-          "source": "Sportmediaset"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "scotty miller",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Sean Tucker, Bucs agree to one-year contract",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-30/sean-tucker-bucs-agree-to-one-year-contract",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "Bears To Release WR Scotty Miller",
-          "url": "https://www.profootballrumors.com/2026/08/bears-to-release-wr-scotty-miller",
-          "source": "NFL Rumors - ProFootballRumors.com"
-        },
-        {
-          "title": "Bears release veteran receiver who earned roster spot after tryout",
-          "url": "https://sports.yahoo.com/articles/bears-release-veteran-receiver-earned-162119952.html",
-          "source": "Yahoo Sports"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "taylor harwood-bellis",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Sun, 30 Aug 2026 09:40:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Aston Villa finalising Taylor Harwood-Bellis transfer agreement with Southampton - The Athletic",
-          "url": "https://www.nytimes.com/athletic/7515323/2026/08/30/taylor-harwood-bellis-aston-villa-transfer-southampton/",
+          "title": "Mercury buy out DeWanna Bonner’s contract, freeing 6-time All-Star to pursue title run",
+          "url": "https://www.nytimes.com/athletic/7536107/2026/08/24/dewanna-bonner-mercury-contract-buyout-wnba/",
           "source": "The New York Times"
-        },
-        {
-          "title": "Aston Villa learn asking price to land 24-year-old ace after failed £18m bid",
-          "url": "https://www.livescore.com/en/news/football/premier-league/aston-villa-learn-asking-price-to-land-24-year-old-ace-after-failed-18m-bid-caughtoffside/",
-          "source": "LiveScore"
-        },
-        {
-          "title": "Wants to Join: Aston Villa in Talks to Sign Another Star Alongside Jackson and Leao",
-          "url": "https://www.givemesport.com/aston-villa-in-taylor-harwood-bellis-transfer-talks/",
-          "source": "GiveMeSport"
         }
       ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
+      "trademarkRisk": "high",
+      "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Coverage from espn.com — league/studio/label IP very likely.",
         "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     },
     {
-      "title": "mbeumo",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
+      "title": "toby samuel",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
       "geo": "GB",
       "newsItems": [
         {
-          "title": "What Bryan Mbeumo did against Hull City should worry Ipswich Town",
-          "url": "https://thepeoplesperson.com/2026/08/29/what-bryan-mbeumo-did-against-hull-city-should-worry-ipswich-town-314693/",
-          "source": "The Peoples Person"
+          "title": "US Open: Pegula in action before four Britons feature on day one - listen",
+          "url": "https://www.bbc.co.uk/sport/tennis/live/cx2jee375rwt",
+          "source": "BBC"
         },
         {
-          "title": "Man Utd vs Ipswich LIVE! Premier League score updates, news, prediction, lineups and how to watch or stream",
-          "url": "https://www.skysports.com/football/live-blog/11661/13567665/man-utd-vs-ipswich-live-premier-league-score-updates-news-prediction-lineups-and-how-to-watch-or-stream",
+          "title": "US Open LIVE! Scores, updates, news, commentary and results from Flushing Meadows, New York",
+          "url": "https://www.skysports.com/tennis/live-blog/12110/13578915/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york",
           "source": "Sky Sports"
         },
         {
-          "title": "Manchester United v Ipswich Town: Premier League – live",
-          "url": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
+          "title": "US Open tennis 2026: Pegula, Norrie and Medvedev in action on day one – live",
+          "url": "https://www.theguardian.com/sport/live/2026/aug/30/us-open-tennis-2026-pegula-norrie-and-medvedev-in-action-on-day-one-live",
           "source": "The Guardian"
         }
       ],
@@ -419,147 +179,26 @@
       ]
     },
     {
-      "title": "india vs thailand",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Sun, 30 Aug 2026 07:30:00 -0700",
-      "geo": "AU",
+      "title": "the pastors wife",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "GB",
       "newsItems": [
         {
-          "title": "Muzumdar: 'India hungry to win some tournaments'",
-          "url": "https://www.espn.com.au/cricket/story/_/id/49763820/amol-muzumdar-says-india-hungry-win-some-tournaments",
-          "source": "ESPN"
+          "title": "The Heartbreaking True Story of Mica Miller and Netflix's 'Death of the Pastor's Wife'",
+          "url": "https://time.com/article/2026/08/21/mica-miller-death-of-pastors-wife-true-story/",
+          "source": "Time Magazine"
         },
         {
-          "title": "Asia Cup and Asian Games in sight as India look to dominate",
-          "url": "https://www.icc-cricket.com/news/asia-cup-and-asian-games",
-          "source": "ICC"
+          "title": "Who Is John-Paul Miller’s New Wife, Suzie Skinner? What to Know About Their Marriage Following Mica Miller’s Death",
+          "url": "https://people.com/who-is-john-paul-miller-wife-suzie-skinner-12069805",
+          "source": "People.com"
         },
         {
-          "title": "India vs Thailand Women Live Score, Women's Asia Cup 2026: India strike again! Nandni Sharma removes Phannita Maya for 6",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-women-vs-thailand-women-asia-cup-2026-live-score-ind-w-vs-tha-w-cricket-match-today-scorecard-when-and-where-to-watch-records-news-harmanpreet-kaur-naruemol-chaiwai/liveblog/133629918.cms",
-          "source": "The Times of India"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name.",
-        "Reads as news/current affairs (\"strike\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "pl",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Sun, 30 Aug 2026 06:50:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Burza po meczu Polska - Niemcy. \"Skandaliczne decyzje\"",
-          "url": "https://sportowefakty.wp.pl/koszykowka/1271048/burza-po-meczu-polska-niemcy-skandaliczne-decyzje",
-          "source": "SportoweFakty"
-        },
-        {
-          "title": "Polacy dopadli mistrzów świata. Co za thriller. Zdecydowało ostatnie 9 sekund",
-          "url": "https://przegladsportowy.onet.pl/koszykowka/reprezentacja-polski/polacy-dopadli-mistrzow-swiata-co-za-thriller-zdecydowalo-ostatnie-9-sekund/j91pyvv",
-          "source": "Przegląd Sportowy"
-        },
-        {
-          "title": "Co za mecz Polaków z mistrzami świata! Dogrywka zadecydowała",
-          "url": "https://www.sport.pl/koszykowka/7,65040,32994425,polacy-postraszyli-mistrzow-swiata-alez-mecz-w-gdansku.html",
-          "source": "Sport.pl"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "harry maguire",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:40:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Bruno Fernandes reveals conversation with Harry Maguire after taking Man United captaincy",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-fernandes-maguire-captain-34538306",
-          "source": "Manchester Evening News"
-        },
-        {
-          "title": "Bruno Fernandes reveals 'awkward' Man Utd situation after replacing Harry Maguire as captain",
-          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-bruno-fernandes-maguire-37606189",
-          "source": "The Mirror"
-        },
-        {
-          "title": "Bruno Fernandes speaks on \"awkward\" moment he replaced Maguire as Man Utd's captain",
-          "url": "https://www.tribalfootball.com/article/soccer-champions-league-bruno-fernandes-speaks-on-awkward-moment-he-replaced-maguire-as-man-utd-s-captain-8a3020f1-02ca-4649-9168-cf3e11ab49fc",
-          "source": "TribalFootball"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"united\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "deportivo - valencia c. f.",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:40:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Real Club Deportivo de A Coruña vs Valencia CF Live Stream: How to Watch La Liga",
-          "url": "https://www.fubo.tv/news/soccer/la-liga/real-club-deportivo-de-a-coruna-vs-valencia-cf-live-stream-how-to-watch-la-liga/",
-          "source": "Fubo"
-        },
-        {
-          "title": "PREVIEW | Deportivo vs Valencia CF: team news, lineups, predictions (La Liga 30/08)",
-          "url": "https://sports.yahoo.com/articles/preview-deportivo-vs-valencia-cf-173500079.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Deportivo v Valencia Odds",
-          "url": "https://sportsbook.fanduel.com/soccer/spanish-la-liga/deportivo-v-valencia-35965477",
-          "source": "FanDuel Sportsbook"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "spencer pratt",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:40:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "'Killing Your Kids...': Spencer Pratt Delivers Brutal Verdict On Lindsay Clancy Case",
-          "url": "https://timesofindia.indiatimes.com/videos/international/killing-your-kids-spencer-pratt-delivers-brutal-verdict-on-lindsay-clancy-case/videoshow/133627855.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Spencer Pratt Slams the ‘Mass Psychosis’ Surrounding Lindsay Clancy",
-          "url": "https://www.aol.com/articles/spencer-pratt-slams-mass-psychosis-181439000.html",
-          "source": "AOL.com"
-        },
-        {
-          "title": "TikTok Nixes Video That Challenges Popular Narrative Around Lindsay Clancy",
-          "url": "https://www.dailywire.com/news/tiktok-nixes-video-that-challenges-popular-narrative-around-lindsay-clancy",
-          "source": "The Daily Wire"
+          "title": "How the Lindsay Clancy and Gabby Petito Cases Unlock Mica Miller Documentary Death of the Pastor’s Wife",
+          "url": "https://www.vanityfair.com/story/death-of-the-pastors-wife-mica-miller-netflix-documentary-interview",
+          "source": "Vanity Fair"
         }
       ],
       "trademarkRisk": "medium",
@@ -567,431 +206,242 @@
       "printable": false,
       "reasons": [
         "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Reads as news/current affairs (\"verdict\") rather than an aesthetic."
+        "Reads as news/current affairs (\"death\") rather than an aesthetic."
       ]
     },
     {
-      "title": "mlp pickleball",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "US",
+      "title": "baltimore orioles",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "CA",
       "newsItems": [
         {
-          "title": "MLP Finals Day 2 Recap: Anna Leigh Waters in a Dreambreaker",
-          "url": "https://www.thedinkpickleball.com/mlp-finals-day-2-recap-anna-leigh-waters-in-a-dreambreaker/",
-          "source": "The Dink Pickleball"
+          "title": "Baltimore Orioles @ Athletics Odds",
+          "url": "https://sportsbook.fanduel.com/baseball/mlb/baltimore-orioles-@-athletics-35997388",
+          "source": "FanDuel Sportsbook"
         },
         {
-          "title": "Pickleball championship in Central Park",
-          "url": "https://www.nbcnewyork.com/video/on-air/as-seen-on/pickleball-championship-in-central-park/6541680/",
-          "source": "NBC New York"
+          "title": "Jack Perkins strikes out five in loss to Orioles",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/jack-perkins-strikes-out-five-in-loss-to-orioles",
+          "source": "NBC Sports"
         },
         {
-          "title": "Major League Pickleball Finals Live Stream of Pickleball",
-          "url": "https://www.cbssports.com/watch/pickleball/LET-211534157",
-          "source": "CBS Sports"
+          "title": "Random Orioles thoughts and observations before today’s final game in Sacramento",
+          "url": "https://www.masnsports.com/blog/entry/random-orioles-thoughts-and-observations-before-todays-final-game-in-sacramento/",
+          "source": "MASN"
         }
       ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
+      "trademarkRisk": "high",
+      "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+        "Coverage from masnsports.com — league/studio/label IP very likely."
       ]
     },
     {
-      "title": "washington spirit",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
+      "title": "vladimir guerrero jr blue jays",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Can Blue Jays be encouraged in what they are seeing from Guerrero Jr.?",
+          "url": "https://www.sportsnet.ca/mlb/video/can-blue-jays-be-encouraged-from-what-they-are-seeing-from-guerrero-jr/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Blue Jays Announce Vladimir Guerrero Jr. News During Mariners Series",
+          "url": "https://sports.yahoo.com/articles/blue-jays-announce-vladimir-guerrero-175807965.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Here's why John Schneider won't drop Guerrero in the lineup",
+          "url": "https://www.mlb.com/news/vladimir-guerrero-jr-spot-in-lineup-debate",
+          "source": "MLB.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from mlb.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "pga leaderboard",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Tour Championship - final round LIVE! Latest updates, highlights as Scottie Scheffler, Rory McIlroy chase Viktor Hovland",
+          "url": "https://www.skysports.com/golf/live-blog/12176/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "2026 Tour Championship purse: Payout info, winner’s share",
+          "url": "https://golf.com/news/2026-tour-championship-purse-payout-winners-share/",
+          "source": "GOLF.com"
+        },
+        {
+          "title": "Young surges, McIlroy slumps on second day of PGA Tour Championship",
+          "url": "https://www.tsn.ca/golf/video/2026/08/28/young-surges-mcillroy-slumps-on-second-day-of-pga-tour-championship/",
+          "source": "TSN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "new england vs columbus",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 12:40:00 -0700",
       "geo": "US",
       "newsItems": [
         {
-          "title": "KNOW BEFORE YOU GO: Hello Kitty® Day vs Bay FC",
-          "url": "https://washingtonspirit.com/blog/2026/08/28/know-before-you-go-hello-kitty-day-vs-bay-fc/",
-          "source": "Washington Spirit"
+          "title": "MATCH GUIDE | Crew vs. New England",
+          "url": "https://www.columbuscrew.com/news/match-guide-crew-vs-new-england",
+          "source": "Columbus Crew"
         },
         {
-          "title": "Licensable picture: NWSL: Bay FC at Washington Spirit",
-          "url": "https://www.reutersconnect.com/item/nwsl-bay-fc-at-washington-spirit/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk2OTc0MjA",
-          "source": "Reuters Connect"
+          "title": "Revolution game this weekend moved from Saturday to Sunday",
+          "url": "https://www.boston.com/sports/new-england-revolution/2026/08/27/revolution-game-this-weekend-moved-from-saturday-to-sunday/",
+          "source": "Boston.com"
         },
         {
-          "title": "Adrián González believes results will turn for the Washington Spirit",
-          "url": "https://www.vavel.com/en/football/2026/08/30/womens-football/1269631-adrian-gonzalez-believes-results-will-turn-for-the-spirit.html",
-          "source": "VAVEL.com"
+          "title": "Preview | Revs kick off four-game road swing with Sunday afternoon showdown in Columbus",
+          "url": "https://www.revolutionsoccer.net/news/preview-revs-kick-off-road-swing-with-sunday-afternoon-showdown-in-columbus",
+          "source": "revolutionsoccer.net"
         }
       ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
+      "trademarkRisk": "high",
+      "podRelevance": 0,
       "printable": false,
       "reasons": [
         "Contains \"vs\" — commonly a protected mark or event name."
       ]
     },
     {
-      "title": "napoli fc",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:40:00 -0700",
-      "geo": "GB",
+      "title": "sting",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 12:40:00 -0700",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "Napoli vs Como: Italian Serie A stats & head-to-head",
-          "url": "https://www.bbc.co.uk/sport/football/live/cqgmrg9r7vxvt",
-          "source": "BBC"
+          "title": "3 men arrested in Connecticut operation targeting exploitation of minors: Police",
+          "url": "https://www.ctinsider.com/news/article/north-haven-child-exploitation-operation-arrests-22410026.php",
+          "source": "CT Insider"
         },
         {
-          "title": "Sunday’s Serie A betting tips: Expert predictions from Italy’s top flight",
-          "url": "https://mrfixitstips.co.uk/sunday-serie-a-predictions-30-08-2026/",
-          "source": "MrFixitsTips"
+          "title": "West Haven Man Arrested In Child Predator Sting Operation: North Haven Police",
+          "url": "https://patch.com/connecticut/westhaven/west-haven-man-arrested-child-predator-sting-operation-north-haven-police",
+          "source": "Patch"
         },
         {
-          "title": "Allegri: \"We must be patient and smart against Como\"",
-          "url": "https://sscnapoli.it/en/allegri-unemozione-debuttare-al-maradona-contro-il-como-dovremo-giocare-con-pazienza-e-intelligenza/",
-          "source": "SSC Napoli"
+          "title": "3 Arrested In Child Predator Sting Operation: North Haven Police",
+          "url": "https://patch.com/connecticut/northhaven/3-arrested-child-predator-sting-operation-north-haven-police",
+          "source": "Patch"
         }
       ],
       "trademarkRisk": "medium",
       "podRelevance": 0.1,
       "printable": false,
       "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"arrested\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "rhyne howard",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Choose your hero: Who's the biggest star?",
+          "url": "https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/news/choose-your-hero-whos-the-biggest-star-heading-to-the-womens-world-cup",
+          "source": "FIBA"
+        },
+        {
+          "title": "Rhyne Howard Ready to Add to Her National Team Resume in Berlin",
+          "url": "https://www.usab.com/news/2026/08/rhyne-howard-ready-to-add-to-her-national-team-resume-in-berlin",
+          "source": "USA Basketball"
+        },
+        {
+          "title": "Team USA women ready to make noise at FIBA World Cup",
+          "url": "https://www.yahoo.com/news/slideshows/team-usa-women-ready-noise-185741373.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"world cup\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "tony jefferson",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Chargers cut veteran safety Tony Jefferson",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-cut-veteran-safety-tony-jefferson",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Chargers Cut S Tony Jefferson",
+          "url": "https://nfltraderumors.co/chargers-cut-s-tony-jefferson/",
+          "source": "NFLTradeRumors.co"
+        },
+        {
+          "title": "Chargers roster news: LA releases fan-favorite safety Tony Jefferson",
+          "url": "https://chargerswire.usatoday.com/story/sports/nfl/chargers/2026/08/30/chargers-roster-news-la-releases-fan-favorite-safety-tony-jefferson/91539120007/",
+          "source": "Chargers Wire"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
         "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     },
     {
-      "title": "london city lionesses",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "GB",
+      "title": "juan soto",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "OL Lyonnes v London City Lionesses in second Kangico and final pre-season test",
-          "url": "https://onefootball.com/en/news/ol-lyonnes-v-london-city-lionesses-in-second-kangico-and-final-pre-season-test-43361388",
-          "source": "OneFootball"
+          "title": "Why the Mets didn’t shut down Juan Soto despite a lost season",
+          "url": "https://www.nytimes.com/athletic/7548830/2026/08/29/mets-juan-soto-lost-season/",
+          "source": "The New York Times"
         },
         {
-          "title": "Rofiat Imuran joins Aston Villa",
-          "url": "https://www.londoncitylionesses.com/post/rofiat-imuran-joins-aston-villa",
-          "source": "London City Lionesses"
+          "title": "Mets Morning News: Soto returns from the IL, Mets place Robert on waivers",
+          "url": "https://www.amazinavenue.com/new-york-mets-news/100033/mets-morning-news-soto-il-return-robert-waivers-williams-rehab-tong-almost-no-hitter-bichette",
+          "source": "Amazin' Avenue"
         },
         {
-          "title": "22 y/o Nigerian star joins Aston Villa",
-          "url": "https://soccernet.ng/2026/08/nigeria-aston-villa.html",
-          "source": "Soccernet.ng"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"season\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "winter weather advisory",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Winter Weather Warning Issued For 8 Inches Of Snow And 40 MPH Gusts Through Tuesday Morning",
-          "url": "https://www.autoblog.com/news/winter-weather-warning-issued-for-8-inches-of-snow-and-40-mph-gusts-through-tuesday-morning",
-          "source": "Autoblog"
-        },
-        {
-          "title": "Winter Weather Advisory Issued, 4-6 Inches of Snow Possible Through Saturday",
-          "url": "https://www.mensjournal.com/news/winter-weather-advisory-issued-4-6-inches-of-snow-possible-through-saturday",
-          "source": "Men's Journal"
-        },
-        {
-          "title": "Weather Alert: Strong winds expected across Southcentral Alaska Tuesday",
-          "url": "https://www.youralaskalink.com/news/local/weather-alert-strong-winds-expected-across-southcentral-alaska-tuesday/article_24684953-b64a-43bc-a638-ab335135aed1.html",
-          "source": "Your Alaska Link"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "henrik meister",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:20:00 -0700",
-      "geo": "GB",
-      "newsItems": [],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "chris pratt",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:20:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Amazon's 7-Part Action Thriller Series That's Better Than 'Reacher' Officially Becomes Streaming Hit",
-          "url": "https://movieweb.com/the-terminal-list-dark-wolf-prime-video-streaming-hit-august-2026/",
-          "source": "MovieWeb"
-        },
-        {
-          "title": "Chris Pratt’s 7-Part Action Prequel Surges on Streaming as U.S. Favorite",
-          "url": "https://www.cbr.com/the-terminal-list-dark-wolf-chris-pratt-action-prime-video-success-august-2026/",
-          "source": "CBR"
-        },
-        {
-          "title": "All About “The Terminal List” Season 2, Finally Premiering After a 4-Year Hiatus",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/terminal-list-season-2-finally-130000761.html",
-          "source": "Yahoo"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"season\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "real madrid cf",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Bellingham fuming over this start to the season 🧨💥",
-          "url": "https://ca.sports.yahoo.com/news/bellingham-fuming-over-start-season-160900037.html",
-          "source": "Yahoo Sports Canada"
-        },
-        {
-          "title": "'I feel freedom again!' - Jude Bellingham hails Jose Mourinho as new Real Madrid role has unlocked his best form",
-          "url": "https://www.goal.com/en/lists/jude-bellingham-jose-mourinho-real-madrid/bltcb61c4ba1b34f567",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Jude Bellingham just settled a debate Real Madrid fans have been having for ages",
-          "url": "https://therealchamps.com/jude-bellingham-just-settled-a-debate-real-madrid-fans-have-been-having-for-ages-01m17jpqzjmt",
-          "source": "The Real Champs"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"season\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "napoli vs como",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:20:00 -0700",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Previa Napoli vs Como: forma, cara a cara y seguimiento de la Puntuación Sofascore",
-          "url": "https://www.sofascore.com/es/news/previa-napoli-vs-como-forma-cara-a-cara-y-seguimiento-de-la-puntuacion-sofascore",
-          "source": "Sofascore"
-        },
-        {
-          "title": "Allegri asegura que no tiene \"ningún problema\" con Fàbregas",
-          "url": "https://www.fotmob.com/es/news/jlv7spgyq4v1oc2wtmk274u7_es-allegri-asegura-que-no-tiene-ningun-problema-con-fabregas",
-          "source": "FotMob"
-        },
-        {
-          "title": "Nápoles vs Como 1907: Pronóstico, Cuotas y Apuestas - Serie A",
-          "url": "https://www.casasdeapuestas.com/pronosticos/napoles-como-1907-20260830/",
-          "source": "Casasdeapuestas.com"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "ken jennings",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:10:00 -0700",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "‘Jeopardy!’’s Ken Jennings Admits He Often Lied During His Contestant Anecdotes During His Iconic Winning Streak (Exclusive)",
-          "url": "https://people.com/ken-jennings-says-he-lied-in-his-jeopardy-contestant-anecdotes-exclusive-12065736",
-          "source": "People.com"
-        },
-        {
-          "title": "Ken Jennings Confesses He Lied During Jeopardy Winning Streak",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/ken-jennings-confesses-lied-during-151312023.html",
-          "source": "Yahoo"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "veronika erjavec",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:00:00 -0700",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Erjavec - Paolini 3:6, 6:3",
-          "url": "https://www.rtvslo.si/sport/tenis/erjavec-paolini/792302",
-          "source": "rtvslo.si"
-        },
-        {
-          "title": "Za tenisačici Veroniko in Jasmine je bila Istra odskočna deska",
-          "url": "https://primorske.si/sport/za-tenisacici-veroniko-in-jasmine-je-bila-istra-odskocna-deska/",
-          "source": "Primorske novice"
-        },
-        {
-          "title": "Veronika Erjavec prvič v glavnem delu grand slama v New Yorku",
-          "url": "https://www.dnevnik.si/sport/tenis/veronika-erjavec-prvic-v-glavnem-delu-grand-slama-v-new-yorku-2823338/",
-          "source": "Dnevnik"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "lac stukely",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 09:00:00 -0700",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Un sexagénaire disparu sur un lac après une sortie solitaire en Estrie",
-          "url": "https://www.tvanouvelles.ca/2026/08/30/un-soixantenaire-disparu-sur-un-lac-apres-une-sortie-solitaire-en-estrie",
-          "source": "TVA Nouvelles"
-        },
-        {
-          "title": "Des recherches sont en cours pour trouver un sexagénaire au lac Stukley",
-          "url": "https://www.lavoixdelest.ca/actualites/2026/08/30/des-recherches-sont-en-cours-pour-trouver-un-sexagenaire-au-lac-stukley-6DQ3G6DMURBNRHLOWQXUP67YKQ/?utm_medium=threads&utm_source=dlvr.it&cb_rec=djRfMQ",
-          "source": "La Voix de l'Est"
-        },
-        {
-          "title": "Un homme manque à l’appel au Lac Stukely",
-          "url": "https://m105.ca/nouvelle/un-homme-manque-a-lappel-au-lac-stukely/",
-          "source": "M105 - FM 104,9"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "man u",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 08:30:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "'Never a Man Utd player!' - Michael Carrick urged to axe veteran star after opening day disaster",
-          "url": "https://www.goal.com/en-au/lists/man-utd-harry-maguire-michael-carrick-john-obi-mikel-chelsea/blte2e47a0ff6a99405",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Manchester United, Criticism of Maguire and Urgent Request to Carrick After Defeat Against Hull City",
-          "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/manchester-united-criticism-of-maguire-and-urgent-request-to-carrick-after-defeat-against-hull-city-2026-08-28",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "EXCLUSIVE: Paul Parker doubts Man United’s top-four hopes and calls for Maguire exit",
-          "url": "https://www.flashscore.com/news/soccer-premier-league-exclusive-paul-parker-doubts-man-united-s-top-four-hopes-and-calls-for-maguire-exit/UsXbl9sA/",
-          "source": "Flashscore.com"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"united\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "khan",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 08:00:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "‘Majbooriyan hoti hogi sabki’: Sonam Wangchuk finally REACTS to Salman Khan's viral 'Sonam, It's done bro",
-          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/majbooriyan-hoti-hogi-sabki-sonam-wangchuk-finally-reacts-to-salman-khans-viral-sonam-its-done-bro-line/articleshow/133624646.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Sonam Wangchuk reacts to Salman Khan’s ‘It’s done bro’ remark: ‘Majbooriyan hoti hongi’",
-          "url": "https://indianexpress.com/article/entertainment/bollywood/sonam-wangchuk-responds-to-salman-khans-its-done-bro-remark-10855411/",
-          "source": "The Indian Express"
-        },
-        {
-          "title": "Sonam Wangchuk reacts to Salman Khan's viral 'Sonam, it's done bro' remark | He reacted to remark in Prakhar Gupta's podcast | Inshorts",
-          "url": "https://inshorts.com/en/news/sonam-wangchuk-reacts-to-salman-khan-s-viral--sonam--it-s-done-bro--remark-1788068469010",
-          "source": "Inshorts"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "yalcouye",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Sun, 30 Aug 2026 07:00:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Chelsea 4-3 Brighton: What Hurzeler said",
-          "url": "https://www.bbc.com/sport/football/articles/c1dl3w3kr7vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-          "source": "BBC"
-        },
-        {
-          "title": "Yasin Ayari absence explained as Brighton visit Chelsea amid early-season injury crisis",
-          "url": "https://www.sussexexpress.co.uk/sport/football/brighton-and-hove-albion/yasin-ayari-absence-explained-as-brighton-visit-chelsea-amid-early-season-injury-crisis-8950100",
-          "source": "SussexWorld"
-        },
-        {
-          "title": "Hurzeler explains Ayari absence and big change in Albion defeat at Chelsea",
-          "url": "https://www.theargus.co.uk/sport/26507927.brightons-tactical-switch-up-chelsea-explained-boss/",
-          "source": "The Argus"
+          "title": "Roger Rubin: Mets' Juan Soto's leadership shows up in early return from calf injury",
+          "url": "https://www.newsday.com/sports/columnists/roger-rubin/juan-soto-mets-ipqc6ku0",
+          "source": "Newsday"
         }
       ],
       "trademarkRisk": "medium",
@@ -1003,86 +453,177 @@
       ]
     },
     {
-      "title": "state of decay 3 closed beta",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Sun, 30 Aug 2026 09:40:00 -0700",
+      "title": "tom pidcock second world title",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 12:10:00 -0700",
       "geo": "GB",
       "newsItems": [
         {
-          "title": "State of Decay 3: Closed Beta Playtests Will Open the Game to Even More Players This Year",
-          "url": "https://news.xbox.com/en-us/2026/08/26/state-of-decay-3-closed-beta-playtests/",
-          "source": "XBOX Wire"
+          "title": "Mountain Bike World Championships: Tom Pidcock dedicates second title to Fin Tarling",
+          "url": "https://www.bbc.co.uk/sport/cycling/articles/c20vnvdd7e7o",
+          "source": "BBC"
         },
         {
-          "title": "State of Decay 3 lives on after studio's separation from Xbox, with a closed beta promised for this year",
-          "url": "https://www.eurogamer.net/state-of-decay-3-lives-on-after-studios-separation-from-xbox-with-a-closed-beta-promised-for-this-year",
-          "source": "Eurogamer.net"
+          "title": "Results: 2026 Val di Sole Elite XC World Championships",
+          "url": "https://www.pinkbike.com/news/results-2026-val-di-sole-elite-xc-world-championships.html",
+          "source": "Pinkbike"
         },
         {
-          "title": "State of Decay 3 Preview: More Alive Than Dead",
-          "url": "https://gameinformer.com/preview/2026/08/28/more-alive-than-dead",
-          "source": "Game Informer"
+          "title": "MTB World Champs: Frei and Pidcock on top of the world in Val di Sole",
+          "url": "https://escapecollective.com/mtb-world-champs-frei-and-pidcock-on-top-of-the-world-in-val-di-sole/",
+          "source": "Escape Collective"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "pga tour",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Scott turns back clock in Tour Championship title tilt",
+          "url": "https://www.abc.net.au/news/2026-08-30/adam-scott-tied-for-third-pga-tour-championship/107094902",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Adam Scott’s Tour Championship contention a reminder of pro golf’s constant force",
+          "url": "https://golf.com/news/adam-scott-tour-championship-reminder-pro-golf-constant-force/",
+          "source": "GOLF.com"
+        },
+        {
+          "title": "Scott chasing history in $10m finale as Aussies stay alive; Rory’s stunning surge – Wrap",
+          "url": "https://www.foxsports.com.au/golf/pga-tour-championship-2026-tour-championship-2026-leaderboard-adam-scott-min-woo-lee-viktor-hovland-rory-mcilroy-scottie-scheffler-fedexcup-2026-east-lake-golf-club-pga-tour-golf-tour-championship-final-round-golf-news/news-story/efe419dc83cf62739eb991f7d9d4ac2c",
+          "source": "Fox Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"tour\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "golf scores",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Hovland pulls ahead for 1-shot lead in Tour Championship",
+          "url": "https://www.espn.com.au/golf/story/_/id/49767017/hovland-pulls-ahead-1-shot-lead-tour-championship",
+          "source": "ESPN"
+        },
+        {
+          "title": "Signature Scroll: The golden opportunity amid chaotic TOUR Championship",
+          "url": "https://www.pgatour.com/article/news/signature-scroll/2026/08/29/recapping-round-3-tour-championship-east-lake-golf-club-scottie-scheffler-cameron-young",
+          "source": "PGA Tour"
+        },
+        {
+          "title": "Hovland holds narrow lead after round 3 in Atlanta",
+          "url": "https://www.news.com.au/sport/hovland-holds-narrow-lead-after-round-3-in-atlanta/video/fcd39b4658647a327facf9534e0e393a",
+          "source": "News.com.au"
         }
       ],
       "trademarkRisk": "medium",
       "podRelevance": 0.25,
       "printable": false,
       "reasons": [
-        "Contains \"game\" — commonly a protected mark or event name."
+        "Contains \"tour\" — commonly a protected mark or event name."
       ]
     },
     {
-      "title": "catherine zeta jones",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "GB",
+      "title": "bbc sport",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "AU",
       "newsItems": [
         {
-          "title": "The unusual art Kirk Douglas left to daughter-in-law Catherine Zeta-Jones",
-          "url": "https://www.independent.co.uk/bulletin/culture/kirk-douglas-will-michael-memoir-catherine-zeta-jones-b3041553.html",
-          "source": "The Independent"
+          "title": "Scottish Premiership: Shankland on the spot to ease pressure on McInnes and Rangers",
+          "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
+          "source": "The Guardian"
         },
         {
-          "title": "Kirk Douglas’s touching gift to daughter-in-law Catherine Zeta-Jones",
-          "url": "https://www.independent.co.uk/arts-entertainment/films/news/kirk-douglas-will-net-worth-michael-catherine-zeta-jones-b3041509.html",
-          "source": "The Independent"
+          "title": "Is 'bitty' Pittodrie win 'turning point' for McInnes and Rangers?",
+          "url": "https://www.bbc.com/sport/football/articles/ckgwz6g45lpo",
+          "source": "BBC"
         },
         {
-          "title": "Michael Douglas' Dad Kirk Took Care of Catherine Zeta-Jones In His Will",
-          "url": "https://www.tmz.com/2026/08/28/michael-douglas-dad-kirk-estate-details-revealed/",
-          "source": "TMZ"
+          "title": "Aberdeen vs Rangers LIVE! Scottish Premiership commentary, live on Sky Sports, updates, scores and team news",
+          "url": "https://www.skysports.com/football/live-blog/11781/13577410/aberdeen-vs-rangers-live-scottish-premiership-commentary-live-on-sky-sports-updates-scores-and-team-news",
+          "source": "Sky Sports"
         }
       ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
+      "trademarkRisk": "high",
+      "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     },
     {
-      "title": "real",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Sun, 30 Aug 2026 09:50:00 -0700",
-      "geo": "CA",
+      "title": "armando gonzález",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "LaLiga im Ticker - Real Madrid gegen Malaga ab 17 Uhr LIVE",
-          "url": "https://www.krone.at/4273441",
-          "source": "Kronen Zeitung"
+          "title": "'Hormiga' González debutó con Olympiacos en la Superliga griega",
+          "url": "https://espndeportes.espn.com/futbol/nota/_/id/17189396/hormiga-gonzalez-olympiacos-vs-asteras-tripolis-debut-grecia",
+          "source": "ESPN Deportes"
         },
         {
-          "title": "Training ohne Sieben – Fortschritte bei Endrick, Thiago und Militão",
-          "url": "https://www.realtotal.de/training-ohne-sieben-fortschritte-bei-endrick-militao-und-thiago/",
-          "source": "real total"
+          "title": "Asteras vs Olympiacos: ¿A qué hora y dónde ver EN VIVO partido de Hormiga González HOY Liga Grecia 2026?",
+          "url": "https://www.mediotiempo.com/futbol/asteras-vs-olympiacos-a-que-hora-donde-ver-en-vivo-partido-hormiga-gonzalez-hoy-liga-grecia-2026",
+          "source": "Mediotiempo"
         },
         {
-          "title": "Wer zeigt / überträgt Real Madrid vs. Malaga heute live im TV und Livestream?",
-          "url": "https://www.goal.com/de/meldungen/wer-zeigt-uebertraegt-Real%20Madrid-vs-Malaga-heute-live-im-tv-und-livestream/blt815ab6cb75a187fc",
-          "source": "Goal.com"
+          "title": "Dónde ver partidos de Hormiga González con Olympiacos en México: Canal y cómo ver la liga de Grecia",
+          "url": "https://www.marca.com/mx/futbol/mexicanos-mundo/2026/08/30/ver-partidos-hormiga-gonzalez-olympiacos-mexico-canal-ver-liga-grecia.html",
+          "source": "MARCA"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espndeportes.espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "alex fitzpatrick",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "August 27, 2026: 4th Round Head-to-Head: Schauffele vs Fox Golf Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/golf/events/4th-round-head-to-head-schauffele-vs-fox-aug-27-2026/",
+          "source": "Robinhood"
+        },
+        {
+          "title": "August 27, 2026: 3rd Round Head-to-Head: Cantlay vs Schauffele Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/golf/events/3rd-round-head-to-head-cantlay-vs-schauffele-aug-27-2026/",
+          "source": "Robinhood"
+        },
+        {
+          "title": "August 27, 2026: 1st Round Head-to-Head: Scott vs Rose Golf Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/golf/events/1st-round-head-to-head-scott-vs-rose-aug-27-2026/",
+          "source": "Robinhood"
         }
       ],
       "trademarkRisk": "medium",
@@ -1093,56 +634,149 @@
       ]
     },
     {
-      "title": "real madrid fc",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
-      "geo": "CA",
+      "title": "road",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "GB",
       "newsItems": [
         {
-          "title": "Licensable picture: Turkiye marks 104th anniversary of Victory Day",
-          "url": "https://www.reutersconnect.com/item/turkiye-marks-104th-anniversary-of-victory-day/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwM1U3VUJC",
-          "source": "Reuters Connect"
+          "title": "Preparation work under way on £200m M54-M6 link road",
+          "url": "https://www.bbc.co.uk/news/articles/cjw5lggjw2do",
+          "source": "BBC"
         },
         {
-          "title": "Licensable picture: Paris FC v Nice - French Ligue 1",
-          "url": "https://www.reutersconnect.com/item/paris-fc-v-nice-french-ligue-1/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwM1U3VE43",
-          "source": "Reuters Connect"
+          "title": "Upcoming road works across BCP set to cause delays from August 31 to September 6",
+          "url": "https://www.bournemouthecho.co.uk/news/26504771.road-works-cause-delays-across-bcp-area-week/",
+          "source": "Bournemouth Echo"
         },
         {
-          "title": "Licensable picture: Paris FC v Nice - French Ligue 1",
-          "url": "https://www.reutersconnect.com/item/paris-fc-v-nice-french-ligue-1/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwM1U3VE81",
-          "source": "Reuters Connect"
+          "title": "Gervis Place road works 'progressing well' with closure until 2027",
+          "url": "https://uk.news.yahoo.com/gervis-place-road-works-progressing-111917750.html",
+          "source": "Yahoo News UK"
         }
       ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
       "printable": false,
       "reasons": [
-        "Contains \"fc\" — commonly a protected mark or event name."
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     },
     {
-      "title": "august 30 2026 horoscope",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Sun, 30 Aug 2026 09:10:00 -0700",
-      "geo": "CA",
+      "title": "uganda",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "GB",
       "newsItems": [
         {
-          "title": "Daily Horoscope - Sunday, August 30, 2026",
-          "url": "https://nationalpost.com/life/horoscopes/daily-horoscope-sunday-august-30-2026",
-          "source": "National Post"
+          "title": "Uganda's King Oyo: World's youngest reigning traditional monarch dies aged 34",
+          "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po",
+          "source": "BBC"
         },
         {
-          "title": "Love Horoscopes Are Here For Sunday, August 30: Good Karma Helps You Out Today",
-          "url": "https://www.yourtango.com/2026400378/love-horoscope-sunday-august-30-2026",
-          "source": "YourTango"
+          "title": "Ugandan ruler named world's youngest monarch died age 34",
+          "url": "https://news.sky.com/story/ugandan-ruler-named-worlds-youngest-monarch-died-age-34-13578122",
+          "source": "Sky News"
         },
         {
-          "title": "Daily rashi tarot predictions, August 30, 2026; Today’s tarot pull for every zodiac sign",
-          "url": "https://timesofindia.indiatimes.com/astrology/numerology-tarot/daily-rashi-tarot-predictions-august-30-2026-todays-tarot-pull-for-every-zodiac-sign/articleshow/133606600.cms",
-          "source": "The Times of India"
+          "title": "Ugandan King Oyo Nyimba, once world’s youngest monarch, dies at 34",
+          "url": "https://edition.cnn.com/2026/08/28/africa/ugandan-king-oyo-nyimba-dies-intl",
+          "source": "CNN"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"died\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "lazio",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "LIVE Alle 20.45 Lazio-Genoa: Frattesi parte dal primo minuto, De Rossi conferma Vitinha-Colombo",
+          "url": "https://www.gazzetta.it/Calcio/Serie-A/Lazio/30-08-2026/live-lazio-genoa-gol-e-marcatori-serie-a.shtml",
+          "source": "La Gazzetta dello Sport"
+        },
+        {
+          "title": "Lazio, i convocati anti-Genoa: Sutalo e Pinamonti ok, out Ratkov",
+          "url": "https://www.fantacalcio.it/news/calcio-italia/30_08_2026/lazio-i-convocati-anti-genoa-sutalo-e-pinamonti-ok-out-ratkov-497216",
+          "source": "Fantacalcio"
+        },
+        {
+          "title": "Serie A, oggi Cagliari-Inter – Diretta",
+          "url": "https://www.cremaoggi.it/2026/08/30/serie-a-oggi-cagliari-inter-diretta/",
+          "source": "Cremaoggi"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "tesco bank holiday opening times",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "From Tesco to Asda: which UK supermarkets are open on the August bank holiday?",
+          "url": "https://www.independent.co.uk/news/uk/home-news/monday-bank-holiday-supermarkets-opening-times-aldi-tesco-asda-b3041682.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Bank holiday supermarket closing and opening times for Aldi, Asda, Tesco, Morrisons, and Lidl",
+          "url": "https://www.manchestereveningnews.co.uk/whats-on/shopping/bank-holiday-supermarket-closing-opening-34532630",
+          "source": "Manchester Evening News"
+        },
+        {
+          "title": "August bank holiday opening times for Tesco, Aldi, Lidl and Sainsbury’s",
+          "url": "https://www.cambridge-news.co.uk/news/local-news/august-bank-holiday-opening-times-34538129",
+          "source": "Cambridge News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "prince harry reportedly remains angry and expects a royal apology",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "'Furious' Prince Harry 'still expects apology' from Royal Family as he begins news life in UK",
+          "url": "https://www.standard.co.uk/news/uk/prince-harry-apology-royal-family-feud-william-king-charles-b1295173.html",
+          "source": "London Evening Standard"
+        },
+        {
+          "title": "Harry and Meghan deserve a second chance",
+          "url": "https://spectator.com/article/harry-and-meghan-deserve-a-second-chance/",
+          "source": "The Spectator"
+        },
+        {
+          "title": "Prince Harry’s British pals expose him: ‘He still has an Oprah mindset’",
+          "url": "https://www.thenews.com.pk/latest/1414186-prince-harrys-british-pals-expose-him-he-still-has-an-oprah-mindset",
+          "source": "The News International"
         }
       ],
       "trademarkRisk": "low",
@@ -1151,26 +785,177 @@
       "reasons": []
     },
     {
-      "title": "zhang shuai",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Sun, 30 Aug 2026 09:00:00 -0700",
+      "title": "joe worrall",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Exclusive: Wrexham Finalising Deal to Sign Burnley Defender Joe Worrall",
+          "url": "https://www.givemesport.com/breaking-wrexham-finalising-deal-burnley-joe-worrall/",
+          "source": "GiveMeSport"
+        },
+        {
+          "title": "Sheffield United credited with interest in experienced Burnley defender",
+          "url": "https://www.yorkshirepost.co.uk/sport/football/sheffield-united-joe-worrall-burnley-nottingham-forest-8940402",
+          "source": "Yorkshire Post"
+        },
+        {
+          "title": "Sheffield United set to swoop for former Nottingham Forest hero",
+          "url": "https://news.bet365.com/en-gb/article/sheffield-united-set-to-swoop-for-former-nottingham-forest-hero/2026082813400790334",
+          "source": "news.bet365.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"united\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "flamengo vs botafogo",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:10:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Josmar é relacionado pela primeira vez no Flamengo e vira opção contra o Botafogo; conheça a joia",
+          "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/30/josmar-e-relacionado-pela-primeira-vez-no-flamengo-e-vira-opcao-contra-o-botafogo-conheca-a-joia.ghtml",
+          "source": "ge"
+        },
+        {
+          "title": "PM usa balas de borracha para conter confusão antes do clássico",
+          "url": "https://www.atribunarj.com.br/materia/pm-usa-balas-de-borracha-para-conter-confusao-antes-do-classico-",
+          "source": "A Tribuna RJ"
+        },
+        {
+          "title": "No primeiro jogo sem Plata, Flamengo pega Botafogo com Luiz Araújo titular",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/30/no-primeiro-jogo-sem-plata-flamengo-pega-botafogo-com-titular.htm",
+          "source": "UOL"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "will levis",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:40:00 -0700",
       "geo": "CA",
       "newsItems": [
         {
-          "title": "Shuai Zhang v Leylah Fernandez Odds",
-          "url": "https://sportsbook.fanduel.com/tennis/women's-us-open-2026/shuai-zhang-v-leylah-fernandez-35991895",
-          "source": "FanDuel Sportsbook"
+          "title": "Sources: Titans waive former starting QB Will Levis",
+          "url": "https://www.espn.com/nfl/story/_/id/49774800/titans-waive-former-starting-qb-levis",
+          "source": "ESPN"
         },
         {
-          "title": "US Open Day 1 Women’s Predictions Including Zhang Shuai vs Leylah Fernandez",
-          "url": "https://lastwordonsports.com/tennis/2026/08/29/us-open-day-1-predictions-zhang-fernandez/",
-          "source": "Last Word On Sports"
+          "title": "Report: Titans waive former starting QB Levis",
+          "url": "https://www.tsn.ca/nfl/article/report-titans-waive-former-starting-qb-levis-n1-49774800/",
+          "source": "TSN"
         },
         {
-          "title": "Shuai Zhang vs. Leylah Annie Fernandez 30 August 2026 | H2H, Betting Tips & Odds",
-          "url": "https://online-bookmakers.com/sports-betting/shuai-zhang-v-leylah-annie-fernandez-2026-08-30/",
-          "source": "online-bookmakers.com"
+          "title": "QB Will Levis, 2023 second-round pick, being waived by Titans",
+          "url": "https://www.nfl.com/news/qb-will-levis-2023-second-round-pick-being-waived-by-titans",
+          "source": "NFL.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "justin verlander",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Verlander eyeing return to big league mound before retirement",
+          "url": "https://www.mlb.com/news/justin-verlander-targeting-tigers-return-before-retirement",
+          "source": "MLB.com"
+        },
+        {
+          "title": "Justin Verlander takes positive step in rehab, hopeful to pitch again before retiring - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7546586/2026/08/28/justin-verlander-rehab-update-tigers/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Justin Verlander 'a step forward' in injury rehab for Tigers",
+          "url": "https://www.freep.com/story/sports/mlb/tigers/2026/08/28/justin-verlander-injury-update-rehab-tigers-news-mlb/91337243007/",
+          "source": "Detroit Free Press"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from mlb.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "seattle mariners vs toronto blue jays match player stats",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Miller likely to return to rotation after Hancock lands on IL; Davila recalled",
+          "url": "https://www.mlb.com/news/emerson-hancock-placed-on-15-day-injured-list",
+          "source": "MLB.com"
+        },
+        {
+          "title": "Mariners Place Emerson Hancock On 15-Day IL With Adductor Strain",
+          "url": "https://www.mlbtraderumors.com/2026/08/mariners-place-emerson-hancock-on-15-day-il-with-adductor-strain.html",
+          "source": "MLB Trade Rumors"
+        },
+        {
+          "title": "Mariners place starting pitcher on injured list",
+          "url": "https://www.seattletimes.com/sports/mariners/mariners-place-emerson-hancock-on-il-will-bryce-miller-return-to-rotation/",
+          "source": "The Seattle Times"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from mlb.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "celta vigo – ath. bilbao",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "PREVIEW | Celta de Vigo vs Athletic Bilbao: team news, lineups, predictions (La Liga 30/08)",
+          "url": "https://ca.sports.yahoo.com/news/preview-celta-vigo-vs-athletic-193500754.html",
+          "source": "Yahoo Sports Canada"
+        },
+        {
+          "title": "Celta vs Athletic prediction: expert analysis, possible lineups, August 30, 2026",
+          "url": "https://ratingbet.com/predictions/celta-vs-athletic-prediction-expert-analysis-possible-lineups-august-30-2026/",
+          "source": "RatingBet"
+        },
+        {
+          "title": "Athletic travel to Vigo with 23-man squad as Edin Terzić recalls Yuri Berchiche",
+          "url": "https://onefootball.com/en/news/athletic-travel-to-vigo-with-23-man-squad-as-edin-terzic-recalls-yuri-berchiche-43367307",
+          "source": "OneFootball"
         }
       ],
       "trademarkRisk": "medium",
@@ -1181,26 +966,118 @@
       ]
     },
     {
-      "title": "draftkings fantasy",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Sun, 30 Aug 2026 09:30:00 -0700",
+      "title": "corinthians vs santos",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Ao vivo: Corinthians x Santos | Rodada 25 | Campeonato Brasileiro",
+          "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/30-08-2026/corinthians-santos.ghtml",
+          "source": "ge"
+        },
+        {
+          "title": "Comentário de João Rangel no Meu Timão",
+          "url": "https://www.meutimao.com.br/comentario/17040160/8_anos_vendo_essa_sic_ser_humilhado_um_jogo",
+          "source": "Meu Timão"
+        },
+        {
+          "title": "Comentário de Luan David Carrilho em 'Jogo do Corinthians ao vivo'",
+          "url": "https://www.meutimao.com.br/comentario/17039508/ate_agora_3_finalizacoes_do_corinthians",
+          "source": "www.meutimao.com.br"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "afr",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:40:00 -0700",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "5 Tight End Sleepers to Target (2026 Fantasy Football)",
-          "url": "https://www.fantasypros.com/2026/08/5-tight-end-sleepers-to-target-2026-fantasy-football/",
-          "source": "FantasyPros"
+          "title": "Trump just brokered a deal with the country sitting atop the world’s largest oil reserves",
+          "url": "https://www.foxnews.com/politics/trump-just-brokered-deal-country-sitting-atop-worlds-largest-oil-reserves",
+          "source": "Fox News"
         },
         {
-          "title": "Fantasy Football Rankings and Analysis for 2026: Tight Ends, Defenses and Kickers",
-          "url": "https://www.seahawks.com/news/fantasy-football-rankings-and-analysis-for-2026-tight-ends-defenses-and-kickers",
-          "source": "Seattle Seahawks"
+          "title": "Trump’s Venezuela Oil Grab Reprises Industry’s Neocolonial Past",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/trump-s-venezuela-oil-grab-reprises-industry-s-neocolonial-past",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "Dave Richard's Tight End Tiers 4.0: Has Harold Fannin Jr. fallen to a value pick? What about George Kittle?",
-          "url": "https://www.cbssports.com/fantasy/football/news/dave-richard-tight-end-fantasy-football-rankings-2026/",
-          "source": "CBS Sports"
+          "title": "Trump Administration Live Updates: U.S. Oil Takeover Prompts Pushback From Venezuelans",
+          "url": "https://www.nytimes.com/live/2026/08/30/us/trump-news",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "us open",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "‘Amazing!’ – Pegula relishing top-ranked home player status at the US Open after first round win",
+          "url": "https://www.news.com.au/sport/amazing-pegula-relishing-topranked-home-player-status-at-the-us-open-after-first-round-win/video/d8c05c9025b53ac81753a87c708439a2",
+          "source": "News.com.au"
+        },
+        {
+          "title": "Pegula, Paolini clear first-round hurdles at US Open",
+          "url": "https://www.canberratimes.com.au/story/9340231/pegula-paolini-clear-first-round-hurdles-at-us-open/",
+          "source": "The Canberra Times"
+        },
+        {
+          "title": "US Open tennis 2026: Pegula, Norrie and Medvedev in action on day one – live",
+          "url": "https://www.theguardian.com/sport/live/2026/aug/30/us-open-tennis-2026-pegula-norrie-and-medvedev-in-action-on-day-one-live",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "serie a",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 11:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "LIVE Napoli-Como 1-2: gli azzurri soffrono, triplo cambio per Allegri. Dentro anche De Bruyne",
+          "url": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/30-08-2026/napoli-como-live-risultato-e-gol-in-diretta-serie-a.shtml",
+          "source": "La Gazzetta dello Sport"
+        },
+        {
+          "title": "Le pagelle di Napoli-Como: Lobotka e De Bruyne provano a dare qualità, Milla è un leader fantastico",
+          "url": "https://www.sportmediaset.mediaset.it/calcio/le-pagelle-di-napoli-como-lobotka-e-de-bruyne-provano-a-dare-qualita-milla-e-un-leader-fantastico_116032507-202602k.shtml",
+          "source": "Sportmediaset"
+        },
+        {
+          "title": "Napoli-Como diretta Serie A: segui la sfida tra Allegri e Fabregas LIVE",
+          "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/08/30-150903990/napoli-como_diretta_serie_a_segui_la_sfida_tra_allegri_e_fabregas_live",
+          "source": "Corriere dello Sport"
         }
       ],
       "trademarkRisk": "medium",
@@ -1211,17 +1088,186 @@
       ]
     },
     {
-      "title": "bein sports",
+      "title": "napoli vs como",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 10:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Napoli vs Como: Italian Serie A stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cqgmrg9r7vxvt",
+          "source": "BBC"
+        },
+        {
+          "title": "Como spoil Allegri's Napoli home debut",
+          "url": "https://sports.yahoo.com/articles/como-spoil-allegris-napoli-home-184526097.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Capello explains differences between Fabregas and Allegri: ‘Always pragmatic’",
+          "url": "https://football-italia.net/capello-explains-differences-between-fabregas-and-allegri-always-been-pragmatic/",
+          "source": "Football Italia"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "flamengo vs botafogo",
       "traffic": 100,
       "trafficLabel": "100+",
-      "pubDate": "Sun, 30 Aug 2026 08:00:00 -0700",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Flamengo x Botafogo: onde assistir ao vivo, horário e escalações",
+          "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/noticia/2026/08/30/flamengo-x-botafogo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+          "source": "ge"
+        },
+        {
+          "title": "Alex Gomes Stefano: quem é o árbitro de Flamengo x Botafogo?",
+          "url": "https://www.sportingnews.com/br/futebol/noticias/alex-gomes-stefano-quem-e-arbitro-flamengo-botafogo/13f6511cf78c253f32113d67",
+          "source": "www.sportingnews.com"
+        },
+        {
+          "title": "PM usa balas de borracha para conter confusão antes do clássico",
+          "url": "https://www.atribunarj.com.br/materia/pm-usa-balas-de-borracha-para-conter-confusao-antes-do-classico-",
+          "source": "A Tribuna RJ"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "julio rodriguez",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Ken Griffey Jr. vs Julio Rodríguez net worth in 2026: How two generations of Seattle Mariners stars built",
+          "url": "https://timesofindia.indiatimes.com/sports/mlb/news/ken-griffey-jr-vs-julio-rodrguez-net-worth-in-2026-how-two-generations-of-seattle-mariners-stars-built-their-fortunes-and-career-earnings/articleshow/133612092.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Blue Jays’ Max Scherzer strikes out side in first inning vs. Mariners",
+          "url": "https://www.sportsnet.ca/mlb/video/blue-jays-max-scherzer-strikes-out-side-in-first-inning-vs-mariners/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Max Scherzer against the Mariners",
+          "url": "https://www.mlb.com/bluejays/video/max-scherzer-against-the-mariners",
+          "source": "MLB.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from mlb.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "iphone",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 12:30:00 -0700",
       "geo": "AU",
-      "newsItems": [],
+      "newsItems": [
+        {
+          "title": "A Folding iPhone at Last? What to Expect From Apple’s Surprise and Shine Fall Event",
+          "url": "https://www.cnet.com/tech/mobile/apple-event-what-to-expect-iphone-18-ultra-fold/",
+          "source": "CNET"
+        },
+        {
+          "title": "Four advantages iPhone 18 Pro will have over the iPhone Ultra",
+          "url": "https://9to5mac.com/2026/08/27/four-advantages-iphone-18-pro-will-have-over-the-iphone-ultra/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "iPhone, Home, iPad mini : Apple's launches for September and October",
+          "url": "https://appleinsider.com/articles/26/08/30/iphone-home-ipad-mini-apples-launches-for-september-and-october",
+          "source": "AppleInsider"
+        }
+      ],
       "trademarkRisk": "medium",
       "podRelevance": 0.25,
       "printable": false,
       "reasons": [
         "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "cagliari vs inter",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 12:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Cagliari vs Inter Milan: Italian Serie A stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c5rm92n9w23et",
+          "source": "BBC"
+        },
+        {
+          "title": "✅ Official XIs: Cagliari-Inter and Lazio-Genoa! Pio, Sucic, Dia and Sow 👀",
+          "url": "https://onefootball.com/en/news/official-xis-cagliari-inter-and-lazio-genoa-pio-sucic-dia-and-sow-43370177",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Eve of Cagliari vs. Inter, the Nerazzurri's training session",
+          "url": "https://sports.yahoo.com/articles/eve-cagliari-vs-inter-nerazzurris-114100341.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "epl table",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 10:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "What Arsenal's Premier League title rivals still need in transfer window",
+          "url": "https://www.espn.com/soccer/story/_/id/49742465/what-arsenal-premier-league-title-rivals-need-transfer-window-man-city-man-united-liverpool-chelsea",
+          "source": "ESPN"
+        },
+        {
+          "title": "This week’s soccer questions: can anyone keep pace with Arsenal and are Manchester United doomed?",
+          "url": "https://www.theguardian.com/football/2026/aug/28/arsenal-manchester-united-premier-league-cavan-sullivan",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Have YOUR say: Predict the 2026/27 season",
+          "url": "https://www.premierleague.com/en/news/4698296/have-your-say-predict-the-202626-season",
+          "source": "Premier League"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     }
   ],

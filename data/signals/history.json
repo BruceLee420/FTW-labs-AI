@@ -3,140 +3,140 @@
     "date": "2026-08-30",
     "topTrends": [
       {
-        "title": "prince harry, duke of sussex",
+        "title": "jaydon blue",
         "traffic": 2000,
         "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "wnba games today",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "dewanna bonner",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "toby samuel",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "the pastors wife",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "baltimore orioles",
+        "traffic": 1000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "vladimir guerrero jr blue jays",
+        "traffic": 1000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "pga leaderboard",
+        "traffic": 1000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "new england vs columbus",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "sting",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "rhyne howard",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "tony jefferson",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "juan soto",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "tom pidcock second world title",
+        "traffic": 500,
+        "geo": "GB",
         "printable": false,
         "trademarkRisk": "low"
       },
       {
-        "title": "yankuba minteh",
-        "traffic": 2000,
-        "geo": "GB",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "man united vs ipswich town",
-        "traffic": 2000,
-        "geo": "AU",
-        "printable": false,
-        "trademarkRisk": "high"
-      },
-      {
-        "title": "real madrid vs málaga",
-        "traffic": 2000,
-        "geo": "AU",
-        "printable": false,
-        "trademarkRisk": "high"
-      },
-      {
-        "title": "laliga",
-        "traffic": 1000,
-        "geo": "CA",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "man utd",
-        "traffic": 1000,
-        "geo": "AU",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "pickleball",
-        "traffic": 500,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "wisconsin volleyball",
-        "traffic": 500,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "napoli",
-        "traffic": 500,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "scotty miller",
-        "traffic": 500,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "taylor harwood-bellis",
-        "traffic": 500,
-        "geo": "GB",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "mbeumo",
-        "traffic": 500,
-        "geo": "GB",
-        "printable": false,
-        "trademarkRisk": "high"
-      },
-      {
-        "title": "india vs thailand",
+        "title": "pga tour",
         "traffic": 500,
         "geo": "AU",
         "printable": false,
         "trademarkRisk": "high"
       },
       {
-        "title": "pl",
+        "title": "golf scores",
         "traffic": 500,
         "geo": "AU",
         "printable": false,
         "trademarkRisk": "medium"
       },
       {
-        "title": "harry maguire",
+        "title": "bbc sport",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "armando gonzález",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "alex fitzpatrick",
         "traffic": 200,
         "geo": "US",
         "printable": false,
         "trademarkRisk": "medium"
       },
       {
-        "title": "deportivo - valencia c. f.",
-        "traffic": 200,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "spencer pratt",
-        "traffic": 200,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "mlp pickleball",
-        "traffic": 200,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "washington spirit",
-        "traffic": 200,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "napoli fc",
+        "title": "road",
         "traffic": 200,
         "geo": "GB",
         "printable": false,
