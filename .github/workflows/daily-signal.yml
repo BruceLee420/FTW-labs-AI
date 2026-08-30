@@ -1,0 +1,59 @@
+name: Daily signal refresh
+
+# Pulls fresh market signal every morning and commits it back to the repo,
+# which triggers a Pages redeploy so the live site shows new data each day.
+#
+# Runs fine with NO secrets configured — Google Trends needs no auth, so the
+# pipeline always produces something. Add the optional secrets below and the
+# matching sources light up automatically on the next run:
+#
+#   YOUTUBE_API_KEY  - Google Cloud API key with YouTube Data API v3 enabled
+#   PRINTFUL_TOKEN   - Printful private access token
+#
+# Repo Settings -> Secrets and variables -> Actions -> New repository secret.
+
+on:
+  schedule:
+    # 11:00 UTC daily (~4am PT / 7am ET) so the brief is ready before the
+    # working day. GitHub's scheduler can lag under load; that's expected.
+    - cron: "0 11 * * *"
+  workflow_dispatch: # lets you trigger a run by hand from the Actions tab
+
+# Needed so the job can commit the refreshed data back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-signal
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch signals
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          PRINTFUL_TOKEN: ${{ secrets.PRINTFUL_TOKEN }}
+          TRENDS_GEOS: "US,GB,CA,AU"
+        run: node scripts/fetch-signals.mjs
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "ftw-signal-bot"
+          git config user.email "actions@github.com"
+          git add data/signals
+          if git diff --staged --quiet; then
+            echo "No signal changes today — nothing to commit."
+          else
+            git commit -m "chore(signals): daily refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi

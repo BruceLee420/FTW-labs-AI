@@ -1,0 +1,1299 @@
+{
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T11:26:38.779Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0
+  },
+  "trends": [
+    {
+      "title": "us open tennis 2026",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Sun, 30 Aug 2026 04:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "U.S. Open storylines: Two long title waits converge as Williams sisters return to New York",
+          "url": "https://www.nytimes.com/athletic/7535566/2026/08/29/us-open-tennis-2026-guide-storylines/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Carlos Alcaraz, Alexander Zverev lead men’s singles draw at the 2026 US Open",
+          "url": "https://www.usopen.org/en_US/news/articles/2026-08-27/carlos_alcaraz_alexander_zverev_lead_mens_singles_draw_at_the_2026_us_open.html",
+          "source": "US Open Tennis"
+        },
+        {
+          "title": "The Sky Sports Tennis panel pick their winners and dark horses ahead of the final Grand Slam of 2026 at the US Open.",
+          "url": "https://www.skysports.com/tennis/news/35554/13577528/us-open-predictions-carlos-alcaraz-and-coco-gauff-the-sky-sports-tennis-panel-pick-their-winners-and-dark-horses-ahead-of-the-grand-slam-in-new-york",
+          "source": "Sky Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "cavan sullivan",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sun, 30 Aug 2026 03:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "U.S. teen Cavan Sullivan makes MLS history with latest goal",
+          "url": "https://www.espn.com/soccer/story/_/id/49768706/cavan-sullivan-philadelphia-union-mls-history",
+          "source": "ESPN"
+        },
+        {
+          "title": "Cavan Sullivan wonder goal fuels USMNT call-up talk",
+          "url": "https://www.mlssoccer.com/news/cavan-sullivan-wonder-goal-fuels-usmnt-call-up-talk",
+          "source": "MLSsoccer.com"
+        },
+        {
+          "title": "Cavan Sullivan’s wondergoal helps the Union to a 3-1 rout of Red Bull New York",
+          "url": "https://www.inquirer.com/soccer/union-red-bull-new-york-score-cavan-sullivan-highlight-goal-neil-pierre-20260829.html",
+          "source": "Inquirer.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "yosemite national park",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sun, 30 Aug 2026 03:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Trump administration faces pushback after looking to privatize land on Yosemite National Park",
+          "url": "https://www.cnn.com/2026/08/29/politics/yosemite-national-park-trump-administration",
+          "source": "CNN"
+        },
+        {
+          "title": "Trump administration weighs Yosemite land swap for private developer’s access road",
+          "url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Lanny Davis Cites Possible Decision by Yosemite Park Service Staff for Favorable Environmental Reasons To Reduce Auto Pollution a Minor Land Swap With No Effect on Yosemite Parklands",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/4340580/lanny-davis-cites-possible-decision-by-yosemite-park-service-staff-for-favorable-environmental-reasons-to-reduce-auto-pollution-a-minor-land-swap-with-no-effect-on-yosemite-parklands/",
+          "source": "The Globe and Mail"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "coogee shark attack",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sun, 30 Aug 2026 04:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Shark attack survivor ‘fought like hell to be here’ for daughter",
+          "url": "https://www.smh.com.au/national/nsw/shark-attack-survivor-fought-like-hell-to-be-here-for-daughter-20260828-p60sgn.html",
+          "source": "SMH.com.au"
+        },
+        {
+          "title": "‘You ugly f---er’: Leah Stewart’s incredible survival as four-metre shark attacked on Coogee Beach",
+          "url": "https://www.nine.com.au/australia-news/60-minutes/leah-stewart-coogee-beach-shark-attack-60-minutes-interview-sydney-mums-incredible-survival-four-metre-great-white-shark-attack-20260828-p60sim.html",
+          "source": "Nine.com.au"
+        },
+        {
+          "title": "Leah Stewart: Australian shark attack victim grateful for 'second chance at life'",
+          "url": "https://www.bbc.com/news/articles/c87n792dnlno",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "orioles",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 03:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Orioles-Athletics lineups and notes before second game of series in Sacramento",
+          "url": "https://www.masnsports.com/blog/entry/orioles-athletics-lineups-and-notes-before-second-game-of-series-in-sacramento/",
+          "source": "MASN"
+        },
+        {
+          "title": "Jack Perkins' outing against the Orioles",
+          "url": "https://www.mlb.com/video/jack-perkins-outing-against-the-orioles-x3364",
+          "source": "MLB.com"
+        },
+        {
+          "title": "Game #135: Orioles at Athletics Game Thread",
+          "url": "https://www.athleticsnation.com/athletics-game-information/108921/game-135-orioles-at-athletics-game-thread",
+          "source": "Athletics Nation"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from masnsports.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "nasa",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 04:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Roman Space Telescope Mission",
+          "url": "https://www.spacex.com/launches/roman",
+          "source": "SpaceX"
+        },
+        {
+          "title": "NASA Roman Space Telescope: Second Stage Fueling at 6:51 a.m. EDT",
+          "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-roman-space-telescope-second-stage-fueling-at-651-a-m-edt/",
+          "source": "NASA Science (.gov)"
+        },
+        {
+          "title": "Roman Space Telescope, NASA’s next ‘great observatory,’ poised for Sunday launch",
+          "url": "https://spaceflightnow.com/2026/08/29/roman-space-telescope-nasas-next-great-observatory-poised-for-sunday-launch/",
+          "source": "Spaceflight Now"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "united states customs and border protection",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 03:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "After 3 weeks, Customs and Border Protection declines to explain why Taha Tariq ’28 was denied reentry to U.S.",
+          "url": "https://www.thedartmouth.com/article/2026/08/after-3-weeks-customs-and-border-protection-declines-to-explain-why-taha-tariq-28-was-denied-reentry-to-u-s",
+          "source": "The Dartmouth"
+        },
+        {
+          "title": "Airline Passengers Face Fewer Bag Checkpoints, Thanks to PNNL, Partners",
+          "url": "https://www.newswise.com/doescience/airline-passengers-face-fewer-bag-checkpoints-thanks-to-pnnl-partners",
+          "source": "Newswise"
+        },
+        {
+          "title": "U.S. Customs And Border Protection Plans Passport-Free Checks At All U.S. Airports",
+          "url": "https://www.thetravel.com/us-customs-and-border-protection-plans-passport-free-checks-at-all-us-airports/",
+          "source": "TheTravel"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"united\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "olg",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 03:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Lotto Max winning numbers for Friday, August 28 are out and there's a $10 million jackpot",
+          "url": "https://ca.news.yahoo.com/lotto-max-winning-numbers-friday-134855896.html",
+          "source": "Yahoo News Canada"
+        },
+        {
+          "title": "Did anyone win the lottery last night in Canada?",
+          "url": "https://www.insauga.com/did-anyone-win-the-lottery-last-night-in-canada/",
+          "source": "INsauga"
+        },
+        {
+          "title": "Check your tickets! $100,000 ticket sold in North Bay",
+          "url": "https://www.baytoday.ca/local-news/check-your-tickets-100000-ticket-sold-in-north-bay-12707580",
+          "source": "BayToday.ca"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "collingwood western bulldogs 2026 afl",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 03:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "$3m fix for flaw that cost Magpies wildcard; horror sign winners will flop next week",
+          "url": "https://www.foxsports.com.au/afl/afl-2026-wildcard-finals-talking-points-analysis-collingwoods-3-million-problem-costs-them-bulldogs-final-wildcard-winners-no-chance-in-elimination-finals-based-on-vfl-results/news-story/9ede582a76f685e5682d2fd311aadeed",
+          "source": "Fox Sports"
+        },
+        {
+          "title": "'Don't carry it': McRae's message to heartbroken Membrey",
+          "url": "https://www.afl.com.au/news/1596215/dont-carry-it-collingwood-magpies-coach-craig-mcraes-message-to-heartbroken-tim-membrey",
+          "source": "afl.com.au"
+        },
+        {
+          "title": "'We've got a bit of wind in our sails'",
+          "url": "https://www.westernbulldogs.com.au/news/2114908/weve-got-a-bit-of-wind-in-our-sails",
+          "source": "westernbulldogs.com.au"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"afl\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "apple tv",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 03:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Apple TV raises prices without offering an ad tier, testing how much viewers will pay",
+          "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-28/apple-tv-hikes-its-subscription-fee-in-u-s-effective-immediately",
+          "source": "Los Angeles Times"
+        },
+        {
+          "title": "‘Ted Lasso,’ ‘Widow’s Bay’ And ‘Severance’ Get Expensive As Apple TV Raises Prices",
+          "url": "https://www.forbes.com/sites/paultassi/2026/08/28/ted-lasso-widows-bay-and-severance-get-expensive-as-apple-tv-raises-prices/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Another Streamer With 45 Million Subscribers Is Raising Prices Effective Immediately",
+          "url": "https://www.imdb.com/news/ni65991958/?ref_=nmnw_art_perm",
+          "source": "IMDb"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "bitcoin",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 03:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Bitcoin ETF inflows snap after $3 billion streak as ETH, XRP and Solana keep buying",
+          "url": "https://cryptoslate.com/bitcoin-etf-inflows-snap-after-3-billion-streak-as-eth-xrp-and-solana-keep-buying/",
+          "source": "CryptoSlate"
+        },
+        {
+          "title": "Over $900M Pours Into Bitcoin ETFs While Ethereum Funds Extend Impressive Streak",
+          "url": "https://cryptopotato.com/over-900m-pours-into-bitcoin-etfs-while-ethereum-funds-extend-impressive-streak/",
+          "source": "CryptoPotato"
+        },
+        {
+          "title": "CoinShares Reports $1.65B in Weekly Crypto Fund Inflows as Bitcoin Leads",
+          "url": "https://www.kucoin.com/news/flash/coinshares-reports-1-65b-in-weekly-crypto-fund-inflows-as-bitcoin-leads",
+          "source": "KuCoin"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "practical magic 2",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 30 Aug 2026 03:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "‘Practical Magic 2’ Press Tour: Witchy Style From Nicole Kidman, Sandra Bullock and More",
+          "url": "https://wwd.com/pop-culture/celebrity-news/gallery/practical-magic-2-press-tour-celebrity-style-photos-1239165948/",
+          "source": "WWD"
+        },
+        {
+          "title": "Why thousands are in a frenzy over this Nicole Kidman video",
+          "url": "https://www.nine.com.au/entertainment/celebrity/nicole-kidman-video-tiktok-debut-sends-thousands-into-frenzy-20260828-p60sdk.html",
+          "source": "Nine.com.au"
+        },
+        {
+          "title": "Star flashes undies at huge film premiere",
+          "url": "https://www.news.com.au/entertainment/celebrity-style/red-carpet/practical-magic-2-stars-wow-on-blue-carpet-at-films-world-premiere-in-london/image-gallery/80e789165a895176d0a4d63355d19c1e",
+          "source": "News.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"tour\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "harlan coben",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 04:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Harlan Coben’s 6-Part Thriller With 83% On RT Remains a Perfect One-Night Binge",
+          "url": "https://movieweb.com/harlan-coben-binge-just-one-look/",
+          "source": "MovieWeb"
+        },
+        {
+          "title": "“Better than Fool Me Once”: 7 “terrific” Harlan Coben-style thrillers to watch on ITV, Netflix, the BBC & more",
+          "url": "https://www.goodhousekeeping.com/uk/lifestyle/a73519943/harlan-coben-style-thrillers-to-watch-now/",
+          "source": "Good Housekeeping"
+        },
+        {
+          "title": "6 Years Later, Harlan Coben's 6-Part Netflix Thriller Remains A Perfect One-Night Binge",
+          "url": "https://screenrant.com/the-woods-harlan-coben-netflix-miniseries-binge/",
+          "source": "ScreenRant"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "phillies game",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 04:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Angels get game-saving HR robbery vs. Phillies, then give up go-ahead grand slam",
+          "url": "https://sports.yahoo.com/mlb/article/angels-get-game-saving-hr-robbery-vs-phillies-then-give-up-go-ahead-grand-slam-044127978.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Wow! Edmundo Sosa does it again as Phillies slam Angels in ninth",
+          "url": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/edmundo-sosa-angels-bryson-stott-andrew-painter/748622/",
+          "source": "NBC Sports Philadelphia"
+        },
+        {
+          "title": "Phillies 5-3 Angels (Aug 28, 2026) Game Recap",
+          "url": "https://www.espn.com/mlb/recap/_/gameId/401816716",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "ndiaye",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Tottenham reach agreement to sign Iliman Ndiaye with Richarlison heading back to Everton",
+          "url": "https://www.nytimes.com/athletic/7335094/2026/08/30/iliman-ndiaye-richarlison-tottenham-everton/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Iliman Ndiaye and Richarlison transfer news: Tottenham and Everton in advanced talks over separate deals",
+          "url": "https://www.skysports.com/football/news/11095/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Arsenal and Man City could have transfer showdown for £80m-rated Premier League forward",
+          "url": "https://talksport.com/football/4541481/arsenal-man-city-transfer-showdown-iliman-ndiaye-everton/",
+          "source": "talkSPORT"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "météo",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Météo Pays de la Loire : que vous réserve la semaine ?",
+          "url": "https://actus.meteocity.com/previsions-meteo/meteo-pays-de-la-loire-que-vous-reserve-la-semaine-11996",
+          "source": "Météocity"
+        },
+        {
+          "title": "Météo. Les prévisions météorologiques du dimanche 30 août 2026 à Nantes et ses environs",
+          "url": "https://www.ouest-france.fr/meteo/pays-de-la-loire/nantes-44000/la-meteo-du-jour-a-nantes-b60a9788-4b86-4f8e-a558-9bfc3b741a72",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "Quelle météo pour le dernier week-end des vacances ? Oubliez les 30 °C, la Loire-Atlantique passe en mode automne",
+          "url": "https://www.ouest-france.fr/meteo/quelle-meteo-pour-le-dernier-week-end-des-vacances-oubliez-les-30-c-la-loire-atlantique-passe-en-mode-automne-498272f4-a2be-11f1-8465-547a0964275c",
+          "source": "Ouest-France"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"météo\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "tyler bindon",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 04:10:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Tyler Bindon joins the Addicks",
+          "url": "https://www.cafc.co.uk/news/tyler-bindon-joins-addicks",
+          "source": "Charlton Athletic Football Club"
+        },
+        {
+          "title": "Nottingham Forest defender 'on verge' of Championship return after Sheffield United loan",
+          "url": "https://www.yorkshirepost.co.uk/sport/football/sheffield-united-tyler-bindon-nottingham-forest-charlton-athletic-8947828",
+          "source": "Yorkshire Post"
+        },
+        {
+          "title": "Charlton Athletic See Off Watford For Defender",
+          "url": "https://insidefutbol.com/2026/08/28/charlton-athletic-close-in-on-watford-target/725452/",
+          "source": "Inside Futbol"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"united\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "minsu kim",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 04:10:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Kim Min-su: Rangers bolster wing options with signing of Girona winger",
+          "url": "https://www.bbc.com/sport/football/articles/cd79n34g474o",
+          "source": "BBC"
+        },
+        {
+          "title": "Forget England, Kim Min-su turns Korean attention to Scotland",
+          "url": "https://www.koreatimes.co.kr/sports/20260828/forget-england-kim-min-su-turns-korean-attention-to-scotland",
+          "source": "The Korea Times"
+        },
+        {
+          "title": "Derek McInnes provides fresh Rangers transfer update after European victory",
+          "url": "https://www.glasgowtimes.co.uk/sport/26483187.derek-mcinnes-gives-rangers-transfer-update-euro-win/",
+          "source": "Glasgow Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "rosenheim",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 04:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Polizei nimmt Verdächtigen fest: Frau (31) am Bahnhof Rosenheim erstochen",
+          "url": "https://www.bild.de/news/verdaechtiger-festgenommen-britin-am-rosenheimer-bahnhof-erstochen-6a93dd43d88567044d849d35",
+          "source": "BILD"
+        },
+        {
+          "title": "Messerangriff am Bahnhof Rosenheim: 31-Jährige erliegt Verletzungen – Polizei sucht Zeugen",
+          "url": "https://www.t-online.de/nachrichten/panorama/kriminalitaet/id_101411600/messerangriff-in-rosenheim-31-jaehrige-stirbt-27-jaehriger-festgenommen.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "Festnahme am Tatort: 31 Jahre alte Britin in Bahnhof in Rosenheim erstochen",
+          "url": "https://www.n-tv.de/panorama/31-Jahre-alte-Britin-in-Bahnhof-in-Rosenheim-erstochen-id31247664.html",
+          "source": "n-tv.de"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "motogp",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 04:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Marc Marquez retaliates to hold off Alex Marquez for Aragon gold",
+          "url": "https://www.motogp.com/en/news/2026/08/29/marc-marquez-retaliates-to-hold-off-alex-marquez-for-aragon-gold/1087036",
+          "source": "motogp.com"
+        },
+        {
+          "title": "Winners and losers from MotoGP's Aragon sprint",
+          "url": "https://www.the-race.com/motogp/winners-and-losers-from-motogps-aragon-sprint/",
+          "source": "The Race"
+        },
+        {
+          "title": "Marc Marquez reveals “risky” Turn 1 plan to beat Marco Bezzecchi in Aragon GP sprint",
+          "url": "https://www.motorsport.com/motogp/news/marc-marquez-reveals-risky-turn-1-plan-to-beat-marco-bezzecchi-in-aragon-gp-sprint/10850509/",
+          "source": "Motorsport.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "eastbourne pier",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Eastbourne Pier evacuated as crews tackle fire",
+          "url": "https://www.bbc.co.uk/news/articles/cr4vrpk51vyo",
+          "source": "BBC"
+        },
+        {
+          "title": "Fire breaks out at Eastbourne Pier",
+          "url": "https://www.sussexexpress.co.uk/news/emergency-incident/fire-breaks-out-at-eastbourne-pier-8949979",
+          "source": "SussexWorld"
+        },
+        {
+          "title": "Fire crews battling blaze at iconic Eastbourne Pier",
+          "url": "https://www.lbc.co.uk/article/eastbourne-pier-fire-sussex-5Hjdgfx_2/",
+          "source": "LBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "psv",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "PSV op verdiende voorsprong tegen Utrecht • Van Bommel en Til poetsen achterstand weg",
+          "url": "https://nos.nl/liveblog/2628897-psv-op-verdiende-voorsprong-tegen-utrecht-van-bommel-en-til-poetsen-achterstand-weg",
+          "source": "NOS"
+        },
+        {
+          "title": "LIVE Eredivisie | PSV razendsnel op achterstand tegen FC Utrecht na doelpunt Artem Stepanov",
+          "url": "https://www.telegraaf.nl/sport/voetbal/live-eredivisie-psv-razendsnel-op-achterstand-tegen-fc-utrecht-na-doelpunt-artem-stepanov/160703003.html",
+          "source": "De Telegraaf"
+        },
+        {
+          "title": "PSV-supporters zijn eigen speler spuugzat: ‘Het is klaar, weg ermee!’",
+          "url": "https://www.fcupdate.nl/voetbalnieuws/2026/08/psv-supporters-zijn-eigen-speler-spuugzat-het-is-klaar-weg-ermee",
+          "source": "FCUpdate.nl"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"fc\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "mohammad abbas",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Mohammad Abbas takes five-wicket haul for Pakistan against England at Lord's",
+          "url": "https://www.skysports.com/cricket/video/30998/13578982/mohammad-abbas-takes-five-wicket-haul-for-pakistan-against-england-at-lords",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "England v Pakistan Second Test: Dan Lawrence is eventually removed by Muhammad Abbas",
+          "url": "https://www.bbc.com/sport/cricket/videos/cew9xpyxydgo",
+          "source": "BBC"
+        },
+        {
+          "title": "Mohammad Abbas Breaks Waqar Younis' Record With 5-Wicket Haul At Lord's",
+          "url": "https://www.news18.com/cricket/mohammad-abbas-becomes-7th-pakistani-to-take-five-wicket-haul-in-test-at-lords-ws-l-10300639.html",
+          "source": "News18"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ryan jack",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:30:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Transfer interest in Nicolas Raskin 'stepped up' as Rangers midfielder misses Jablonec trip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqjkrg54wwko",
+          "source": "BBC"
+        },
+        {
+          "title": "McInnes gives latest on Nico Raskin transfer situation after he missed Rangers clash",
+          "url": "https://www.heraldscotland.com/sport/football/26502671.derek-mcinnes-gives-latest-nico-raskin-transfer-situation/",
+          "source": "The Herald"
+        },
+        {
+          "title": "Here are 10 players who could leave Rangers before the transfer deadline - including midfield trio",
+          "url": "https://www.scotsman.com/sport/football/rangers/rangers-transfers-10-players-who-could-leave-ibrox-ahead-of-deadline-day-including-midfield-trio-8940126",
+          "source": "The Scotsman"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "us open",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 04:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Novak Djokovic feels ‘as best as I can be’ before tilt at 25th grand slam title in New York",
+          "url": "https://www.theguardian.com/sport/2026/aug/29/novak-djokovic-in-good-shape-as-he-aims-for-25th-grand-slam-title-in-new-york",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Novak Djokovic hopes losing early at Cincinnati has him more prepared for the US Open",
+          "url": "https://www.thestar.com/sports/tennis/novak-djokovic-hopes-losing-early-at-cincinnati-has-him-more-prepared-for-the-us-open/article_482c4baa-906b-54de-a998-f0983df7d1cd.html",
+          "source": "Toronto Star"
+        },
+        {
+          "title": "Djokovic 'prepared' for US Open bid for history",
+          "url": "https://www.france24.com/en/live-news/20260829-djokovic-prepared-for-us-open-bid-for-history",
+          "source": "France 24"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "us open tennis",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 04:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "U.S. Open storylines: Two long title waits converge as Williams sisters return to New York",
+          "url": "https://www.nytimes.com/athletic/7535566/2026/08/29/us-open-tennis-2026-guide-storylines/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Carlos Alcaraz, Alexander Zverev lead men’s singles draw at the 2026 US Open",
+          "url": "https://www.usopen.org/en_US/news/articles/2026-08-27/carlos_alcaraz_alexander_zverev_lead_mens_singles_draw_at_the_2026_us_open.html",
+          "source": "US Open Tennis"
+        },
+        {
+          "title": "Alcaraz looks for 3rd US Open title in 5 years while Djokovic seeks 25th Grand Slam",
+          "url": "https://www.tsn.ca/tennis/video/2026/08/28/alcaraz-looks-for-3rd-us-open-title-in-5-years-while-djokovic-seeks-25th-grand-slam/",
+          "source": "TSN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "nasa",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Roman Space Telescope Mission",
+          "url": "https://www.spacex.com/launches/roman",
+          "source": "SpaceX"
+        },
+        {
+          "title": "Nancy Grace Roman Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
+          "url": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-30-2026",
+          "source": "Space"
+        },
+        {
+          "title": "NASA is launching the Nancy Grace Roman Space Telescope. Here are just a few of the wonders it will reveal",
+          "url": "https://www.cbc.ca/news/science/nancy-grace-roman-space-telescope-9.7324030",
+          "source": "CBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "le journal de montréal",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "La mairesse de Montréal dévoile sa playlist personnelle pour débuter septembre du bon pied",
+          "url": "https://www.journaldemontreal.com/2026/08/30/la-mairesse-de-montreal-devoile-sa-playlist-personnelle-pour-debuter-septembre-du-bon-pied",
+          "source": "Le Journal de Montréal"
+        },
+        {
+          "title": "Souvent proposée, la réduction de la fonction publique n'a jamais été réussie",
+          "url": "https://www.journaldemontreal.com/2026/08/29/on-a-souvent-promis-mais-jamais-reduit-la-taille-de-la-fonction-publique",
+          "source": "Le Journal de Montréal"
+        },
+        {
+          "title": "Réformer l'État, simplifier les normes, améliorer la compétitivité publique",
+          "url": "https://atlantico.fr/article/decryptage/faut-il-reduire-le-nombre-de-fonctionnaires-a-tout-prix-politique-comme-le-veut-le-medef-et-sy-casser-les-dents-ou-les-neutraliser-et-optimiser-leur-cout",
+          "source": "Atlantico"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "aberdeen vs rangers",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 04:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Aberdeen vs Rangers: Scottish Premiership radio commentary, updates & report",
+          "url": "https://www.bbc.com/sport/football/live/cjn5dz4dr27kt",
+          "source": "BBC"
+        },
+        {
+          "title": "Sunday's Scottish Premiership LIVE: Aberdeen v Rangers, Dundee v Hibernian and St Mirren v Motherwell",
+          "url": "https://www.bbc.co.uk/sport/football/live/crvgynljq3ddt",
+          "source": "BBC"
+        },
+        {
+          "title": "Supporter Information: Aberdeen (A)",
+          "url": "https://www.rangers.co.uk/article/supporter-information-aberdeen-a-290826/6W5MnjCzOSu6u5KUCGZqxW",
+          "source": "Rangers Football Club"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "bruno mars presale",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Bruno Mars: The Romantic Tour",
+          "url": "https://www.accorstadium.com.au/events/bruno_mars_the_romantic_tour_show_1",
+          "source": "Accor Stadium"
+        },
+        {
+          "title": "How to get tickets for Bruno Mars in Melbourne: presale, dates and everything you need to know",
+          "url": "https://www.timeout.com/melbourne/news/how-to-get-tickets-for-bruno-mars-in-melbourne-presale-dates-and-everything-you-need-to-know-082726",
+          "source": "Time Out Worldwide"
+        },
+        {
+          "title": "Bruno Mars sits down to discuss his Australian tour",
+          "url": "https://www.nine.com.au/entertainment/videos/bruno-mars-sits-down-to-discuss-his-australian-tour/cmtc3giin002l0hmr3g8r1amr",
+          "source": "Nine.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"tour\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "wanted",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 30 Aug 2026 03:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Jesus Acosta arrested, charged with murder after NYPD manhunt in 2 shootings in Bronx, Brooklyn",
+          "url": "https://abc7ny.com/post/jesus-acosta-arrested-nypd-manhunt-2-deadly-nyc-shootings-bronx-brooklyn/19759331/",
+          "source": "ABC7 New York"
+        },
+        {
+          "title": "Alleged robber wanted for fatally shooting two men in the Bronx and Brooklyn taken into custody: sources",
+          "url": "https://www.amny.com/new-york/bronx/alleged-robber-fatal-shootings-bronx-brooklyn-arrested/",
+          "source": "amNewYork"
+        },
+        {
+          "title": "NYPD arrests Bronx man in connection with 2 fatal NYC shootings",
+          "url": "https://gothamist.com/news/nypd-arrests-bronx-man-in-connection-with-2-fatal-nyc-shootings",
+          "source": "Gothamist"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"shooting\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "mlb playoff picture",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 04:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "5 postseason dark horses -- if they make the field",
+          "url": "https://www.mlb.com/news/underachieving-teams-playoff-dark-horses",
+          "source": "MLB.com"
+        },
+        {
+          "title": "MLB 2026: Breaking down AL West, wild-card playoff races",
+          "url": "https://www.espn.com/mlb/story/_/id/49724506/mlb-2026-playoffs-american-league-west-wild-card-races",
+          "source": "ESPN"
+        },
+        {
+          "title": "The American League Playoff Race Is Even Sadder Than You Think",
+          "url": "https://www.si.com/mlb/2026-american-league-playoff-race-historically-bad",
+          "source": "Sports Illustrated"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from mlb.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "hailee steinfeld",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 04:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Josh Allen Reveals His and Hailee Steinfeld's Late-Night Hobby Between Baby Feedings",
+          "url": "https://www.si.com/onsi/athlete-lifestyle/josh-allen-reveals-hailee-steinfeld-late-night-hobby-between-baby-feedings",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "The late-night habit Josh Allen and Hailee Steinfeld picked up since welcoming baby Harper is adorably ne",
+          "url": "https://timesofindia.indiatimes.com/sports/nfl/news/the-late-night-habit-josh-allen-and-hailee-steinfeld-picked-up-since-welcoming-baby-harper-is-adorably-nerdy/articleshow/133602429.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Hailee Steinfeld Shares Rare Photo from Cheering on Husband Josh Allen at Bills Game",
+          "url": "https://people.com/hailee-steinfeld-shares-rare-photo-cheering-husband-josh-allen-bills-game-12071578",
+          "source": "People.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "zohran mamdani teachers union lawsuit",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 03:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Mamdani Clashes With Teachers Union, Citing Fiscal Constraints",
+          "url": "https://www.wsj.com/us-news/education/mamdani-clashes-with-teachers-union-citing-fiscal-constraints-0ee698a3",
+          "source": "WSJ"
+        },
+        {
+          "title": "Mamdani friends turns foe, as NYC teachers union tries to block his suit over teaching assistants’ 10k pay bump",
+          "url": "https://nypost.com/2026/08/26/us-news/uft-challenges-mamdani-in-court-over-teaching-assistants-10k-pay-bump/",
+          "source": "New York Post"
+        },
+        {
+          "title": "School Aides’ $10,000 Pay Bump Becomes Law; City Hall Vows Legal Challenge",
+          "url": "https://www.ourtownny.com/home/school-aides-10000-pay-bump-becomes-law-city-hall-vows-legal-challenge-YD6137111",
+          "source": "OurTownNY"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"city\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"lawsuit\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "quinten timber",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 03:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Marseille’s Quinten Timber agrees to Crystal Palace move",
+          "url": "https://www.getfootballnewsfrance.com/2026/marseilles-quinten-timber-agrees-to-crystal-palace-move/",
+          "source": "Get French Football News"
+        },
+        {
+          "title": "Arsenal star Jurrien Timber's twin brother tipped to join him in Premier League as club eye transfer",
+          "url": "https://www.thesun.co.uk/sport/40162735/transfer-news-crystal-palace-quinten-timber/",
+          "source": "The Sun"
+        },
+        {
+          "title": "Journalist: Aston Villa in the race to sign talented midfielder",
+          "url": "https://onefootball.com/en/news/journalist-aston-villa-in-the-race-to-sign-talented-midfielder-43335771",
+          "source": "OneFootball"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"premier league\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "kent hughes",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 04:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Flambée des salaires dans la LNH: Kent Hughes passe encore pour un génie",
+          "url": "https://www.journaldemontreal.com/2026/08/27/flambee-des-salaire-dans-la-lnh-kent-hughes-passe-encore-pour-un-genie",
+          "source": "Le Journal de Montréal"
+        },
+        {
+          "title": "Contrat de huit ans et 163,2 millions $ pour Makar avec l’Avalanche",
+          "url": "https://www.nhl.com/fr/news/avalanche-colorado-contrat-cale-makar-huit-ans",
+          "source": "NHL.com"
+        },
+        {
+          "title": "Makar secoue à son tour les normes contractuelles",
+          "url": "https://www.rds.ca/hockey/lnh/videos/2026/08/29/makar-secoue-a-son-tour-les-normes-contractuelles/",
+          "source": "RDS"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nhl.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "toronto",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 03:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Man injured in stabbing near Toronto waterfront, police say suspect fled the area",
+          "url": "https://www.cp24.com/local/toronto/2026/08/30/man-injured-in-stabbing-near-toronto-waterfront-police-say-suspect-fled-the-area/",
+          "source": "CP24"
+        },
+        {
+          "title": "Man seriously injured in Queens Quay stabbing",
+          "url": "https://toronto.citynews.ca/2026/08/29/man-seriously-injured-in-queens-quay-stabbing/",
+          "source": "CityNews Toronto"
+        },
+        {
+          "title": "Man in his 40s critically injured in downtown Toronto stabbing",
+          "url": "https://www.ctvnews.ca/toronto/article/man-in-his-40s-critically-injured-in-downtown-toronto-stabbing/",
+          "source": "CTV News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "apple iphone 18 pro max",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 03:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "iPhone 18 Pro pre-orders might start later than usual this year",
+          "url": "https://www.macworld.com/article/3222711/iphone-18-pro-pre-orders-later-than-usual.html",
+          "source": "Macworld"
+        },
+        {
+          "title": "Apple’s Foldable iPhone Will Help Bring Some Magic Back",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
+          "url": "https://www.gsmarena.com/heres_when_the_iphone_18_pro_and_iphone_18_pro_max_are_rumored_to_go_on_preorder-news-74398.php",
+          "source": "GSMArena.com"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "richarlison",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 03:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Tottenham transfer news: Richarlison, Kevin Danso and Pape Matar Sarr ask to leave",
+          "url": "https://www.bbc.com/sport/football/articles/crl631pgxj7o",
+          "source": "BBC"
+        },
+        {
+          "title": "Tottenham's De Zerbi: Richarlison, Danso, Sarr have asked to leave",
+          "url": "https://www.espn.com.au/football/story/_/id/49765158/tottenham-roberto-de-zerbi-richarlison-kevin-danso-pape-sarr",
+          "source": "ESPN"
+        },
+        {
+          "title": "De Zerbi revela los jugadores del Tottenham que quieren salir: \"Tienen que traer la solución\"",
+          "url": "https://onefootball.com/en/video/de-zerbi-revela-los-jugadores-del-tottenham-que-quieren-salir-tienen-que-traer-la-solucion-43366493",
+          "source": "OneFootball"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "dark matter",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 30 Aug 2026 03:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Roman Space Telescope Mission",
+          "url": "https://www.spacex.com/launches/roman",
+          "source": "SpaceX"
+        },
+        {
+          "title": "NASA Roman Space Telescope: Second Stage Fueling at 6:51 a.m. EDT",
+          "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-roman-space-telescope-second-stage-fueling-at-651-a-m-edt/",
+          "source": "NASA Science (.gov)"
+        },
+        {
+          "title": "Roman Space Telescope, NASA’s next ‘great observatory,’ poised for Sunday launch",
+          "url": "https://spaceflightnow.com/2026/08/29/roman-space-telescope-nasas-next-great-observatory-poised-for-sunday-launch/",
+          "source": "Spaceflight Now"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "drawBrief": {
+    "generatedFor": "2026-08-30",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Seasonal spooky",
+      "motifs": [
+        "friendly ghost",
+        "vintage pumpkin label",
+        "black cat crescent"
+      ],
+      "suggestedProducts": [
+        "graphic tee",
+        "sticker",
+        "mug"
+      ],
+      "why": "Evergreen rotation."
+    },
+    "support": {
+      "niche": "Dark academia",
+      "motifs": [
+        "etched owl",
+        "stacked antique books",
+        "marginalia typography"
+      ]
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}

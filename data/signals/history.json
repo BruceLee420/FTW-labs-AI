@@ -1,0 +1,154 @@
+[
+  {
+    "date": "2026-08-30",
+    "topTrends": [
+      {
+        "title": "us open tennis 2026",
+        "traffic": 10000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "cavan sullivan",
+        "traffic": 5000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "yosemite national park",
+        "traffic": 2000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "coogee shark attack",
+        "traffic": 1000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "orioles",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "nasa",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "united states customs and border protection",
+        "traffic": 500,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "olg",
+        "traffic": 500,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "collingwood western bulldogs 2026 afl",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "apple tv",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "bitcoin",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "practical magic 2",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "harlan coben",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "phillies game",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "ndiaye",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "météo",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "tyler bindon",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "minsu kim",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "rosenheim",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "motogp",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      }
+    ],
+    "topVideos": [],
+    "counts": {
+      "trends": 40,
+      "trendsPrintable": 0,
+      "youtube": 0,
+      "printfulBestsellers": 0
+    }
+  }
+]
