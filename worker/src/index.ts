@@ -40,9 +40,11 @@ import {
   enqueue,
   getRow,
   listQueue,
+  publishRow,
   runAutoDeploy,
   setPaused,
 } from "./queue";
+import { beginOAuth, completeOAuth, status as etsyStatus } from "./etsy";
 
 export interface Env {
   DROPS: R2Bucket;
@@ -59,6 +61,21 @@ export interface Env {
   ALLOWED_ORIGIN: string;
   /** Optional: Workers rate-limiting binding. */
   UPLOAD_LIMITER?: { limit(o: { key: string }): Promise<{ success: boolean }> };
+
+  // --- Etsy storefront. See src/etsy.ts and docs/STUDIO_DROP.md.
+  /** KV holding the OAuth tokens and the cached shop id. */
+  ETSY_STORE?: KVNamespace;
+  /** App keystring — a public identifier, not a secret. */
+  ETSY_KEYSTRING?: string;
+  /** Must match the redirect URI registered on the Etsy app exactly. */
+  ETSY_REDIRECT_URI?: string;
+  ETSY_SHOP_ID?: string;
+  ETSY_TAXONOMY_ID?: string;
+  ETSY_QUANTITY?: string;
+  ETSY_WHO_MADE?: string;
+  ETSY_WHEN_MADE?: string;
+  ETSY_SHIPPING_PROFILE_ID?: string;
+  ETSY_RETURN_POLICY_ID?: string;
 }
 
 const MAX_BYTES = 50 * 1024 * 1024;
@@ -81,7 +98,7 @@ const STAGES = new Set(["sketch", "wip", "final"]);
 function cors(env: Env, extra: Record<string, string> = {}): Record<string, string> {
   return {
     "Access-Control-Allow-Origin": env.ALLOWED_ORIGIN,
-    "Access-Control-Allow-Methods": "POST, GET, OPTIONS",
+    "Access-Control-Allow-Methods": "GET, POST, PATCH, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type, X-Drop-Stage, X-Drop-Filename",
     "Access-Control-Allow-Credentials": "true",
     Vary: "Origin",
@@ -280,6 +297,18 @@ async function handleQueue(
     return new Response(JSON.stringify(row), { headers: cors(env, { "Content-Type": "application/json" }) });
   }
 
+  if (request.method === "POST" && action === "/publish") {
+    const row = await getRow(env.DB, id);
+    if (!row) return fail(env, 404, "No such queue item.");
+    // Same code path the cron takes, holds and all — a manual test that
+    // skipped the hold checks would prove nothing about the unattended run.
+    const outcome = await publishRow(env.DB, row, env, identity.email);
+    return new Response(JSON.stringify({ ...outcome, item: await getRow(env.DB, id) }), {
+      status: outcome.ok ? 200 : 409,
+      headers: cors(env, { "Content-Type": "application/json" }),
+    });
+  }
+
   if (request.method === "POST" && action === "/cancel") {
     await cancel(env.DB, id, identity.email);
     return new Response(JSON.stringify({ ok: true }), { headers: cors(env, { "Content-Type": "application/json" }) });
@@ -313,20 +342,69 @@ async function handleFetchFile(key: string, env: Env): Promise<Response> {
   });
 }
 
+/**
+ * Strip the route prefix.
+ *
+ * A Workers route of `ftwlabs.ai/api/studio/*` does NOT rewrite the path — the
+ * Worker still sees `/api/studio/upload`. Matching on `/upload` alone would
+ * therefore 404 every single request once deployed behind the route, while
+ * working fine on a workers.dev URL. Both shapes are normalised here so the
+ * handlers below can match one path.
+ */
+const ROUTE_PREFIX = "/api/studio";
+
+function routePath(pathname: string): string {
+  if (pathname === ROUTE_PREFIX) return "/";
+  if (pathname.startsWith(ROUTE_PREFIX + "/")) return pathname.slice(ROUTE_PREFIX.length);
+  return pathname;
+}
+
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
+    const path = routePath(url.pathname);
 
     if (request.method === "OPTIONS") {
       // Without this the browser's preflight fails and no upload ever lands.
       return new Response(null, { status: 204, headers: cors(env) });
     }
 
+    // THE ONE UNAUTHENTICATED ENDPOINT.
+    //
+    // Etsy redirects the seller's browser here after they approve the app, and
+    // a redirect cannot carry an Access login — so this path must be reachable
+    // without one, and the Access application needs a Bypass policy for it
+    // (see docs/STUDIO_DROP.md). What keeps it safe is the `state`: it is
+    // minted only by /etsy/connect, which IS behind Access, is single-use, and
+    // expires in ten minutes. Without a matching state nothing is written, so
+    // a stranger cannot plant their own Etsy token in our KV.
+    if (path === "/etsy/callback" && request.method === "GET") {
+      const code = url.searchParams.get("code");
+      const state = url.searchParams.get("state");
+      const html = (title: string, body: string, status: number) =>
+        new Response(`<!doctype html><meta charset="utf-8"><title>${title}</title>` +
+          `<body style="font:15px/1.6 system-ui;max-width:34rem;margin:12vh auto;padding:0 1.5rem">` +
+          `<h1 style="font-size:1.2rem">${title}</h1><p>${body}</p></body>`,
+          { status, headers: { "Content-Type": "text/html; charset=utf-8" } });
+
+      if (!code || !state) return html("Etsy sign-in failed", "Etsy did not send back an authorization code.", 400);
+      try {
+        await completeOAuth(env, code, state);
+        return html("Etsy connected", "You can close this tab and go back to the dashboard.", 200);
+      } catch (err) {
+        console.error("[drop] etsy callback failed:", err);
+        // The detail is safe to show: this page is only ever reached by
+        // someone who just completed a sign-in, and a vague error here means
+        // an unfixable dead end.
+        return html("Etsy sign-in failed", err instanceof Error ? err.message : "Unknown error.", 400);
+      }
+    }
+
     // Everything below requires a verified Access identity.
     const identity = await requireAccess(request, env);
     if (!identity) return fail(env, 401, "Not signed in.");
 
-    if (url.pathname === "/upload" && request.method === "POST") {
+    if (path === "/upload" && request.method === "POST") {
       if (env.UPLOAD_LIMITER) {
         // Per-location and eventually consistent by design — abuse dampening,
         // not a quota. Access is the real gate.
@@ -336,16 +414,32 @@ export default {
       return handleUpload(request, env, identity);
     }
 
-    if (url.pathname.startsWith("/f/") && request.method === "GET") {
-      return handleFetchFile(decodeURIComponent(url.pathname.slice(3)), env);
+    if (path.startsWith("/f/") && request.method === "GET") {
+      return handleFetchFile(decodeURIComponent(path.slice(3)), env);
     }
 
-    if (url.pathname.startsWith("/queue")) {
-      const handled = await handleQueue(request, env, identity, url.pathname);
+    if (path.startsWith("/queue")) {
+      const handled = await handleQueue(request, env, identity, path);
       if (handled) return handled;
     }
 
-    if (url.pathname === "/whoami" && request.method === "GET") {
+    // Start the OAuth handshake. Behind Access on purpose: only the signed-in
+    // owner may mint a state, which is what makes the public callback safe.
+    if (path === "/etsy/connect" && request.method === "GET") {
+      try {
+        return Response.redirect(await beginOAuth(env), 302);
+      } catch (err) {
+        return fail(env, 500, err instanceof Error ? err.message : "Could not start Etsy sign-in.", err);
+      }
+    }
+
+    if (path === "/etsy/status" && request.method === "GET") {
+      return new Response(JSON.stringify(await etsyStatus(env)), {
+        headers: cors(env, { "Content-Type": "application/json" }),
+      });
+    }
+
+    if (path === "/whoami" && request.method === "GET") {
       return new Response(JSON.stringify({ email: identity.email }), {
         headers: cors(env, { "Content-Type": "application/json" }),
       });

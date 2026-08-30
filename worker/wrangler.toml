@@ -13,6 +13,13 @@ routes = [
 binding = "DROPS"
 bucket_name = "ftw-studio-drops"
 
+# Etsy OAuth tokens + cached shop id. Reuse the ETSY_STORE namespace you
+# already created — a KV namespace can be bound to more than one Worker, so
+# nothing has to be recreated or migrated.
+[[kv_namespaces]]
+binding = "ETSY_STORE"
+# id = "<from: wrangler kv namespace list>"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "ftw-studio-queue"
@@ -28,9 +35,35 @@ ALLOWED_ORIGIN = "https://ftwlabs.ai"
 # Grace window before a queued piece publishes itself.
 PUBLISH_WINDOW_MINUTES = "120"
 # Master switch for the cron's publish step. Must be exactly "true".
-# Left off until the storefront adapter is genuinely wired and tested —
-# see queue.ts:publishToStore.
+#
+# SHIPS OFF ON PURPOSE. The adapter is wired (Etsy), but flipping this before
+# you have published one listing by hand means the first unattended run is
+# also the first test — against a real storefront, at $0.20 a listing. Use
+# POST /api/studio/queue/<id>/publish to do one deliberately, confirm it looks
+# right on Etsy, then set this to "true".
 PUBLISH_ENABLED = "false"
+
+# --- Etsy storefront -------------------------------------------------------
+# The keystring is a public app identifier, not a secret, so it belongs here
+# rather than in `wrangler secret`. Nothing below is a secret: the OAuth flow
+# is PKCE, which is designed for clients that cannot hold one.
+# ETSY_KEYSTRING = "<your Etsy app keystring>"
+# Must match the redirect URI registered on the Etsy app EXACTLY.
+# ETSY_REDIRECT_URI = "https://ftwlabs.ai/api/studio/etsy/callback"
+#
+# Etsy requires a category on every listing. Find yours in
+# GET /v3/application/seller-taxonomy/nodes (no auth needed).
+# ETSY_TAXONOMY_ID = "<e.g. 1029 for wall decor>"
+#
+# Defaults if unset: quantity 999, who_made "i_did", when_made "made_to_order".
+# who_made is a policy declaration, not a formality — "i_did" is correct when
+# you drew the art, and Etsy separately requires print-on-demand sellers to
+# declare their production partner on the listing.
+# ETSY_QUANTITY = "999"
+# ETSY_WHO_MADE = "i_did"
+# ETSY_WHEN_MADE = "made_to_order"
+# ETSY_SHIPPING_PROFILE_ID = "<from getShopShippingProfiles>"
+# ETSY_RETURN_POLICY_ID = "<from getShopReturnPolicies>"
 # Set these to your Zero Trust values (see docs/STUDIO_DROP.md).
 # ACCESS_TEAM_DOMAIN = "yourteam.cloudflareaccess.com"
 # ACCESS_AUD = "<application audience tag>"

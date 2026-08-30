@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test": "node test/etsy.test.mjs && node test/queue.test.mjs && node test/routing.test.mjs",
+    "pretest": "esbuild src/etsy.ts --bundle --format=esm --platform=neutral --outfile=test/etsy.bundle.mjs --log-level=warning && esbuild src/queue.ts --bundle --format=esm --platform=neutral --outfile=test/queue.bundle.mjs --log-level=warning && esbuild src/index.ts --bundle --format=esm --platform=node --outfile=test/index.bundle.mjs --log-level=warning"
   },
   "dependencies": {
     "jose": "^5.9.6"
@@ -14,6 +16,7 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20260828.1",
     "typescript": "^5.6.3",
-    "wrangler": "^4.36.0"
+    "wrangler": "^4.36.0",
+    "esbuild": "^0.25.0"
   }
 }

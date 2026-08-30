@@ -36,6 +36,12 @@ CREATE TABLE IF NOT EXISTS queue (
   -- creating a duplicate listing.
   external_id     TEXT,
   external_url    TEXT,
+  -- Price at the moment it last went live. Etsy's updateListing cannot change
+  -- price, so a later edit has to be detected and reported rather than
+  -- silently no-op'd against a live listing.
+  -- Already ran an earlier schema.sql? Apply:
+  --   ALTER TABLE queue ADD COLUMN published_price_cents INTEGER;
+  published_price_cents INTEGER,
 
   attempts        INTEGER NOT NULL DEFAULT 0,
   last_error      TEXT,

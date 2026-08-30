@@ -139,6 +139,14 @@ All endpoints require a valid Access JWT (`Cf-Access-Jwt-Assertion`).
 | `POST` | `/upload` | Body is the raw image. Headers: `Content-Type` (png/jpeg/webp), `X-Drop-Stage` (sketch\|wip\|final), `X-Drop-Filename`. Returns `{key, stage, bytes, contentType, url}` |
 | `GET` | `/f/:key` | Serves a stored file with a forced safe content type |
 | `GET` | `/whoami` | Returns the signed-in identity |
+| `POST` | `/queue/:id/publish` | Publish (or re-publish) one item **now**, skipping the countdown. Takes the identical path the cron takes, holds included |
+| `GET` | `/etsy/status` | What's configured, whether Etsy is connected, which shop. Never returns tokens |
+| `GET` | `/etsy/connect` | Starts the Etsy OAuth handshake |
+| `GET` | `/etsy/callback` | **The one endpoint outside Access** — see below |
+
+> Paths are shown relative. Behind the `ftwlabs.ai/api/studio/*` route the real
+> URL is `https://ftwlabs.ai/api/studio/upload` and so on. A Workers route does
+> not strip its own prefix, so the Worker normalises it internally.
 
 Objects carry `customMetadata`: `stage`, `uploadedBy`, `uploadedAt`, and
 `publishEligible` — which is `"true"` only for Final. **The publish pipeline
@@ -190,24 +198,120 @@ npx wrangler d1 execute ftw-studio-queue --file=./schema.sql --remote
 `PUBLISH_ENABLED` must be exactly `"true"` for the cron to publish anything.
 It ships **off**.
 
-## Known blocker — storefront publishing
+## Storefront — Etsy
 
-`queue.ts:publishToStore` is a stub, and `PUBLISH_ENABLED` is `false`.
+### Why Etsy and not Printful
 
-The connected Shopify store currently returns `operation_not_allowed` —
-*"This shop is unavailable for API access. The merchant may need to resolve a
-billing issue or upgrade their plan."* With the store unreachable there's no
-way to observe a real `productCreate` request/response, and shipping a guessed
-mutation would mean the first live run is also the first test.
+The intuitive design is "push the product to Printful and let Printful put it
+on Etsy." That is not available. Printful's Products API is documented as
+operating only on a store using the **Manual order / API** platform — a
+Printful store connected to Etsy is an integration-platform store, so
+`POST /store/products` cannot create listings on it. Printful states the
+general case plainly: the Products API "is not intended and will never support
+creating and managing products in external platforms."
 
-Everything upstream is real and working: drop, queue, edits, holds, timer,
-re-publish. To finish: restore store API access → read the `ProductInput`
-schema → verify against a draft product → implement `publishToStore` → set
+So the listing is created directly through Etsy's Open API v3. Shopify remains
+unavailable (`operation_not_allowed`, a billing/plan state) and is not needed.
+
+### The fulfilment gap — read this before turning publishing on
+
+A listing created through Etsy's API has **no link to a Printful sync product**.
+When it sells, Printful will not auto-fulfil it. The order still reaches
+Printful through the Etsy order sync, but unmatched: for the first order of
+each design you pick the blank and the print file by hand.
+
+No API closes this, because the API that would is the one Printful restricts to
+manual stores. Your options are to match each new design once by hand, or to
+create products in Printful's dashboard and let it push the listings — which
+gives up the automation this pipeline exists for.
+
+### Etsy setup
+
+1. **Create an app** at etsy.com/developers. Note the keystring (a public
+   identifier, not a secret).
+2. **Register the redirect URI** on the app, exactly:
+   `https://ftwlabs.ai/api/studio/etsy/callback`
+3. **Pick a taxonomy id.** Etsy requires a category on every listing. Browse
+   `GET /v3/application/seller-taxonomy/nodes` (no auth needed) and set
+   `ETSY_TAXONOMY_ID`.
+4. **Fill the `[vars]`** in `wrangler.toml` — none of them are secrets. The
+   OAuth flow is PKCE, which exists precisely for clients that cannot hold one.
+5. **Bind the KV namespace.** Reuse the existing `ETSY_STORE` namespace; a KV
+   namespace can be bound to more than one Worker, so nothing needs migrating.
+6. **Deploy, then visit `/api/studio/etsy/connect`** and approve. The Review
+   Queue shows the shop id once it works.
+
+### The callback has to sit outside Access
+
+Etsy redirects a browser back to `/etsy/callback`, and a redirect cannot carry
+a Cloudflare Access login — so that one path must be reachable without one. In
+Zero Trust, add a **second** application for the exact path
+`api/studio/etsy/callback` with a policy of **Bypass → Everyone**. The more
+specific path wins, and everything else stays gated.
+
+What keeps that endpoint safe is the `state` parameter: it is minted only by
+`/etsy/connect`, which *is* behind Access; it is single-use; and it expires in
+ten minutes. Without a matching state nothing is written, so a stranger walking
+the callback cannot plant their own Etsy token in your KV.
+
+> This is the narrow, correct version of "turn Access off for the callback."
+> It does not extend to `/upload` — an ungated upload endpoint is an open
+> bucket for anyone who finds the URL.
+
+### What publishing actually does
+
+Three calls, in an order that is not arbitrary. Etsy's spec on
+`updateListing.state`: *"Setting a `draft` listing to `active` will also
+publish the listing on etsy.com and requires that the listing have an image
+set."* Activating before the image lands therefore fails.
+
+1. `POST /shops/{shop_id}/listings` — create the draft
+   (**`application/x-www-form-urlencoded`, not JSON** — the easiest way to earn
+   a 400 on the first real run)
+2. `POST .../listings/{id}/images` — attach the artwork from R2 (multipart)
+3. `PATCH .../listings/{id}` with `state=active` — take it live
+
+Every field, enum, method and content type in the adapter was read out of
+Etsy's published OpenAPI document rather than from prose docs, and
+`worker/test/` asserts the outgoing requests against a trimmed copy of that
+spec. Run them with `npm test` in `worker/`.
+
+### Editing a listing that is already live
+
+`updateListing` accepts title, description and tags. It does **not** accept
+price or quantity — those sit behind `updateListingInventory`, which requires
+reading the whole inventory structure back, stripping its read-only fields and
+PUTting it in full. That is not implemented.
+
+A price change on a live listing therefore **fails loudly** rather than
+silently not applying. An edit that looks saved but never reaches the
+storefront is how you end up selling at the old price without knowing.
+
+### Turning it on
+
+`PUBLISH_ENABLED` ships `"false"` on purpose. The adapter is wired, but
+flipping the switch before you have published one listing by hand means the
+first unattended run is also the first test — against a real storefront, at
+Etsy's $0.20 per listing.
+
+Use **Publish now** on a single piece, confirm it looks right on Etsy, then set
 `PUBLISH_ENABLED = "true"`.
+
+### Etsy obligations that are yours, not the code's
+
+- `who_made` defaults to `i_did`, which is correct when you drew the art. It is
+  a policy declaration, not a formality.
+- Etsy separately requires print-on-demand sellers to **declare a production
+  partner** on their listings. The API does not do this for you.
 
 ## Not built yet
 
 - Variant generation and rating
 - Signature/watermarking as a pipeline step
-- Drafting the copy itself (the queue accepts and edits it; generation is
-  still to come)
+- Drafting the copy itself. This is now the binding gap: nothing writes a
+  title, description or price, so every piece lands in the queue and is
+  *correctly* held for missing copy. Publishing works; there is just nothing
+  to publish until you type it or something generates it.
+- `updateListingInventory`, so a price edit can reach a live listing
+- Linking a listing back to a Printful sync product (see the fulfilment gap
+  above — no API currently allows it)
