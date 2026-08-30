@@ -3,140 +3,140 @@
     "date": "2026-08-30",
     "topTrends": [
       {
-        "title": "us open tennis 2026",
-        "traffic": 10000,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "high"
-      },
-      {
-        "title": "cavan sullivan",
-        "traffic": 5000,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "high"
-      },
-      {
-        "title": "yosemite national park",
+        "title": "prince harry, duke of sussex",
         "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "low"
+      },
+      {
+        "title": "yankuba minteh",
+        "traffic": 2000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "man united vs ipswich town",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "real madrid vs málaga",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "laliga",
+        "traffic": 1000,
         "geo": "CA",
         "printable": false,
         "trademarkRisk": "medium"
       },
       {
-        "title": "coogee shark attack",
+        "title": "man utd",
         "traffic": 1000,
         "geo": "AU",
         "printable": false,
         "trademarkRisk": "medium"
       },
       {
-        "title": "orioles",
+        "title": "pickleball",
         "traffic": 500,
         "geo": "US",
         "printable": false,
-        "trademarkRisk": "high"
+        "trademarkRisk": "medium"
       },
       {
-        "title": "nasa",
+        "title": "wisconsin volleyball",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "napoli",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "scotty miller",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "taylor harwood-bellis",
         "traffic": 500,
         "geo": "GB",
         "printable": false,
         "trademarkRisk": "medium"
       },
       {
-        "title": "united states customs and border protection",
+        "title": "mbeumo",
         "traffic": 500,
-        "geo": "CA",
-        "printable": false,
-        "trademarkRisk": "high"
-      },
-      {
-        "title": "olg",
-        "traffic": 500,
-        "geo": "CA",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "collingwood western bulldogs 2026 afl",
-        "traffic": 500,
-        "geo": "AU",
-        "printable": false,
-        "trademarkRisk": "high"
-      },
-      {
-        "title": "apple tv",
-        "traffic": 500,
-        "geo": "AU",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "bitcoin",
-        "traffic": 500,
-        "geo": "AU",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "practical magic 2",
-        "traffic": 500,
-        "geo": "AU",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "harlan coben",
-        "traffic": 200,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "phillies game",
-        "traffic": 200,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "high"
-      },
-      {
-        "title": "ndiaye",
-        "traffic": 200,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "high"
-      },
-      {
-        "title": "météo",
-        "traffic": 200,
-        "geo": "US",
-        "printable": false,
-        "trademarkRisk": "medium"
-      },
-      {
-        "title": "tyler bindon",
-        "traffic": 200,
         "geo": "GB",
         "printable": false,
-        "trademarkRisk": "medium"
+        "trademarkRisk": "high"
       },
       {
-        "title": "minsu kim",
-        "traffic": 200,
-        "geo": "GB",
+        "title": "india vs thailand",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "pl",
+        "traffic": 500,
+        "geo": "AU",
         "printable": false,
         "trademarkRisk": "medium"
       },
       {
-        "title": "rosenheim",
+        "title": "harry maguire",
         "traffic": 200,
-        "geo": "GB",
+        "geo": "US",
         "printable": false,
         "trademarkRisk": "medium"
       },
       {
-        "title": "motogp",
+        "title": "deportivo - valencia c. f.",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "spencer pratt",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "mlp pickleball",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "washington spirit",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "napoli fc",
         "traffic": 200,
         "geo": "GB",
         "printable": false,
@@ -144,11 +144,13 @@
       }
     ],
     "topVideos": [],
+    "etsyNiches": [],
     "counts": {
       "trends": 40,
       "trendsPrintable": 0,
       "youtube": 0,
-      "printfulBestsellers": 0
+      "printfulBestsellers": 0,
+      "etsyNiches": 0
     }
   }
 ]

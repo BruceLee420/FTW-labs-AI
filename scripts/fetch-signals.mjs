@@ -31,6 +31,10 @@ const HISTORY_DAYS = 120;
 const GEOS = (process.env.TRENDS_GEOS || "US,GB,CA,AU").split(",").map((g) => g.trim()).filter(Boolean);
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY || "";
 const PRINTFUL_TOKEN = process.env.PRINTFUL_TOKEN || "";
+// Etsy expects the COMBINED form "keystring:sharedsecret" in x-api-key.
+// Verified against the live API — the published docs still describe a
+// keystring-only header, which the API rejects with 403.
+const ETSY_API_KEY = process.env.ETSY_API_KEY || "";
 
 const today = new Date().toISOString().slice(0, 10);
 
@@ -299,6 +303,91 @@ async function fetchPrintfulBestsellers() {
   }));
 }
 
+/**
+ * Etsy niche competition scan — official Open API v3.
+ *
+ * This is the most directly useful market data in the whole pipeline. For each
+ * evergreen niche it asks Etsy how many ACTIVE listings exist, what they cost,
+ * and how heavily they're favourited. That answers the questions a POD seller
+ * actually has: is this niche saturated, what's the going price, is anyone
+ * paying attention.
+ *
+ * Deliberately NOT claimed as sales data. Etsy exposes no bestseller, sold, or
+ * sales-rank endpoint at all — active listings are supply and interest, not
+ * demand. `num_favorers` is the closest public proxy for interest.
+ *
+ * Auth: x-api-key must be "keystring:sharedsecret" (verified against the live
+ * API; the docs describing keystring-only are out of date).
+ * Quota: one call per niche per day, against 10 QPS / 10K QPD. Negligible.
+ */
+const ETSY_NICHES = [
+  "cottagecore",
+  "dark academia",
+  "goblincore",
+  "celestial tarot",
+  "botanical line art",
+  "plant lover gift",
+  "cozy reading",
+  "vintage camping",
+];
+
+function median(nums) {
+  if (nums.length === 0) return null;
+  const s = [...nums].sort((a, b) => a - b);
+  const mid = Math.floor(s.length / 2);
+  return s.length % 2 ? s[mid] : Math.round(((s[mid - 1] + s[mid]) / 2) * 100) / 100;
+}
+
+/** Etsy money fields come back as {amount, divisor, currency_code}. */
+function toPrice(price) {
+  if (!price) return null;
+  const amount = Number(price.amount);
+  const divisor = Number(price.divisor) || 100;
+  if (!Number.isFinite(amount)) return null;
+  return Math.round((amount / divisor) * 100) / 100;
+}
+
+async function fetchEtsyNiche(niche, { logShape = false } = {}) {
+  const url = new URL("https://openapi.etsy.com/v3/application/listings/active");
+  url.searchParams.set("keywords", niche);
+  url.searchParams.set("limit", "100");
+  url.searchParams.set("sort_on", "score");
+
+  const res = await fetch(url, { headers: { "x-api-key": ETSY_API_KEY } });
+  if (!res.ok) {
+    const body = (await res.text()).slice(0, 200);
+    throw new Error(`Etsy "${niche}" HTTP ${res.status}: ${body}`);
+  }
+  const json = await res.json();
+
+  // First niche of the run logs the response shape, so the Actions log itself
+  // becomes the record of what Etsy actually returns. Keys only — no listing
+  // content, nothing sensitive.
+  if (logShape) {
+    console.log(`[etsy] top-level keys: ${Object.keys(json).join(", ")}`);
+    const first = json?.results?.[0];
+    if (first) console.log(`[etsy] result[0] keys: ${Object.keys(first).join(", ")}`);
+  }
+
+  const results = Array.isArray(json?.results) ? json.results : [];
+  const prices = results.map((r) => toPrice(r?.price)).filter((p) => p !== null);
+  const favorers = results.map((r) => Number(r?.num_favorers ?? 0)).filter(Number.isFinite);
+
+  return {
+    niche,
+    // `count` is Etsy's total match count, not the page size — this is the
+    // saturation number that matters.
+    activeListings: Number(json?.count ?? results.length),
+    sampled: results.length,
+    medianPrice: median(prices),
+    priceRange: prices.length ? { low: Math.min(...prices), high: Math.max(...prices) } : null,
+    currency: results[0]?.price?.currency_code ?? null,
+    medianFavorers: median(favorers),
+    topFavorers: favorers.length ? Math.max(...favorers) : null,
+    note: "Active listings = supply and interest. Etsy exposes no sold or bestseller data.",
+  };
+}
+
 // ---------------------------------------------------------------------------
 // "What to draw today"
 //
@@ -308,15 +397,17 @@ async function fetchPrintfulBestsellers() {
 // Everything here is explicitly model-inferred, never presented as demand data.
 // ---------------------------------------------------------------------------
 
+// `etsyKey` links each concept to its ETSY_NICHES query so the brief can carry
+// real competition and pricing numbers instead of asserting a niche blind.
 const EVERGREEN_NICHES = [
-  { niche: "Cottagecore botanical", motifs: ["pressed flowers", "mushroom clusters", "hand-lettered herbs"], products: ["graphic tee", "tote bag", "poster"] },
-  { niche: "Dark academia", motifs: ["etched owl", "stacked antique books", "marginalia typography"], products: ["poster", "hoodie", "mug"] },
-  { niche: "Celestial / tarot", motifs: ["moon phases", "hand-drawn tarot suit", "constellation map"], products: ["poster", "graphic tee", "sticker"] },
-  { niche: "Cosy reading", motifs: ["cat on a book stack", "tea and paperback", "library window light"], products: ["mug", "tote bag", "graphic tee"] },
-  { niche: "Outdoors / van life", motifs: ["retro park badge", "mountain line art", "camper silhouette"], products: ["graphic tee", "mug", "sticker"] },
-  { niche: "Plant parent", motifs: ["single-line monstera", "propagation station", "terracotta row"], products: ["mug", "tote bag", "poster"] },
-  { niche: "Goblincore / whimsy", motifs: ["frog in a hat", "snail and moss", "toadstool ring"], products: ["sticker", "tote bag", "graphic tee"] },
-  { niche: "Seasonal spooky", motifs: ["friendly ghost", "vintage pumpkin label", "black cat crescent"], products: ["graphic tee", "sticker", "mug"] },
+  { niche: "Cottagecore botanical", etsyKey: "cottagecore", motifs: ["pressed flowers", "mushroom clusters", "hand-lettered herbs"], products: ["graphic tee", "tote bag", "poster"] },
+  { niche: "Dark academia", etsyKey: "dark academia", motifs: ["etched owl", "stacked antique books", "marginalia typography"], products: ["poster", "hoodie", "mug"] },
+  { niche: "Celestial / tarot", etsyKey: "celestial tarot", motifs: ["moon phases", "hand-drawn tarot suit", "constellation map"], products: ["poster", "graphic tee", "sticker"] },
+  { niche: "Cosy reading", etsyKey: "cozy reading", motifs: ["cat on a book stack", "tea and paperback", "library window light"], products: ["mug", "tote bag", "graphic tee"] },
+  { niche: "Outdoors / van life", etsyKey: "vintage camping", motifs: ["retro park badge", "mountain line art", "camper silhouette"], products: ["graphic tee", "mug", "sticker"] },
+  { niche: "Plant parent", etsyKey: "plant lover gift", motifs: ["single-line monstera", "propagation station", "terracotta row"], products: ["mug", "tote bag", "poster"] },
+  { niche: "Goblincore / whimsy", etsyKey: "goblincore", motifs: ["frog in a hat", "snail and moss", "toadstool ring"], products: ["sticker", "tote bag", "graphic tee"] },
+  { niche: "Seasonal spooky", etsyKey: "botanical line art", motifs: ["friendly ghost", "vintage pumpkin label", "black cat crescent"], products: ["graphic tee", "sticker", "mug"] },
 ];
 
 function seasonalBias(dateStr) {
@@ -328,7 +419,8 @@ function seasonalBias(dateStr) {
   return null;
 }
 
-function buildDrawBrief({ trends, printful, dateStr }) {
+function buildDrawBrief({ trends, printful, etsy = [], dateStr }) {
+  const etsyFor = (key) => etsy.find((e) => e.niche === key) ?? null;
   const usableTrends = trends
     .filter((t) => t.printable)
     .sort((a, b) => b.traffic - a.traffic)
@@ -360,8 +452,9 @@ function buildDrawBrief({ trends, printful, dateStr }) {
       motifs: lead.motifs,
       suggestedProducts: lead.products,
       why: bias === lead.niche ? `Seasonally weighted for ${dateStr.slice(0, 7)}.` : "Evergreen rotation.",
+      market: etsyFor(lead.etsyKey),
     },
-    support: { niche: support.niche, motifs: support.motifs },
+    support: { niche: support.niche, motifs: support.motifs, market: etsyFor(support.etsyKey) },
     blankSuggestion: bestBlank
       ? { product: bestBlank, source: "Printful catalog bestseller ranking", note: "Ranks blank products across Printful — not designs or niches." }
       : null,
@@ -431,8 +524,30 @@ async function main() {
     sources.push({ id: "printful_catalog_bestsellers", status: "not_configured", note: "Set PRINTFUL_TOKEN to enable." });
   }
 
+  // --- Etsy niche competition (optional) ---
+  let etsy = [];
+  if (ETSY_API_KEY) {
+    for (const [i, niche] of ETSY_NICHES.entries()) {
+      try {
+        etsy.push(await fetchEtsyNiche(niche, { logShape: i === 0 }));
+      } catch (err) {
+        errors.push(`etsy:${niche}: ${err.message}`);
+      }
+      // Stay well inside 10 QPS even though 8 sequential calls never approach it.
+      await new Promise((r) => setTimeout(r, 150));
+    }
+    sources.push(
+      etsy.length > 0
+        ? { id: "etsy_open_api_v3", status: "ok", count: etsy.length, license: "official_api", confidence: "high" }
+        : { id: "etsy_open_api_v3", status: "failed", error: "All niche queries failed — see errors." },
+    );
+  } else {
+    sources.push({ id: "etsy_open_api_v3", status: "not_configured", note: "Set ETSY_API_KEY as 'keystring:sharedsecret'." });
+  }
+
   trends.sort((a, b) => b.traffic - a.traffic);
   youtube.sort((a, b) => b.views - a.views);
+  etsy.sort((a, b) => (b.medianFavorers ?? 0) - (a.medianFavorers ?? 0));
 
   const snapshot = {
     date: today,
@@ -444,11 +559,13 @@ async function main() {
       trendsPrintable: trends.filter((t) => t.printable).length,
       youtube: youtube.length,
       printfulBestsellers: printful.length,
+      etsyNiches: etsy.length,
     },
     trends,
     youtube,
     printfulBestsellers: printful,
-    drawBrief: buildDrawBrief({ trends, printful, dateStr: today }),
+    etsyNiches: etsy,
+    drawBrief: buildDrawBrief({ trends, printful, etsy, dateStr: today }),
   };
 
   await mkdir(OUT_DIR, { recursive: true });
@@ -470,6 +587,9 @@ async function main() {
     date: today,
     topTrends: trends.slice(0, 20).map((t) => ({ title: t.title, traffic: t.traffic, geo: t.geo, printable: t.printable, trademarkRisk: t.trademarkRisk })),
     topVideos: youtube.slice(0, 10).map((v) => ({ title: v.title, views: v.views, channel: v.channel, videoId: v.videoId })),
+    // Tracked daily so niche saturation and pricing can be charted over time —
+    // this is the series that turns into a real trend line as days accumulate.
+    etsyNiches: etsy.map((e) => ({ niche: e.niche, activeListings: e.activeListings, medianPrice: e.medianPrice, medianFavorers: e.medianFavorers })),
     counts: snapshot.counts,
   };
   history = history.filter((h) => h.date !== today);
@@ -482,11 +602,12 @@ async function main() {
   console.log(`  trends: ${trends.length} (${snapshot.counts.trendsPrintable} passed printability+TM filter)`);
   console.log(`  youtube: ${youtube.length}`);
   console.log(`  printful bestsellers: ${printful.length}`);
+  console.log(`  etsy niches: ${etsy.length}`);
   console.log(`  history: ${history.length} day(s)`);
   if (errors.length) console.log(`  errors: ${errors.length}\n   - ${errors.join("\n   - ")}`);
 
   // Every source failing means the run produced nothing worth committing.
-  if (trends.length === 0 && youtube.length === 0 && printful.length === 0) {
+  if (trends.length === 0 && youtube.length === 0 && printful.length === 0 && etsy.length === 0) {
     console.error("[signals] no data from any source — failing so the run is visibly red.");
     process.exit(1);
   }

@@ -9,6 +9,9 @@ name: Daily signal refresh
 #
 #   YOUTUBE_API_KEY  - Google Cloud API key with YouTube Data API v3 enabled
 #   PRINTFUL_TOKEN   - Printful private access token
+#   ETSY_API_KEY     - Etsy credentials in the COMBINED form "keystring:sharedsecret"
+#                      (not the keystring alone — the live API rejects that with 403,
+#                      despite what Etsy's published docs still say)
 #
 # Repo Settings -> Secrets and variables -> Actions -> New repository secret.
 
@@ -43,6 +46,7 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           PRINTFUL_TOKEN: ${{ secrets.PRINTFUL_TOKEN }}
+          ETSY_API_KEY: ${{ secrets.ETSY_API_KEY }}
           TRENDS_GEOS: "US,GB,CA,AU"
         run: node scripts/fetch-signals.mjs
 
