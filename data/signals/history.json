@@ -460,5 +460,159 @@
       "printfulBestsellers": 0,
       "etsyNiches": 0
     }
+  },
+  {
+    "date": "2026-09-02",
+    "topTrends": [
+      {
+        "title": "putin news",
+        "traffic": 5000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "avgo",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "star wars",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "westwood hills elementary school",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "low"
+      },
+      {
+        "title": "crdo stock",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "travis kelce taylor swift wedding msg",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "low"
+      },
+      {
+        "title": "crime",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "target",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "a current affair",
+        "traffic": 1000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "nyt games",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "current events",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "dr mark deakin",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "childcare",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "soccer",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "tsla stock",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "asts stock",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "the grand tour",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "shumaira mheuka",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "dawn light",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "xbox status",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      }
+    ],
+    "topVideos": [],
+    "etsyNiches": [],
+    "counts": {
+      "trends": 40,
+      "trendsPrintable": 0,
+      "youtube": 0,
+      "printfulBestsellers": 0,
+      "etsyNiches": 0
+    }
   }
 ]
