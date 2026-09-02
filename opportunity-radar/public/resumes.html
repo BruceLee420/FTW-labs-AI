@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Résumé Library — Opportunity Radar</title>
+<meta name="robots" content="noindex" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" />
+<link rel="stylesheet" href="/opportunity-radar/public/radar.css" />
+</head>
+<body>
+
+<header class="site" id="site-header"></header>
+<div class="crop-divider" aria-hidden="true"></div>
+
+<main id="main" class="wrap">
+  <div class="page-head">
+    <div>
+      <span class="eyebrow">Local files · metadata only</span>
+      <h1 style="margin-top:8px">Résumé Library</h1>
+    </div>
+    <form id="index-form" class="row" aria-label="Index the résumé folder">
+      <label class="check" for="index-force" style="text-transform:none;letter-spacing:0;font-family:inherit;font-size:13.5px;margin:0">
+        <input type="checkbox" id="index-force" name="force" />
+        <span>Force re-parse</span>
+      </label>
+      <button type="submit" class="btn" id="index-submit">Index folder</button>
+    </form>
+  </div>
+
+  <div class="notice teal" style="margin-bottom:14px">
+    <strong>Privacy.</strong> Your résumé files stay in your local folder. This page shows metadata only — filename, label, tags, extraction status and counts.
+    Extracted text never leaves this machine except to your <em>local</em> Ollama, and only for the one profile selected when drafting.
+    The folder path is never displayed here.
+  </div>
+
+  <p id="dir-status" class="small muted" role="status" aria-live="polite" style="margin:0 0 10px"></p>
+  <div id="index-result" class="notice" hidden role="status" aria-live="polite" style="margin-bottom:14px"></div>
+
+  <div class="table-wrap" id="table-wrap">
+    <table id="resumes-table">
+      <thead>
+        <tr>
+          <th scope="col">File</th>
+          <th scope="col">Label</th>
+          <th scope="col">Format</th>
+          <th scope="col">Target roles</th>
+          <th scope="col">Skills</th>
+          <th scope="col">Extraction</th>
+          <th scope="col">Quality</th>
+          <th scope="col">Chars</th>
+          <th scope="col">Indexed</th>
+          <th scope="col">Active</th>
+          <th scope="col">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+
+  <section id="profiles" class="section" aria-label="Profile details">
+    <h3>Profile details</h3>
+    <div id="profile-list" class="stack"></div>
+  </section>
+</main>
+
+<script src="/opportunity-radar/public/radar.js"></script>
+<script src="/opportunity-radar/public/resumes-page.js"></script>
+</body>
+</html>

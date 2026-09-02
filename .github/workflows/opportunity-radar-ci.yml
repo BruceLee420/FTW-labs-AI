@@ -1,0 +1,32 @@
+name: Opportunity Radar CI
+
+# Lint, typecheck, test and build the local-first Opportunity Radar service.
+# No secrets, no network beyond npm; tests use in-memory SQLite and fakes.
+
+on:
+  push:
+    paths:
+      - "opportunity-radar/**"
+      - ".github/workflows/opportunity-radar-ci.yml"
+  pull_request:
+    paths:
+      - "opportunity-radar/**"
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: opportunity-radar
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: opportunity-radar/package-lock.json
+      - run: npm ci
+      - run: npm run lint
+      - run: npm test
+      - run: npm run build

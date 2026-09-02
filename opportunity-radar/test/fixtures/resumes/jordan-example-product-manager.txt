@@ -1,0 +1,28 @@
+Jordan Example
+jordan@example.com | 555-010-0100 | linkedin.com/in/jordan-example
+
+Product Manager with six years shipping B2B SaaS platforms in logistics and fintech.
+
+EXPERIENCE
+
+Senior Product Manager | Contoso Freight | Jan 2021 - Present
+- Own the carrier-facing platform roadmap; defined quarterly OKRs with engineering and design
+- Ran discovery with 40+ carriers; wrote user stories in Jira and tracked outcomes in Amplitude
+- Partnered with marketing on go-to-market for two product lines
+
+Product Manager | Fabrikam Payments | Mar 2018 - Dec 2020
+- Launched a merchant onboarding flow that lifted activation by 18%
+- Led stakeholder management across compliance, sales and support
+
+EDUCATION
+
+MBA, Example Business School, 2018
+B.A. Economics, Example State University, 2014
+
+CERTIFICATIONS
+
+Certified Scrum Product Owner (CSPO)
+
+SKILLS
+
+Product Management, Roadmapping, OKRs, User Stories, Jira, Confluence, Amplitude, SQL, Stakeholder Management, Go-to-Market, Market Research, A/B Testing

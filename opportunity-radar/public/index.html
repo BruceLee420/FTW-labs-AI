@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Opportunity Radar — FTW Labs AI</title>
+<meta name="robots" content="noindex" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" />
+<link rel="stylesheet" href="/opportunity-radar/public/radar.css" />
+</head>
+<body>
+
+<header class="site" id="site-header"></header>
+<div class="crop-divider" aria-hidden="true"></div>
+
+<main id="main" class="wrap">
+  <div class="page-head">
+    <div>
+      <span class="eyebrow">Human-approved · local-first</span>
+      <h1 style="margin-top:8px">Opportunity Radar</h1>
+    </div>
+    <div class="row" role="group" aria-label="Actions">
+      <button type="button" class="btn" id="btn-add-url" aria-expanded="false" aria-controls="add-url-form">Add URL</button>
+      <button type="button" class="btn btn-ghost" id="btn-add-manual">Add manually</button>
+      <button type="button" class="btn btn-ghost" id="btn-sources">Sources</button>
+      <a class="btn btn-ghost" id="link-export" href="/api/opportunity-radar/export.csv" target="_blank" rel="noopener">Export CSV</a>
+      <button type="button" class="btn btn-ghost" id="btn-refresh">Refresh</button>
+    </div>
+  </div>
+
+  <form id="add-url-form" class="card" hidden aria-label="Add a listing by URL" style="margin-bottom:16px">
+    <div class="field-inline">
+      <div>
+        <label for="add-url">Listing URL</label>
+        <input type="url" id="add-url" name="url" placeholder="https://…" required autocomplete="off" inputmode="url" />
+      </div>
+      <div>
+        <label for="add-url-notes">Notes (optional)</label>
+        <input type="text" id="add-url-notes" name="notes" maxlength="5000" />
+      </div>
+      <div class="row" style="flex:0 0 auto">
+        <button type="submit" class="btn" id="add-url-submit">Add</button>
+        <button type="button" class="btn btn-ghost" id="add-url-cancel">Cancel</button>
+      </div>
+    </div>
+    <p class="small faint" id="add-url-status" role="status" aria-live="polite" style="margin:10px 0 0">
+      Fetches the page once (GET only), honours robots.txt and refuses sites that prohibit automation. Paste the employer's own listing rather than a LinkedIn URL.
+    </p>
+  </form>
+
+  <section class="metrics" id="metrics" aria-label="Summary"></section>
+
+  <form id="filters" class="filters" aria-label="Filters" autocomplete="off">
+    <div>
+      <label for="f-search">Search</label>
+      <input type="text" id="f-search" name="search" placeholder="Company, title, skill…" maxlength="200" />
+    </div>
+    <div>
+      <label for="f-status">Status (multi)</label>
+      <select id="f-status" name="status" multiple size="4"></select>
+    </div>
+    <div>
+      <label for="f-sourceType">Source type</label>
+      <select id="f-sourceType" name="sourceType"></select>
+    </div>
+    <div>
+      <label for="f-workMode">Work mode</label>
+      <select id="f-workMode" name="workMode"></select>
+    </div>
+    <div>
+      <label for="f-geo">Eligibility</label>
+      <select id="f-geo" name="geographicEligibility"></select>
+    </div>
+    <div>
+      <label for="f-verification">Verification</label>
+      <select id="f-verification" name="verificationStatus"></select>
+    </div>
+    <div>
+      <label for="f-minLegitimacy">Min legitimacy</label>
+      <input type="number" id="f-minLegitimacy" name="minLegitimacy" min="0" max="100" step="1" inputmode="numeric" />
+    </div>
+    <div>
+      <label for="f-minRelevance">Min relevance</label>
+      <input type="number" id="f-minRelevance" name="minRelevance" min="0" max="100" step="1" inputmode="numeric" />
+    </div>
+    <div>
+      <label for="f-maxScamRisk">Max scam risk</label>
+      <input type="number" id="f-maxScamRisk" name="maxScamRisk" min="0" max="100" step="1" inputmode="numeric" />
+    </div>
+    <div>
+      <label for="f-discoveredAfter">Discovered after</label>
+      <input type="date" id="f-discoveredAfter" name="discoveredAfter" />
+    </div>
+    <div>
+      <label for="f-discoveredBefore">Discovered before</label>
+      <input type="date" id="f-discoveredBefore" name="discoveredBefore" />
+    </div>
+    <div class="row">
+      <button type="submit" class="btn btn-sm">Apply</button>
+      <button type="button" class="btn btn-ghost btn-sm" id="btn-clear">Clear</button>
+    </div>
+  </form>
+
+  <p id="list-status" class="small faint" role="status" aria-live="polite" style="margin:0 0 8px"></p>
+
+  <div class="table-wrap" id="table-wrap">
+    <table id="table" aria-describedby="list-status">
+      <thead>
+        <tr>
+          <th scope="col" aria-sort="none" data-sort="companyName"><button type="button">Company</button></th>
+          <th scope="col" aria-sort="none" data-sort="title"><button type="button">Title</button></th>
+          <th scope="col">Work mode</th>
+          <th scope="col">Eligibility</th>
+          <th scope="col">Source</th>
+          <th scope="col">Verification</th>
+          <th scope="col" aria-sort="none" data-sort="legitimacyScore"><button type="button">Legitimacy</button></th>
+          <th scope="col" aria-sort="none" data-sort="scamRiskScore"><button type="button">Scam risk</button></th>
+          <th scope="col" aria-sort="none" data-sort="relevanceScore"><button type="button">Relevance</button></th>
+          <th scope="col">Status</th>
+          <th scope="col" aria-sort="descending" data-sort="discoveredAt"><button type="button">Found</button></th>
+          <th scope="col" aria-sort="none" data-sort="followUpDueAt"><button type="button">Follow-up</button></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+
+  <div class="pager" id="pager">
+    <span id="pager-text" class="small muted"></span>
+    <div class="row">
+      <button type="button" class="btn btn-ghost btn-sm" id="btn-prev">← Prev</button>
+      <button type="button" class="btn btn-ghost btn-sm" id="btn-next">Next →</button>
+    </div>
+  </div>
+
+  <p class="small faint" style="margin-top:24px">
+    Nothing here submits applications or sends messages. Scores are advisory; verify every employer on its official site before applying.
+  </p>
+</main>
+
+<script src="/opportunity-radar/public/radar.js"></script>
+<script src="/opportunity-radar/public/radar-page.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Example Remote Jobs</title>
+    <link>https://jobs.example.org/</link>
+    <item>
+      <title>Technical Writer at Fabrikam Docs</title>
+      <link>https://jobs.example.org/posts/101</link>
+      <guid>post-101</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p>Remote (worldwide). Write API documentation &amp; guides.</p><ul><li>3+ years technical writing</li><li>Experience with Markdown and Git</li></ul>]]></description>
+    </item>
+    <item>
+      <title>Contoso Freight: Customer Success Manager</title>
+      <link>https://jobs.example.org/posts/102</link>
+      <guid>post-102</guid>
+      <pubDate>Sun, 30 Aug 2026 10:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Hybrid in Austin, TX. Own renewals for mid-market accounts.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Item without a link</title>
+      <description>Should be skipped.</description>
+    </item>
+  </channel>
+</rss>

@@ -47,12 +47,24 @@ manual guesswork, at the hand-off points between them.
   TrendForge repo linked above. **To update it:** rebuild TrendForge with
   `npx vite build --base=/app/`, copy `dist/*` over this folder, and
   reapply the small back-link banner this folder's `index.html` has at
-  the top of `<body>` (a plain fixed-position `<a>` tag, not part of the
+  the top of `<body>` and the Opportunity Radar widget `<script>` tag at the
+  bottom of `<body>` (a plain fixed-position `<a>` tag, not part of the
   React build — diff against git history if it gets clobbered by a raw
   copy).
 - [`docs/CONCEPT.md`](docs/CONCEPT.md) — the full concept: problem,
   solution, audience, business model options, and honestly-flagged open
   questions.
+- [`opportunity-radar/`](opportunity-radar/) — **Opportunity Radar**, a
+  local-first, human-approved assistant for finding, verifying, matching and
+  tracking remote jobs and other professional opportunities. Runs on your
+  machine (Node 22 + SQLite + local Ollama), indexes résumés from a private
+  folder, scores listings with explainable rules plus advisory AI, drafts
+  grounded application packages, and never submits anything on your behalf.
+  It mounts as the compact corner widget on this dashboard when the service
+  is running. Docs: [setup](docs/opportunity-radar-setup.md),
+  [privacy and safety](docs/opportunity-radar-privacy-and-safety.md),
+  [source policy](docs/opportunity-radar-source-policy.md),
+  [implementation plan](docs/opportunity-radar-implementation-plan.md).
 
 ## About the "signal count" on the landing page
 

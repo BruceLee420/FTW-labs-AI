@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Settings — Opportunity Radar</title>
+<meta name="robots" content="noindex" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" />
+<link rel="stylesheet" href="/opportunity-radar/public/radar.css" />
+</head>
+<body>
+
+<header class="site" id="site-header"></header>
+<div class="crop-divider" aria-hidden="true"></div>
+
+<main id="main" class="wrap">
+  <div class="page-head">
+    <div>
+      <span class="eyebrow">Configuration · local service</span>
+      <h1 style="margin-top:8px">Settings</h1>
+    </div>
+    <p class="small muted" id="health-line" role="status" aria-live="polite" style="margin:0"></p>
+  </div>
+
+  <div class="grid cols-2">
+    <section class="card" id="sec-resumes" aria-labelledby="h-resumes">
+      <h3 id="h-resumes">1 · Résumé directory</h3>
+      <p class="small muted" style="margin:0 0 10px">
+        Set <code>OPPORTUNITY_RADAR_RESUMES_DIR</code> in <code>opportunity-radar/.env</code> (or your shell) to the folder holding your résumé variants (PDF, DOCX, TXT, Markdown).
+        Default: <code>opportunity-radar/private/resumes/source</code>, which is git-ignored. The service never shows the resolved path here — only whether it is configured and reachable.
+      </p>
+      <div id="resume-status"></div>
+      <p style="margin:10px 0 0"><a href="/opportunity-radar/resumes">Open the Résumé Library →</a></p>
+    </section>
+
+    <section class="card" id="sec-ai" aria-labelledby="h-ai">
+      <h3 id="h-ai">2 · AI (advisory)</h3>
+      <div id="ai-config"></div>
+      <div id="ai-status" style="margin-top:10px"></div>
+      <form id="ai-form" style="margin-top:14px" aria-label="AI overrides">
+        <div class="field">
+          <label for="ai-provider">Provider override</label>
+          <select id="ai-provider" name="aiProvider">
+            <option value="">Keep environment default</option>
+            <option value="ollama">Ollama (local)</option>
+            <option value="none">None — rules only</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="ai-model">Ollama model override</label>
+          <input type="text" id="ai-model" name="ollamaModel" list="model-list" maxlength="120" placeholder="e.g. llama3.1" />
+          <datalist id="model-list"></datalist>
+        </div>
+        <div class="row">
+          <button type="submit" class="btn" id="ai-save">Save AI overrides</button>
+          <span class="small faint">Environment variables <code>OPPORTUNITY_RADAR_AI_PROVIDER</code>, <code>OLLAMA_BASE_URL</code> and <code>OLLAMA_MODEL</code> set the defaults; overrides saved here are stored in the local database.</span>
+        </div>
+        <p id="ai-form-status" class="small muted" role="status" aria-live="polite" style="margin:8px 0 0"></p>
+      </form>
+    </section>
+
+    <section class="card" id="sec-followup" aria-labelledby="h-followup">
+      <h3 id="h-followup">3 · Default follow-up interval</h3>
+      <form id="followup-form" aria-label="Follow-up interval">
+        <div class="field">
+          <label for="followup-days">Days after "applied" to schedule a follow-up</label>
+          <input type="number" id="followup-days" name="followUpDays" min="0" max="365" step="1" inputmode="numeric" />
+        </div>
+        <div class="row">
+          <button type="submit" class="btn" id="followup-save">Save interval</button>
+          <span class="small faint" id="followup-default"></span>
+        </div>
+        <p id="followup-status" class="small muted" role="status" aria-live="polite" style="margin:8px 0 0"></p>
+      </form>
+    </section>
+
+    <section class="card" id="sec-sources" aria-labelledby="h-sources">
+      <h3 id="h-sources">4 · Source adapters</h3>
+      <p class="small muted" style="margin:0 0 10px">
+        Only permitted sources are supported: official ATS APIs, feeds that allow syndication, and fixtures. Configure suggested targets with
+        <code>OPPORTUNITY_RADAR_GREENHOUSE_BOARDS</code> (comma-separated board tokens) and <code>OPPORTUNITY_RADAR_RSS_FEEDS</code> (feed URLs);
+        add hostnames to refuse with <code>OPPORTUNITY_RADAR_URL_DENYLIST</code>. Sites that prohibit automation are always refused.
+      </p>
+      <div id="adapters"></div>
+    </section>
+
+    <section class="card" id="sec-data" aria-labelledby="h-data">
+      <h3 id="h-data">5 · Data</h3>
+      <div class="stack">
+        <div>
+          <a class="btn btn-ghost" id="link-export-json" href="/api/opportunity-radar/data/export.json" target="_blank" rel="noopener" download="opportunity-radar-export.json">Export JSON</a>
+          <span class="small faint">Everything except résumé text: opportunities, applications, drafts, follow-ups, evaluations, audit.</span>
+        </div>
+        <form id="import-json-form" aria-label="Import JSON">
+          <div class="field">
+            <label for="import-json-file">Import JSON (a previous export)</label>
+            <input type="file" id="import-json-file" accept=".json,application/json" required />
+          </div>
+          <button type="submit" class="btn btn-ghost" id="import-json-submit">Import JSON</button>
+          <p id="import-json-status" class="small muted" role="status" aria-live="polite" style="margin:8px 0 0"></p>
+        </form>
+        <form id="import-csv-form" aria-label="Import CSV">
+          <div class="field">
+            <label for="import-csv-file">Import CSV (columns like company, title, url, description…)</label>
+            <input type="file" id="import-csv-file" accept=".csv,text/csv,text/plain" required />
+          </div>
+          <div class="field-inline">
+            <div>
+              <label for="import-csv-source">Source name</label>
+              <input type="text" id="import-csv-source" value="csv-import" maxlength="300" />
+            </div>
+            <label class="check" for="import-csv-evaluate" style="text-transform:none;letter-spacing:0;font-family:inherit;font-size:13.5px;flex:0 0 auto">
+              <input type="checkbox" id="import-csv-evaluate" />
+              <span>Evaluate on import</span>
+            </label>
+          </div>
+          <button type="submit" class="btn btn-ghost" id="import-csv-submit">Import CSV</button>
+          <p id="import-csv-status" class="small muted" role="status" aria-live="polite" style="margin:8px 0 0"></p>
+        </form>
+        <form id="purge-form" aria-label="Delete all data">
+          <fieldset>
+            <legend>Delete data</legend>
+            <div class="field">
+              <label for="purge-scope">Scope</label>
+              <select id="purge-scope">
+                <option value="all">Everything</option>
+                <option value="opportunities">Opportunities (and their applications, drafts, follow-ups)</option>
+                <option value="resumes">Résumé index (files untouched)</option>
+                <option value="drafts">Drafts only</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="purge-confirm">Type DELETE EVERYTHING to confirm</label>
+              <input type="text" id="purge-confirm" autocomplete="off" spellcheck="false" />
+            </div>
+            <button type="submit" class="btn btn-hot" id="purge-submit" disabled>Delete</button>
+            <p id="purge-status" class="small muted" role="status" aria-live="polite" style="margin:8px 0 0"></p>
+          </fieldset>
+        </form>
+      </div>
+    </section>
+
+    <section class="card" id="sec-token" aria-labelledby="h-token">
+      <h3 id="h-token">6 · Access token</h3>
+      <p class="small muted" style="margin:0 0 10px">
+        Needed only when the service runs with <code>OPPORTUNITY_RADAR_AUTH_TOKEN</code> (required when it binds to anything other than loopback).
+        Saved in this browser's <code>sessionStorage</code> and <code>localStorage</code> under <code>ftw_radar_token</code> so the dashboard widget can use it. It is sent only to this API, as a bearer header.
+      </p>
+      <form id="token-form" aria-label="Access token">
+        <div class="field">
+          <label for="token-input">Token</label>
+          <input type="password" id="token-input" autocomplete="off" spellcheck="false" />
+        </div>
+        <div class="row">
+          <button type="submit" class="btn">Save token</button>
+          <button type="button" class="btn btn-ghost" id="token-clear">Clear</button>
+          <span class="small faint" id="token-required"></span>
+        </div>
+        <p id="token-status" class="small muted" role="status" aria-live="polite" style="margin:8px 0 0"></p>
+      </form>
+    </section>
+
+    <section class="card" id="sec-advisory" aria-labelledby="h-advisory">
+      <h3 id="h-advisory">7 · AI advisory disclaimer</h3>
+      <p style="margin:0 0 8px"><span class="advisory">Advisory — review before acting</span></p>
+      <p class="small muted" style="margin:0">
+        Every model output in this tool is advisory. Deterministic rules run first and are always shown with their evidence; a model can raise a scam-risk score but never lower it below the rules' result.
+        Model JSON is validated against strict schemas and rejected when it does not conform. Verification wording is graded — "likely legitimate", "needs manual verification", "high risk" — never "safe".
+        Drafts are grounded only in the résumé profile you select; every claim is paired with the résumé fact it came from, and claims whose source cannot be found are flagged. Read and edit every draft before approving it — you are the author of what gets submitted.
+      </p>
+    </section>
+
+    <section class="card" id="sec-policy" aria-labelledby="h-policy">
+      <h3 id="h-policy">8 · No automatic applications or messages</h3>
+      <p class="small muted" style="margin:0 0 8px">
+        Opportunity Radar is not an auto-apply bot. There is no code path that submits an application form, uploads a résumé or any file to a third party, sends an email or platform message, or logs in to, scrapes or automates LinkedIn or any site that prohibits it.
+        It prepares material for you to review, edit and approve, then shows the official application URL and a checklist. You submit outside the system and record the result; follow-up emails are drafted and displayed, never sent.
+      </p>
+      <p class="small" style="margin:0">
+        <a href="https://github.com/BruceLee420/FTW-labs-AI/blob/main/docs/opportunity-radar-privacy-and-safety.md" target="_blank" rel="noopener noreferrer">Read the privacy and safety document ↗</a>
+      </p>
+    </section>
+  </div>
+</main>
+
+<script src="/opportunity-radar/public/radar.js"></script>
+<script src="/opportunity-radar/public/settings-page.js"></script>
+</body>
+</html>

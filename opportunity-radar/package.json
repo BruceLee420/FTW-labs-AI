@@ -1,0 +1,30 @@
+{
+  "name": "ftw-opportunity-radar",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Local-first, human-approved opportunity discovery, verification, drafting and tracking for the FTW Labs AI dashboard.",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "dev": "node --watch --disable-warning=ExperimentalWarning --env-file-if-exists=.env src/server.ts",
+    "start": "node --disable-warning=ExperimentalWarning --env-file-if-exists=.env src/server.ts",
+    "typecheck": "tsc --noEmit",
+    "lint": "tsc --noEmit && node scripts/check-privacy.mjs",
+    "build": "esbuild src/server.ts --bundle --platform=node --target=node22 --format=esm --outfile=dist/server.mjs --packages=external --log-level=warning",
+    "test": "node --test --disable-warning=ExperimentalWarning \"test/**/*.test.ts\"",
+    "migrate": "node --disable-warning=ExperimentalWarning --env-file-if-exists=.env src/db/migrate-cli.ts",
+    "index-resumes": "node --disable-warning=ExperimentalWarning --env-file-if-exists=.env src/cli/index-resumes.ts",
+    "start:built": "node --disable-warning=ExperimentalWarning --env-file-if-exists=.env dist/server.mjs"
+  },
+  "dependencies": {
+    "unpdf": "^1.8.1",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.0",
+    "esbuild": "^0.25.0",
+    "typescript": "^5.6.3"
+  }
+}

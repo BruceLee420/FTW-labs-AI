@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Example Atom Jobs</title>
+  <link href="https://atom.example.org/" rel="self"/>
+  <entry>
+    <title>UX Designer - Northwind Analytics</title>
+    <link rel="alternate" href="https://atom.example.org/jobs/201"/>
+    <id>urn:job:201</id>
+    <published>2026-08-29T08:00:00Z</published>
+    <summary type="html"><![CDATA[<p>Remote in the EU. Figma, design systems, UX research.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Fabrikam Payments - Accountant</title>
+    <link href="https://atom.example.org/jobs/202"/>
+    <id>urn:job:202</id>
+    <updated>2026-08-27T08:00:00Z</updated>
+    <content type="html">&lt;p&gt;On-site in Denver, CO. QuickBooks and GAAP required.&lt;/p&gt;</content>
+  </entry>
+</feed>

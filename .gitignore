@@ -1,3 +1,13 @@
 .DS_Store
 *.log
 node_modules/
+
+# Opportunity Radar — private user data, local databases, secrets, build output.
+opportunity-radar/private/
+opportunity-radar/data/
+opportunity-radar/dist/
+opportunity-radar/*.sqlite
+opportunity-radar/*.sqlite-*
+.env
+.env.*
+!.env.example

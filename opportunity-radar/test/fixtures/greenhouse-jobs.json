@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "id": 4010001,
+      "title": "Senior Software Engineer",
+      "absolute_url": "https://boards.greenhouse.io/northwindanalytics/jobs/4010001",
+      "updated_at": "2026-08-30T12:00:00-04:00",
+      "location": { "name": "Remote - United States" },
+      "content": "&lt;div&gt;&lt;h3&gt;About the role&lt;/h3&gt;&lt;p&gt;Fully remote &amp;amp; open to candidates in the United States.&lt;/p&gt;&lt;h3&gt;Responsibilities&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Design TypeScript services on Node.js&lt;/li&gt;&lt;li&gt;Own observability on AWS&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Requirements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;5+ years building production web services&lt;/li&gt;&lt;li&gt;Experience with PostgreSQL and Docker&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+      "metadata": [],
+      "departments": [{ "id": 1, "name": "Engineering" }],
+      "offices": [{ "id": 1, "name": "Remote" }]
+    },
+    {
+      "id": 4010002,
+      "title": "Data Analyst",
+      "absolute_url": "https://boards.greenhouse.io/northwindanalytics/jobs/4010002",
+      "updated_at": "2026-08-28T09:30:00-04:00",
+      "location": { "name": "Amsterdam, Netherlands" },
+      "content": "&lt;p&gt;Hybrid role, three days per week in the office.&lt;/p&gt;&lt;h3&gt;Requirements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Strong SQL and Tableau experience&lt;/li&gt;&lt;li&gt;2+ years in analytics&lt;/li&gt;&lt;/ul&gt;"
+    },
+    { "id": "bad", "absolute_url": "https://boards.greenhouse.io/northwindanalytics/jobs/x" }
+  ]
+}
