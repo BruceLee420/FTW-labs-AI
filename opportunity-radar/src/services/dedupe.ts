@@ -6,6 +6,10 @@
 import type { DuplicateProbe, Repositories } from "../repositories/interfaces.ts";
 import type { Opportunity } from "../types/entities.ts";
 import { normalizeCompanyName, normalizeTitle, collapseWhitespace } from "../utils/text.ts";
+import { sha256Hex } from "../utils/hash.ts";
+
+/** Hash of an empty normalised description; stubs (login walls) must not dedupe on it. */
+const EMPTY_DESCRIPTION_HASH = sha256Hex("");
 
 export interface ProbeInput {
   canonicalUrl: string | null;
@@ -59,7 +63,7 @@ export function rankCandidate(probe: DuplicateProbe, candidate: Opportunity): De
 
   const sameCompany = probe.companyNameNormalized === normalizeCompanyName(candidate.companyName);
   const sameTitle = probe.titleNormalized === normalizeTitle(candidate.title);
-  if (probe.descriptionHash && probe.descriptionHash === candidate.descriptionHash && sameCompany) {
+  if (probe.descriptionHash && probe.descriptionHash !== EMPTY_DESCRIPTION_HASH && probe.descriptionHash === candidate.descriptionHash && sameCompany) {
     matchedOn.push("descriptionHash");
     return { opportunity: candidate, matchedOn, confidence: "strong" };
   }

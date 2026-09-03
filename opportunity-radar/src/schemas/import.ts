@@ -5,7 +5,10 @@ import { ShortText } from "./enums.ts";
 /** POST /opportunities/import — a batch from an approved source. */
 export const JsonImportSchema = z.object({
   sourceName: ShortText.min(1),
-  items: z.array(ManualOpportunityInputSchema.omit({ evaluate: true })).min(1).max(500),
+  items: z
+    .array(ManualOpportunityInputSchema.omit({ evaluate: true, sourceName: true }).extend({ sourceName: ShortText.min(1).optional() }))
+    .min(1)
+    .max(500),
   evaluate: z.boolean().default(true),
 });
 export type JsonImport = z.infer<typeof JsonImportSchema>;

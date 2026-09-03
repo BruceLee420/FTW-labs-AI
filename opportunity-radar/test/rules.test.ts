@@ -480,7 +480,7 @@ describe("remoteEligibilityScore and missingInformation", () => {
 
   it("lists absent fields", () => {
     const missing = missingInformation(ruleInput());
-    for (const item of ["company website", "official career page URL", "application URL", "compensation", "posting date", "location or geographic eligibility", "work mode (remote/hybrid/onsite)"]) {
+    for (const item of ["company website", "official career page URL", "application URL", "compensation", "posting date", "location or geographic eligibility", "work mode (remote/hybrid/onsite)", "employment type"]) {
       assert.ok(missing.includes(item), `expected "${item}" in ${missing}`);
     }
     const complete = missingInformation(
@@ -492,6 +492,7 @@ describe("remoteEligibilityScore and missingInformation", () => {
         postedAt: "2026-09-01T00:00:00.000Z",
         locationText: "Remote",
         workMode: "REMOTE",
+        employmentType: "FULL_TIME",
       }),
     );
     assert.deepEqual(complete, []);

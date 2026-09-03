@@ -53,6 +53,7 @@ export function missingInformation(input: RuleInput): string[] {
   if (!input.postedAt) missing.push("posting date");
   if (!input.locationText && input.geographicEligibility === "UNKNOWN") missing.push("location or geographic eligibility");
   if (input.workMode === "UNKNOWN") missing.push("work mode (remote/hybrid/onsite)");
+  if (!input.employmentType || input.employmentType === "UNKNOWN") missing.push("employment type");
   return missing;
 }
 

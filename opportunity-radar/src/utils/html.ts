@@ -41,6 +41,8 @@ export function htmlToText(html: string): string {
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
     .replace(/<noscript[\s\S]*?<\/noscript>/gi, " ")
     .replace(/<!--[\s\S]*?-->/g, " ")
+    // Source whitespace (newlines between tags) is insignificant in HTML; only tags create breaks.
+    .replace(/\s+/g, " ")
     .replace(/<(br|hr)\s*\/?>/gi, "\n")
     .replace(/<\/(p|div|li|h[1-6]|tr|section|article|header|footer|ul|ol|blockquote|pre|table)>/gi, "\n")
     .replace(/<li[^>]*>/gi, "• ")

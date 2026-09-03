@@ -50,13 +50,12 @@ export const MarkAppliedInputSchema = z.object({
   notes: MediumText.optional(),
 });
 
-export const ScheduleFollowUpInputSchema = z
-  .object({
-    dueAt: IsoDateTimeSchema.optional(),
-    days: z.number().int().min(0).max(365).optional(),
-    note: MediumText.optional(),
-  })
-  .refine((v) => v.dueAt !== undefined || v.days !== undefined || true, "Provide dueAt or days");
+/** Either `dueAt` or `days`; with neither, the default follow-up interval applies. */
+export const ScheduleFollowUpInputSchema = z.object({
+  dueAt: IsoDateTimeSchema.optional(),
+  days: z.number().int().min(0).max(365).optional(),
+  note: MediumText.optional(),
+});
 
 export const CompleteFollowUpInputSchema = z.object({
   sentAt: IsoDateTimeSchema.optional(),

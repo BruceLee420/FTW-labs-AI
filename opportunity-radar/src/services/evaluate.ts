@@ -44,6 +44,7 @@ export function ruleInputFrom(o: Opportunity): RuleInput {
     geographicEligibility: o.geographicEligibility,
     compensation: o.compensation,
     postedAt: o.postedAt,
+    employmentType: o.employmentType,
   };
 }
 
@@ -87,11 +88,12 @@ export async function evaluateOpportunity(deps: Deps, id: string, options: Evalu
   let ai: AiEvaluation | null = null;
   let aiStatus: Evaluation["aiStatus"] = "DISABLED";
   let aiError: string | null = null;
-  let model: string | null = deps.ai.model;
+  let model: string | null = null;
   let promptVersion: string | null = null;
 
   if (!options.rulesOnly && deps.ai.id !== "none") {
     promptVersion = EVALUATE_PROMPT_VERSION;
+    model = deps.ai.model;
     try {
       const prompt = buildEvaluatePrompt({
         opportunity: {

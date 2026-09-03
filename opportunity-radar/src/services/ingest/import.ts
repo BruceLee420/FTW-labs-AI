@@ -18,7 +18,7 @@ export interface ImportResult {
 export function importJson(deps: Deps, batch: JsonImport, actor = "import"): ImportResult {
   const result: ImportResult = { created: 0, duplicates: 0, items: [], errors: [] };
   for (const item of batch.items) {
-    const r = createOpportunity(deps, { ...item, sourceName: item.sourceName === "manual" ? batch.sourceName : item.sourceName, evaluate: batch.evaluate }, actor);
+    const r = createOpportunity(deps, { ...item, sourceName: item.sourceName ?? batch.sourceName, evaluate: batch.evaluate }, actor);
     if (r.duplicate) result.duplicates++;
     else result.created++;
     result.items.push({ id: r.opportunity.id, duplicate: r.duplicate, title: r.opportunity.title });

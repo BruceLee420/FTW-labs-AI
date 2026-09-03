@@ -7,7 +7,7 @@
  * input narrow means the rules can be unit-tested with small literals and
  * reused by the evaluate service without a database or network.
  */
-import type { Compensation, GeographicEligibility, SourceType, WorkMode } from "../types/entities.ts";
+import type { Compensation, EmploymentType, GeographicEligibility, SourceType, WorkMode } from "../types/entities.ts";
 
 export interface RuleInput {
   title: string;
@@ -26,4 +26,6 @@ export interface RuleInput {
   geographicEligibility: GeographicEligibility;
   compensation: Compensation;
   postedAt: string | null;
+  /** Optional so rule tests can omit it; UNKNOWN or absent counts as missing information. */
+  employmentType?: EmploymentType;
 }

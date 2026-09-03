@@ -142,6 +142,23 @@ Hard rules enforced in code, not just documented:
 - Root `.gitignore` ignores `opportunity-radar/private/`, `opportunity-radar/data/`,
   `opportunity-radar/dist/` and `.env*`.
 
+## Known limitations (phase one)
+
+- Résumé profiling is heuristic: skills come from a curated dictionary, so an
+  unusual tool is missed until the dictionary grows; certification and degree
+  regexes stop at dashes and can tag "Associate" in a certification name as a
+  degree-like fact. The evidence panel still shows the exact text, so nothing
+  is claimed silently.
+- `POOR`/`NEEDS_OCR` thresholds are character-count heuristics tuned for
+  one-to-three page résumés; very short deliberately minimal résumés may be
+  marked `POOR`.
+- The keyword retriever ignores synonyms ("PM" vs "Product Manager"); the
+  `ResumeRetriever` seam exists for a vector retriever.
+- Rule weights are fixed constants; there is no per-user tuning UI yet.
+- URL ingestion reads one page per action and cannot see listings rendered
+  purely by client-side JavaScript without JSON-LD or meta tags; use manual
+  entry for those.
+
 ## Phase two (not in this change)
 
 Vector retrieval behind `ResumeRetriever`; OCR for `NEEDS_OCR` files; additional ATS
