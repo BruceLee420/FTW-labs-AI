@@ -4618,5 +4618,159 @@
       "printfulBestsellers": 0,
       "etsyNiches": 0
     }
+  },
+  {
+    "date": "2026-09-29",
+    "topTrends": [
+      {
+        "title": "australia vs brazil",
+        "traffic": 100000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "south sudan national football team vs egypt national football team standings",
+        "traffic": 20000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "south sudan national football team vs egypt national football team standings",
+        "traffic": 10000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "is spotify down",
+        "traffic": 10000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "classement équipe du lesotho de football – équipe du maroc de football",
+        "traffic": 5000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "gta 6",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "ghana vs gambia",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "guinea-bissau vs nigeria",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "pete hegseth general officer reduction",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "low"
+      },
+      {
+        "title": "premier league statement",
+        "traffic": 2000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "guinea-bissau vs nigeria",
+        "traffic": 2000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "ghana vs gambia",
+        "traffic": 2000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "gta 6",
+        "traffic": 2000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "lesotho vs morocco",
+        "traffic": 2000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "ethiopia vs senegal",
+        "traffic": 2000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "éthiopie – sénégal",
+        "traffic": 2000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "south sudan national football team vs egypt national football team standings",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "is spotify down",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "paramount",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "brock faber",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      }
+    ],
+    "topVideos": [],
+    "etsyNiches": [],
+    "counts": {
+      "trends": 40,
+      "trendsPrintable": 0,
+      "youtube": 0,
+      "printfulBestsellers": 0,
+      "etsyNiches": 0
+    }
   }
 ]
