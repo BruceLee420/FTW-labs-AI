@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Everydays | FTW Labs AI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400&display=swap" />
+<style>
+:root { --paper:#E8E1CE; --raised:#DFD7C0; --ink:#1C1A22; --soft:#55505A; --faint:#8A8478; --hot:#D5294F; --line:#B3A98D; }
+@media (prefers-color-scheme: dark) { :root { --paper:#18151C; --raised:#221E28; --ink:#ECE6D6; --soft:#B6AEA0; --faint:#756F65; --hot:#FF5D82; --line:#3C3742; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.55 'IBM Plex Sans', system-ui, sans-serif; }
+main { max-width: 1100px; margin: 0 auto; padding: 32px 16px 64px; }
+a { color: var(--ink); text-underline-offset: 4px; text-decoration-color: var(--line); }
+.mono { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: .06em; color: var(--faint); }
+h1 { font-family: 'Big Shoulders Display', sans-serif; font-weight: 800; font-size: clamp(40px, 8vw, 72px); line-height: .95; margin: 12px 0 8px; text-transform: uppercase; }
+h1 span { color: var(--hot); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px; margin-top: 28px; }
+figure { margin: 0; background: var(--raised); border: 1px solid var(--line); }
+figure img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; }
+figcaption { padding: 12px 14px 14px; }
+figcaption h2 { font-size: 17px; margin: 4px 0 6px; }
+figcaption p { margin: 0; color: var(--soft); font-size: 14px; }
+.today { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); }
+.today figcaption { padding: 24px; align-self: end; }
+.today h2 { font-size: 28px; }
+@media (max-width: 700px) { .today { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<main>
+  <a class="mono" href="/">← FTW Labs AI</a>
+  <h1>Every<span>days</span></h1>
+  <p class="mono">One piece a day from the studio.</p>
+  <div class="grid" id="grid"><p class="mono">Loading…</p></div>
+</main>
+<script>
+const esc = s => String(s || '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+fetch('pieces.json', { cache: 'no-cache' }).then(r => r.json()).then(pieces => {
+  const g = document.getElementById('grid');
+  if (!pieces.length) { g.innerHTML = '<p class="mono">First piece drops soon.</p>'; return; }
+  g.innerHTML = pieces.slice().reverse().map((p, i) => `
+    <figure class="${i === 0 ? 'today' : ''}">
+      <img src="${esc(p.image)}" alt="${esc(p.alt)}" loading="${i < 3 ? 'eager' : 'lazy'}" width="1600" height="1600" />
+      <figcaption><span class="mono">${esc(p.date)}</span><h2>${esc(p.title)}</h2><p>${esc(p.description)}</p></figcaption>
+    </figure>`).join('');
+}).catch(() => { document.getElementById('grid').innerHTML = '<p class="mono">Gallery unavailable.</p>'; });
+</script>
+</body>
+</html>
