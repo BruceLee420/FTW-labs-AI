@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-10-04",
+    "title": "Futuristic Snail Adventure",
+    "description": "An illuminated snail, equipped with a futuristic shell and colorful antennae, is poised amidst a neon-lit backdrop. The snail's vibrant shell and contrasting purple antennae hint at advanced technology, while its position in the center draws attention to its unique appearance and possible role as a protagonist or guide in this futuristic setting.",
+    "alt": "A snail in a technologically advanced shell with glowing antennae, set against a colorful backdrop with neon lighting. The snail is poised, ready to embark on an adventure in this vivid, futuristic world.",
+    "lore_snippet": "In a world where technology and nature blend seamlessly, the snail is not just an ordinary creature but a beacon of innovation. With its advanced shell and antennae, it navigates the neon-lit landscape, guiding the way for other creatures to follow. The snail's journey is a testament to the blend of the old and the new, as it embarks on a quest to discover the secrets of its technologically enhanced body.",
+    "image": "everydays-3000x3000-v3-max-00001.jpg",
+    "source": "Everydays_3000x3000_V3_MAX_00001_.png",
+    "model": "llava",
+    "review": false
+  }
+]
