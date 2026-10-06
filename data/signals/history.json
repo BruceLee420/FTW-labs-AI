@@ -5696,5 +5696,159 @@
       "printfulBestsellers": 0,
       "etsyNiches": 0
     }
+  },
+  {
+    "date": "2026-10-06",
+    "topTrends": [
+      {
+        "title": "si king",
+        "traffic": 2000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "ns&i fixed rate savings interest",
+        "traffic": 2000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "low"
+      },
+      {
+        "title": "woolworths bachelor handbag reusable bag",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "low"
+      },
+      {
+        "title": "ind vs wi",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "shreyas iyer",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "raiders fan chiefs game sign",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "chicago p.d.",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "wrestling",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "stephen colbert",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "solar flare",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "murray hill",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "kp",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "russia vs nigeria",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "catherine, princess of wales",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "low"
+      },
+      {
+        "title": "trump california",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "freddie jackson",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "josh hagerty",
+        "traffic": 500,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "trottinette",
+        "traffic": 500,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "bulgaria",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "eric kendricks",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      }
+    ],
+    "topVideos": [],
+    "etsyNiches": [],
+    "counts": {
+      "trends": 40,
+      "trendsPrintable": 0,
+      "youtube": 0,
+      "printfulBestsellers": 0,
+      "etsyNiches": 0
+    }
   }
 ]
