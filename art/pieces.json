@@ -53,5 +53,16 @@
     "source": "Everydays_3000x3000_V3_MAX_00005_.png",
     "model": "llava",
     "review": false
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Enchanted Streamside",
+    "description": "An ethereal forest scene with mushrooms and a stream in the mossy wilderness.",
+    "alt": "Mossy forest with mushrooms",
+    "lore_snippet": "In this mystical forest, the mushrooms are said to have magical properties, and the stream carries the whispers of ancient tales.",
+    "image": "everydays-3000x3000-v3-max-00006.jpg",
+    "source": "Everydays_3000x3000_V3_MAX_00006_.png",
+    "model": "llava",
+    "review": false
   }
 ]
