@@ -64,5 +64,16 @@
     "source": "Everydays_3000x3000_V3_MAX_00006_.png",
     "model": "llava",
     "review": false
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Super Smoothie Surge",
+    "description": "A refreshing beverage scene with nutritious ingredients on a table, inviting a healthy lifestyle and vitality.",
+    "alt": "Vitamin-packed superfood smoothie ingredients, a nutritious drink, and a health-conscious meal.",
+    "lore_snippet": "In a world where superheroes need sustenance to keep their powers, this super smoothie surges with the energy of a thousand sunrises, giving our heroes the stamina they need for their battles. The blend of fruits and vegetables in this smoothie is not just a feast for the taste buds but also a testament to the hero's unwavering commitment to health and wellness.",
+    "image": "everydays-3000x3000-v3-max-00007.jpg",
+    "source": "Everydays_3000x3000_V3_MAX_00007_.png",
+    "model": "llava",
+    "review": false
   }
 ]
