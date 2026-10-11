@@ -75,5 +75,16 @@
     "source": "Everydays_3000x3000_V3_MAX_00007_.png",
     "model": "llava",
     "review": false
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Cinnamon Spice Bliss",
+    "description": "A cozy autumn scene with glasses of warm, spiced beverages, garnished with cinnamon sticks and clementine slices, complemented by cinnamon buns and sliced clementines, evoking a sense of comfort and holiday cheer.",
+    "alt": "Hot beverages with cinnamon and clementine, autumn scene, warm spices, comforting beverages, holiday coziness, citrusy cinnamon buns, festive flavors",
+    "lore_snippet": "In a world where seasons have their own personalities, autumn is the time of warmth and spice. It's the season of comfort foods and drinks, where every sip and bite is a reminder of the cozy cottages and the crisp air. In this enchanting scene, glasses of steaming cinnamon spice beverages are the stars of the show, their aroma filling the air with the scents of the season. The sliced clementines and cinnamon buns on the table add to the inviting atmosphere, making it a perfect setting for a quiet afternoon spent in the company of good friends and a good book.",
+    "image": "everydays-3000x3000-v3-max-00008.jpg",
+    "source": "Everydays_3000x3000_V3_MAX_00008_.png",
+    "model": "llava",
+    "review": false
   }
 ]
