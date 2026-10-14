@@ -1,0 +1,1309 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T15:42:57.578Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "kelly clarkson video",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Kelly Clarkson’s feud with Brooklyn Heights shop turns ugly as owners face threats",
+          "url": "https://brooklyneagle.com/422420/kelly-clarksons-feud-with-brooklyn-heights-shop-turns-ugly/",
+          "source": "Brooklyn Eagle"
+        },
+        {
+          "title": "Kelly Clarkson’s Interaction with Art of Play Store Employees Revealed in New Video",
+          "url": "https://extratv.com/2026/10/14/kelly-clarkson-s-interaction-with-art-of-play-store-employees-revealed-in-new-video/",
+          "source": "Extra"
+        },
+        {
+          "title": "Kelly Clarkson Seen Interacting with Brooklyn Store Owner and Employees in New Footage",
+          "url": "https://people.com/kelly-clarkson-seen-interacting-with-brooklyn-store-owner-and-employees-in-new-footage-12172583",
+          "source": "People.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "leylah fernandez",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Wed, 14 Oct 2026 07:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Fernandez defeats Alexandrova for first time since 2022 in Wuhan opener",
+          "url": "https://www.wtatennis.com/videos/4590797/fernandez-defeats-alexandrova-for-first-time-since-2022-in-wuhan-opener",
+          "source": "WTA Tennis"
+        },
+        {
+          "title": "Han Shi vs Leylah Fernandez Prediction & Picks - WTA Wuhan Open",
+          "url": "https://www.sportytrader.com/us/picks/han-shi-leylah-annie-fernandez-379206/",
+          "source": "SportyTrader"
+        },
+        {
+          "title": "Video : Leylah Fernandez defeats Ekaterina Alexandrova at Wuhan 2026 – Round 1",
+          "url": "https://en.tennistemple.com/video/leylah-fernandez-defeats-ekaterina-alexandrova-at/coq7K",
+          "source": "TennisTemple"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "recording device navy ship",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Wed, 14 Oct 2026 05:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Recording device found in women's 'shower facilities' of Australian navy ship",
+          "url": "https://www.abc.net.au/news/2026-10-14/queensland-navy-investigation-recording-device/107267072",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Hidden video recording device found in cabin of Australian navy ship",
+          "url": "https://www.bbc.com/news/articles/c3x2we8yjj1go",
+          "source": "BBC"
+        },
+        {
+          "title": "Hidden device found on Aussie navy ship",
+          "url": "https://www.news.com.au/national/defence-investigates-hidden-recording-device-found-aboard-hmas-leeuwin-in-cairns/news-story/bbf725b3590b6c239efc04fa5806543d",
+          "source": "News.com.au"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "chris fagan",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Wed, 14 Oct 2026 04:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Former Lions assistant in the mix for Brisbane gig",
+          "url": "https://www.afl.com.au/news/1631590/brisbane-lions-approach-former-assistant-murray-davis-to-interview-for-senior-job",
+          "source": "AFL.com.au"
+        },
+        {
+          "title": "Biggest hint yet on Lions’ next coach as wide net of options cast",
+          "url": "https://www.couriermail.com.au/sport/afl/where-brisbanes-search-to-replace-chris-fagan-as-senior-coach-sits/news-story/62be4af375201e6b0cb9f56bc8908f2c",
+          "source": "The Courier Mail"
+        },
+        {
+          "title": "Fagan: Why Cam Bruce is ready to coach",
+          "url": "https://www.sen.com.au/news/2026/10/13/afl-brisbane-lions-chris-fagan-cameron-bruce",
+          "source": "SEN"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "busy philipps",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Wed, 14 Oct 2026 07:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Busy Philipps Talks ‘Cupertino,’ Brain Tumor Surgery, Motherhood",
+          "url": "https://www.today.com/video/busy-philipps-talks-cupertino-brain-tumor-surgery-motherhood-271563333593",
+          "source": "TODAY.com"
+        },
+        {
+          "title": "See Busy Philipps in ‘Cupertino’ Sneak Peek in 1st Role After Brain Surgery for Rare Tumor (Exclusive)",
+          "url": "https://www.usmagazine.com/entertainment/news/see-cupertinos-busy-philipps-in-1st-role-after-brain-surgery/",
+          "source": "Us Weekly"
+        },
+        {
+          "title": "Cupertino Season 1 Episode 2 Preview: Busy Philipps Enters the Scene",
+          "url": "https://telltaletv.com/2026/10/cupertino-season-1-episode-2-preview-busy-philipps-enters-the-scene/",
+          "source": "Tell-Tale TV"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "aryna sabalenka",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Wed, 14 Oct 2026 04:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Finally! On 10th match point, Li completes upset of Sabalenka at the Wuhan Open",
+          "url": "https://www.wtatennis.com/videos/4592365/li-converts-10th-match-point-to-complete-sabalenka-upset-in-wuhan",
+          "source": "WTA Tennis"
+        },
+        {
+          "title": "Li Shocks Sabalenka on 10th Match Point to Reach Wuhan Round of 16",
+          "url": "https://tennisnow.com/li-shocks-sabalenka-on-10th-match-point-to-reach-wuhan-round-of-16/",
+          "source": "Tennis Now"
+        },
+        {
+          "title": "Aryna Sabalenka vs Ann Li Prediction & Picks - WTA Wuhan Open",
+          "url": "https://www.sportytrader.com/us/picks/aryna-sabalenka-ann-li-379196/",
+          "source": "SportyTrader"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "malaysia airlines",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Wed, 14 Oct 2026 04:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "78 passengers denied boarding from Malaysia Airlines flight over insufficient onboard oxygen supply",
+          "url": "https://e.vnexpress.net/news/travel/78-passengers-denied-boarding-from-malaysia-airlines-flight-over-insufficient-onboard-oxygen-supply-5132228.html",
+          "source": "VnExpress International"
+        },
+        {
+          "title": "Chennai:Pilot Refuses to Take Off Over Low Oxygen Levels, 78 Passengers Offloaded",
+          "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/kl-flight-pilot-refuses-to-take-off-over-low-oxygen-levels-78-passengers-offloaded-at-chennai-1995368",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "Malaysia Airlines' Chennai-Kuala Lumpur Flight Delayed By Two Hours Over Over Oxygen Shortage For Passengers",
+          "url": "https://www.etvbharat.com/en/state/malaysia-airlines-chennai-kuala-lumpur-flight-delayed-by-two-hours-over-over-oxygen-shortage-for-passengers-enn26101204634",
+          "source": "ETV Bharat"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "josh allen looking for hailee steinfeld",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 14 Oct 2026 08:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Josh Allen Sweetly Asks Stadium Staff to Help Him Find Wife Hailee Steinfeld After Bills Win: ‘Does Anybody Know?’",
+          "url": "https://people.com/josh-allen-sweetly-asks-stadium-staff-help-him-find-wife-hailee-steinfeld-12173166",
+          "source": "People.com"
+        },
+        {
+          "title": "Hailee Steinfeld goes crazy during MNF thriller, Ochocinco discovers Madison Beer & WAG RAGE!",
+          "url": "https://www.foxnews.com/outkick-sports/hailee-steinfeld-goes-crazy-mnf-thriller-ochocinco-discovers-madison-beer-wag-rage",
+          "source": "Fox News"
+        },
+        {
+          "title": "Josh Allen’s Wife, Hailee Steinfeld, Announces Career News Amid Bills Game",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/josh-allen-wife-hailee-steinfeld-234245973.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "fire near me",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 14 Oct 2026 08:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "One dead, two hospitalized in Bangor house fire",
+          "url": "https://www.wabi.tv/2026/10/14/one-dead-two-hospitalized-bangor-house-fire/",
+          "source": "WABI"
+        },
+        {
+          "title": "Person killed, two others in the hospital, after morning fire in Bangor, Maine",
+          "url": "https://www.wmtw.com/article/person-killed-two-others-hospital-morning-fire-bangor-maine/74131870",
+          "source": "WMTW"
+        },
+        {
+          "title": "One dead, two hospitalized after Bangor house fire",
+          "url": "https://www.newscentermaine.com/article/news/local/public-safety/crews-respond-to-fire-at-bangor-home/97-b9b0fe84-1a8f-46ff-8c57-f28ab9bd1d63",
+          "source": "newscentermaine.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "ultra miami 2027",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Martin Garrix, Calvin Harris and More Confirmed for Ultra 2027: See the Phase 1 Lineup",
+          "url": "https://edm.com/events/ultra-music-festival-lineup-2027/",
+          "source": "edm.com"
+        },
+        {
+          "title": "Ultra Music Festival Reveals Phase 1 of 2026 Lineup",
+          "url": "https://www.cultr.com/news/ultra-music-festival-reveals-phase-1-of-2026-lineup/",
+          "source": "CULTR"
+        },
+        {
+          "title": "Ultra Miami Unveils Major Phase 1 Lineup",
+          "url": "https://edmhousenetwork.com/ultra-miami-unveils-major-phase-1-lineup/",
+          "source": "EDM House Network"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"lineup\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "playstation store",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 14 Oct 2026 07:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Some Sony First-Party Games Have Been Delisted From the PlayStation Store",
+          "url": "https://kotaku.com/playstation-store-uncharted-god-of-war-knack-delisted-2000745375",
+          "source": "Kotaku"
+        },
+        {
+          "title": "Some of Sony's First-Party Games Are Suddenly Missing from PS Store in the US",
+          "url": "https://www.pushsquare.com/news/2026/10/some-of-sonys-first-party-games-are-suddenly-missing-from-ps-store-in-the-us",
+          "source": "Push Square"
+        },
+        {
+          "title": "PlayStation delists major first-party titles, Uncharted included amid reboot speculation",
+          "url": "https://www.gamingbible.com/news/platform/playstation/playstation-delists-first-party-games-uncharted-reboot-684260-20261014",
+          "source": "GAMINGbible"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "nyrr",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 14 Oct 2026 07:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Relive the Excitement of the NYRR Staten Island Half",
+          "url": "https://www.nyrr.org/galleries/2026/10/12/nyrr-staten-island-half-photo-gallery",
+          "source": "New York Road Runners"
+        },
+        {
+          "title": "Streets will close in St. George, along Father Capodanno Blvd. for Sunday’s Staten Island Half",
+          "url": "https://www.silive.com/news/2026/10/streets-will-close-in-st-george-along-father-capodanno-blvd-for-sundays-staten-island-half.html",
+          "source": "SILive.com"
+        },
+        {
+          "title": "Mekonen and Alanis Win Rainy Staten Island Half Marathon",
+          "url": "https://suaragarut.id/en/mekonen-alanis-staten-island-half",
+          "source": "SuaraGarut.ID"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "kylie and jason kelce family routine",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 14 Oct 2026 07:40:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Kylie Kelce Reveals Her Nanny Setup for Her and Jason Kelce’s 4 Children",
+          "url": "https://people.com/kylie-kelce-reveals-her-nanny-setup-for-her-and-jason-kelces-4-children-12173108",
+          "source": "People.com"
+        },
+        {
+          "title": "Kylie Kelce Shares Why She Doesn’t Want to Share Her and Husband Jason Kelce’s 4 Daughters’ Faces Online",
+          "url": "https://nz.news.yahoo.com/kylie-kelce-shares-why-she-164854180.html",
+          "source": "Yahoo News New Zealand"
+        },
+        {
+          "title": "Kylie Kelce Shares Why She Stopped Posting Her Daughters on Social Media",
+          "url": "https://www.eonline.com/news/1436864/why-kylie-kelce-stopped-showing-her-jason-kelces-kids-faces-in-photos",
+          "source": "E! News"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "singapore airlines",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 14 Oct 2026 05:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Singapore Airlines reveals new amenity kits, Business Class pyjamas",
+          "url": "https://mainlymiles.com/2026/10/14/singapore-airlines-reveals-new-amenity-kits-business-class-pyjamas/",
+          "source": "Mainly Miles"
+        },
+        {
+          "title": "Singapore Airlines will introduce New In-Flight Amenities across all Cabin Classes",
+          "url": "https://livefromalounge.com/singapore-airlines-will-introduce-new-in-flight-amenities-across-all-cabin-classes/",
+          "source": "Live From A Lounge"
+        },
+        {
+          "title": "Singapore Airlines upgrades inflight meals in all classes",
+          "url": "https://www.aviationbusinessnews.com/cabin/latest-news/singapore-airlines-upgrades-inflight-meals-in-all-classes",
+          "source": "Aviation Business News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "stefanos tsitsipas",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 14 Oct 2026 03:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Medvedev beats longtime rival Tsitsipas, reaches Shanghai Masters quarterfinals",
+          "url": "https://www.espn.com.au/tennis/story/_/id/50181140/medvedev-beats-tsitsipas-reaches-shanghai-masters-quarters",
+          "source": "ESPN"
+        },
+        {
+          "title": "Highlights: Medvedev downs long-time rival Tsitsipas in Shanghai 2026",
+          "url": "https://www.atptour.com/en/video/highlights-medvedev-downs-long-time-rival-tsitsipas-in-shanghai-2026",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Shanghai R4 previews and predictions: Medvedev vs. Tsitsipas, Paul vs. Bergs",
+          "url": "https://tenngrand.com/shanghai-tennis-previews-picks-predictions-medvedev-vs-tsitsipas-paul-bergs/",
+          "source": "The Grandstand"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "nancy mace",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 07:40:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "3 men previously accused by US Rep. Nancy Mace in House floor speech charged with sex crimes",
+          "url": "https://www.postandcourier.com/news/crime/mace-bowman-osborne-bryant-sex-crimes-arrested-sled/article_afaa84b5-015b-41d6-89eb-a896b1bb296a.html",
+          "source": "Post and Courier"
+        },
+        {
+          "title": "Nancy Mace Sexual Assault Investigation: Charges Filed Against Alleged Abusers",
+          "url": "https://www.fitsnews.com/2026/10/14/nancy-mace-sexual-assault-investigation-charges-filed-against-alleged-abusers/",
+          "source": "FITSNews"
+        },
+        {
+          "title": "SLED announces arrests of Patrick Bryant, Eric Bowman and John Osborne on sexual offenses",
+          "url": "https://wach.com/news/local/sled-announces-arrests-of-patrick-bryant-eric-bowman-and-john-osborne-on-sexual-offenses-crime",
+          "source": "wach.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "downing street",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "#VATsTheProblem petition submitted to 10 Downing Street",
+          "url": "https://craftguildofchefs.org/news/vatstheproblem-petition-submitted-10-downing-street",
+          "source": "| Craft Guild of Chefs"
+        },
+        {
+          "title": "Kerridge says ‘keep banging the drum’ as VAT petition surges past 400k signatures",
+          "url": "https://www.morningadvertiser.co.uk/Article/2026/10/12/vats-the-problem-petition-passes-400k-signatures/",
+          "source": "The Morning Advertiser"
+        },
+        {
+          "title": "VAT cut petition submitted to government with over 400,000 signatures",
+          "url": "https://www.thecaterer.com/news/vat-cut-petition-submitted-to-government-with-over-400000-signatures",
+          "source": "The Caterer"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "waterford",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Waterford: Four family members killed in arson attack named",
+          "url": "https://www.bbc.co.uk/news/articles/cq073814llkjo",
+          "source": "BBC"
+        },
+        {
+          "title": "Children killed in Waterford arson attack named - as family calls for culprit to 'own up'",
+          "url": "https://news.sky.com/story/children-killed-in-waterford-arson-attack-named-as-family-calls-for-culprit-to-own-up-13599219",
+          "source": "Sky News"
+        },
+        {
+          "title": "Boy killed in Waterford fire had heart surgery two weeks ago",
+          "url": "https://www.rte.ie/news/ireland/2026/1014/1595340-waterford-fire-tributes/",
+          "source": "RTE.ie"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "hair",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Sali Hughes on beauty: worried about hair loss? Here’s a treatment that actually works",
+          "url": "https://www.theguardian.com/fashion/2026/oct/14/sali-hughes-beauty-age-related-hair-loss-treatment",
+          "source": "The Guardian"
+        },
+        {
+          "title": "How to make thin hair look thicker and fuller in under 15 minutes",
+          "url": "https://www.telegraph.co.uk/fashion/news/make-thin-hair-look-thick-in-under-15-minutes/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Hair Loss Is Stressful – These Are The Shampoos Experts Recommend",
+          "url": "https://www.vogue.co.uk/article/best-shampoos-hair-loss",
+          "source": "British Vogue"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "pascal struijk red card rescinded",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Pascal Struijk: Brighton defender's red card given after VAR intervention overturned",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo",
+          "source": "BBC"
+        },
+        {
+          "title": "Brighton’s Pascal Struijk has red card rescinded, available to face Crystal Palace",
+          "url": "https://www.nytimes.com/athletic/7689277/2026/10/14/brighton-pascal-struijk-red-card-update/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Struijk cleared of ban - but then there's a twist",
+          "url": "https://www.theargus.co.uk/sport/26635769.pascal-struijk-cleared-face-crystal-palace-appeal/",
+          "source": "The Argus"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "dorset echo",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:10:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Suspended sentence for HGV driver over teen's death in Poole",
+          "url": "https://www.bbc.co.uk/news/articles/cqdjvljwm943o",
+          "source": "BBC"
+        },
+        {
+          "title": "Lorry driver sentenced after crushing 17-year-old motorcyclist to death",
+          "url": "https://www.bournemouthecho.co.uk/news/26635710.lorry-driver-given-suspended-sentence-teens-death/",
+          "source": "Bournemouth Echo"
+        },
+        {
+          "title": "Tributes to 'warm and kind' teen killed in crash as lorry driver sentenced",
+          "url": "https://www.dorsetecho.co.uk/news/26636081.tribute-dorset-teen-killed-crash-lorry-driver-sentenced/",
+          "source": "Dorset Echo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"crash\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "hmas leeuwin hidden recording device",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:10:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Hidden video recording device found in cabin of Australian navy ship",
+          "url": "https://www.bbc.com/news/articles/c3x2we8yjj1go",
+          "source": "BBC"
+        },
+        {
+          "title": "Video recording device found in cabin of HMAS Leeuwin navy ship in Cairns",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/14/video-recording-device-found-in-cabin-of-hmas-leeuwin-navy-ship-in-cairns",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Recording device found in women's 'shower facilities' of Australian navy ship",
+          "url": "https://www.abc.net.au/news/2026-10-14/queensland-navy-investigation-recording-device/107267072",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "shakhtar donetsk",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:10:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Champions League: How Ukrainians are uniting behind Shakhtar Donetsk in London - at new Stamford Bridge home",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c32l4z71dq72o",
+          "source": "BBC"
+        },
+        {
+          "title": "Ukraine brings war effort to football’s Champions League",
+          "url": "https://www.politico.eu/article/ukraine-brings-war-effort-football-champions-league-shakhtar-donetsk/",
+          "source": "POLITICO.eu"
+        },
+        {
+          "title": "Shakhtar Donetsk open letter as Chelsea host Champions League games",
+          "url": "https://www.standard.co.uk/sport/football/mykola-matviyenko-shakhtar-donetsk-open-letter-champions-league-stamford-bridge-b1300754.html",
+          "source": "London Evening Standard"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"champions league\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "social security",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "High Inflation Drives 3.6% Social Security COLA-2026-10-14",
+          "url": "https://www.crfb.org/blogs/high-inflation-drives-36-social-security-cola",
+          "source": "Committee for a Responsible Federal Budget"
+        },
+        {
+          "title": "Social Security Announces 3.6 Percent Benefit Increase for 2027",
+          "url": "https://www.ssa.gov/news/en/press/releases/2026-10-14.html",
+          "source": "Social Security Administration (.gov)"
+        },
+        {
+          "title": "Most Older Adults Say a Projected 3.5% Social Security COLA Would Fall Short",
+          "url": "https://www.aarp.org/pri/topics/work-finances-retirement/social-security/social-security-cola-2027/",
+          "source": "AARP"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"inflation\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "arsenal redundancies",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Arsenal plan to make 60 staff redundant",
+          "url": "https://www.nytimes.com/athletic/7689315/2026/10/14/arsenal-staff-redundancies-announcement/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Arsenal to cut 60 jobs",
+          "url": "https://www.telegraph.co.uk/football/2026/10/14/arsenal-to-cut-60-jobs/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Arsenal to cut 60 jobs",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwyvrmpd1dv1o",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "rugby league world cup",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Rugby League World Cup 2026: Kallum Watkins replaces injured Morgan Smithies in England squad",
+          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmewed1rgndro",
+          "source": "BBC"
+        },
+        {
+          "title": "Rugby League World Cup: England rocked by injury with Perth Bears-bound Morgan Smithies ruled out",
+          "url": "https://www.skysports.com/rugby-league/news/13599247/rugby-league-world-cup-england-rocked-by-injury-with-perth-bears-bound-morgan-smithies-ruled-out",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Kallum Watkins joins England Men's squad",
+          "url": "https://www.rugby-league.com/article/65229/kallum-watkins-joins-england-mens-squad--",
+          "source": "The Home of Rugby League"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "winter",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Could El Niño deliver record warmth to Eastern Canada?",
+          "url": "https://www.theweathernetwork.com/en/news/weather/seasonal/eastern-canada-winter-sneak-peek",
+          "source": "The Weather Network"
+        },
+        {
+          "title": "Could B.C. be headed for a record-breaking mild winter?",
+          "url": "https://vancouversun.com/news/local-news/could-bc-be-headed-for-a-record-breaking-mild-winter",
+          "source": "Vancouver Sun"
+        },
+        {
+          "title": "B.C.’s Winter Forecast Just Dropped And Things Are Looking Weirdly Warm",
+          "url": "https://604now.com/british-columbia-winter-forecast/",
+          "source": "604 Now"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"forecast\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "royal caribbean",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "ROYAL CARIBBEAN UNVEILS MORE WAYS TO EXPLORE EUROPE IN 2028-29 WITH NEW YEAR-ROUND SEASON",
+          "url": "https://www.newswire.ca/news-releases/royal-caribbean-unveils-more-ways-to-explore-europe-in-2028-29-with-new-year-round-season-816432179.html",
+          "source": "PR Newswire Canada"
+        },
+        {
+          "title": "Royal Caribbean Opens Bookings for 2028-29 Europe Cruises",
+          "url": "https://www.travelpulse.com/news/cruise/royal-caribbean-opens-bookings-for-2028-29-europe-cruises",
+          "source": "TravelPulse"
+        },
+        {
+          "title": "Royal Caribbean Sending 7 Ships to Europe in 2028 with Launch of First Year-Round Schedule",
+          "url": "https://cruisefever.net/royal-caribbean-sending-7-ships-to-europe-in-2028-for-first-year-round-season/",
+          "source": "Cruise Fever"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "changement d heure au québec",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Changement d’heure 2026: voici pourquoi il arrive plus tôt cette année",
+          "url": "https://www.journaldemontreal.com/2026/10/13/changement-dheure-2026-voici-pourquoi-il-arrive-plus-tot-cette-annee",
+          "source": "Le Journal de Montréal"
+        },
+        {
+          "title": "Passage à l’heure d’hiver : faut-il avancer ou reculer les aiguilles ?",
+          "url": "https://www.larepubliquedespyrenees.fr/societe/vie-quotidienne/heure/passage-a-l-heure-d-hiver-faut-il-avancer-ou-reculer-les-aiguilles-31054868.php",
+          "source": "La République des Pyrénées"
+        },
+        {
+          "title": "Heure d’été, heure d’hiver, laquelle préserve le mieux notre santé ?",
+          "url": "https://www.ladepeche.fr/2026/10/13/heure-dete-heure-dhiver-laquelle-preserve-le-mieux-notre-sante-13599950.php",
+          "source": "ladepeche.fr"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "shai hope",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - IND vs WI, 4th T20I",
+          "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-4th-t20i-1529233/ball-by-ball-commentary",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Shai Hope’s Blistering Century Powers West Indies to Mammoth 247/3 in 4th T20I Against India",
+          "url": "https://www.deccanchronicle.com/sports/cricket/shai-hopes-blistering-century-powers-west-indies-to-mammoth-2473-in-4th-t20i-against-india-1995846?utm_source=home&utm_medium=justIn",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "Windies overhaul India’s 249 in record-breaking Ranchi run fest",
+          "url": "https://www.caribbeannationalweekly.com/posts/windies-overhaul-indias-249-in-record-breaking-ranchi-run-fest",
+          "source": "Caribbean National Weekly"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "luciano frattolin",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Father receives life sentence in New York for murder of Montreal girl",
+          "url": "https://www.ctvnews.ca/montreal/on-patrol/article/father-receives-life-sentence-in-new-york-for-murder-of-montreal-girl/",
+          "source": "CTV News"
+        },
+        {
+          "title": "Montreal man convicted of killing 9-year-old daughter to be sentenced today",
+          "url": "https://www.cbc.ca/news/canada/montreal/luciano-frattolin-sentencing-9.7379290",
+          "source": "CBC"
+        },
+        {
+          "title": "Father set to be sentenced in New York for the murder of nine-year-old Montreal girl",
+          "url": "https://www.castanet.net/news/Canada/634314/Father-set-to-be-sentenced-in-New-York-for-the-murder-of-nine-year-old-Montreal-girl",
+          "source": "Castanet"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "retirement",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 06:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Social Security announces cost-of-living adjustment for 2027",
+          "url": "https://www.foxbusiness.com/economy/social-security-announces-cost-of-living-adjustment-2027",
+          "source": "Fox Business"
+        },
+        {
+          "title": "Social Security checks will go up by about $75 a month to offset inflation",
+          "url": "https://www.washingtonpost.com/business/2026/10/14/americans-social-security-will-see-bump-their-checks-next-year/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Social Security Announces 3.6 Percent Benefit Increase for 2027",
+          "url": "https://www.ssa.gov/news/en/press/releases/2026-10-14.html",
+          "source": "Social Security Administration (.gov)"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"inflation\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "forex factory",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 05:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "US inflation rises more than expected ahead of midterm elections",
+          "url": "https://www.bbc.com/news/articles/cwy8lx3pg4k2o",
+          "source": "BBC"
+        },
+        {
+          "title": "Stock market today: Hot inflation report drops tech, drives S&P 500, Nasdaq down",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "‘Ugly’ jump in US inflation, driven by gasoline prices, in blow to Trump before midterm elections – as it happened",
+          "url": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"inflation\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "retirement pension",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Retirement Pension Transfer Cap Rises to Two Point One Million Dollars for Australia’s New Retirees",
+          "url": "https://kalkine.com.au/education/retirement-planning/retirement-pension-transfer-cap-rises-to-two-point-one-million-dollars-for-australias-new-retirees",
+          "source": "Kalkine"
+        },
+        {
+          "title": "Defined Benefit Pension Income Cap Rises to $131250 for Australian Public Servants and Retirees for",
+          "url": "https://kalkine.com.au/education/retirement-planning/defined-benefit-pension-income-cap-rises-to-131250-for-australian-public-servants-and-retirees-for",
+          "source": "Kalkine"
+        },
+        {
+          "title": "Centrelink Age Pension reminder for retiring Aussies that can make a 'big difference'",
+          "url": "https://au.finance.yahoo.com/news/centrelink-age-pension-reminder-for-retiring-aussies-that-can-make-a-big-difference-055543435.html",
+          "source": "Yahoo Finance Australia"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "sahibzada farhan",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 14 Oct 2026 04:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "PAK Vs SL: Sahibzada Farhan Shatters Abhishek Sharma’s Record, Joins Virat Kohli In Elite T20I Club - Check Stats",
+          "url": "https://www.outlookindia.com/sports/cricket/pak-vs-sl-sahibzada-farhan-breaks-abhishek-sharma-record-joins-virat-kohli-elite-t20i-club-stats",
+          "source": "Outlook India"
+        },
+        {
+          "title": "Farhan breaks Abhishek's record as Sri Lanka clinch T20I",
+          "url": "https://www.icc-cricket.com/news/farhan-breaks-abhishek-s-record-as-sri-lanka-clinch-t20i",
+          "source": "ICC"
+        },
+        {
+          "title": "PAK vs SL 2026: New Pakistan captain Sahibzada Farhan breaks Abhishek Sharma's record in T20I cricket",
+          "url": "https://www.india.com/sports/cricket/pak-vs-sl-2026-new-pakistan-captain-sahibzada-farhan-breaks-abhishek-sharma-record-in-t20i-cricket-8535956/",
+          "source": "India.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "sally rooney",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 14 Oct 2026 08:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Sally Rooney says she can no longer sell books in UK due to Palestine Action support",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Publisher says Sally Rooney books cannot be sold in UK due to Palestine Action ban",
+          "url": "https://www.timesofisrael.com/liveblog_entry/publisher-says-sally-rooney-books-cannot-be-sold-in-uk-due-to-palestine-action-ban/",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Faber to no longer distribute Sally Rooney in UK due to Palestine Action legislation",
+          "url": "https://www.thebookseller.com/news/faber-to-no-longer-publish-sally-rooney-in-uk-due-to-palestine-action-legislation",
+          "source": "The Bookseller"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "shipwreck",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 14 Oct 2026 08:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "World’s oldest shipwreck found off coast of Turkey",
+          "url": "https://www.cnn.com/2026/10/14/science/worlds-oldest-shipwreck-turkey-scli-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "World's oldest shipwreck found off Kekova Island in Turkey",
+          "url": "https://www.bbc.com/news/articles/c6gr80rk1yyko",
+          "source": "BBC"
+        },
+        {
+          "title": "World’s oldest shipwreck discovered off Turkey’s Mediterranean coast",
+          "url": "https://ca.news.yahoo.com/world-oldest-shipwreck-discovered-off-082248016.html",
+          "source": "Yahoo News Canada"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "one nation",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 14 Oct 2026 08:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Australia's Chalmers takes aim at One Nation’s weak spot: Governing",
+          "url": "https://www.politico.com/news/2026/10/13/jim-chalmers-hits-the-motivational-speaking-circuit-01116484",
+          "source": "Politico"
+        },
+        {
+          "title": "Chalmers warns progressives not to 'mock' One Nation voters",
+          "url": "https://www.abc.net.au/news/2026-10-13/labor-confronts-one-nations-growing-appeal/107262318",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Jim Chalmers warns against 'smug moral superiority' in fight against far right",
+          "url": "https://thepoint.com.au/new/261014-jim-chalmers-warns-against-smug-moral-superiority-in-fight-against-far-right",
+          "source": "https://thepoint.com.au/"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "anita anand",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 14 Oct 2026 08:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Prime Minister Carney speaks with Prime Minister of India Narendra Modi",
+          "url": "https://www.pm.gc.ca/en/news/readouts/2026/10/13/prime-minister-carney-speaks-prime-minister-india-narendra-modi",
+          "source": "Prime Minister of Canada"
+        },
+        {
+          "title": "Canada races to seal India trade pact by year-end, deepen EU ties",
+          "url": "https://www.reuters.com/world/india/canada-races-seal-india-trade-pact-by-year-end-deepen-eu-ties-2026-10-14/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canadian trade mission to India seeks to finalize deal by year's end",
+          "url": "https://www.cbc.ca/player/play/video/9.7378673",
+          "source": "CBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "bending spoons",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 14 Oct 2026 08:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Bending Spoons vola a Wall Street, +52% con nuovo investimento Berkshire",
+          "url": "https://www.ilsole24ore.com/art/bending-spoons-vola-wall-street-52percento-nuovo-investimento-berkshire-AJglogjB",
+          "source": "Il Sole 24 ORE"
+        },
+        {
+          "title": "Tamburi Investment Partners, Jefferies alza il target price e le stime sui dividendi dopo l’Ipo di Bending Spoons",
+          "url": "https://www.milanofinanza.it/news/tamburi-investment-partners-jefferies-alza-il-target-price-e-le-stime-sui-dividendi-dopo-l-ipo-di-bending-202610141307005090",
+          "source": "Milano Finanza"
+        },
+        {
+          "title": "Luca Ferrari (Bending Spoons): “Ora voglio vincere l’oro”",
+          "url": "https://www.repubblica.it/tecnologia/dossier/wave-by-vento/2026/10/06/news/luca_ferrari_bending_spoons_ora_voglio_vincere_l_oro_wave-425627543/",
+          "source": "la Repubblica"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-10-14",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Cosy reading",
+      "motifs": [
+        "cat on a book stack",
+        "tea and paperback",
+        "library window light"
+      ],
+      "suggestedProducts": [
+        "mug",
+        "tote bag",
+        "graphic tee"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Goblincore / whimsy",
+      "motifs": [
+        "frog in a hat",
+        "snail and moss",
+        "toadstool ring"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
