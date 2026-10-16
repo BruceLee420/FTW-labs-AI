@@ -1,0 +1,1298 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T15:14:27.447Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "ballina resident wins 100m lottery",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Fri, 16 Oct 2026 05:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "In case you missed it: Ballina woman wins $100M Powerball jackpot",
+          "url": "https://www.thelott.com/real-winners/the-lott/icymi-ballina-woman-wins-powerball-jackpot",
+          "source": "The Lott"
+        },
+        {
+          "title": "Watch 9News Latest Stories - Season 2026 - Winning $100M: Tactics, odds and expert advice",
+          "url": "https://www.9now.com.au/9news-latest-news/season-2026/clip-cmv9awm5n001a0hnstyfqy3gw",
+          "source": "9Now"
+        },
+        {
+          "title": "Breakfast in bed awaits $100 million lottery winner",
+          "url": "https://www.canberratimes.com.au/story/9369562/breakfast-in-bed-awaits-100-million-lottery-winner/",
+          "source": "The Canberra Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "iphone duo",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Fri, 16 Oct 2026 04:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Best iPhone Duo pre-order deals: Trade-in offers + gift cards",
+          "url": "https://www.finder.com.au/news/best-iphone-duo-pre-order-deals-australia",
+          "source": "Finder.com.au"
+        },
+        {
+          "title": "iPhone Duo Preorders Are Open, and Apple’s Folding Phone Is Selling Fast",
+          "url": "https://www.cnet.com/tech/mobile/iphone-duo-preorders-day-one/",
+          "source": "CNET"
+        },
+        {
+          "title": "Apple iPhone Duo sells out instantly. It's backordered until December.",
+          "url": "https://mashable.com/tech/iphone-duo-sells-out-instantly",
+          "source": "Mashable"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "alex murdaugh",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Alex Murdaugh back in court amid defense questions about police handling of missing murder weapons",
+          "url": "https://www.cnn.com/2026/10/16/us/alex-murdaugh-hearing",
+          "source": "CNN"
+        },
+        {
+          "title": "Alex Murdaugh's defense and prosecutors expect to clash over evidence during pretrial hearing",
+          "url": "https://abcnews.com/US/wireStory/alex-murdaughs-defense-prosecutors-expect-clash-evidence-pretrial-137310032",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "title": "How to watch Alex Murdaugh's Oct. 16 pretrial hearing",
+          "url": "https://www.wltx.com/article/news/special-reports/alex-murdaugh/how-to-watch-alex-murdaughs-october-16-hearing/101-323d7f37-cefc-46d2-9272-66e1a218fb0e",
+          "source": "WLTX"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"court\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "crwv",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 16 Oct 2026 06:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Breakingviews - COMMENTARY: CoreWeave's growth dreams hit a reality check",
+          "url": "https://www.reuters.com/commentary/breakingviews/coreweaves-growth-dreams-hit-reality-check-2026-10-16/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Why CoreWeave, Nebius, and other neocloud stocks are being pounded: Goldman Sachs explains",
+          "url": "https://finance.yahoo.com/markets/stocks/article/why-coreweave-nebius-and-other-neocloud-stocks-are-being-pounded-goldman-sachs-explains-125730269.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "product recall",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 16 Oct 2026 07:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Canadians urged to check their cheese after several brands hit with recall",
+          "url": "https://www.ctvnews.ca/canada/article/canadians-urged-to-check-their-cheese-after-several-brands-hit-with-recall/",
+          "source": "CTV News"
+        },
+        {
+          "title": "Farm Boy, L'Ancêtre and Life Smart organic cheeses recalled for possible Listeria contamination",
+          "url": "https://www.cbc.ca/news/canada/organic-cheese-recall-farm-boy-l-ancetre-life-smart-9.7380689",
+          "source": "CBC"
+        },
+        {
+          "title": "Farm Boy cheeses, 2 other brands recalled for listeria risk across Canada - National",
+          "url": "https://globalnews.ca/news/12102462/farm-boy-cheese-recall-listeria/",
+          "source": "Global News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "gaffe",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "State Liberal candidate for Richmond Charles Aponso's Treaty gaffe",
+          "url": "https://www.theage.com.au/national/victoria/state-liberal-candidate-for-richmond-charles-aponsos-treaty-gaffe-20261016-p615yr.html",
+          "source": "The Age"
+        },
+        {
+          "title": "‘Which treaty?’: Liberal candidate drops ball on core policy and earns party rebuke",
+          "url": "https://www.watoday.com.au/national/victoria/which-treaty-liberal-candidate-drops-ball-on-core-policy-and-earns-party-rebuke-20261015-p615vh.html",
+          "source": "WAtoday"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "iron infusions",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 16 Oct 2026 03:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Surge in iron infusions prompts warning over serious side effect",
+          "url": "https://www.abc.net.au/news/2026-10-15/australians-call-for-stronger-warnings-on-iron-infusion-risks/107264142",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "AUDIO: Iron infusions on the rise in Australia as concerns grow over low phosphate risk",
+          "url": "https://www.abc.net.au/news/2026-10-15/iron-infusions-hypophosphatemia-risk-australia-safety-warning/107272494",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "scratchcard",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 07:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "From Under a Pillow to the Winners Room: Kildare Syndicate and Dublin Player Claim €400,000 in Scratch Card Prizes",
+          "url": "https://www.lottery.ie/news/winners-stories/from-under-a-pillow-to-the-winners-room-kildare-syndicate-and-dublin-player-claim-400000-in-scratch-card-prizes",
+          "source": "Irish National Lottery"
+        },
+        {
+          "title": "Irish Players Win €420000 in Scratch Card Prizes",
+          "url": "https://suaragarut.id/en/irish-players-scratch-card-prizes",
+          "source": "SuaraGarut.ID"
+        },
+        {
+          "title": "Kildare lotto winner hid winning ticket under their pillow — ‘I was keeping it close so that I could dream about what we could do’",
+          "url": "https://www.independent.ie/county/kildare/kildare-lotto-winner-hid-winning-ticket-under-their-pillow-i-was-keeping-it-close-so-that-i-could-dream-about-what-we-could-do/a/163044021.html",
+          "source": "Irish Independent"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "laken snelling",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 07:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Ex-Kentucky Cheerleader Laken Snelling, Who Said ‘I Ended His Life’ After Baby Was Found in Closet, Is Sentenced",
+          "url": "https://people.com/laken-snelling-sentenced-ten-years-prison-12175704",
+          "source": "People.com"
+        },
+        {
+          "title": "Cheerleader Laken Snelling learns her fate after killing newborn son found stuffed in trash bag",
+          "url": "https://nypost.com/2026/10/16/us-news/cheerleader-laken-snelling-learns-her-fate-after-killing-newborn-son-found-stuffed-in-trash-bag/",
+          "source": "New York Post"
+        },
+        {
+          "title": "Former UK student sentenced for baby’s death following earlier guilty plea",
+          "url": "https://www.wkyt.com/2026/10/16/former-uk-student-sentenced-following-earlier-guilty-plea/",
+          "source": "WKYT"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"death\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "maría corina machado",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 07:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "La líder opositora de Venezuela califica de corrupto al nuevo socio petrolero de Trump",
+          "url": "https://www.nytimes.com/es/2026/10/15/espanol/america-latina/machado-betancourt-venezuela-trump.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "María Corina Machado reprocha haber sido excluida de las negociaciones entre el chavismo y la oposición en Caracas",
+          "url": "https://elpais.com/america/2026-10-16/maria-corina-machado-califica-de-corrupto-a-alejandro-betancourt-socio-petrolero-de-trump.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "María Corina Machado denuncia que EE.UU. la ha excluido de las negociaciones sobre Venezuela",
+          "url": "https://efe.com/mundo/2026-10-16/maria-corina-machado-eeuu-excluye-negociaciones-venezuela/",
+          "source": "EFE - Agencia de noticias"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "soxl stock",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "A $1 Trillion Chip Rout Draws Billions Into Leveraged ETF Bets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/a-1-trillion-chip-rout-draws-billions-into-leveraged-etf-bets",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Why Direxion Daily Semiconductor Bull 3X ETF Crashed Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-direxion-daily-semiconductor-bull-155519685.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "AI Financing Fears Hammer Chip Stocks: These 2 ETFs Are Cashing In on the Sell-Off",
+          "url": "https://www.tradingview.com/news/benzinga:31a952624094b:0-ai-financing-fears-hammer-chip-stocks-these-2-etfs-are-cashing-in-on-the-sell-off/",
+          "source": "TradingView"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "mrna stock",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Meet the New Nasdaq-100 Stock That’s Crushing Nvidia, Micron, and Sandisk. Is It Too Late to Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meet-nasdaq-100-stock-crushing-112502885.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Moderna rallies despite bearish views ahead of cancer vaccine data",
+          "url": "https://seekingalpha.com/news/4653563-moderna-adds-bearish-views-ahead-cancer-vaccine-data",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Moderna Now Trades 61% Above Wall Street's Average Price Target. Should You Sell?",
+          "url": "https://www.fool.com/investing/2026/10/10/moderna-now-trades-61-percent-above-price-target/",
+          "source": "The Motley Fool"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "m5",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 07:30:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Crash causes huge delays on M5 near Exeter",
+          "url": "https://www.sidmouthherald.co.uk/news/26641375.crash-budlake-causes-huge-delays-m5-near-exeter/",
+          "source": "Sidmouth Herald"
+        },
+        {
+          "title": "M5 rush hour chaos after Devon crash",
+          "url": "https://www.devonlive.com/news/devon-news/m5-rush-hour-chaos-after-11200839",
+          "source": "Devon Live"
+        },
+        {
+          "title": "Crash causes huge delays on M5 near Exeter",
+          "url": "https://www.exmouthjournal.co.uk/news/26641335.crash-budlake-causes-huge-delays-m5-near-exeter/",
+          "source": "Exmouth Journal"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"crash\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "the troubles",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 06:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Attorney General approval required for serious Troubles prosecutions",
+          "url": "https://www.bbc.co.uk/news/articles/crq8nynzpq0vo",
+          "source": "BBC"
+        },
+        {
+          "title": "Troubles bill ‘gives green light for continued prosecution of veterans’",
+          "url": "https://www.telegraph.co.uk/news/2026/10/15/northern-ireland-sas-carns-reeves-burnham/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Troubles bill could ‘open the floodgates’, Burnham aide warns",
+          "url": "https://www.thetimes.com/uk/defence/article/troubles-bill-could-open-the-floodgates-burnham-aide-warns-rx2g9c2cz",
+          "source": "The Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "fa youth cup",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 06:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "FA Youth Cup First Round Draw",
+          "url": "https://www.southendunited.co.uk/news/2026/october/16/fa-youth-cup-first-round-draw/",
+          "source": "Southend United Football Club"
+        },
+        {
+          "title": "Chippenham Town to host Eastleigh in FA Youth Cup",
+          "url": "https://chippenhamtown.com/10/16/chippenham-town-to-host-eastleigh-in-fa-youth-cup/",
+          "source": "Chippenham Town Football Club"
+        },
+        {
+          "title": "Town handed home tie in FA Youth Cup first round",
+          "url": "https://www.fleetwoodtownfc.com/town-handed-home-tie-in-fa-youth-cup-first-round/",
+          "source": "Fleetwood Town Football Club"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"cup\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "amd stock",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 07:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit?",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMD-Q/pressreleases/7640231/advanced-micro-devices-stock-surges-183-ytd-time-to-hold-or-exit/",
+          "source": "The Globe and Mail"
+        },
+        {
+          "title": "AMD’s Price Action Around $600 is Telling Investors Something Specific",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-price-action-around-600-111529572.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "AMD Stock Takes a Bigger Hit as Cracks Emerge in the AI Trade",
+          "url": "https://www.barrons.com/articles/amd-stock-price-ai-chip-selloff-957ffee5",
+          "source": "Barron's"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "guerre",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 06:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Les États-Unis préparent la guerre contre la Chine, au cas où",
+          "url": "https://ici.radio-canada.ca/info/long-format/2292760/guerre-preparatifs-etats-unis-chine-missiles-hypersoniques",
+          "source": "Radio-Canada"
+        },
+        {
+          "title": "“États-Unis-Chine : le clash des superpuissances” : un documentaire captivant sur dix ans de bras de fer",
+          "url": "https://www.telerama.fr/television/etats-unis-chine-le-clash-des-superpuissances-un-documentaire-captivant-sur-dix-ans-de-bras-de-fer_cri-7046384.php",
+          "source": "Télérama"
+        },
+        {
+          "title": "Le général américain le plus haut gradé avertit qu’une future guerre avec la Chine pourrait commencer sur le sol national avant même le déploiement des troupes à l’étranger — « Nous avons pris beaucoup de choses pour acquises",
+          "url": "https://fr.benzinga.com/news/france/general/le-general-americain-le-plus-haut-grade-avertit-quune-future-guerre-avec-la-chine-pourrait-commencer-sur-le-sol-national-avant-meme-le-deploiement-des-troupes-a-letranger/",
+          "source": "Benzinga France"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "indw vs zimw",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 05:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Smriti Mandhana - new captain, proven leader",
+          "url": "https://www.espn.com.au/cricket/story/_/id/50187798/indias-new-captain-smriti-mandhana-proven-leader",
+          "source": "ESPN"
+        },
+        {
+          "title": "Team India gears up for the maiden Zimbabwe bilateral series",
+          "url": "https://www.bcci.tv/videos/s-team-india-gears-up-for-the-maiden-zimbabwe-bilateral-series-ihm1qk",
+          "source": "BCCI"
+        },
+        {
+          "title": "India target fearless approach for Zimbabwe series",
+          "url": "https://www.icc-cricket.com/news/india-target-fearless-approach-for-zimbabwe-series",
+          "source": "ICC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "iphone duo case",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 16 Oct 2026 05:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Don't let iPhone Duo go unprotected, these are the best case options so far",
+          "url": "https://appleinsider.com/inside/iphone-duo/best/best-iphone-duo-cases",
+          "source": "AppleInsider"
+        },
+        {
+          "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
+          "url": "https://9to5mac.com/2026/10/16/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "The iPhone Duo starter kit: 10 accessories to protect and upgrade your new phone",
+          "url": "https://www.foxnews.com/deals/iphone-duo-accessories",
+          "source": "Fox News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "sharon horgan",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 07:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "'Sober Companion': Bel Powley & Rob Delaney Leading BBC Sounds Podcast",
+          "url": "https://deadline.com/2026/10/sober-companion-bel-powley-rob-delaney-bbc-sounds-horgan-1237157879/",
+          "source": "Deadline"
+        },
+        {
+          "title": "BBC Sounds announces new comedy drama Sober Companion starring Rob Delaney and Bel Powley",
+          "url": "https://www.bbc.co.uk/mediacentre/2026/sober-companion-new-audio-series-radio-four-bbc-sounds",
+          "source": "BBC"
+        },
+        {
+          "title": "Rob Delaney and Bel Powley star in new BBC Radio 4 comedy Sober Companion",
+          "url": "https://www.atvtoday.co.uk/319110-bbc-radio/",
+          "source": "ATV Today"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "qqqm",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 07:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "What Invesco NASDAQ 100 ETF (QQQM) Bought: NVIDIA Leads on Oct. 14",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110521496.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "QQQ Adds $6.35 Billion Across All 101: What to Know",
+          "url": "https://journalarta.com/en/2026/10/15/qqq-net-buying-oct-13/",
+          "source": "JournalArta"
+        },
+        {
+          "title": "Invesco QQQM Adds 182.7 Million Dollars in Stock Holdings",
+          "url": "https://suaragarut.id/en/invesco-qqqm-stock-purchases-october",
+          "source": "SuaraGarut.ID"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "now stock",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 06:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Why ServiceNow (NOW) Stock Is Trading Up Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-servicenow-now-stock-trading-193109693.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "ServiceNow Stock Surges as Investors Shift to Legacy Tech",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62391808/servicenow-stock-surges-as-investors-shift-to-legacy-tech",
+          "source": "Benzinga"
+        },
+        {
+          "title": "ServiceNow Shares Rise as Analyst Target Hikes and AI Momentum Lift Sentiment",
+          "url": "https://www.moomoo.com/news/post/1001367565/servicenow-shares-rise-as-analyst-target-hikes-and-ai-momentum",
+          "source": "Moomoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "oțelul - csikszereda",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 07:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "LIVE. Oțelul Galați - Csikszereda, duelul care deschide etapa a 12-a » Echipele probabile + cele mai tari cote",
+          "url": "https://www.gsp.ro/fotbal/liga-1/live-otelul-galati-csikszereda-etapa-12-superliga-988671.html",
+          "source": "GSP"
+        },
+        {
+          "title": "Superliga preview: Duelurile și statisticile etapei a 12-a",
+          "url": "https://www.flashscore.ro/stiri/fotbal-superliga-etapa-12-statistici-probabilitati-victorie/8f10zlnD/",
+          "source": "Rezultate live"
+        },
+        {
+          "title": "Oțelul – FK Miercurea Ciuc | Înapoi acasă, pentru victorie!",
+          "url": "https://ascotelul.ro/otelul-fk-miercurea-ciuc-inapoi-acasa-pentru-victorie/",
+          "source": "SC Oțelul Galați"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "emily thornberry",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 07:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Emily Thornberry and the arrogant Rejoiners are heading for a fall",
+          "url": "https://www.telegraph.co.uk/news/2026/10/16/emily-thornberry-arrogant-rejoiners-heading-fall/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "If the government decides to rejoin EU, Britons say there should be a referendum",
+          "url": "https://yougov.com/en-gb/articles/55712-if-the-government-decides-to-rejoin-eu-britons-say-there-should-be-a-referendum",
+          "source": "YouGov"
+        },
+        {
+          "title": "Scrap Brexit without a second referendum, says senior London MP Emily Thornberry",
+          "url": "https://www.standard.co.uk/news/politics/brexit-reverse-no-second-referendum-rejoin-eu-emily-thornberry-b1300625.html",
+          "source": "London Evening Standard"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "m6 traffic",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 07:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Long motorway delays after lorry and van involved in crash near Lancaster",
+          "url": "https://www.beyond.radio/news/local-news/long-motorway-delays-after-lorry-and-van-involved-in-crash-near-lancaster/",
+          "source": "Beyond Radio"
+        },
+        {
+          "title": "M6 shut down north of junction 32 after crash between HGV and van",
+          "url": "https://www.blogpreston.co.uk/2026/10/m6-shut-down-north-of-junction-32-after-serious-crash/",
+          "source": "Blog Preston"
+        },
+        {
+          "title": "M6 shut heading northbound after crash involving HGV",
+          "url": "https://www.thewestmorlandgazette.co.uk/news/26638171.m6-shut-heading-northbound-crash-involving-hgv/",
+          "source": "Westmorland Gazette"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"crash\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "simon weaver",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 07:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Jonathan Blezard and Simon Weaver complete takeover of Harrogate Town AFC",
+          "url": "https://www.harrogateadvertiser.co.uk/sport/football/jonathan-blezard-and-simon-weaver-complete-takeover-of-harrogate-town-9292359",
+          "source": "Harrogate Advertiser"
+        },
+        {
+          "title": "Dual role for Harrogate Town boss following ownership change",
+          "url": "https://www.yorkshirepost.co.uk/sport/football/dual-role-for-harrogate-town-boss-simon-weaver-following-ownership-change-at-national-league-club-9292285",
+          "source": "Yorkshire Post"
+        },
+        {
+          "title": "End of an era at Harrogate Town as new owners replace Irving Weaver",
+          "url": "https://thestrayferret.co.uk/news/latest/end-of-an-era-at-harrogate-town-as-new-owners-replace-irving-weaver",
+          "source": "The Stray Ferret"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "leonna mayor",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 07:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "‘No reason to be ashamed’ - now find out what came next for the extraordinary Leonna Mayor",
+          "url": "https://www.racingpost.com/news/people/jockeys/no-reason-to-be-ashamed-now-find-out-what-came-next-for-the-extraordinary-leonna-mayor-aVOFD9j75Lcs/",
+          "source": "Racing Post"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "manchester city case - charges outcome",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Do you agree with this punishment idea for Man City?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw5yn9v4qj6po",
+          "source": "BBC"
+        },
+        {
+          "title": "Highlights - Champions League - Manchester City 2-4 PSG",
+          "url": "https://www.bbc.com/sport/football/videos/cqp8gn9x801po",
+          "source": "BBC"
+        },
+        {
+          "title": "Football Finance Expert Kieran Maguire Makes Man City Points Deduction Prediction",
+          "url": "https://www.givemesport.com/man-city-points-deduction-verdict-football-finance-expert-kieran-maguire/",
+          "source": "GiveMeSport"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"city\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "salisbury milford by election results",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Liberal Democrats win 'most important' Salisbury by-election in 40 years",
+          "url": "https://www.bbc.co.uk/news/articles/cwn73dmz3grdo",
+          "source": "BBC"
+        },
+        {
+          "title": "A pair of Liberal Democrat by-election wins",
+          "url": "https://www.markpack.org.uk/177587/a-pair-of-liberal-democrat-by-election-wins/",
+          "source": "Mark Pack"
+        },
+        {
+          "title": "LIVE: Lib Dems win to retain both Salisbury Milford seats at by-election",
+          "url": "https://www.salisburyjournal.co.uk/news/26638578.live-lib-dems-win-salisbury-milford-by-elections/",
+          "source": "Salisbury Journal"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"election\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "storm",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 06:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Fall storm expected to offer wind, snow and thunder",
+          "url": "https://www.castanet.net/news/BC/634618/Fall-storm-expected-to-offer-wind-snow-and-thunder",
+          "source": "Castanet"
+        },
+        {
+          "title": "'Sharp cold front' to bring high winds, fall storm to Eastern Fraser Valley, Okanagan, Cariboo regions",
+          "url": "https://abbynews.com/2026/10/16/sharp-cold-front-to-bring-high-winds-fall-storm-to-eastern-fraser-valley-okanagan-cariboo-regions/",
+          "source": "Abbotsford News"
+        },
+        {
+          "title": "Strong winds and possible snow forecast for Coquihalla, Okanagan Connector this weekend",
+          "url": "https://www.kelownanow.com/watercooler/weather/news/Weather/Strong_winds_and_possible_snow_forecast_for_Coquihalla_Okanagan_Connector_this_weekend/",
+          "source": "KelownaNow"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"storm\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "justice",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 06:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Hegseth's TV instincts backfire as Trump rejects execution livestream",
+          "url": "https://www.reuters.com/world/hegseths-tv-instincts-backfire-trump-rejects-execution-livestream-2026-10-16/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Analysis | A GOP rebellion finally changes Trump’s mind",
+          "url": "https://www.washingtonpost.com/politics/2026/10/16/gop-rebellion-finally-changes-trumps-mind/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Trump, after bipartisan backlash, says Pentagon won't livestream execution of Fort Hood shooter",
+          "url": "https://www.ctvnews.ca/world/article/trump-after-bipartisan-backlash-says-pentagon-wont-livestream-execution-of-fort-hood-shooter/",
+          "source": "CTV News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "hsc modern history exam reaction",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 05:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "‘I haven’t seen that before’: Surprise wording in the HSC modern history exam",
+          "url": "https://www.smh.com.au/national/nsw/i-haven-t-seen-that-before-surprise-wording-in-the-hsc-modern-history-exam-20261016-p615mx.html",
+          "source": "SMH.com.au"
+        },
+        {
+          "title": "‘Challenging’ HSC paper keeps students on edge",
+          "url": "https://www.dailytelegraph.com.au/news/nsw/modern-history-curveball-lets-year-12-students-get-creative-during-their-final-exams/news-story/336140297fa7637b33d3320c4b3873ef",
+          "source": "The Daily Telegraph"
+        },
+        {
+          "title": "‘I haven’t seen that before’: Surprise wording in the HSC modern history exam",
+          "url": "https://www.theage.com.au/national/nsw/i-haven-t-seen-that-before-surprise-wording-in-the-hsc-modern-history-exam-20261016-p615mx.html",
+          "source": "The Age"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "iga świątek",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 16 Oct 2026 04:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "\"Polskie derby\". Padło od razu. Świątek tak mówi o meczu z Chwalińską",
+          "url": "https://sportowefakty.wp.pl/tenis/1279547/polskie-derby-padlo-od-razu-swiatek-tak-mowi-o-meczu-z-chwalinska",
+          "source": "SportoweFakty"
+        },
+        {
+          "title": "WTA w Wuhan: Ann Li - Iga Świątek [RELACJA NA ŻYWO]",
+          "url": "https://przegladsportowy.onet.pl/tenis/ann-li-iga-swiatek-relacja-na-zywo/c5cmn8j",
+          "source": "Przegląd Sportowy"
+        },
+        {
+          "title": "Tak Chwalińska mówiła o relacji z Igą Świątek: \"Troszeczkę się oddaliłyśmy\"",
+          "url": "https://www.pudelek.pl/jakie-relacje-maja-chwalinska-ma-dzis-z-iga-swiatek-troszeczke-sie-oddalilysmy-7340681823778816a",
+          "source": "Pudelek.pl"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "banff earthquake",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 16 Oct 2026 08:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "4.0-magnitude earthquake reported northeast of Banff, Alta.",
+          "url": "https://www.ctvnews.ca/calgary/article/40-magnitude-earthquake-reported-northeast-of-banff-alta/",
+          "source": "CTV News"
+        },
+        {
+          "title": "4.0 magnitude earthquake strikes northwest of Cochrane",
+          "url": "https://cochranenow.com/articles/40-magnitude-earthquake-strikes-northwest-of-cochrane",
+          "source": "CochraneNow"
+        },
+        {
+          "title": "4.0-magnitude earthquake rumbles Banff, Canmore west of Calgary",
+          "url": "https://www.rmoutlook.com/banff/40-magnitude-earthquake-rumbles-banff-12900516",
+          "source": "Rocky Mountain Outlook"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"earthquake\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "salut bonjour recette",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 16 Oct 2026 07:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Boulettes de porc laquées au miel épicé et à l’ail fondant",
+          "url": "https://www.salutbonjour.ca/cuisine/recettes/boulettes-de-porc-laquees-au-miel-epice-et-a-lail-fondant",
+          "source": "Salut Bonjour"
+        },
+        {
+          "title": "Poulet à l'asiatique, sauce érable, beurre d'arachides et sésame",
+          "url": "https://www.salutbonjour.ca/cuisine/recettes/poulet-a-lasiatique-sauce-erable-beurre-darachides-et-sesame",
+          "source": "Salut Bonjour"
+        },
+        {
+          "title": "Palette de porc au cidre et aux pommes",
+          "url": "https://www.salutbonjour.ca/cuisine/recettes/palette-de-porc-au-cidre-et-aux-pommes",
+          "source": "Salut Bonjour"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "nbis stock",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 16 Oct 2026 07:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Nebius Group N.V. (NBIS) Stock Forecasts",
+          "url": "https://ca.finance.yahoo.com/research/reports/MS_0P0000TDA0_AnalystReport_1792091363000",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "Nebius Could Become a Global AI Cloud Giant. Here's What Has to Go Right.",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/NBIS/pressreleases/7446144/nebius-could-become-a-global-ai-cloud-giant-heres-what-has-to-go-right/",
+          "source": "The Globe and Mail"
+        },
+        {
+          "title": "Why is Nebius stock sliding today? By Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4885440",
+          "source": "Investing.com Canada"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "meryl streep",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Emma Stone poised to become youngest woman to earn 8 Oscar noms, surpassing Meryl Streep",
+          "url": "https://www.goldderby.com/film/2026/emma-stone-youngest-woman-8-oscar-noms-meryl-streep-record/",
+          "source": "Gold Derby"
+        },
+        {
+          "title": "Emma Stone poised to become youngest woman to earn 8 Oscar noms, surpassing Meryl Streep",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/emma-stone-poised-become-youngest-180000880.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "In 1895, this historic Greenwich Village home was built; 100 years later, Meryl Streep bought out the pro",
+          "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1895-this-historic-greenwich-village-home-was-built-100-years-later-meryl-streep-bought-out-the-property-for-2-1m-and-resold-it-at-a-high-profit/articleshow/134985883.cms",
+          "source": "The Times of India"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"oscar\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "soxl stock",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Why Direxion Daily Semiconductor Bull 3X ETF Crashed Today",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/7909857/why-direxion-daily-semiconductor-bull-3x-etf-crashed-today/",
+          "source": "The Globe and Mail"
+        },
+        {
+          "title": "AI Financing Fears Hammer Chip Stocks: These 2 ETFs Are Cashing In on the Sell-Off",
+          "url": "https://www.tradingview.com/news/benzinga:31a952624094b:0-ai-financing-fears-hammer-chip-stocks-these-2-etfs-are-cashing-in-on-the-sell-off/",
+          "source": "TradingView"
+        },
+        {
+          "title": "SOXL Falls as Chip Selloff Deepens on Oct 15",
+          "url": "https://suaragarut.id/en/soxl-chip-selloff-oct-15",
+          "source": "SuaraGarut.ID"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "hyron andrews",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 16 Oct 2026 07:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Rugby player found dead at Lions team hotel before Champions Cup game against La Rochelle",
+          "url": "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle",
+          "source": "The Guardian"
+        },
+        {
+          "title": "A rugby union player has died the day before championship competition begins",
+          "url": "https://www.abc.net.au/news/2026-10-17/south-african-rugby-player-dies-day-before-game/107278364",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Former Sale Shark lock Andrews dies at team hotel in La Rochelle",
+          "url": "https://www.bbc.com/sport/rugby-union/articles/cqdjvxynj2kyo",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"died\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "amy adams",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 16 Oct 2026 03:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Florence Pugh in Rodarte - Klara Sun Gala - 3",
+          "url": "https://www.gofugyourself.com/photos/klara-and-the-sun-in-london/klara-and-the-sun-gala-the-70th-bfi-london-film-festival-3",
+          "source": "Go Fug Yourself"
+        },
+        {
+          "title": "Amy Adams - Klara Sun Gala - 2",
+          "url": "https://www.gofugyourself.com/photos/klara-and-the-sun-in-london/klara-and-the-sun-gala-the-70th-bfi-london-film-festival",
+          "source": "Go Fug Yourself"
+        },
+        {
+          "title": "Jenna Ortega in custom Torlowei - Klara Sun Gala - 1",
+          "url": "https://www.gofugyourself.com/photos/klara-and-the-sun-in-london/klara-and-the-sun-gala-the-70th-bfi-london-film-festival-4",
+          "source": "Go Fug Yourself"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-10-16",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Plant parent",
+      "motifs": [
+        "single-line monstera",
+        "propagation station",
+        "terracotta row"
+      ],
+      "suggestedProducts": [
+        "mug",
+        "tote bag",
+        "poster"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Cottagecore botanical",
+      "motifs": [
+        "pressed flowers",
+        "mushroom clusters",
+        "hand-lettered herbs"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
