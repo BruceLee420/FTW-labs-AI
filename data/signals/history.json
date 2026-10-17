@@ -7390,5 +7390,159 @@
       "printfulBestsellers": 0,
       "etsyNiches": 0
     }
+  },
+  {
+    "date": "2026-10-17",
+    "topTrends": [
+      {
+        "title": "kalani sitake",
+        "traffic": 10000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "everton f.c. vs chelsea f.c. standings",
+        "traffic": 5000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "music composer deva",
+        "traffic": 2000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "brentford vs liverpool",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "man city vs ipswich town",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "liverpool f.c",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "bear bachmeier",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "cricinfo",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "brentford vs liverpool",
+        "traffic": 1000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "liga española",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "kilmarnock vs motherwell",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "cricbuzz",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "where to watch man city vs ipswich town",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "espanyol vs atlético madrid stats",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "sv elversberg vs augsburg",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "birmingham vs qpr",
+        "traffic": 200,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "wigan athletic vs reading",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "stockport vs bromley",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "swindon town vs walsall",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "newport county vs york city",
+        "traffic": 200,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      }
+    ],
+    "topVideos": [],
+    "etsyNiches": [],
+    "counts": {
+      "trends": 40,
+      "trendsPrintable": 0,
+      "youtube": 0,
+      "printfulBestsellers": 0,
+      "etsyNiches": 0
+    }
   }
 ]
