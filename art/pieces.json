@@ -152,5 +152,16 @@
     "source": "Everydays_3000x3000_V3_MAX_00014_.png",
     "model": "llava",
     "review": false
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Botanical Apothecary Sanctuary",
+    "description": "A tranquil sanctuary filled with the soothing scents of various aromatic oils and plants, where one can immerse themselves in the therapeutic properties of nature.",
+    "alt": "A clean, spacious room dedicated to the art of blending and the appreciation of aromatherapy. A haven for those seeking a moment of serenity amidst the bustling world.",
+    "lore_snippet": "In this room, the air is filled with the subtle perfume of essential oils, each one carefully chosen to create a harmonious blend. The plants, each with its unique healing properties, are not just decorative elements, but active participants in this botanical sanctuary.",
+    "image": "everydays-3000x3000-v3-max-00015.jpg",
+    "source": "Everydays_3000x3000_V3_MAX_00015_.png",
+    "model": "llava",
+    "review": false
   }
 ]
