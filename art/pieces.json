@@ -185,5 +185,16 @@
     "source": "Everydays_3000x3000_V3_MAX_00017_.png",
     "model": "llava",
     "review": false
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Nature's Pantry: Pure Herbal Infusions",
+    "description": "A soothing display of pure herbs, each with its own story, ready to be steeped in warm water.",
+    "alt": "Two bowls filled with the raw, unrefined form of these herbs, untouched by modern processes, promising a return to simple, natural wellness.",
+    "lore_snippet": "Each herb, carefully selected and harvested, is a testament to the untamed beauty and diversity of nature. Their presence together suggests the harmony of these herbs in nature and their potential as the foundation of our well-being.",
+    "image": "everydays-3000x3000-v3-max-00018.jpg",
+    "source": "Everydays_3000x3000_V3_MAX_00018_.png",
+    "model": "llava",
+    "review": false
   }
 ]
