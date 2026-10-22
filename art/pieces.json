@@ -196,5 +196,16 @@
     "source": "Everydays_3000x3000_V3_MAX_00018_.png",
     "model": "llava",
     "review": false
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Essential Herbalism",
+    "description": "The image captures the essence of aromatherapy and the art of distillation. A classic oil bottle, crafted with care, stands proudly among fresh herbs, each a symbol of the natural world. The tranquility of a serene setting, punctuated by the gentle touch of a wooden vase, invites one to delve into the world of therapeutic botanicals.",
+    "alt": "Two bottles of essential oils, one wooden and one glass, sit amidst the verdant herbs. Each bottle holds a promise of serenity and wellness, a testament to the power of natural remedies. The calm of the scene is palpable, evoking a sense of tranquility and connection with the earth.",
+    "lore_snippet": "From the depths of ancient traditions to the cutting-edge of modern wellness, the tale of these essential oils is one of timeless wisdom and enduring allure. The artisan who crafts these bottled elixirs draws upon generations of knowledge, blending the wisdom of the past with the purity of the present to create a potion of natural perfection.",
+    "image": "everydays-3000x3000-v3-max-00019.jpg",
+    "source": "Everydays_3000x3000_V3_MAX_00019_.png",
+    "model": "llava",
+    "review": false
   }
 ]
