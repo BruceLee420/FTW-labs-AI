@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Book | FTW Labs AI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400&family=Source+Serif+4:ital,opsz@0,8..60;1,8..60&display=swap" />
+<style>
+:root { --paper:#E8E1CE; --raised:#DFD7C0; --ink:#1C1A22; --soft:#55505A; --faint:#8A8478; --hot:#D5294F; --line:#B3A98D; }
+@media (prefers-color-scheme: dark) { :root { --paper:#18151C; --raised:#221E28; --ink:#ECE6D6; --soft:#B6AEA0; --faint:#756F65; --hot:#FF5D82; --line:#3C3742; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.55 'IBM Plex Sans', system-ui, sans-serif; }
+main { max-width: 1000px; margin: 0 auto; padding: 32px 16px 64px; }
+a { color: var(--ink); text-underline-offset: 4px; text-decoration-color: var(--line); }
+.mono { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: .06em; color: var(--faint); }
+.hero { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); gap: 32px; margin-top: 20px; align-items: start; }
+.hero img { width: 100%; height: auto; aspect-ratio: 2 / 3; object-fit: cover; border: 1px solid var(--line); background: var(--raised); }
+h1 { font-family: 'Big Shoulders Display', sans-serif; font-weight: 800; font-size: clamp(36px, 7vw, 64px); line-height: .95; margin: 8px 0; text-transform: uppercase; }
+.sub { color: var(--soft); font-size: 18px; margin: 0 0 16px; }
+.blurb p { margin: 0 0 12px; }
+.btn { display: inline-block; background: var(--hot); color: var(--paper); text-decoration: none; font-weight: 600; padding: 12px 18px; margin: 8px 8px 0 0; }
+.btn.ghost { background: transparent; color: var(--ink); border: 1px solid var(--ink); }
+.btn.off { background: var(--raised); color: var(--soft); border: 1px solid var(--line); pointer-events: none; }
+.read { max-width: 660px; margin: 56px auto 0; font: 19px/1.7 'Source Serif 4', Georgia, serif; }
+.read h2 { font-family: 'Big Shoulders Display', sans-serif; font-size: 34px; text-transform: uppercase; text-align: center; margin: 48px 0 24px; }
+.read p { margin: 0 0 1em; text-indent: 1.4em; }
+.read h2 + p { text-indent: 0; }
+.end { text-align: center; border-top: 1px solid var(--line); margin-top: 40px; padding-top: 24px; font-family: 'IBM Plex Sans', sans-serif; }
+@media (max-width: 680px) { .hero { grid-template-columns: 1fr; } .hero img { max-width: 260px; } .read { font-size: 18px; } }
+</style>
+</head>
+<body>
+<main id="app">
+  <a class="mono" href="./">← The Shelf</a>
+  <p class="mono" id="msg">Loading…</p>
+</main>
+<script>
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const slug = new URLSearchParams(location.search).get('b');
+const app = document.getElementById('app');
+const fail = t => { document.getElementById('msg').textContent = t; };
+const buy = b => b.amazon_url
+  ? `<a class="btn" href="${esc(b.amazon_url)}" target="_blank" rel="noopener">Get it on Amazon ↗</a>`
+  : `<span class="btn off">On Amazon soon</span>`;
+fetch('books.json', { cache: 'no-cache' }).then(r => r.json()).then(async books => {
+  const b = books.find(x => x.slug === slug && x.status === 'live');
+  if (!b) return fail('That book isn’t on the shelf yet.');
+  document.title = `${b.title} | FTW Labs AI`;
+  app.innerHTML = `
+    <a class="mono" href="./">← The Shelf</a>
+    <section class="hero">
+      <img src="${esc(b.cover)}" alt="Cover of ${esc(b.title)}" width="600" height="900" />
+      <div>
+        <span class="mono">${esc(b.genre)}${b.series ? ' · ' + esc(b.series) + (b.series_index ? ' Book ' + esc(b.series_index) : '') : ''}</span>
+        <h1>${esc(b.title)}</h1>
+        ${b.subtitle ? `<p class="sub">${esc(b.subtitle)}</p>` : ''}
+        <div class="blurb">${String(b.blurb || '').split(/\n\s*\n/).map(p => `<p>${esc(p)}</p>`).join('')}</div>
+        ${buy(b)}${b.preview ? '<a class="btn ghost" href="#read">Read chapter one</a>' : ''}
+      </div>
+    </section>
+    <article class="read" id="read"></article>`;
+  if (!b.preview) return;
+  const pv = await fetch(b.preview, { cache: 'no-cache' }).then(r => r.json()).catch(() => null);
+  if (!pv) return;
+  document.getElementById('read').innerHTML = pv.chapters.map(c =>
+    `<h2>${esc(c.title)}</h2>` + c.paragraphs.map(p => `<p>${esc(p)}</p>`).join('')).join('') +
+    `<div class="end"><p class="mono">END OF PREVIEW</p><p>Keep reading <b>${esc(b.title)}</b>.</p>${buy(b)}</div>`;
+}).catch(() => fail('Book unavailable.'));
+</script>
+</body>
+</html>

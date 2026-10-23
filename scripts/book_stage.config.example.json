@@ -1,0 +1,24 @@
+{
+  "staging_dir": "X:/AI_Workspace/_book_staging",
+  "site_repo": "X:/AI_Workspace/FTW-labs-AI",
+  "hold_days": 7,
+  "restart_clock_on_edit": true,
+  "chapter_globs": ["Chapter_*_Final.md", "Chapter_*.md"],
+  "min_chapter_words": 1500,
+  "require_chapter_art": true,
+  "preview_chapters": 1,
+  "kdp_select_preview_max_ratio": 0.10,
+  "chroma": {
+    "enabled": true,
+    "path": "X:/AI_Workspace/chroma_books",
+    "collection": "books",
+    "book_key": "book",
+    "embedding": { "provider": "ollama", "model": "nomic-embed-text", "url": "http://localhost:11434" },
+    "chunk_chars": 1200,
+    "max_queries_per_chapter": 12,
+    "dup_similarity": 0.92,
+    "similar_similarity": 0.85,
+    "index_on_promote": false
+  },
+  "marketing": { "ollama_url": "http://localhost:11434", "model": "dolphin-mistral" }
+}

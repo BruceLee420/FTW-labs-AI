@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Books | FTW Labs AI</title>
+<meta name="description" content="Books from the FTW Labs press. Read the first chapter of every title free." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400&display=swap" />
+<style>
+:root { --paper:#E8E1CE; --raised:#DFD7C0; --ink:#1C1A22; --soft:#55505A; --faint:#8A8478; --hot:#D5294F; --line:#B3A98D; }
+@media (prefers-color-scheme: dark) { :root { --paper:#18151C; --raised:#221E28; --ink:#ECE6D6; --soft:#B6AEA0; --faint:#756F65; --hot:#FF5D82; --line:#3C3742; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.55 'IBM Plex Sans', system-ui, sans-serif; }
+main { max-width: 1100px; margin: 0 auto; padding: 32px 16px 64px; }
+a { color: var(--ink); text-underline-offset: 4px; text-decoration-color: var(--line); }
+.mono { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: .06em; color: var(--faint); }
+h1 { font-family: 'Big Shoulders Display', sans-serif; font-weight: 800; font-size: clamp(40px, 8vw, 72px); line-height: .95; margin: 12px 0 8px; text-transform: uppercase; }
+h1 span { color: var(--hot); }
+h2.sec { font-family: 'Big Shoulders Display', sans-serif; font-size: 28px; text-transform: uppercase; margin: 40px 0 0; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 16px; margin-top: 18px; }
+.book { display: block; text-decoration: none; background: var(--raised); border: 1px solid var(--line); }
+.book img { display: block; width: 100%; height: auto; aspect-ratio: 2 / 3; object-fit: cover; background: var(--line); }
+.book .cap { padding: 10px 12px 12px; }
+.book h3 { font-size: 16px; line-height: 1.25; margin: 4px 0 2px; }
+.book p { margin: 0; color: var(--soft); font-size: 13px; }
+a.book:hover h3 { color: var(--hot); }
+.tag { display: inline-block; background: var(--hot); color: var(--paper); font: 11px 'IBM Plex Mono', monospace; letter-spacing: .06em; padding: 2px 6px; }
+.soon img { filter: saturate(.6); }
+footer { margin-top: 56px; border-top: 1px solid var(--line); padding-top: 16px; }
+</style>
+</head>
+<body>
+<main>
+  <a class="mono" href="/">← FTW Labs AI</a>
+  <h1>The <span>Shelf</span></h1>
+  <p class="mono">Books from the FTW Labs press. First chapter of every title, free.</p>
+  <div id="live" class="grid"><p class="mono">Loading…</p></div>
+  <section id="soon-wrap" hidden>
+    <h2 class="sec">Coming soon</h2>
+    <div id="soon" class="grid"></div>
+  </section>
+  <footer class="mono">Produced with the FTW Labs AI pipeline. Every title passes a staging review before it lands here.</footer>
+</main>
+<script>
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const fmt = d => d ? new Date(d + 'T12:00:00').toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }) : '';
+const card = (b, live) => `
+  <${live ? `a href="book.html?b=${encodeURIComponent(b.slug)}"` : 'div'} class="book ${live ? '' : 'soon'}">
+    <img src="${esc(b.cover)}" alt="Cover of ${esc(b.title)}" loading="lazy" width="600" height="900" />
+    <div class="cap">
+      ${live ? `<span class="mono">${esc(b.genre)}</span>` : `<span class="tag">${b.launch_date ? 'ARRIVES ' + esc(fmt(b.launch_date)).toUpperCase() : 'COMING SOON'}</span>`}
+      <h3>${esc(b.title)}</h3>
+      ${b.series ? `<p>${esc(b.series)}${b.series_index ? ' · Book ' + esc(b.series_index) : ''}</p>` : ''}
+    </div>
+  </${live ? 'a' : 'div'}>`;
+fetch('books.json', { cache: 'no-cache' }).then(r => r.json()).then(books => {
+  const live = books.filter(b => b.status === 'live').sort((a, b) => (b.live_at || '').localeCompare(a.live_at || ''));
+  const soon = books.filter(b => b.status === 'teaser').sort((a, b) => (a.launch_date || '').localeCompare(b.launch_date || ''));
+  document.getElementById('live').innerHTML = live.length ? live.map(b => card(b, true)).join('') : '<p class="mono">First titles land soon.</p>';
+  if (soon.length) { document.getElementById('soon-wrap').hidden = false; document.getElementById('soon').innerHTML = soon.map(b => card(b, false)).join(''); }
+}).catch(() => { document.getElementById('live').innerHTML = '<p class="mono">Shelf unavailable.</p>'; });
+</script>
+</body>
+</html>
