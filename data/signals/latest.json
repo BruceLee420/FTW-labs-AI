@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T15:47:41.656Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T15:38:42.967Z",
   "sources": [
     {
       "id": "google_trends_rss:US",
@@ -56,516 +56,56 @@
   },
   "trends": [
     {
-      "title": "stock market",
-      "traffic": 20000,
-      "trafficLabel": "20000+",
-      "pubDate": "Thu, 22 Oct 2026 08:00:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Nasdaq tumbles on AI spending concerns and jump in oil prices: Live updates",
-          "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Market sell-off gains steam as concerns about Iran war and high AI spending collide",
-          "url": "https://www.nbcnews.com/business/markets/iran-war-ai-spending-oil-prices-selloff-rcna604994",
-          "source": "NBC News"
-        },
-        {
-          "title": "Stocks Fall and Oil Rises as Investors Retreat from Mounting Risks",
-          "url": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
-          "source": "The New York Times"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche.",
-        "Reads as news/current affairs (\"war\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "powerball cash prize after taxes",
-      "traffic": 20000,
-      "trafficLabel": "20000+",
-      "pubDate": "Thu, 22 Oct 2026 08:00:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Powerball winner in Ohio hits prize worth $2 million: See where the winning ticket was sold and check the lucky numbers for Oct. 21",
-          "url": "https://www.wkyc.com/article/news/lottery/powerball-winner-ohio-lottery-russells-point-village-pantry-logan-county-winning-numbers-wednesday-october-22-drawing/95-2c308a23-6d56-432d-943b-c461dcffd105",
-          "source": "WKYC"
-        },
-        {
-          "title": "Powerball Jackpot Soars To $674 Million—Here’s What The Winner Could Take Home",
-          "url": "https://www.forbes.com/sites/siladityaray/2026/10/22/powerball-jackpot-soars-to-674-million-heres-what-the-winner-could-take-home/",
-          "source": "Forbes"
-        },
-        {
-          "title": "Powerball numbers tonight, Oct. 21? Powerball winning numbers last night",
-          "url": "https://www.indystar.com/story/money/lottery/2026/10/21/powerball-numbers-tonight-oct-21-2026-winning-powerball-numbers-last-night-drawing-10-21-26-lottery/92367137007/",
-          "source": "IndyStar"
-        }
-      ],
-      "trademarkRisk": "low",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": []
-    },
-    {
-      "title": "peak",
-      "traffic": 20000,
-      "trafficLabel": "20000+",
-      "pubDate": "Thu, 22 Oct 2026 08:00:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Orionid meteor shower 2026: cloud cover forecast by region",
-          "url": "https://weather.com/2026/10/22/science/space/orionid-meteor-shower-weather-forecast-rain-cloud-cover",
-          "source": "The Weather Channel"
-        },
-        {
-          "title": "How to Catch the Orionids, a Meteor Shower From Halley’s Comet",
-          "url": "https://www.nytimes.com/2026/10/21/science/space/orionids-meteor-shower-halleys-comet.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Orionid meteor shower to light up October skies with fiery cosmic display",
-          "url": "https://www.foxweather.com/earth-space/orionid-meteor-shower-light-up-skies-fiery-cosmic-display",
-          "source": "FOX Weather"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche.",
-        "Reads as news/current affairs (\"forecast\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "news",
+      "title": "connor hellebuyck",
       "traffic": 5000,
       "trafficLabel": "5000+",
-      "pubDate": "Thu, 22 Oct 2026 08:20:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-          "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro",
-          "source": "BBC"
-        },
-        {
-          "title": "Gatwick Airport drop-offs now cost £10 for just a couple of minutes - but drivers can avoid the fee and an £100 fine by using this handy hack",
-          "url": "https://secretldn.com/gatwick-airport-drop-off-charge/",
-          "source": "Secret London"
-        },
-        {
-          "title": "Manchester Airport drop-offs now cost £5.50 for five minutes, but drivers can dodge the fee and £100 fines by using a free 60-minute JetParks zone",
-          "url": "https://secretmanchester.com/manchester-airport-free-drop-offs-jetparks/",
-          "source": "Secret Manchester"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "saudi arabia airport attack",
-      "traffic": 5000,
-      "trafficLabel": "5000+",
-      "pubDate": "Thu, 22 Oct 2026 07:40:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro",
-          "source": "BBC"
-        },
-        {
-          "title": "Three Killed in Attacks on Aramco Oil Field, Saudi Airport",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-21/two-killed-in-attack-on-aramco-oil-field-in-saudi-eastern-region",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Oil Prices Rise More Than 2% as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
-          "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83",
-          "source": "WSJ"
-        }
-      ],
-      "trademarkRisk": "low",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "qqq",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Thu, 22 Oct 2026 08:10:00 -0700",
+      "pubDate": "Fri, 23 Oct 2026 07:40:00 -0700",
       "geo": "US",
       "newsItems": [
         {
-          "title": "Billions flow into Nasdaq-100 ETF QQQ despite c...",
-          "url": "https://pluang.com/en/news-feed/qqq-menarik-1-66-miliar-dollar-dengan-ticker-yang-lebih-murah",
-          "source": "Pluang"
+          "title": "Connor Hellebuyck NHL Trade Talks with Devils Reportedly 'Escalating' as Jets Suspension Ends",
+          "url": "https://bleacherreport.com/articles/25447410-connor-hellebuyck-nhl-trade-talks-devils-reportedly-escalating-jets-suspension-ends",
+          "source": "Bleacher Report"
         },
         {
-          "title": "QQQ vs. Cheaper Nasdaq-100 ETFs: Why BlackRock And State Street Aren't Winning Investors Yet",
-          "url": "https://www.tradingview.com/news/benzinga:be65da924094b:0-qqq-vs-cheaper-nasdaq-100-etfs-why-blackrock-and-state-street-aren-t-winning-investors-yet/",
-          "source": "TradingView"
+          "title": "Sources -- At least 3 teams in mix for Jets goalie Hellebuyck",
+          "url": "https://www.espn.com/nhl/story/_/id/50221218/sources-least-3-teams-mix-jets-goalie-hellebuyck",
+          "source": "ESPN"
         },
         {
-          "title": "What INVESCO QQQ Trust (QQQ) Sold: NVIDIA Leads on Oct. 20",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-qqq-sold-110355545.html",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "toothpaste",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Thu, 22 Oct 2026 07:40:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Over 4 million tubes of toothpaste recalled. See affected products",
-          "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/10/21/toothpaste-recall-brush-buddies-evo/92344819007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "FDA Announces Nationwide Recall of Popular Toothpastes",
-          "url": "https://www.yahoo.com/news/us/articles/fda-announces-nationwide-recall-popular-134112344.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Your kid could be brushing with one of millions of tubes of recalled toothpaste",
-          "url": "https://www.nbcchicago.com/news/local/your-kid-could-be-brushing-with-one-of-millions-of-tubes-of-recalled-toothpaste/4005729/",
-          "source": "NBC 5 Chicago"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "preparedness",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Thu, 22 Oct 2026 07:50:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "NAPHARM proposes 10-point plan to strengthen Ebola preparedness",
-          "url": "https://guardian.ng/features/health/napharm-proposes-10-point-plan-to-strengthen-ebola-preparedness/",
-          "source": "The Guardian Nigeria News"
-        },
-        {
-          "title": "Strengthen Ebola preparedness, Pharmacy Academy urges FG",
-          "url": "https://punchng.com/strengthen-ebola-preparedness-pharmacy-academy-urges-fg/",
-          "source": "Punch Newspapers"
-        },
-        {
-          "title": "NAPharm Proposes 10-point Plan to Strengthen Ebola Preparedness",
-          "url": "https://www.thisdaylive.com/2026/10/22/napharm-proposes-10-point-plan-to-strengthen-ebola-preparedness/",
-          "source": "THISDAYLIVE"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "kings of leon tour tickets",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Thu, 22 Oct 2026 04:50:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Your Complete Guide To Securing Kings Of Leon Australia Tour Presale Tickets Today",
-          "url": "https://www.elle.com.au/culture/entertainment/kings-of-leon-australia-tour-dates-tickets-presale/",
-          "source": "ELLE Australia"
-        },
-        {
-          "title": "Nashville royalty Kings of Leon are coming back to Australia",
-          "url": "https://fortemagazine.com.au/nashville-royalty-kings-of-leon-are-coming-back-to-australia/",
-          "source": "Forte Magazine"
-        },
-        {
-          "title": "Kings of Leon to headline Sydney Summertime 2027",
-          "url": "https://www.theaureview.com/music/kings-of-leon-sydney-summertime-2027/",
-          "source": "The AU Review"
+          "title": "Winnipeg Jets, Hellebuyck could delay physical until later date",
+          "url": "https://www.tsn.ca/nhl/article/jets-hellebuyck-could-delay-physical-until-later-date/",
+          "source": "TSN"
         }
       ],
       "trademarkRisk": "high",
       "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Contains \"tour\" — commonly a protected mark or event name."
+        "Coverage from bleacherreport.com — league/studio/label IP very likely."
       ]
     },
     {
-      "title": "callum turner",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Thu, 22 Oct 2026 07:50:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Dua Lipa and Callum Turner were at the opera. I may know why",
-          "url": "https://www.thetimes.com/life-style/celebrity/article/dua-lipa-callum-turner-lincoln-in-the-bardo-q8kjs2lmk",
-          "source": "The Times"
-        },
-        {
-          "title": "‘Lincoln in the Bardo’ Review: From Book to Opera at the Met",
-          "url": "https://www.nytimes.com/2026/10/20/arts/music/lincoln-in-the-bardo-met-opera-review.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "How ‘Lincoln in the Bardo’ found the words for a president’s operatic grief",
-          "url": "https://www.washingtonpost.com/entertainment/theater/2026/10/22/how-lincoln-bardo-found-words-presidents-operatic-grief/",
-          "source": "The Washington Post"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "nick suzuki",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 -0700",
+      "title": "hellebuyck",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Fri, 23 Oct 2026 07:50:00 -0700",
       "geo": "CA",
       "newsItems": [
         {
-          "title": "Canadiens' Dobes misses chance to right ship with costly penalty",
-          "url": "https://www.sportsnet.ca/nhl/article/canadiens-dobes-misses-chance-to-right-ship-with-costly-penalty/",
+          "title": "Jets working on Connor Hellebuyck trade to Devils",
+          "url": "https://www.sportsnet.ca/nhl/article/jets-working-on-connor-hellebuyck-trade-to-devils/",
           "source": "Sportsnet.ca"
         },
         {
-          "title": "Video Review: SJS @ MTL – 2:05 of the First Period",
-          "url": "https://www.nhl.com/news/san-jose-sharks-montreal-canadiens-video-review-x8017",
-          "source": "NHL.com"
+          "title": "Winnipeg Jets, Hellebuyck could delay physical until later date",
+          "url": "https://www.tsn.ca/nhl/article/jets-hellebuyck-could-delay-physical-until-later-date/",
+          "source": "TSN"
         },
         {
-          "title": "Call of the Wilde: San Jose Sharks comeback to beat the Montreal Canadiens in overtime",
-          "url": "https://globalnews.ca/news/12109945/call-of-the-wilde-san-jose-sharks-comeback-to-beat-the-montreal-canadiens-in-overtime/",
-          "source": "Global News"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from nhl.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "josh o'connor",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 -0700",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Final James Bond Screen Tests To Take Place Over Next Week As Amazon Nears Naming Next 007: The Dish",
-          "url": "https://deadline.com/2026/10/james-bond-screen-tests-names-1237170401/",
-          "source": "Deadline"
-        },
-        {
-          "title": "James Bond Screen Tests to Happen This Weekend: Finalists Emerge for Next 007 Movie",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/james-bond-screen-tests-callum-turner-jack-lowden-1236728317/",
-          "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "Josh O'Connor Is One Of Four Finalists To Replace Daniel Craig As James Bond",
-          "url": "https://www.slashfilm.com/2294135/josh-oconnor-finalists-daniel-craig-james-bond-replacement/",
-          "source": "SlashFilm"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"movie\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "bill ackman",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Bill Ackman blasts ‘radicalized, anti-American’ Democratic Party and ‘disasters’ Pritzker, Newsom",
-          "url": "https://nypost.com/2026/10/20/business/bill-ackman-blasts-radicalized-anti-american-democratic-party-and-disasters-pritzker-newsom/",
-          "source": "New York Post"
-        },
-        {
-          "title": "Bill Ackman Once Funded Democrats. Now He Has a Brutal Assessment of What They’ve Become.",
-          "url": "https://www.kslm.news/news/bill-ackman-once-funded-democrats-now-he-has-a-brutal-assessment-of-what-they-ve-become-mvi9tbci",
-          "source": "KSLM Radio"
-        },
-        {
-          "title": "Bill Ackman goes off on Democratic Party, says it's in worst place it's ever been",
-          "url": "https://www.foxnews.com/video/6407147519112",
-          "source": "Fox News"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "tony romo",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Thu, 22 Oct 2026 07:50:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "JJ Watt lands new deal as full-time CBS lead analyst replacement for Tony Romo",
-          "url": "https://www.espn.com/nfl/story/_/id/50248820/jj-watt-gets-deal-full-cbs-replacement-tony-romo",
-          "source": "ESPN"
-        },
-        {
-          "title": "JJ Watt permanently replaces Tony Romo as top game analyst for NFL on CBS",
-          "url": "https://www.usatoday.com/story/sports/media/2026/10/22/jj-watt-tony-romo-jim-nantz-cbs/92377286007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "CBS Sports names future Hall of Famer J.J. Watt lead analyst for the 'NFL ON CBS'",
-          "url": "https://www.cbssports.com/nfl/news/cbs-sports-names-j-j-watt-lead-analyst-nfl-on-cbs/",
-          "source": "CBS Sports"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from espn.com — league/studio/label IP very likely.",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "eisenhower globe",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Thu, 22 Oct 2026 07:50:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Hegseth wanted Eisenhower’s globe for his office. His staff broke it.",
-          "url": "https://www.washingtonpost.com/national-security/2026/10/22/hegseth-wanted-eisenhowers-globe-his-office-his-staff-broke-it/",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "Pete Hegseth’s staff break priceless historic globe he requested for office",
-          "url": "https://www.theguardian.com/us-news/2026/oct/22/pete-hegseth-eisenhower-globe-pentagon-office-broken",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Pentagon Pete’s Diva Demand Leads to Humiliating Disaster",
-          "url": "https://www.thedailybeast.com/defense-secretary-pentagon-pete-hegseths-disastrous-office-makeover-fiasco-revealed",
-          "source": "The Daily Beast"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "stock market",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Thu, 22 Oct 2026 08:00:00 -0700",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Nasdaq leads Wall Street lower on AI spending jitters; oil prices rebound",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Market sell-off gains steam as concerns about Iran war and high AI spending collide",
-          "url": "https://www.nbcnews.com/business/markets/iran-war-ai-spending-oil-prices-selloff-rcna604994",
-          "source": "NBC News"
-        },
-        {
-          "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
-          "url": "https://www.bnnbloomberg.ca/markets/2026/10/22/world-shares-retreat-as-report-of-damage-to-oil-tankers-pushes-oil-prices-higher/",
-          "source": "BNN Bloomberg"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche.",
-        "Reads as news/current affairs (\"war\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "sister",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Thu, 22 Oct 2026 05:50:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Nicole Kidman’s daughter Sunday Rose in ‘shock’ over lucrative magazine cover",
-          "url": "https://www.nine.com.au/lifestyle/fashion-beauty/sunday-rose-nicole-kidman-keith-urban-vogue-cover-nepo-baby-interview-20261021-p617cx.html",
-          "source": "Nine.com.au"
-        },
-        {
-          "title": "Nicole Kidman’s daughter addresses ‘nepo baby’ status",
-          "url": "https://www.dailytelegraph.com.au/entertainment/sydney-confidential/dream-come-true-sunday-rose-kidmanurban-celebrates-first-solo-vogue-cover/news-story/d03691309c2754cc5edebb20c7a302ad",
-          "source": "The Daily Telegraph"
-        },
-        {
-          "title": "‘Very aware’: Nicole Kidman’s daughter Sunday Rose on being a ‘nepo baby’",
-          "url": "https://www.news24.com.au/lifestyle/celebrity-life/very-aware-nicole-kidmans-model-daughter-sunday-rose-addresses-being-a-nepo-baby-as-she-covers-vogue-germany/news-story/a417ed905d2a1674d41f19f636bb339f",
-          "source": "News24"
+          "title": "Devils, Jets Working On Connor Hellebuyck Trade",
+          "url": "https://www.prohockeyrumors.com/2026/10/devils-jets-working-on-connor-hellebuyck-trade.html",
+          "source": "Pro Hockey Rumors"
         }
       ],
       "trademarkRisk": "medium",
@@ -576,207 +116,26 @@
       ]
     },
     {
-      "title": "valtteri bottas",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Thu, 22 Oct 2026 04:40:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Valtteri Bottas is auctioning off his unique 'Nigel the Badger' helmet",
-          "url": "https://www.the-race.com/extra/valtteri-bottas-is-auctioning-off-his-unique-nigel-the-badger-helmet/",
-          "source": "The Race"
-        },
-        {
-          "title": "Schumacher delivers brutal Bottas verdict with Cadillac urged to change drivers",
-          "url": "https://www.planetf1.com/news/valtteri-bottas-told-on-your-bike-ralf-schumacher-cadillac-replacement",
-          "source": "PlanetF1"
-        },
-        {
-          "title": "Ralf says Bottas should go as Cadillac rumours grow",
-          "url": "https://motorsport.nextgen-auto.com/en/formula-1/ralf-says-bottas-should-go-as-cadillac-rumours-grow,212478.html",
-          "source": "Nextgen-Auto.com"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Reads as news/current affairs (\"verdict\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "elena rybakina",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Thu, 22 Oct 2026 04:20:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Elena Rybakina advances to Ningbo quarterfinals after Kudermetova injury",
-          "url": "https://www.espn.com.au/tennis/story/_/id/50249031/elena-rybakina-reaches-ningbo-quarters-opponent-hurt",
-          "source": "ESPN"
-        },
-        {
-          "title": "Breaking down the quarterfinal matchups in Ningbo",
-          "url": "https://www.wtatennis.com/news/4596868/bnb-ningbo-open-quarterfinal-preview-iva-jovic-elena-rybakina-diana-shnaider-leylah-fernandez",
-          "source": "WTA Tennis"
-        },
-        {
-          "title": "Philippines’ Eala ousted as Rybakina moves into Ningbo Open last 8 on return from injury",
-          "url": "https://www.scmp.com/sport/china/article/3371817/philippines-eala-ousted-rybakina-moves-ningbo-open-last-8-return-injury",
-          "source": "South China Morning Post"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"open\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "big ten conference",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 -0700",
+      "title": "alexander bublik",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 23 Oct 2026 08:10:00 -0700",
       "geo": "US",
       "newsItems": [
         {
-          "title": "Big Ten Preview: Week 8",
-          "url": "https://sports.yahoo.com/articles/big-ten-preview-week-8-134332667.html",
-          "source": "Yahoo Sports"
+          "title": "Medvedev continues Almaty title defence, Tsitsipas reaches SFs",
+          "url": "https://www.atptour.com/en/news/medvedev-almaty-2026-report-friday",
+          "source": "ATP Tour"
         },
         {
-          "title": "Big Ten picks: MLive’s predictions for Michigan-Indiana, Michigan State-UCLA",
-          "url": "https://www.mlive.com/sports/2026/10/big-ten-picks-mlives-predictions-for-michigan-indiana-michigan-state-ucla.html",
-          "source": "MLive.com"
+          "title": "Almaty QF previews and predictions: Medvedev vs. Atmane, Bublik vs. Khachanov",
+          "url": "https://tenngrand.com/lyon-tennis-previews-picks-predictions-medvedev-vs-atmane-bublik-khachanov/",
+          "source": "The Grandstand"
         },
         {
-          "title": "A look at Week 8 SP+ projections for Big Ten football",
-          "url": "https://www.insidethehall.com/2026/10/20/a-look-at-week-8-sp-projections-for-big-ten-football/",
-          "source": "Inside the Hall"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "megyn kelly christina applegate",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 08:20:00 -0700",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Fox News icon takes aim at 'former close friend' Megyn Kelly over MS comments",
-          "url": "https://www.the-sun.com/news/17190813/janice-dean-slams-megyn-kelly-ms-comments-christina-applegate/",
-          "source": "The Sun"
-        },
-        {
-          "title": "‘Back at Square One’: Christina Applegate Says Her M.S. Was Misdiagnosed",
-          "url": "https://www.nytimes.com/2026/10/20/well/christina-applegate-misdiagnosis-ms.html",
+          "title": "How to watch the men’s Almaty Open: Streaming options for the Round of 32",
+          "url": "https://www.nytimes.com/athletic/7702836/2026/10/18/mens-almaty-open-stream-how-to-watch-october-20/",
           "source": "The New York Times"
-        },
-        {
-          "title": "Christina Applegate, a leading MS advocate, says doctors found she doesn't have the disease after all",
-          "url": "https://www.ksl.com/article/51638711/christina-applegate-a-leading-ms-advocate-says-doctors-found-she-doesnt-have-the-disease-after-all",
-          "source": "KSL News"
-        }
-      ],
-      "trademarkRisk": "low",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "daft punk lego",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 08:10:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Daft Punk Are Now Lego",
-          "url": "https://pitchfork.com/story/daft-punk-are-now-lego/",
-          "source": "Pitchfork"
-        },
-        {
-          "title": "Lego Unveils Daft Punk Set Based on 2007 ‘Alive’ Tour, Short Film Collab Set to ‘Human After All’",
-          "url": "https://variety.com/2026/music/global/daft-punk-lego-set-alive-tour-1236918620/",
-          "source": "Variety"
-        },
-        {
-          "title": "Inside Lego x Daft Punk – a new partnership inspired by fans",
-          "url": "https://www.wallpaper.com/art/lego-daft-punk-partnership-interview",
-          "source": "Wallpaper*"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"tour\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "dermot murnaghan",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 07:50:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Memorial service held for 'extraordinary' broadcaster Dermot Murnaghan",
-          "url": "https://news.sky.com/story/memorial-service-held-for-extraordinary-broadcaster-dermot-murnaghan-13601925",
-          "source": "Sky News"
-        },
-        {
-          "title": "Susanna Reid and Beth Rigby among those remembering Dermot Murnaghan at service",
-          "url": "https://www.independent.co.uk/news/uk/home-news/dermot-murnaghan-susanna-reid-sky-news-mark-austin-bbc-b3071581.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Susanna Reid and Beth Rigby among those remembering Dermot Murnaghan at service",
-          "url": "https://www.somersetcountygazette.co.uk/news/national/26661816.susanna-reid-beth-rigby-among-remembering-dermot-murnaghan-service/",
-          "source": "Somerset County Gazette"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "jablonec",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 07:50:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Jablonec vs Brighton & Hove Albion: UEFA Conference League stats & head-to-head",
-          "url": "https://www.bbc.co.uk/sport/football/live/c52e9n7394jyt",
-          "source": "BBC"
-        },
-        {
-          "title": "Thursday best bets: Europa League and Conference League tips for October 22 2026",
-          "url": "https://www.sportinglife.com/football/news/thursday-best-bets-europa-league-and-conference-league-tips-for-october-22-2026/234943",
-          "source": "Sporting Life"
-        },
-        {
-          "title": "Jablonec vs Brighton Prediction, Tips and Odds | Conference League",
-          "url": "https://www.tntsports.co.uk/betting/tips/jablonec-vs-brighton-prediction-tips-and-odds-conference-league-22-10-26/",
-          "source": "TNT Sports"
         }
       ],
       "trademarkRisk": "medium",
@@ -788,26 +147,26 @@
       ]
     },
     {
-      "title": "aéroport",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 -0700",
-      "geo": "CA",
+      "title": "bambu h3c",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 23 Oct 2026 07:40:00 -0700",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "Arabie saoudite | Le personnel d’Aramco appelé à évacuer, des drones interceptés",
-          "url": "https://www.lapresse.ca/international/moyen-orient/2026-10-22/arabie-saoudite/le-personnel-d-aramco-appele-a-evacuer-des-drones-interceptes.php",
-          "source": "La Presse"
+          "title": "Bambu Lab H3C tool changer packs nine tools into one 3D printer",
+          "url": "https://www.voxelmatters.com/the-next-bambu-lab-teaser-video-premieres-on-voxelmatters-on-october-23/",
+          "source": "VoxelMatters"
         },
         {
-          "title": "Arabie saoudite: un 2e mort dans l'attaque contre l'aéroport de Dammam",
-          "url": "https://www.journaldemontreal.com/2026/10/22/arabie-saoudite-un-2e-mort-dans-lattaque-contre-laeroport-de-dammam",
-          "source": "Le Journal de Montréal"
+          "title": "Bambu Lab teases its mysterious H3C tool changer 3D printer — features nine tools and a drop-down rack, slated for November 3 launch",
+          "url": "https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch",
+          "source": "Tom's Hardware"
         },
         {
-          "title": "Les États-Unis ordonnent le départ de l'ambassade américaine à Riyad d'employés et leurs familles",
-          "url": "https://www.france24.com/fr/moyen-orient/20261022-les-%C3%A9tats-unis-ordonnent-le-d%C3%A9part-de-l-ambassade-am%C3%A9ricaine-%C3%A0-riyad-d-employ%C3%A9s-et-leurs-familles",
-          "source": "France 24"
+          "title": "Bambu Lab H3C leak points to tool changer and nine toolheads",
+          "url": "https://mezha.net/eng/news/mezha-9d5e8e31865888a227e25510_bambu_lab_h3c/",
+          "source": "Mezha.net"
         }
       ],
       "trademarkRisk": "medium",
@@ -818,26 +177,723 @@
       ]
     },
     {
-      "title": "overpass",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 -0700",
+      "title": "acier",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 23 Oct 2026 08:30:00 -0700",
       "geo": "CA",
       "newsItems": [
         {
-          "title": "Sask. Ministry of Highways takes action after high number of overpass strikes",
-          "url": "https://www.cp24.com/news/canada/2026/10/21/sask-ministry-of-highways-takes-action-after-high-number-of-overpass-strikes/",
-          "source": "CP24"
+          "title": "Acier et aluminium | Les États-Unis se tirent dans le pied avec leurs droits de douane, selon une étude",
+          "url": "https://www.lapresse.ca/affaires/economie/2026-10-23/acier-et-aluminium/les-etats-unis-se-tirent-dans-le-pied-avec-leurs-droits-de-douane-selon-une-etude.php",
+          "source": "La Presse"
         },
         {
-          "title": "Sask. acts following ninth semi strike on overpass this year",
-          "url": "https://www.ctvnews.ca/regina/video/2026/10/21/sask-acts-following-ninth-semi-strike-on-overpass-this-year/",
-          "source": "CTV News"
+          "title": "Les États-Unis auront du mal à renoncer aux tarifs, prévient la négociatrice canadienne",
+          "url": "https://www.ledevoir.com/economie/1019042/etats-unis-auront-mal-renoncer-tarifs-previent-negociatrice-canadienne",
+          "source": "Le Devoir"
         },
         {
-          "title": "Bowline Logistics sentencing delayed in Saskatoon overpass crash",
-          "url": "https://www.ckom.com/2026/10/20/bowline-logistics-sentencing-delayed-in-saskatoon-overpass-crash/",
-          "source": "650 CKOM"
+          "title": "Une nouvelle action en justice intentée pour contester les droits de douane de Trump",
+          "url": "https://www.noovo.info/nouvelles/economie/guerre-commerciale/article/une-nouvelle-action-en-justice-intentee-pour-contester-les-droits-de-douane-de-trump/",
+          "source": "Noovo Info"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "al-faisaly vs al-nassr",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 23 Oct 2026 05:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "With a remarkable record: Al-Hamdan makes history with Al-Nassr",
+          "url": "https://www.goal.com/en/news/with-a-stunning-figure-al-hamdan-makes-headlines-with-al-nassr/bltc372b9e25fe4d104",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Al-Faisaly vs Al Nassr: Confirmed lineups for the 2026-27 Saudi Pro League match",
+          "url": "https://worldsoccertalk.com/news/al-faisaly-vs-al-nassr-projected-lineups-for-the-2026-27-saudi-pro-league-match/",
+          "source": "World Soccer Talk"
+        },
+        {
+          "title": "Al-Faisaly vs. Al-Nassr Lineup Today: Is Cristiano Ronaldo Playing?",
+          "url": "https://heavy.com/sports/soccer/al-faisaly-al-nassr-lineup-today-is-cristiano-ronaldo-playing/",
+          "source": "Heavy.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "rodney hinton jr",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "VERDICT REACHED | Jurors reach verdict in Rodney Hinton Jr. trial",
+          "url": "https://www.wlwt.com/article/verdict-reached-rodney-hinton-jr-trial-live/74230364",
+          "source": "WLWT"
+        },
+        {
+          "title": "Ohio father charged with killing sheriff deputy found guilty",
+          "url": "https://www.nbcnews.com/news/us-news/ohio-father-charged-killing-sheriff-deputy-found-guilty-rcna604750",
+          "source": "NBC News"
+        },
+        {
+          "title": "Jury convicts Rodney Hinton of all charges in death of retired deputy Larry Henderson",
+          "url": "https://local12.com/news/local/jury-convicts-rodney-hinton-all-charges-death-retired-deputy-larry-henderson-murder-reckless-homicide-felonious-assault-graduation-ryan-shot-police-insanity-plea",
+          "source": "WKRC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "education department drops pslf challenge",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 23 Oct 2026 07:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "2.3 Million Student Loan Borrowers Get Huge Win Against Education Department In Loan Forgiveness Fight",
+          "url": "https://www.forbes.com/sites/adamminsky/2026/10/23/23-million-student-loan-borrowers-get-huge-win-against-education-department-in-loan-forgiveness-fight/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Rule Limiting PSLF Beneficiaries Dead for Now",
+          "url": "https://www.insidehighered.com/news/government/student-aid-policy/2026/10/22/rule-limiting-pslf-beneficiaries-dead-now",
+          "source": "Inside Higher Ed"
+        },
+        {
+          "title": "Student-loan borrowers win as Trump drops legal battle to narrow a major forgiveness program for public servants",
+          "url": "https://www.businessinsider.com/trump-drops-appeal-limit-public-service-loan-forgiveness-pslf-debt-2026-10",
+          "source": "Business Insider"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "m5",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Heavy traffic on M5 northbound after lorry overturns",
+          "url": "https://www.bbc.co.uk/news/articles/c38xzd859enxo",
+          "source": "BBC"
+        },
+        {
+          "title": "M5 South West chaos as Friday getaway begins - live updates",
+          "url": "https://www.somersetlive.co.uk/news/somerset-news/m5-closed-somerset-vehicle-overturns-11211657",
+          "source": "Somerset Live"
+        },
+        {
+          "title": "LIVE - Northbound M5 closed due to overturned lorry",
+          "url": "https://www.somersetcountygazette.co.uk/news/26664483.live---m5-somerset-northbound-closed-overturned-lorry/",
+          "source": "Somerset County Gazette"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "jack hughes",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 23 Oct 2026 08:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Gritsyuk scores again, Devils push past slumping Ducks",
+          "url": "https://www.nhl.com/news/anaheim-ducks-new-jersey-devils-game-recap-october-22-2026",
+          "source": "NHL.com"
+        },
+        {
+          "title": "Devils 4-1 Ducks (Oct 22, 2026) Game Recap",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892555",
+          "source": "ESPN"
+        },
+        {
+          "title": "Gritsyuk and Hischier score in 1st period in the Devils’ 4-1 victory over the Ducks",
+          "url": "https://www.thestar.com/sports/hockey/gritsyuk-and-hischier-score-in-1st-period-in-the-devils-4-1-victory-over-the-ducks/article_569071ce-345d-5d3b-805a-80adaaca1b2e.html",
+          "source": "Toronto Star"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nhl.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "iphone duo",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 23 Oct 2026 08:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "「iPhone Duo」発売 予約は好調",
+          "url": "https://news.yahoo.co.jp/pickup/6599778",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "アップルの折りたたみ「iPhone Duo」発売、品薄で直営店前に行列復活",
+          "url": "https://www.bloomberg.com/jp/news/articles/2026-10-23/TNC4ECVTTD0P00",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "【CASETiFY】Apple「iPhone Duo」に対応した精密設計・検証済みの保護スマホケース・アクセサリーコレクションを発表",
+          "url": "https://ascii.jp/elem/000/004/445/4445243/",
+          "source": "ASCII.jp"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "nbl",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 23 Oct 2026 05:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Kings with demolition job on Hawks",
+          "url": "https://www.nbl.com.au/news/kings-with-demolition-job-on-hawks",
+          "source": "NBL"
+        },
+        {
+          "title": "Sydney Kings demolish struggling Hawks in NBL",
+          "url": "https://www.espn.com.au/nbl/story/_/page/TAB33FY26/sydney-kings-demolish-struggling-illawarra-hawks-nbl",
+          "source": "ESPN"
+        },
+        {
+          "title": "‘There were guys going rogue!’",
+          "url": "https://www.adelaidenow.com.au/sport/basketball/there-were-guys-going-rogue/video/2e00267b7cac77d1bbdab07ef4d681d6",
+          "source": "Adelaide Now"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "donal lunny",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 23 Oct 2026 07:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Breaking Renowned Irish musician Dónal Lunny dies aged 79",
+          "url": "https://www.rte.ie/entertainment/2026/1023/1596634-donal-lunny-dead/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "Tributes paid to musician Dónal Lunny after his death aged 79",
+          "url": "https://www.irishtimes.com/culture/music/2026/10/23/tributes-paid-to-musician-donal-lunny-after-his-death-aged-79/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "Christy Moore leads tributes after Donal Lunny dies aged 79",
+          "url": "https://twaslnews1.twaslnews.com/6474075/",
+          "source": "شبكة تواصل الإخبارية"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"death\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "dawson mercer",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 23 Oct 2026 08:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Mercer | POST-RAW 10.15.26",
+          "url": "https://www.nhl.com/devils/video/mercer-post-raw-10-15-26-6406940655112",
+          "source": "NHL.com"
+        },
+        {
+          "title": "The New Jersey Devils need so much more from Dawson Mercer",
+          "url": "https://pucksandpitchforks.com/the-new-jersey-devils-need-so-much-more-from-dawson-mercer",
+          "source": "Pucks and Pitchforks"
+        },
+        {
+          "title": "Dawson Mercer News: Chips in with helper",
+          "url": "https://www.rotowire.com/hockey/headlines/dawson-mercer-news-chips-in-with-helper-595910",
+          "source": "RotoWire"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nhl.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "peres jepchirchir",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 23 Oct 2026 04:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "World and Olympic marathon champion Jepchirchir suspended after positive doping test",
+          "url": "https://www.theguardian.com/sport/2026/oct/23/world-olympic-marathon-champion-peres-jepchirchir-suspended-positive-doping-test-athletics",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Peres Jepchirchir: Women's world marathon provisionally suspended for doping",
+          "url": "https://www.bbc.com/sport/olympics/articles/cwz0vn1yk235o",
+          "source": "BBC"
+        },
+        {
+          "title": "World marathon champion Jepchirchir provisionally banned by AIU over EPO finding",
+          "url": "https://www.reuters.com/sports/olympic-champion-jepchirchir-provisionally-suspended-by-aiu-over-epo-finding-2026-10-23/",
+          "source": "Reuters"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "hannah gosselin",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 08:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Collin Gosselin Responds to Sister Hannah Distancing Herself from His Book and Allegations Against Mom Kate",
+          "url": "https://people.com/collin-gosselin-thinks-sister-hannah-damage-control-what-said-mom-kate-netflix-documentary-12188177",
+          "source": "People.com"
+        },
+        {
+          "title": "Collin Gosselin Fires Back at Sister Hannah’s ‘Pre-Damage Control’ Move: ‘Caught in the Middle’",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/collin-gosselin-fires-back-sister-150034401.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Collin Gosselin accuses mom Kate of using money, siblings to manipulate sister Hannah amid family feud",
+          "url": "https://pagesix.com/2026/10/22/entertainment/collin-gosselin-accuses-mom-kate-of-using-money-siblings-to-manipulate-sister-hannah-amid-family-feud/",
+          "source": "Page Six"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "tropical cyclone",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 08:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Hurricane Vance to rapidly intensify into major hurricane, while Typhoon Champi threatens Taiwan and Japan",
+          "url": "https://www.foxweather.com/weather-news/tropical-storm-vance-forms-champi-churns-pacific",
+          "source": "FOX Weather"
+        },
+        {
+          "title": "LIVE MAP: Track the path of Hurricane Vance",
+          "url": "https://www.pbs.org/newshour/nation/live-map-track-the-path-of-hurricane-vance",
+          "source": "PBS"
+        },
+        {
+          "title": "Tropical Storm Vance has formed in the Pacific Ocean",
+          "url": "https://apnews.com/article/tropical-storm-vance-pacific-ocean-eec14da42c695adf78cf56d474ac8ed9",
+          "source": "AP News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"storm\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "carson daly",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 08:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Is Carson Daly Leaving ‘The Voice’? What We Know",
+          "url": "https://hollywoodlife.com/feature/is-carson-daly-leaving-the-voice-5567016/",
+          "source": "Hollywood Life"
+        },
+        {
+          "title": "'The Voice' Fans React to Host Carson Daly Leaving the Show",
+          "url": "https://talentrecap.com/the-voice-fans-host-carson-daly-leaving-the-show/",
+          "source": "Talent Recap"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "karl rove",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Karl Rove and David Axelrod give their predictions for 12 key midterm races",
+          "url": "https://www.pbs.org/newshour/politics/karl-rove-and-david-axelrod-give-their-predictions-for-12-key-midterm-races",
+          "source": "PBS"
+        },
+        {
+          "title": "What’s up with Trump’s unhinged fixation on male candidates’ bodies?",
+          "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-midterm-rallies-male-bodies",
+          "source": "The Guardian"
+        },
+        {
+          "title": "All the President’s Hotties",
+          "url": "https://www.theatlantic.com/ideas/2026/10/trump-physical-appearance-senate-midterms/689084/",
+          "source": "The Atlantic"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "danielle parton",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Dolly Parton's niece battled cancer at the same time as music legend",
+          "url": "https://www.usatoday.com/story/entertainment/music/2026/10/22/dolly-parton-niece-danielle-parton-stage-zero-cancer/92389262007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Danielle Parton Opens Up on Her Own Cancer Battle and Dolly's Reaction",
+          "url": "https://www.broadwayworld.com/bwwtv/article/Danielle-Parton-Opens-Up-on-Her-Own-Cancer-Battle-and-Dollys-Reaction-20261023",
+          "source": "BroadwayWorld"
+        },
+        {
+          "title": "Dolly Parton’s Niece Danielle on Her Own Cancer Battle & Dolly’s Reaction (Exclusive)",
+          "url": "https://extratv.com/2026/10/22/dolly-parton-s-niece-danielle-on-her-own-cancer-battle-and-dolly-s-reaction-exclusive/",
+          "source": "Extra"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "alejandro garnacho",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 08:10:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Alejandro Garnacho: Aston Villa, Chelsea deal 'now in jeopardy' as club 'losing patience' for one key reason",
+          "url": "https://www.football365.com/news/alejandro-garnacho-aston-villa-chelsea-deal-jeopardy-club-losing-patience",
+          "source": "Football365"
+        },
+        {
+          "title": "Aston Villa transfer news: Alejandro Garnacho latest as Chelsea left with 'headache' over Argentine",
+          "url": "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/news/garnacho-latest-how-do-chelsea-feel-about-argentines-aston-villa-situation_607370.html",
+          "source": "Sports Mole"
+        },
+        {
+          "title": "Aston Villa Face £43m Winger Dilemma: Should Emery Keep Faith Here?",
+          "url": "https://the4thofficial.net/2026/10/aston-villa-face-43m-winger-dilemma-should-emery-keep-faith-here/",
+          "source": "The 4th Official"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "golf monthly",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "LIV Golf: Ian Poulter becomes latest star to leave breakaway tour",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo",
+          "source": "BBC"
+        },
+        {
+          "title": "Ian Poulter: Ryder Cup legend becomes latest to confirm LIV Golf exit and reveals plans for 'next chapter' of his career",
+          "url": "https://www.skysports.com/golf/news/13602670/ian-poulter-ryder-cup-legend-becomes-latest-to-confirm-liv-golf-exit-and-reveals-plans-for-next-chapter-of-his-career",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Louis Oosthuizen leaves LIV for DP World Tour, citing uncertain 2027 schedule",
+          "url": "https://www.nytimes.com/athletic/7710327/2026/10/21/louis-oosthuizen-liv-golf-exit-dp-world-tour/",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "sicily",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Tsunami alert issued in Italy as tremors hit off Mediterranean coast",
+          "url": "https://www.independent.co.uk/news/world/europe/italy-earthquake-tsunami-updates-b3072209.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Sicily rocked by 10 earthquakes up to 5.7 magnitude as Palermo schools evacuated",
+          "url": "https://www.mirror.co.uk/news/world-news/sicily-palermo-earthquake-magnitude-schools-37803725",
+          "source": "Daily Mirror"
+        },
+        {
+          "title": "Tsunami alert after TWELVE quakes off coast of Italy sparking mass evacuations",
+          "url": "https://www.the-sun.com/news/17195341/italy-earthquake-tsunami-alert/",
+          "source": "The Sun"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "evangelos marinakis",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Evangelos Marinakis 'personally involved' in Nottingham Forest 'masterstroke' - Expert",
+          "url": "https://sports.yahoo.com/articles/evangelos-marinakis-personally-involved-nottingham-110000654.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Tottenham vs Chelsea, Brighton vs Liverpool, Man Utd vs Bournemouth and much more!",
+          "url": "https://www.skysports.com/football/news/13602410/premier-league-predictions-and-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Nottingham Forest: Oliver Glasner upbeat before Ipswich game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw3djpg15045o",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "botoşani - petrolul",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 07:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "VIDEO | FC Botoşani - Petrolul, LIVE pe Prima Sport 1 şi PrimaPlay.ro! A început partida",
+          "url": "https://www.primasport.ro/video-fc-botosani-petrolul-live-pe-prima-sport-1-si-primaplay-ro-a-inceput-partida-22859884",
+          "source": "PrimaSport.ro"
+        },
+        {
+          "title": "FC Botoșani – FC Petrolul/„Mergem să câștigăm la Botoșani”",
+          "url": "https://fcpetrolul.ro/fc-botosani-fc-petrolul-mergem-sa-castigam-la-botosani/",
+          "source": "Petrolul"
+        },
+        {
+          "title": "Fotbal: Ricardo Sousa (Petrolul) - Meciul cu Botoșani este unul dificil, dar sper într-un joc de calitate",
+          "url": "https://agerpres.ro/sport/2026/10/22/fotbal-ricardo-sousa-petrolul---meciul-cu-botosani-este-unul-dificil-dar-sper-intr-un-joc-de-calitat--1605863",
+          "source": "Agerpres"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"fc\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "nottingham forest f.c.",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 07:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Madueke shows level of 'anger and conviction' to prove he is more than a finisher",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do",
+          "source": "BBC"
+        },
+        {
+          "title": "Nottingham Forest news: Reds have lowest conversion rate in the league",
+          "url": "https://www.bbc.com/sport/football/articles/cwly40rgq1l6o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "source": "BBC"
+        },
+        {
+          "title": "GLASNER'S ARSENAL ASSESSMENT AND LATEST ON MGW",
+          "url": "https://www.nottinghamforest.co.uk/news/2026/october/18/glasner-s-arsenal-assessment-and-latest-on-mgw/",
+          "source": "Nottingham Forest FC"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.6,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Matches print-on-demand vocabulary (\"forest\")."
+      ]
+    },
+    {
+      "title": "petroleum",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 07:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "India's Bharat Petroleum profit drops amid crude oil price volatility",
+          "url": "https://www.reuters.com/business/energy/indias-bharat-petroleum-profit-drops-amid-crude-oil-price-volatility-2026-10-23/",
+          "source": "Reuters"
+        },
+        {
+          "title": "BPCL board approves subsidiary for Ramayapatnam greenfield refinery",
+          "url": "https://scanx.trade/stock-market-news/companies/bpcl-subsidiary-plans-greenfield-refinery-ramayapatnam/54310024",
+          "source": "scanx.trade"
+        },
+        {
+          "title": "BPCL: H1 profit fell amid squeezed marketing margins, despite higher refining margins and a one-time gain",
+          "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3830807:0-bpcl-h1-profit-fell-amid-squeezed-marketing-margins-despite-higher-refining-margins-and-a-one-time-gain/",
+          "source": "TradingView"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "traffic",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 07:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Wales breaking news plus weather and traffic updates (Friday, October 23)",
+          "url": "https://www.walesonline.co.uk/news/wales-news/wales-breaking-news-plus-weather-34804971",
+          "source": "Wales Online"
+        },
+        {
+          "title": "Wales breaking news plus weather and traffic updates (Thursday, October 22)",
+          "url": "https://www.walesonline.co.uk/news/wales-news/wales-breaking-news-plus-weather-34799462",
+          "source": "Wales Online"
+        },
+        {
+          "title": "M5 blocked after crash near Cheltenham",
+          "url": "https://www.gloucestershirelive.co.uk/news/gloucester-news/m5-blocked-after-crash-near-11210709",
+          "source": "Gloucestershire Live"
         }
       ],
       "trademarkRisk": "medium",
@@ -849,57 +905,26 @@
       ]
     },
     {
-      "title": "callum turner",
+      "title": "igloofest 2027",
       "traffic": 200,
       "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 08:20:00 -0700",
+      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0700",
       "geo": "CA",
       "newsItems": [
         {
-          "title": "Dua Lipa Among Famous Faces at Met Opera’s ‘Lincoln in the Bardo’ Premiere",
-          "url": "https://www.nytimes.com/2026/10/20/style/met-opera-lincoln-bardo-premiere.html",
-          "source": "The New York Times"
+          "title": "Igloofest 2027 | Kaytranada, Fatboy Slim et deadmau5 réchaufferont l’hiver",
+          "url": "https://www.lapresse.ca/arts/musique/2026-10-21/igloofest-2027/kaytranada-fatboy-slim-et-deadmau5-rechaufferont-l-hiver.php",
+          "source": "La Presse"
         },
         {
-          "title": "‘Lincoln in the Bardo’ Review: An Opera of Presidential Grief",
-          "url": "https://www.wsj.com/arts-culture/theater/lincoln-in-the-bardo-review-an-opera-of-presidential-grief-83cfed8b",
-          "source": "WSJ"
+          "title": "Igloofest: deadmau5, Fatboy Slim et Kaytranada feront danser les Montréalais au Vieux-Port",
+          "url": "https://www.tvanouvelles.ca/2026/10/21/igloofest-deadmau5-fatboy-slim-et-kaytranada-feront-danser-les-montrealais-au-vieux-port",
+          "source": "TVA Nouvelles"
         },
         {
-          "title": "How ‘Lincoln in the Bardo’ found the words for a president’s operatic grief",
-          "url": "https://www.washingtonpost.com/entertainment/theater/2026/10/22/how-lincoln-bardo-found-words-presidents-operatic-grief/",
-          "source": "The Washington Post"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Contains \"premiere\" — commonly a protected mark or event name.",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "megyn kelly",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 08:20:00 -0700",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Fox News icon takes aim at 'former close friend' Megyn Kelly over MS comments",
-          "url": "https://www.the-sun.com/news/17190813/janice-dean-slams-megyn-kelly-ms-comments-christina-applegate/",
-          "source": "The Sun"
-        },
-        {
-          "title": "Christina Applegate says she was misdiagnosed with MS. An expert explains why that might have happened",
-          "url": "https://www.ctvnews.ca/health/article/christina-applegate-says-she-was-misdiagnosed-with-ms-an-expert-explains-why-that-might-have-happened/",
-          "source": "CTV News"
-        },
-        {
-          "title": "Christina Applegate says she was misdiagnosed with multiple sclerosis",
-          "url": "https://globalnews.ca/news/12109532/christina-applegate-misdiagnosed-multiple-sclerosis/",
-          "source": "Global News"
+          "title": "La programmation d'Igloofest 2027 : Kaytranada, Fatboy Slim, Frost Children, Fcukers, Marie Davidson et plus!",
+          "url": "https://lecanalauditif.ca/actualites/programmation-igloofest-2027-kaytranada-fatboy-slim-frost-children-fcukers-marie-davidson/",
+          "source": "Le Canal Auditif"
         }
       ],
       "trademarkRisk": "medium",
@@ -910,26 +935,116 @@
       ]
     },
     {
-      "title": "sp500",
+      "title": "pétrolier",
       "traffic": 200,
       "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 08:20:00 -0700",
+      "pubDate": "Fri, 23 Oct 2026 07:50:00 -0700",
       "geo": "CA",
       "newsItems": [
         {
-          "title": "米国株は下落、原油高とAI投資の先行き懸念で－国債や円に逃避需要",
-          "url": "https://www.bloomberg.com/jp/news/articles/2026-10-22/TNB9G2KJH6V400",
-          "source": "Bloomberg.com"
+          "title": "Un premier pétrolier chargé de diesel russe en route vers New York",
+          "url": "https://ici.radio-canada.ca/nouvelle/2295241/premier-petrolier-diesel-russe-new-york",
+          "source": "Radio-Canada"
         },
         {
-          "title": "ＮＹ各市場 ０時台 ダウ平均は２１３ドル安 ナスダックは２．１％の大幅安",
-          "url": "https://fx.minkabu.jp/news/382375",
-          "source": "みんかぶ FX/為替"
+          "title": "Trump se rapproche de la Russie: «Un renversement qui aura un impact sur le Canada», dit Guillaume Lavoie",
+          "url": "https://www.tvanouvelles.ca/2026/10/21/trump-se-rapproche-de-la-russie--un-renversement-qui-aura-un-impact-sur-le-canada-dit-guillaume-lavoie",
+          "source": "TVA Nouvelles"
         },
         {
-          "title": "テック株主導の売り越し：ナスダック先物は1.6%安",
-          "url": "https://www.moomoo.com/ja/community/feed/tech-led-selloff-nasdaq-futures-fall-1-6-117484468633606",
-          "source": "Moomoo"
+          "title": "Un pétrolier transportant du gazole russe se dirige vers les États-Unis",
+          "url": "https://www.lenouvelliste.ca/affaires/2026/10/23/un-premier-petrolier-transportant-du-gazole-russe-a-pris-la-mer-vers-les-e-u-VQHXBRWS5NBDZN5AA75YRVZQJI/",
+          "source": "Le Nouvelliste"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "the bahamas",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 07:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "36-Year-Old Mom Drowns Attempting to Save Her 2 Sons from Rough Waters During Vacation Snorkel in Bahamas",
+          "url": "https://people.com/mother-drowns-attempting-to-save-her-sons-from-rough-waters-during-vacation-snorkel-bahamas-12189489",
+          "source": "People.com"
+        },
+        {
+          "title": "British woman drowns in Bahamas while trying to save her children",
+          "url": "https://www.telegraph.co.uk/news/2026/10/23/british-woman-drowns-in-bahamas-while-trying-to-save-her-ch/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Brit mum 'drowned after jumping in sea to rescue her two children' in Bahamas tragedy",
+          "url": "https://www.dailystar.co.uk/news/latest-news/breaking-brit-mum-drowned-after-37802518",
+          "source": "Daily Star"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "al nassr",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 07:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Cristiano Ronaldo misses penalty for Al Nassr in 1st game since Portugal suspension",
+          "url": "https://www.espn.com.au/football/story/_/id/50232004/cristiano-ronaldo-al-nassr-penalty-miss-portugal-suspension",
+          "source": "ESPN"
+        },
+        {
+          "title": "‘Nature of football’: Ange’s touching Ronaldo act as double blunder rocks 1000-goal quest",
+          "url": "https://www.foxsports.com.au/football/football-2026-ange-postecoglou-consoles-cristiano-ronaldo-after-missed-penalty-and-tap-in-for-al-nassr-latest-news-video-highlights/news-story/489afcccc7403f17cc032d391a9b0ce9",
+          "source": "Fox Sports"
+        },
+        {
+          "title": "Ronaldo misses penalty as Al Nassr beat Neom 1-0 in Saudi Pro League",
+          "url": "https://www.thechronicle.com.au/sport/ronaldo-misses-penalty-as-al-nassr-beat-neom-10-in-saudi-pro-league/video/1befc0563ba8faae9ec110c24bdd99a8",
+          "source": "Toowoomba Chronicle"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "hospital bed",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 07:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Indigenous girl, 16, shackled to hospital bed after being allegedly dragged through her home by police in Perth",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/23/indigenous-girl-16-shackled-to-hospital-bed-after-being-allegedly-dragged-through-her-home-by-police-in-perth-ntwnfb",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Indigenous teenage girl allegedly dragged from home by cops, chained to hospital bed",
+          "url": "https://nit.com.au/21-10-2026/27092/indigenous-teenage-girl-allegedly-dragged-from-home-by-cops-chained-to-hospital-bed",
+          "source": "National Indigenous Times"
+        },
+        {
+          "title": "Family Raises Concern Over Perth Hospital Shackling",
+          "url": "https://ozarab.media/family-raises-concern-over-perth-hospital-shackling/",
+          "source": "Oz Arab Media"
         }
       ],
       "trademarkRisk": "medium",
@@ -941,146 +1056,26 @@
       ]
     },
     {
-      "title": "ufc 333",
+      "title": "lawsuit",
       "traffic": 200,
       "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 06:20:00 -0700",
+      "pubDate": "Fri, 23 Oct 2026 05:20:00 -0700",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "UFC 333 preview and picks for featherweight, men's bantamweight titles",
-          "url": "https://www.espn.com.au/mma/story/_/id/50238314/ufc-333-preview-picks",
-          "source": "ESPN"
+          "title": "Trump ordered to sit for deposition in his $14b BBC lawsuit",
+          "url": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
         },
         {
-          "title": "‘It doesn’t matter’: Volk sends blunt warning to critics, unbeaten rival",
-          "url": "https://www.nine.com.au/sport/combat-sports/ufc-333-preview-alexander-volkanovski-exclusive-interview-movsar-evloev-featherweight-title-fight-criticism-style-wrestling-retirement-speculation-20261022-p617dv.html",
-          "source": "Nine.com.au"
+          "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC | Donald Trump",
+          "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+          "source": "The Guardian"
         },
         {
-          "title": "Movsar Evloev | It’s A Long Way To The Top",
-          "url": "https://www.ufc.com/news/movsar-evloev-its-a-long-way-to-the-top-ufc-333",
-          "source": "UFC.com"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from ufc.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "anthony joshua",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 06:00:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Fury vs Joshua: Your questions answered ahead of Tyson Fury's Principality Stadium showdown with Anthony Joshua",
-          "url": "https://www.skysports.com/boxing/news/13601938/fury-vs-joshua-your-questions-answered-ahead-of-tyson-furys-principality-stadium-showdown-with-anthony-joshua",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Cardiff clash Will trains run late for boxing bout? | Bristol Post - newspaper",
-          "url": "https://www.magzter.com/stories/newspaper/Bristol-Post/CARDIFF-CLASH-WILL-TRAINS-RUN-LATE-FOR-BOXING-BOUT",
-          "source": "Magzter"
-        },
-        {
-          "title": "Anthony Joshua sends defiant message ahead of Tyson Fury fight: ‘I am going to stomp all over..’",
-          "url": "https://www.thenews.com.pk/latest/1420896-anthony-joshua-sends-defiant-message-ahead-of-tyson-fury-fight-i-am-going-to-stomp-all-over",
-          "source": "The News International"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from skysports.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "samuela fainu wests tigers contract",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 04:50:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Samuela Fainu re-signs for two years at Wests Tigers",
-          "url": "https://www.weststigers.com.au/news/2026/10/22/samuela-fainu-re-signs-for-two-years-at-wests-tigers/",
-          "source": "Wests Tigers"
-        },
-        {
-          "title": "Benji factor behind big Tigers coup; Warriors star confirms contract call: NRL Daily",
-          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-knights-hire-anthony-field-as-new-head-of-recruitment-alex-mckinnon-bulldogs-resign-aj-jones-news-and-updates-daily/news-story/981b6ce2fc7c68dd6494513a915c16a2",
-          "source": "Fox Sports"
-        },
-        {
-          "title": "Marshall completes Tigers puzzle as star’s contract confirmed",
-          "url": "https://www.theaustralian.com.au/sport/nrl/nrl-market-watch-benji-marshall-completes-tigers-puzzle-as-samuela-fainus-contract-is-confirmed/news-story/d4f01e203ea37609d1ba23491d4a2695",
-          "source": "The Australian"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"nrl\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "jeff fenech hospitalised heart scare",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Thu, 22 Oct 2026 04:40:00 -0700",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "‘Thinking of him’: Aussie great hospitalised ahead of Tszyu bout as NRL star son-in-law speaks",
-          "url": "https://www.foxsports.com.au/boxing/thinking-of-him-aussie-great-hospitalised-ahead-of-tszyu-bout-as-nrl-star-soninlaw-speaks/news-story/ff6b14195e0f6368c04712739d887acc",
-          "source": "Fox Sports"
-        },
-        {
-          "title": "Boxing legend hospitalised after heart scare",
-          "url": "https://www.codesports.com.au/boxing/australian-boxing-legend-jeff-fenech-hospitalised-after-heart-scare/news-story/8f186c303d131fcc5653518c322e933d",
-          "source": "CODE Sports"
-        },
-        {
-          "title": "Jeff Fenech in hospital after heart scare",
-          "url": "https://www.fightnewsaustralia.com/jeff-fenech-in-hospital-after-heart-scare/",
-          "source": "Fight News Australia"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"nrl\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "peak",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 -0700",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Orionid meteor shower 2026: cloud cover forecast by region",
-          "url": "https://weather.com/2026/10/22/science/space/orionid-meteor-shower-weather-forecast-rain-cloud-cover",
-          "source": "The Weather Channel"
-        },
-        {
-          "title": "How to Catch the Orionids, a Meteor Shower From Halley’s Comet",
-          "url": "https://www.nytimes.com/2026/10/21/science/space/orionids-meteor-shower-halleys-comet.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Orionid meteor shower to light up October skies with fiery cosmic display",
-          "url": "https://www.foxweather.com/earth-space/orionid-meteor-shower-light-up-skies-fiery-cosmic-display",
-          "source": "FOX Weather"
+          "title": "Trump ordered to sit for deposition in defamation case against BBC",
+          "url": "https://www.smh.com.au/world/north-america/trump-ordered-to-sit-for-deposition-in-defamation-case-against-bbc-20261023-p617yf.html",
+          "source": "SMH.com.au"
         }
       ],
       "trademarkRisk": "medium",
@@ -1089,61 +1084,61 @@
       "reasons": [
         "Short proper-noun query — likely a person or brand (likeness/name rights).",
         "Mainstream news coverage — event-driven, not a durable merch niche.",
-        "Reads as news/current affairs (\"forecast\") rather than an aesthetic."
+        "Reads as news/current affairs (\"lawsuit\") rather than an aesthetic."
       ]
     },
     {
-      "title": "michael wynn-jones",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Thu, 22 Oct 2026 08:20:00 -0700",
-      "geo": "GB",
+      "title": "rafael nadal",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 04:30:00 -0700",
+      "geo": "AU",
       "newsItems": [
         {
-          "title": "'I've got to learn how to be half a whole'",
-          "url": "https://www.bbc.co.uk/news/articles/cr5ynl9jeyp3o",
-          "source": "BBC"
+          "title": "Rafael Nadal built his tennis career on looking forward. For a new book, he had to look back - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7709804/2026/10/23/rafael-nadal-tennis-career-book-assouline/",
+          "source": "The New York Times"
         },
         {
-          "title": "Delia Smith wells up as she speaks about beloved husband for first time after passing",
-          "url": "https://www.eveningnews24.co.uk/news/26660183.delia-smith-pays-tribute-michael-wynn-jones-podcast/",
-          "source": "Norwich Evening News"
+          "title": "Rafael Nadal reveals ‘only positive’ from his injuries and what is ‘difficult’ to find after retiring",
+          "url": "https://www.tennis365.com/tennis-news/rafael-nadal-only-positive-injuries-difficult-retiring",
+          "source": "Tennis365"
         },
         {
-          "title": "Ian Clarke: Where are the Norwich City players who will become club legends?",
-          "url": "https://www.pinkun.com/sport/norwich-city/26647820.ian-clarke-new-norwich-city-legends/",
-          "source": "The Pink Un"
+          "title": "Rafael Nadal opens up: ‘I suffered enormously every day’ during his tennis career",
+          "url": "https://en.tennistemple.com/actu/rafael-nadal-opens-up-i-suffered-enormously-every/SDIc",
+          "source": "TennisTemple"
         }
       ],
       "trademarkRisk": "medium",
       "podRelevance": 0.1,
       "printable": false,
       "reasons": [
-        "Contains \"city\" — commonly a protected mark or event name.",
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
         "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     },
     {
-      "title": "space debris",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Thu, 22 Oct 2026 07:50:00 -0700",
-      "geo": "GB",
+      "title": "prisoner",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 23 Oct 2026 04:30:00 -0700",
+      "geo": "AU",
       "newsItems": [
         {
-          "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer’s cornfield",
-          "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-          "source": "Ars Technica"
+          "title": "Perth grandmother Donna Nelson returns to Perth on international prisoner transfer",
+          "url": "https://www.abc.net.au/news/2026-10-23/donna-nelson-returns-to-perth-to-serve-out-sentence/107303550",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
         },
         {
-          "title": "Apparent space debris lands in western Minnesota cornfield",
-          "url": "https://www.startribune.com/space-debris-lands-minnesota-cornfield/601902050",
-          "source": "Star Tribune"
+          "title": "‘It doesn’t look like Perth’: Donna Nelson back in WA",
+          "url": "https://www.watoday.com.au/perth-news/it-doesn-t-look-like-perth-donna-nelson-back-in-wa-20261023-p6187r.html",
+          "source": "WAtoday"
         },
         {
-          "title": "Possible 'space object' found in Minnesota cornfield",
-          "url": "https://www.kare11.com/article/news/state/possible-space-object-minnesota-cornfield/89-da04bfbb-04c2-49f1-b008-da105afc8de6",
-          "source": "kare11.com"
+          "title": "WA grandmother jailed in Japan returns home",
+          "url": "https://www.nine.com.au/australia-news/videos/wa-grandmother-jailed-in-japan-returns-home/cmvku8tip003l0gpdwpu24o41",
+          "source": "Nine.com.au"
         }
       ],
       "trademarkRisk": "medium",
@@ -1154,82 +1149,85 @@
       ]
     },
     {
-      "title": "clavicular",
+      "title": "bank fraud",
       "traffic": 100,
       "trafficLabel": "100+",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 -0700",
+      "pubDate": "Fri, 23 Oct 2026 08:30:00 -0700",
       "geo": "CA",
       "newsItems": [
         {
-          "title": "‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge",
-          "url": "https://www.thestar.com/news/world/united-states/looksmaxxing-streamer-known-as-clavicular-set-to-be-arraigned-on-rape-charge/article_1cb7761c-f053-577a-a939-9a84237f8bda.html",
-          "source": "Toronto Star"
+          "title": "Eight from Westchester, Bronx charged with bank fraud in federal court",
+          "url": "https://www.lohud.com/story/news/crime/2026/10/22/federal-bank-fraud-indictment-charges-8-from-westchester-the-bronx-ny/92375957007/",
+          "source": "The Journal News | lohud.com"
         },
         {
-          "title": "Clavicular rape accusations dropped in civil case amid criminal proceedings",
-          "url": "https://globalnews.ca/news/12102293/clavicular-accuser-drops-rape-accusations-in-civil-case/",
-          "source": "Global News"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "housing",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 -0700",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "GUEST COLUMN: Election will shape future of housing supply in Orillia",
-          "url": "https://www.orilliamatters.com/local-news/guest-column-election-will-shape-future-of-housing-supply-in-orillia-12917036",
-          "source": "OrilliaMatters.com"
+          "title": "8 Jamaicans, including influencer, charged in multimillion-dollar US bank fraud scheme",
+          "url": "https://www.caribbeannationalweekly.com/posts/8-jamaicans-including-influencer-charged-in-multimillion-dollar-us-bank-fraud-scheme",
+          "source": "Caribbean National Weekly"
         },
         {
-          "title": "LETTER: Former mayor, city councillor urges residents to vote",
-          "url": "https://www.orilliamatters.com/letters-to-the-editor/letter-former-mayor-city-councillor-urges-residents-to-vote-12911084",
-          "source": "OrilliaMatters.com"
-        },
-        {
-          "title": "Non-partisan Get Out to Vote Rally set for Saturday in Orillia",
-          "url": "https://www.orilliamatters.com/2026-municipal-election-news/non-partisan-get-out-to-vote-rally-set-for-saturday-in-orillia-12897514",
-          "source": "OrilliaMatters.com"
+          "title": "Yonkers and Mt. Vernon Men Among Defendants Charged In Multimillion-Dollar Fraud Scheme",
+          "url": "https://yonkerstimes.com/yonkers-and-mt-vernon-men-among-defendants-charged-in-multimillion-dollar-fraud-scheme/",
+          "source": "Yonkers Times"
         }
       ],
       "trademarkRisk": "medium",
       "podRelevance": 0.1,
       "printable": false,
       "reasons": [
-        "Contains \"city\" — commonly a protected mark or event name.",
-        "Reads as news/current affairs (\"election\") rather than an aesthetic."
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"court\") rather than an aesthetic."
       ]
     },
     {
-      "title": "restaurants near me",
+      "title": "st. louis lambert international airport",
       "traffic": 100,
       "trafficLabel": "100+",
-      "pubDate": "Thu, 22 Oct 2026 06:20:00 -0700",
+      "pubDate": "Fri, 23 Oct 2026 07:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "'Stop, stop, stop': Tower transmissions show near-miss at Lambert airport Tuesday morning",
+          "url": "https://www.ksdk.com/article/news/local/tower-transmissions-show-near-miss-at-lambert-airport-tuesday-morning/63-f6c25243-378b-4c50-a43a-65572f870e9b",
+          "source": "KSDK"
+        },
+        {
+          "title": "Air Canada flight to Toronto abruptly ordered to 'stop' in U.S. runway scare",
+          "url": "https://www.blogto.com/travel/2026/10/air-canada-flight-toronto-us-runway-scare/",
+          "source": "blogTO"
+        },
+        {
+          "title": "Near collision at St. Louis Lambert",
+          "url": "https://www.firstalert4.com/2026/10/20/near-collision-st-louis-lambert-prompts/",
+          "source": "First Alert 4"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "paramount",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 23 Oct 2026 07:30:00 -0700",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "Minneapolis restaurant that offered free meals to protest ICE raids announces closure",
-          "url": "https://nypost.com/2026/10/22/us-news/minneapolis-restaurant-modern-times-cafe-that-offered-free-meals-to-protest-ice-closes/",
-          "source": "New York Post"
+          "title": "The 3 Best Movies to Watch on Paramount+ This Week",
+          "url": "https://www.imdb.com/it/news/ni66067824/?ref_=nwc_art_perm",
+          "source": "IMDb"
         },
         {
-          "title": "Twin Cities businesses helping the community",
-          "url": "https://www.fox9.com/news/modern-times-cafe-restaurant-offered-free-food-during-ice-surge-is-closing",
-          "source": "FOX 9 Minneapolis-St. Paul"
+          "title": "3 newly added Paramount+ shows you need to binge-watch this weekend (Oct. 23-25)",
+          "url": "https://www.tomsguide.com/entertainment/paramount-plus/3-newly-added-paramount-shows-you-need-to-binge-watch-this-weekend-oct-23-25",
+          "source": "Tom's Guide"
         },
         {
-          "title": "Modern Times Cafe closing at end of year after providing 30,000 free meals in wake of ICE surge",
-          "url": "https://www.cbsnews.com/minnesota/news/modern-times-cafe-closing-minneapolis/",
-          "source": "CBS News"
+          "title": "3 Best Paramount+ Series To Binge-Watch This Weekend (Oct 23–25, 2026)",
+          "url": "https://screenrant.com/best-new-paramount-plus-shows-to-binge-weekend-october-23-2026/",
+          "source": "ScreenRant"
         }
       ],
       "trademarkRisk": "medium",
@@ -1240,33 +1238,33 @@
       ]
     },
     {
-      "title": "activision",
+      "title": "avengers doomsday",
       "traffic": 100,
       "trafficLabel": "100+",
-      "pubDate": "Thu, 22 Oct 2026 04:40:00 -0700",
+      "pubDate": "Fri, 23 Oct 2026 06:30:00 -0700",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "New details revealed for Activision’s mysterious open-world RPG",
-          "url": "https://www.kitguru.net/gaming/mustafa-mahmoud/new-details-revealed-for-activisions-mysterious-open-world-rpg/",
-          "source": "KitGuru"
+          "title": "Doctor Doom Just Hijacked Google, and the ‘Avengers: Doomsday’ Search Trick Is Dangerously Fun",
+          "url": "https://www.imdb.com/fr-ca/news/ni66076402/?ref_=nm_nwr_1",
+          "source": "IMDb"
         },
         {
-          "title": "Activision brings Call of Duty: Modern Warfare 4 to life with immersive Korean alleyway experience in London, LA",
-          "url": "https://marketech-apac.com/activision-brings-call-of-duty-modern-warfare-4-to-life-with-immersive-korean-alleyway-experience-in-london-la/",
-          "source": "marketech apac"
+          "title": "Avengers: Doomsday Google Easter egg tells us which heroes are in Doctor Doom's sights",
+          "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-google-easter-egg-tells-us-which-heroes-are-in-doctor-dooms-sights/",
+          "source": "GamesRadar+"
         },
         {
-          "title": "Everything That Happened At The Call of Duty: Modern Warfare 4's Sydney Event",
-          "url": "https://www.pedestrian.tv/tech-gaming/call-of-duty-modern-warfare-sydney-pop-up-what-happened",
-          "source": "Pedestrian TV"
+          "title": "Doctor Doom Just Hijacked Google, and the 'Avengers: Doomsday' Search Trick Is Dangerously Fun",
+          "url": "https://www.comicbasics.com/doctor-doom-just-hijacked-google-and-the-avengers-doomsday-search-trick-is-dangerously-fun/",
+          "source": "Comic Basics"
         }
       ],
       "trademarkRisk": "medium",
       "podRelevance": 0.25,
       "printable": false,
       "reasons": [
-        "Contains \"open\" — commonly a protected mark or event name."
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
       ]
     }
   ],
@@ -1274,30 +1272,30 @@
   "printfulBestsellers": [],
   "etsyNiches": [],
   "drawBrief": {
-    "generatedFor": "2026-10-22",
+    "generatedFor": "2026-10-23",
     "basis": "model-inferred",
     "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
     "lead": {
-      "niche": "Cosy reading",
+      "niche": "Outdoors / van life",
       "motifs": [
-        "cat on a book stack",
-        "tea and paperback",
-        "library window light"
+        "retro park badge",
+        "mountain line art",
+        "camper silhouette"
       ],
       "suggestedProducts": [
+        "graphic tee",
         "mug",
-        "tote bag",
-        "graphic tee"
+        "sticker"
       ],
       "why": "Evergreen rotation.",
       "market": null
     },
     "support": {
-      "niche": "Goblincore / whimsy",
+      "niche": "Seasonal spooky",
       "motifs": [
-        "frog in a hat",
-        "snail and moss",
-        "toadstool ring"
+        "friendly ghost",
+        "vintage pumpkin label",
+        "black cat crescent"
       ],
       "market": null
     },
