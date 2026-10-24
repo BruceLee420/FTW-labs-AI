@@ -1,0 +1,1313 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T14:16:34.336Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "premier league standings",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 24 Oct 2026 06:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Ipswich Town vs Nottingham Forest: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmn0628p5rkyt",
+          "source": "BBC"
+        },
+        {
+          "title": "Premier League roundup: Forest misfire but leave Ipswich with point",
+          "url": "https://www.sportsnet.ca/premier-league/article/premier-league-roundup-forest-misfire-but-leave-ipswich-with-point/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Ipswich earn draw with Forest as Delap misfires on return",
+          "url": "https://www.tsn.ca/soccer/epl/article/ipswich-earn-draw-with-forest-as-delap-misfires-on-return-n1-50253031/",
+          "source": "TSN"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "coventry vs fulham",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 24 Oct 2026 06:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Spurs 1-2 Arsenal (Oct 24, 2026) Game Analysis",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401902880",
+          "source": "ESPN"
+        },
+        {
+          "title": "Pistons’ Ausar Thompson dazzles with behind-the-back slam dunk",
+          "url": "https://sports.yahoo.com/articles/pistons-ausar-thompson-dazzles-behind-042752408.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Ausar Thompson with the massive swat at the rim",
+          "url": "https://www.espn.com.au/video/clip/_/id/50262265/ausar-thompson-massive-swat-rim",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "premier league table",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 24 Oct 2026 06:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Ipswich Town vs Nottingham Forest: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmn0628p5rkyt",
+          "source": "BBC"
+        },
+        {
+          "title": "Enciso rescues point in storm for Ipswich to deny Nottingham Forest",
+          "url": "https://www.theguardian.com/football/2026/oct/23/ipswich-nottingham-forest-premier-league-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Ipswich vs N Forest LIVE! Premier League score updates, news, prediction, lineups and how to watch or stream",
+          "url": "https://www.skysports.com/football/live-blog/13602310/ipswich-vs-n-forest-live-premier-league-score-updates-news-prediction-lineups-and-how-to-watch-or-stream",
+          "source": "Sky Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"storm\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "morgan scalley",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 24 Oct 2026 06:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Utah Utes first-year coach Morgan Scalley leading with love",
+          "url": "https://www.espn.com/college-football/story/_/id/50253345/utah-utes-morgan-scalley-leading-love",
+          "source": "ESPN"
+        },
+        {
+          "title": "Ranking college football's best coaches-in-waiting: Where Utah's Morgan Scalley fits",
+          "url": "https://www.cbssports.com/college-football/news/ranking-college-football-best-coaches-in-waiting-utah-morgan-scalley/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Utah Football in a Great Position for the Second Half of the 2026 Season",
+          "url": "https://roundtable.io/sports/ncaa/utah/news/utah-football-in-a-great-position-for-the-second-half-of-the-2026-season",
+          "source": "roundtable.io"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "arsenal vs everton",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 24 Oct 2026 06:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Arsenal vs Everton LIVE: Premier League updates from Emirates Stadium",
+          "url": "https://www.espn.com.au/football/story/_/id/50264971/arsenal-vs-everton-live-premier-league-updates-blog-commentary-latest-score-result",
+          "source": "ESPN"
+        },
+        {
+          "title": ">Here's How I findArsenal Football Club vs Everton Football Club/Silva vs Wang 𝑺𝒕𝒓𝒆𝒂𝒎𝒔",
+          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9lc3BuLnhtbCIvPjwva3JwYW5vPg==&id=video-arsenal-football-club-vs-everton-football-club-match-live-free-ontv-0.0.0.0.0.0.1-572",
+          "source": "小豆島町"
+        },
+        {
+          "title": "【LIVE@rUgbY】Arsenal Football Club vs Everton Football Club Live Game Tv",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9lc3BuLnhtbCIvPjwva3JwYW5vPg==&id=video-arsenal-football-club-vs-everton-football-club-lie-en-uk.gb01-352",
+          "source": "FC東京オフィシャルホームページ"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "racing de santander - rcd espanyol",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 24 Oct 2026 06:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Racing y Su encuentro con el Espanyol",
+          "url": "https://hsbnoticias.com/noticias/racing-y-su-encuentro-con-el-espanyol",
+          "source": "HSB Noticias"
+        },
+        {
+          "title": "Racing de Santander vs Espanyol: horario y dónde ver hoy por TV y online el partido de LaLiga 2026/27 a través de DAZN",
+          "url": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/racing-santander-vs-espanyol-horario-donde-ver-hoy-tv-online-partido-laliga-2026-2027/76q3wjlhln6v1kkwovpy0iokw",
+          "source": "DAZN"
+        },
+        {
+          "title": "Racing-Espanyol: duelo de urgencias en El Sardinero",
+          "url": "https://www.lavanguardia.com/deportes/20261024/11666474/racing-espanyol-duelo-urgencias-sardinero.html",
+          "source": "La Vanguardia"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "como",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Un estudio asocia los alimentos más populares de la dieta estadounidense con daño cerebral silencioso",
+          "url": "https://www.infobae.com/estados-unidos/2026/10/19/un-estudio-asocia-los-alimentos-mas-populares-de-la-dieta-estadounidense-con-dano-cerebral-silencioso/",
+          "source": "Infobae"
+        },
+        {
+          "title": "Centro de Bienestar",
+          "url": "https://www.palig.com/es/us/wellness-hub/p/ultraprocesados-un-problema-tambien-para-el-cerebro",
+          "source": "Pan-American Life Insurance Group"
+        },
+        {
+          "title": "Un estudio con casi 9 mil adultos encontró más señales de daño vascular cerebral entre quienes consumían más alimentos ultraprocesados, como refrescos, cereales azucarados y sopas instantáneas, un hallazgo que pone atención en la dieta desde la med",
+          "url": "https://www.elimparcial.com/mundo/2026/10/23/un-estudio-con-casi-9-mil-adultos-encontro-mas-senales-de-dano-vascular-cerebral-entre-quienes-consumian-mas-alimentos-ultraprocesados-como-refrescos-cereales-azucarados-y-sopas-instantaneas-un-hallazgo-que-pone-atencion-en-la-dieta-desde-la-mediana-edad/",
+          "source": "El Imparcial"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "kenny jackett",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Remembering Kenny Jackett | Club | Latest News",
+          "url": "https://www.wolves.co.uk/news/club/20261023-remembering-kenny-jackett/",
+          "source": "Wolverhampton Wanderers FC"
+        },
+        {
+          "title": "Kenny Jackett to be remembered as Watford travel to Molineux",
+          "url": "https://www.watfordobserver.co.uk/sport/26659088.kenny-jackett-remembered-watford-travel-wolves/",
+          "source": "Watford Observer"
+        },
+        {
+          "title": "Kenny Jackett remembered as Darren Ward reflects on a career shaped by his mentor",
+          "url": "https://onefootball.com/en/news/kenny-jackett-remembered-as-darren-ward-reflects-on-a-career-shaped-by-his-mentor-43645624",
+          "source": "OneFootball"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "chesterfield vs crewe",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Chesterfield vs Crewe Alexandra: League Two stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/c81dwqr350zkt",
+          "source": "BBC"
+        },
+        {
+          "title": "Chesterfield vs Crewe Prediction, Betting Tips, Lineups & Odds | 24 Oct 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/football/chesterfield-vs-crewe-prediction-lineups-odds-2026-10-24/",
+          "source": "Sportsgambler"
+        },
+        {
+          "title": "Gab Sutton’s EFL Best Bets: Value in Crewe to frustrate Chesterfield",
+          "url": "https://news.bet365.com/en-gb/article/gab-suttons-efl-best-bets/2026102309120421605",
+          "source": "Sports & Betting News - bet365"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ken friar",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Enjoy a never-seen-before Ken Friar programme from 2020",
+          "url": "https://www.arsenal.com/news/enjoy-a-never-seen-before-ken-friar-programme-from-2020-ahUrt0M07GyP",
+          "source": "Arsenal.com"
+        },
+        {
+          "title": "Why are Arsenal wearing black armbands vs Everton?",
+          "url": "https://www.thesun.co.uk/sport/40786741/why-arsenal-black-armbands-everton/",
+          "source": "The Sun"
+        },
+        {
+          "title": "Who was Ken Friar? Arsenal remember club icon who left remarkable legacy",
+          "url": "https://www.standard.co.uk/sport/football/arsenal-fc-who-was-ken-friar-b1300636.html",
+          "source": "London Evening Standard"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "falkirk vs kilmarnock",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Falkirk vs Kilmarnock: Scottish Premiership updates & report",
+          "url": "https://www.bbc.com/sport/football/live/crwydlnp9qnlt",
+          "source": "BBC"
+        },
+        {
+          "title": "Falkirk on a ‘high’ as John McGlynn looks to build on Hibs victory",
+          "url": "https://uk.sports.yahoo.com/news/falkirk-high-john-mcglynn-looks-103600118.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Preview: Falkirk vs Kilmarnock - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/falkirk/preview/falkirk-vs-kilmarnock-prediction-team-news-lineups_607394.html",
+          "source": "Sports Mole"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "classement aston villa – manchester city",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 24 Oct 2026 06:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Aston Villa 2-1 Manchester City, Premier League : Coup d'arrêt pour les Cityzens",
+          "url": "https://www.lequipe.fr/Football/match-direct/championnat-d-angleterre/2026-2027/aston-villa-manchester-city-live/691366",
+          "source": "L'Équipe"
+        },
+        {
+          "title": "Championnat d'Angleterre : Manchester City battu pour la première fois en championnat, à Aston Villa",
+          "url": "https://www.rds.ca/soccer/epl/article/manchester-city-battu-pour-la-premiere-fois-en-championnat/",
+          "source": "RDS"
+        },
+        {
+          "title": "Premier League 2026/2027 : Revivez le match de la 8e journée entre Aston Villa et Manchester City (2-1)",
+          "url": "https://www.eurosport.fr/football/premier-league/2026-2027/live-aston-villa-manchester-city_mtc21883118/live-commentary.shtml",
+          "source": "Eurosport"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"match\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "lincoln city vs burnley",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Lincoln City v Burnley: Championship stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c5lyel2v70n7t",
+          "source": "BBC"
+        },
+        {
+          "title": "Burnley Tipped For More Misery Ahead Of Lincoln City Showdown",
+          "url": "https://footballlowdown.com/burnley-tipped-for-more-misery-ahead-of-lincoln-city-showdown/",
+          "source": "Football Lowdown"
+        },
+        {
+          "title": "Lincoln vs Burnley: Lineups, Prediction, Betting Tips & Odds",
+          "url": "https://www.oddschecker.com/tips/football/english-championship/cng101-20261024-lincoln-vs-burnley-predictions-bet-builder-tips-lineups-odds",
+          "source": "Oddschecker"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "west ham",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "West Ham United vs Southampton: Championship stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cked35y808jjt",
+          "source": "BBC"
+        },
+        {
+          "title": "'You want to be appreciated' – Azaz opens up on his performances ahead of West Ham",
+          "url": "https://www.dailyecho.co.uk/sport/26658555.southamptons-azaz-opens-performances-ahead-west-ham-trip/",
+          "source": "Daily Echo"
+        },
+        {
+          "title": "Press Conference part two: Eckert previews West Ham",
+          "url": "https://www.southamptonfc.com/en/video/press-conference-part-two-eckert-previews-west-ham",
+          "source": "Southampton FC Official Site"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "bill clinton",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "‘Stop Insulting Carney!’: Canada Gets Tariff Boost Amid U.S. Midterms; Bill Clinton Threatens Trump",
+          "url": "https://timesofindia.indiatimes.com/videos/international/stop-insulting-carney-canada-gets-tariff-boost-amid-u-s-midterms-bill-clinton-threatens-trump/videoshow/135155969.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Bill Clinton thinks Donald Trump has treated Canada \"like dirt\"",
+          "url": "https://torontolife.com/culture/bill-clinton-thinks-donald-trump-has-treated-canada-like-dirt/",
+          "source": "Toronto Life"
+        },
+        {
+          "title": "Political Pulse: Building strength we can control",
+          "url": "https://www.freshetnews.ca/political-pulse-building-strength-we-can-control/",
+          "source": "Freshet News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"tariff\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "augsburg vs union berlin",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Fußball-Bundesliga: Bundesliga live: Union will gegen Augsburg Auswärtsfluch brechen",
+          "url": "https://www.sportschau.de/regional/rbb/rbb-bundesliga-live-union-will-gegen-augsburg-auswaertsfluch-brechen-100.html",
+          "source": "sportschau.de"
+        },
+        {
+          "title": "Feiert Lustrinelli mit Union Berlin in Augsburg den zweiten Saisonsieg?",
+          "url": "https://www.bluewin.ch/de/sport/fussball/bundesliga/feiert-lustrinelli-mit-union-berlin-in-augsburg-den-zweiten-saisonsieg-li.3647079",
+          "source": "blue News"
+        },
+        {
+          "title": "Kade und Gregoritsch starten gegen Union Berlin",
+          "url": "https://www.fcaugsburg.de/article/kade-und-gregoritsch-starten-gegen-union-berlin-23599",
+          "source": "FC Augsburg"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "space exploration technologies corp.",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:40:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
+          "url": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c",
+          "source": "WSJ"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq rise as tech rallies, SpaceX stock surges nearly 8%",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "SpaceX’s AI business is beating expectations",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "source": "TechCrunch"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "epl fixtures",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:40:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Premier League: 10 things to look out for this weekend",
+          "url": "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Tottenham vs Chelsea, Brighton vs Liverpool, Man Utd vs Bournemouth and much more!",
+          "url": "https://www.skysports.com/football/news/13602410/premier-league-predictions-and-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Premier League predictions: Chelsea vs Tottenham, Arsenal vs Everton and the rest of GW8",
+          "url": "https://www.nytimes.com/athletic/7713553/2026/10/23/premier-league-predictions-gw8/",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "jacksonville weather",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:40:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Strong Winds, Dangerous Surf and Rain Threat This Weekend in Central Florida",
+          "url": "https://www.clickorlando.com/weather/2026/10/23/strong-winds-dangerous-surf-and-rain-threat-this-weekend-in-central-florida/",
+          "source": "WKMG"
+        },
+        {
+          "title": "Tampa weather | Friday morning forecast",
+          "url": "https://www.fox13news.com/news/tampa-weather-windy-weekend-store-bay-area",
+          "source": "FOX 13 Tampa Bay"
+        },
+        {
+          "title": "Cool morning, warm afternoon Friday before big weekend weather change",
+          "url": "https://www.wftv.com/news/local/cool-morning-warm-afternoon-friday-before-big-weekend-weather-change/S3W7FFP7RVGIBNZV4NWQAE5Y3E/",
+          "source": "WFTV"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "ezri konsa",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Premier League: Arsenal under way against Everton, plus Coventry v Fulham",
+          "url": "https://www.bbc.co.uk/sport/football/live/cm4gvy14w7q4t",
+          "source": "BBC"
+        },
+        {
+          "title": "Listen: Audio Commentary Of Arsenal v Everton",
+          "url": "https://www.evertonfc.com/news/2026/october/24/where-to-go-for-live-coverage---highlights-of-arsenal-v-everton/",
+          "source": "Everton FC"
+        },
+        {
+          "title": "The best training snaps before Everton clash",
+          "url": "https://www.arsenal.com/news/the-best-training-snaps-before-everton-clash-asmxD6p9xZbb",
+          "source": "Arsenal.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"premier league\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "crawley town vs tranmere",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Crawley Town vs Tranmere Rovers: League Two stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/cq62ylgzm0let",
+          "source": "BBC"
+        },
+        {
+          "title": "Crawley vs Tranmere Prediction, Betting Tips, Lineups & Odds | 24 Oct 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/football/crawley-vs-tranmere-prediction-lineups-odds-2026-10-24/",
+          "source": "Sportsgambler"
+        },
+        {
+          "title": "(LIVE@STREAMs@League Two-2026!)* Crawley Town vS Tranmere 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9BcnNlbmFsL3Z2ZC54bWwiLz48L2tycGFubz4=&id=crawley-town-vs-tranmere-cbs-sports-3kxia",
+          "source": "FC東京オフィシャルホームページ"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "afc wimbledon vs wycombe",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Official Website",
+          "url": "https://www.afcwimbledon.co.uk/news/2026/october/23/matchday-guide-afc-wimbledon-wycombe-wanderers/",
+          "source": "AFC Wimbledon"
+        },
+        {
+          "title": "Preview: AFC Wimbledon vs Wycombe Wanderers - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/afc-wimbledon/preview/afc-wimbledon-vs-wycombe-prediction-team-news-lineups_607447.html",
+          "source": "Sports Mole"
+        },
+        {
+          "title": "$!@#[LIVE MATCH] AFC Wimbledon vs Wycombe Free Football Stream – 25 october 2026",
+          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9jMWlwcy54bWwiLz48L2tycGFubz4=&id=video-afc-wimbledon-vs-wycombe-2026-live-on-tv-free-onl01-527",
+          "source": "小豆島町"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "boreham wood vs fylde",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Boreham Wood vs Fylde: National League stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/c6x2vj0ny3det",
+          "source": "BBC"
+        },
+        {
+          "title": "Match Preview: AFC Fylde (H)",
+          "url": "https://www.borehamwoodfootballclub.co.uk/match-preview-afc-fylde-h-3/",
+          "source": "Boreham Wood Football Club"
+        },
+        {
+          "title": "Non-League Betting Tips: Boreham Wood to ease past Fylde as Harrogate win again",
+          "url": "https://mrfixitstips.co.uk/non-league-betting-tips-boreham-wood-to-ease-past-fylde-as-harrogate-win-again/",
+          "source": "MrFixitsTips"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "stevenage vs mk dons",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Stevenage vs MK Dons: League One stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/c6wydlnp9lzdt",
+          "source": "BBC"
+        },
+        {
+          "title": "A look ahead to MK Dons' trip to Stevenage",
+          "url": "https://www.miltonkeynes.co.uk/sport/football/mk-dons/a-look-ahead-to-mk-dons-trip-to-stevenage-9303906",
+          "source": "Milton Keynes Citizen"
+        },
+        {
+          "title": "Match preview: Stevenage vs Milton Keynes Dons",
+          "url": "https://www.mkfm.com/news/mk-dons-news/match-preview-stevenage-vs-milton-keynes-dons/",
+          "source": "MKFM"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "burton vs leyton orient",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Preview: Burton Albion vs Leyton Orient - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/leyton-orient/preview/burton-albion-vs-leyton-orient-prediction-team-news-lineups_607424.html",
+          "source": "Sports Mole"
+        },
+        {
+          "title": "(LIVE@STREAMs@League One-2026!)* Burton Albion vS Leyton Orient 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9BcnNlbmFsL3Z2ZC54bWwiLz48L2tycGFubz4=&id=burton-albion-vs-leyton-orient-fox-sports-hao3i",
+          "source": "FC東京オフィシャルホームページ"
+        },
+        {
+          "title": "++[ＬＩＶＥＳｔｒｅａｍ]𝐓𝐕!!] Leyton Orient v Burton Albion 𝐋𝐈𝐕𝐄 Free On Ｔｖ",
+          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbWl0c3Vrb25nYW5ndW8uZ2l0aHViLmlvL3JxcC9jdmIueG1sIi8+PC9rcnBhbm8+&id=video-leyton-orient-v-burton-albion-liv-str-ajhsvlm",
+          "source": "小豆島町"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "west ham vs southampton",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "West Ham United v Southampton live updates, kick-off time and pre-match stats",
+          "url": "https://onefootball.com/en/news/west-ham-united-v-southampton-live-updates-kick-off-time-and-pre-match-stats-43664345",
+          "source": "OneFootball"
+        },
+        {
+          "title": "West Ham United vs Southampton LIVE Score Updates in EFL Championship Match",
+          "url": "https://www.vavel.com/en-us/soccer/2026/10/24/1276613-west-ham-united-vs-southampton-live-score-efl-championship.html",
+          "source": "VAVEL.com"
+        },
+        {
+          "title": "[NFHS Network]hERE'S*!] West Ham vs Southampton 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 24 October 2026",
+          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vYWxsYmxhY2tzdndhbGxhYmllczIuZ2l0aHViLmlvL210cC91Y2wueG1sIi8+PC9rcnBhbm8+&id=video-west-ham-vs-southampton-liv-str-msijxrb",
+          "source": "小豆島町"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "daniil medvedev",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Medvedev continues Almaty title defence, Tsitsipas reaches SFs",
+          "url": "https://www.atptour.com/en/news/medvedev-almaty-2026-report-friday",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Almaty tennis picks: Medvedev vs. Atmane, Bublik vs. Khachanov",
+          "url": "https://tenngrand.com/lyon-tennis-previews-picks-predictions-medvedev-vs-atmane-bublik-khachanov/",
+          "source": "The Grandstand"
+        },
+        {
+          "title": "How to watch the men’s Almaty Open: Streaming options for the Semifinal",
+          "url": "https://www.nytimes.com/athletic/7719122/2026/10/23/mens-almaty-open-stream-how-to-watch-october-24/",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "blackburn rovers vs wrexham",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Blackburn Rovers v Wrexham: Championship stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cj1dwqr35pxwt",
+          "source": "BBC"
+        },
+        {
+          "title": "Wrexham AFC fans urged to check travel plans as storms hit Blackburn away trip",
+          "url": "https://www.leaderlive.co.uk/news/26664354.blackburn-v-wrexham-afc--storms-spark-travel-warnings/",
+          "source": "Wrexham and Flintshire News, Sport, Events | The Leader"
+        },
+        {
+          "title": "Everything Phil Parkinson Said ahead Of Blackburn Trip",
+          "url": "https://roundtable.io/sports/soccer/efl/wrexham/news/everything-phil-parkinson-said-ahead-of-blackburn-trip",
+          "source": "roundtable.io"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "pl",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Pociski PAC-3 dla Patriotów z serwisem w Polsce? Wiceminister Gołota: Są jeszcze Niemcy",
+          "url": "https://wyborcza.pl/7,75398,33096564,wlasny-serwis-to-pierwszy-krok-polska-walczy-o-produkcje-pociskow.html",
+          "source": "Wyborcza.pl"
+        },
+        {
+          "title": "To on pokieruję komisją ds. pedofili w Kościele. Jest nazwisko",
+          "url": "https://wiadomosci.onet.pl/kraj/to-on-ma-kierowac-komisja-ds-pedofili-w-kosciele-dokonalismy-bardzo-waznego-kroku/9hj6gft",
+          "source": "Wiadomości Onet"
+        },
+        {
+          "title": "Episkopat o sprawach Kościoła w Polsce i spotkaniu Amoris laetitia",
+          "url": "https://www.vaticannews.va/pl/kosciol/news/2026-10/episkopat-o-biezacych-sprawach-kosciola-w-polsce-komunikat.html",
+          "source": "Vatican News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "blackburn rovers vs wrexham",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Blackburn Rovers v Wrexham: Championship stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cj1dwqr35pxwt",
+          "source": "BBC"
+        },
+        {
+          "title": "Blackburn Rovers vs. Wrexham Lineup Today: Confirmed Team News & Starting XI",
+          "url": "https://sports.yahoo.com/articles/blackburn-rovers-vs-wrexham-lineup-133024828.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Everything Phil Parkinson Said ahead Of Blackburn Trip",
+          "url": "https://roundtable.io/sports/soccer/efl/wrexham/news/everything-phil-parkinson-said-ahead-of-blackburn-trip",
+          "source": "roundtable.io"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "daniil medvedev",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Medvedev on course for Almaty title defence, joins Tsitsipas, Basilashvili in semis",
+          "url": "https://www.thechronicle.com.au/sport/medvedev-on-course-for-almaty-title-defence-joins-tsitsipas-basilashvili-in-semis/video/b8ba9082c3ce001774eac32e0d631dec",
+          "source": "Toowoomba Chronicle"
+        },
+        {
+          "title": "Hot Shot: Medvedev flicks stunning pass on the stretch in Almaty 2026",
+          "url": "https://www.atptour.com/en/video/hot-shot-medvedev-flicks-stunning-pass-on-the-stretch-in-almaty-2026",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Almaty tennis picks: Medvedev vs. Atmane, Bublik vs. Khachanov",
+          "url": "https://tenngrand.com/lyon-tennis-previews-picks-predictions-medvedev-vs-atmane-bublik-khachanov/",
+          "source": "The Grandstand"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "west ham vs southampton",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "West Ham United vs Southampton LIVE Score Updates in EFL Championship Match",
+          "url": "https://www.vavel.com/en-us/soccer/2026/10/24/1276613-west-ham-united-vs-southampton-live-score-efl-championship.html",
+          "source": "VAVEL.com"
+        },
+        {
+          "title": "[FOOTBALL LIVE] West Ham United vs Southampton Live Stream and Match Updates",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9BcnNlbmFsL3Z2ZC54bWwiLz48L2tycGFubz4=&id=west-ham-united-vs-southampton-live-fox-sports-bl611",
+          "source": "FC東京オフィシャルホームページ"
+        },
+        {
+          "title": "!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] West Ham v Southampton 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ free 24.10.2026",
+          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vYWxsYmxhY2tzdndhbGxhYmllczIuZ2l0aHViLmlvL210cC91Y2wueG1sIi8+PC9rcnBhbm8+&id=video-west-ham-v-southampton-lie-en-vdyuc",
+          "source": "小豆島町"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "brisbane",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Dog owner to face harsher penalties after man attacked in Brisbane park",
+          "url": "https://www.abc.net.au/news/2026-10-24/chermside-dog-attack-owner-elevated-fine-pitbull/107304420",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Stronger action pursued against dog owner",
+          "url": "https://www.news.com.au/national/queensland/brisbane-city-council-pursues-owner-of-pit-bulls-after-jogger-attack/news-story/9f3cfe9dd3edc4a46c026c04b85a8abd",
+          "source": "News.com.au"
+        },
+        {
+          "title": "Council withdraws destruction order for dogs involved in Chermside attack",
+          "url": "https://www.brisbanetimes.com.au/national/queensland/council-withdraws-destruction-order-for-dogs-involved-in-chermside-attack-20261023-p6186q.html",
+          "source": "Brisbane Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "el clasico",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 24 Oct 2026 06:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Barcelona outline plan to stop Real Madrid's Kylian Mbappé in El Clásico",
+          "url": "https://www.espn.com.au/football/story/_/id/50265100/barcelona-real-madrid-kylian-mbappe-el-clasico",
+          "source": "ESPN"
+        },
+        {
+          "title": "Barcelona star Rodri primed for El Clasico debut but fires revenge warning to team-mates ahead of Real Madrid clash",
+          "url": "https://www.goal.com/en-au/news/barcelona-rodri-el-clasico--real-madrid/blta4ea1c9e728c6870",
+          "source": "Goal.com"
+        },
+        {
+          "title": "How to watch Barcelona v Real Madrid in Australia",
+          "url": "https://www.beinsports.com/en-au/football/laliga/articles/how-to-watch-barcelona-v-real-madrid-in-australia-2026-10-21",
+          "source": "beIN SPORTS"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "daniel craig james bond",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "What a spectre - Bond boys bounce around London",
+          "url": "https://www.bbc.com/news/articles/cmde869e8k34o",
+          "source": "BBC"
+        },
+        {
+          "title": "Jack Lowden, Margaret Qualley Top Bookie Odds for Next James Bond and Bond Girl",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/james-bond-casting-odds-lowden-turner-elordi-1236738996/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "I expect you to cry: what the James Bond actors may face at the final audition",
+          "url": "https://www.theguardian.com/film/2026/oct/23/i-expect-you-to-cry-what-the-james-bond-actors-may-face-at-the-final-audition",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "rb leipzig vs sv elversberg",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Bundesliga im Liveticker: RB Leipzig gegen SV 07 Elversberg",
+          "url": "https://www.zdfheute.de/sport/fussball-bundesliga/rb-leipzig-sv-07-elversberg-liveticker-bundesliga-highlights-saison-2026-27-102.html",
+          "source": "ZDFheute"
+        },
+        {
+          "title": "Nur die Achse bleibt stabil: Acht Änderungen bei RB",
+          "url": "https://rblive.de/news/startelf-gegen-elversberg-acht-anderungen-bei-rb-leipzig-4344323",
+          "source": "RBLive"
+        },
+        {
+          "title": "Aufstellung von RB Leipzig",
+          "url": "https://www.ligainsider.de/rb-leipzig/1311/aufstellung-von-rb-leipzig-419640/",
+          "source": "LigaInsider"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "rayo vs elche",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Rayo - Elche LIVE. LALIGA EA Sports latest updates",
+          "url": "https://www.marca.com/en/soccer/laliga-ea-sports/rayo-elche/2026/10/24/01_0101_20261024_184_954-live.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "[Live/fREE]** Eibar vs. Cordoba 𝐋ＩＶＥ Ｓｔｒｅａｍｓ",
+          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2ZyYW5jaXNqaGFycmlzby5naXRodWIuaW8vbml0YXEvdGJyLnhtbCIvPjwva3JwYW5vPg==&id=eibar-vs-cordoba-cbs-sports-dx9nm",
+          "source": "小豆島町"
+        },
+        {
+          "title": "Rayo Vallecano vs Elche: Confirmed Lineups & Match Prediction",
+          "url": "https://www.oddschecker.com/insight/football/cng102-20261024-rayo-vallecano-vs-elche-confirmed-lineups",
+          "source": "Oddschecker"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "namibia vs ireland",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 24 Oct 2026 06:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Ireland v Namibia: Paul Stirling's 56 leads tourits to win in Windhoek",
+          "url": "https://www.bbc.com/sport/cricket/articles/cxnv0e69ezrzo",
+          "source": "BBC"
+        },
+        {
+          "title": "Namibia vs Ireland ODI Today at Namibia Cricket Ground, Windhoek, Namibia stadium",
+          "url": "https://aimamedia.org/newsdetails.aspx?nid=827065",
+          "source": "AIMA Media"
+        },
+        {
+          "title": "Ireland beat Namibia by 55 runs in first ODI Staff Reporter IRELAND took a 1-0 lead in the five-match One Day International (ODI) series against Namibia after defeating the hosts by 55 runs at the High Performance Oval in Windhoek today. Namibia were bowl",
+          "url": "https://www.instagram.com/p/DezMtN4DYyZ/",
+          "source": "Instagram"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "iasmin lucindo",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 24 Oct 2026 06:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Iasmin Lucindo | Back In The Game",
+          "url": "https://www.ufc.com/news/iasmin-lucindo-back-in-game-ufc-333",
+          "source": "UFC.com"
+        },
+        {
+          "title": "Iasmin Lucindo opens up about doping case ahead of UFC 333 return",
+          "url": "https://mmasucka.com/news/iasmin-lucindo-opens-up-about-doping-case-ahead-of-ufc-333-return/",
+          "source": "MMA Sucka"
+        },
+        {
+          "title": "Iasmin Lucindo: 'You Are Going To See An Improved Iasmin' | UFC 333",
+          "url": "https://www.ufc.com/video/161106",
+          "source": "UFC.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from ufc.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "asaf chopurov",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 24 Oct 2026 06:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Asaf Chopurov | The 'Honey Badger' Is Here",
+          "url": "https://www.ufc.com/news/asaf-chopurov-the-honey-badger-is-here-ufc-333",
+          "source": "UFC.com"
+        },
+        {
+          "title": "UFC 333 in Abu Dhabi: Russian fighter of Azerbaijani origin Asaf Chopurov set for UFC debut",
+          "url": "https://news.az/news/ufc-333-in-abu-dhabi-russian-fighter-of-azerbaijani-origin-asaf-chopurov-set-for-ufc-debut",
+          "source": "Latest news from Azerbaijan"
+        },
+        {
+          "title": "UFC 333: Colby Thicknesse vs. Asaf Chopurov Predictions & Odds",
+          "url": "https://sports.betmgm.com/en/blog/ufc/333-colby-thicknesse-asaf-chopurov-predictions-odds-bm05/",
+          "source": "sports.betmgm.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from ufc.com — league/studio/label IP very likely."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-10-24",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Plant parent",
+      "motifs": [
+        "single-line monstera",
+        "propagation station",
+        "terracotta row"
+      ],
+      "suggestedProducts": [
+        "mug",
+        "tote bag",
+        "poster"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Cottagecore botanical",
+      "motifs": [
+        "pressed flowers",
+        "mushroom clusters",
+        "hand-lettered herbs"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
