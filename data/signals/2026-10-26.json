@@ -1,0 +1,1296 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T17:08:06.700Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "nascar news",
+      "traffic": 20000,
+      "trafficLabel": "20000+",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "NASCAR should be fuming over embarrassing 'Dega race, drivers are livid & controversial finish raises doubt",
+          "url": "https://www.foxnews.com/outkick-sports/nascar-fuming-embarrassing-dega-race-drivers-livid-controversial-finish-raises-doubt",
+          "source": "Fox News"
+        },
+        {
+          "title": "Larson leaves Talladega with a trophy, a cushion and unfinished business",
+          "url": "https://www.jayski.com/2026/10/26/larson-leaves-talladega-with-a-trophy-a-cushion-and-unfinished-business/",
+          "source": "Jayski"
+        },
+        {
+          "title": "Larson leaves Chase challengers, including Hamlin, in stunned silence after ‘Dega",
+          "url": "https://www.nascar.com/news-media/2026/10/25/larson-leaves-chase-challengers-including-hamlin-in-stunned-silence-after-dega/",
+          "source": "NASCAR.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "walter koenig",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Mon, 26 Oct 2026 09:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Walter Koenig, the Russian Crewman Chekov on ‘Star Trek,’ Dies at 90",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/walter-koenig-dead-chekov-star-trek-russian-1236740088/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "Walter Koenig, Chekov on Original ‘Star Trek,’ Dies at 90",
+          "url": "https://variety.com/2026/film/news/walter-koenig-dead-chekov-star-trek-1236931312/",
+          "source": "Variety"
+        },
+        {
+          "title": "'Star Trek' Actor Walter Koenig Dead at 90",
+          "url": "https://www.tmz.com/2026/10/26/walter-koenig-dead/",
+          "source": "TMZ"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "maurene comey",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 26 Oct 2026 09:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Trump Administration Unlawfully Fired Maurene Comey, Judge Rules",
+          "url": "https://www.nytimes.com/2026/10/26/nyregion/maurene-comey-firing-doj-trump-epstein.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Judge orders DOJ to reinstate former federal prosecutor Maurene Comey, daughter of former FBI director",
+          "url": "https://www.nbcnews.com/politics/trump-administration/doj-justice-maurene-comey-court-reinstate-rcna605720",
+          "source": "NBC News"
+        },
+        {
+          "title": "Judge reinstates Maurene Comey after ruling her firing unlawful",
+          "url": "https://abcnews.com/US/judge-reinstates-maurene-comey-after-ruling-firing-unlawful/story?id=137575599",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "product recall",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 26 Oct 2026 09:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Recall alert: More than 4 million tubes of toothpaste recalled",
+          "url": "https://www.wsbtv.com/news/trending/recall-alert-more-than-4-million-tubes-toothpaste-recalled/7ODWWNVFDRCHXD4DYVZYVBUM3A/",
+          "source": "WSB-TV"
+        },
+        {
+          "title": "More than 4 million tubes of kids’ toothpaste recalled, federal regulators warn",
+          "url": "https://www.clickondetroit.com/news/local/2026/10/26/more-than-4-million-tubes-of-kids-toothpaste-recalled-federal-regulators-warn/",
+          "source": "ClickOnDetroit | WDIV Local 4"
+        },
+        {
+          "title": "FDA Announces Nationwide Recall of Popular Toothpastes—Here’s Everything You Need to Know",
+          "url": "https://www.goodhousekeeping.com/what-to-buy/beauty-products/a74208527/toothpaste-recall-brush-buddies/",
+          "source": "Good Housekeeping"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "walter koenig",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 26 Oct 2026 09:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Walter Koenig, the Russian Crewman Chekov on ‘Star Trek,’ Dies at 90",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/walter-koenig-dead-chekov-star-trek-russian-1236740088/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "'Star Trek' Actor Walter Koenig Dead at 90",
+          "url": "https://www.tmz.com/2026/10/26/walter-koenig-dead/",
+          "source": "TMZ"
+        },
+        {
+          "title": "Walter Koenig, Star Trek’s Original Chekov, Dead at 90",
+          "url": "https://consequence.net/2026/10/walter-koenig-dead-star-trek-pavel-chekov/",
+          "source": "Consequence of Sound"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "msft",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 26 Oct 2026 09:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Ahead of Earnings Is Microsoft Stock a Buy, a Sell, or Fairly Valued?",
+          "url": "https://global.morningstar.com/en-nd/stocks/ahead-earnings-is-microsoft-stock-buy-sell-or-fairly-valued-2",
+          "source": "Morningstar"
+        },
+        {
+          "title": "Microsoft in focus as BNP sees continued Azure growth, Copilot adding to sales (MSFT:NASDAQ)",
+          "url": "https://seekingalpha.com/news/4657211-microsoft-in-focus-as-bnp-sees-continued-azure-growth-copilot-adding-to-sales",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Microsoft Stock Has Been a Hit With Wall Street. Why Massive AI Spending Won't Be a Problem",
+          "url": "https://www.barrons.com/articles/microsoft-stock-ai-spending-earnings-analyst-bad078f3",
+          "source": "Barron's"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "star wars",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 26 Oct 2026 09:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Sci-Fi Writer Andy Weir Has A Fascinating Idea For A Star Trek And Star Wars Crossover",
+          "url": "https://www.imdb.com/es/news/ni66080102/?ref_=int_nwr_3",
+          "source": "IMDb"
+        },
+        {
+          "title": "Sci-Fi Writer Andy Weir Has A Fascinating Idea For A Star Trek And Star Wars Crossover",
+          "url": "https://www.slashfilm.com/2293494/andy-weir-star-trek-star-wars-crossover-idea/",
+          "source": "SlashFilm"
+        },
+        {
+          "title": "Star Wars introduces two new names for the Force to describe the light and dark side",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/star-wars-introduces-two-names-120200360.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "fraud",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 26 Oct 2026 09:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Microsoft Teams to Use AI for Detecting Phishing Attacks Using Teams Conversations",
+          "url": "https://cybersecuritynews.com/microsoft-teams-ai-detection/",
+          "source": "CyberSecurityNews"
+        },
+        {
+          "title": "How Microsoft Teams is tackling the growing threat of deepfakes",
+          "url": "https://www.spiceworks.com/software/how-microsoft-teams-is-tackling-the-growing-threat-of-deepfakes/",
+          "source": "Spiceworks"
+        },
+        {
+          "title": "Microsoft confirms Teams will let third-party tools scan your meetings for deepfakes from November",
+          "url": "https://www.windowslatest.com/2026/10/25/microsoft-confirms-teams-will-let-third-party-tools-scan-your-meetings-for-deepfakes-from-november/",
+          "source": "Windows Latest"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "dazn",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Foxtel’s billionaire owner extends Dazn funding lifeline another year",
+          "url": "https://www.afr.com/companies/media-and-marketing/foxtel-s-billionaire-owner-extends-dazn-funding-lifeline-another-year-20261026-p618n6",
+          "source": "AFR"
+        },
+        {
+          "title": "Billionaire Len Blavatnik’s Access Industries Backs DAZN for Another 12 Months",
+          "url": "https://ceoworld.biz/2026/10/26/billionaire-len-blavatniks-access-industries-backs-dazn-for-another-12-months/",
+          "source": "CEOWORLD magazine"
+        },
+        {
+          "title": "DAZN loses $979.7m on $3.8bn revenue in first consolidated UK accounts",
+          "url": "https://ppc.land/dazn-loses-979-7m-on-3-8bn-revenue-in-first-consolidated-uk-accounts/",
+          "source": "PPC Land"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "chris sorensen",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 26 Oct 2026 10:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Firehouse Subs co-founder dies after building beloved American sandwich chain with brother",
+          "url": "https://www.foxnews.com/food-drink/firehouse-subs-co-founder-dies-after-building-beloved-american-sandwich-chain-brother",
+          "source": "Fox News"
+        },
+        {
+          "title": "Firehouse Subs co-founder dies after building beloved American sandwich chain with brother",
+          "url": "https://nypost.com/2026/10/26/us-news/firehouse-subs-co-founder-chris-sorensen-dies-after-building-beloved-american-sandwich-chain-with-brother/",
+          "source": "New York Post"
+        },
+        {
+          "title": "Co-founder of Firehouse Subs, Chris Sorensen, dies at 65",
+          "url": "https://www.wbaltv.com/article/co-founder-firehouse-subs-chris-sorensen-dies-65/74249301",
+          "source": "WBAL-TV"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "brisbane weather",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 26 Oct 2026 09:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Weather report for Brisbane Southwest",
+          "url": "https://www.couriermail.com.au/questnews/southwest/hyperlocal/heres-what-you-can-expect-with-todays-brisbane-southwest-weather/news-story/d7857c2ef3a4318917983a1e88c46192",
+          "source": "The Courier Mail"
+        },
+        {
+          "title": "Weather report for Redlands Coast",
+          "url": "https://www.couriermail.com.au/questnews/redlands/hyperlocal/heres-what-you-can-expect-with-todays-redlands-coast-weather/news-story/215fee68e3c1c9763ef5b3480a2a619c",
+          "source": "The Courier Mail"
+        },
+        {
+          "title": "Weather report for Brisbane North",
+          "url": "https://www.couriermail.com.au/questnews/north/hyperlocal/heres-what-you-can-expect-with-todays-brisbane-north-weather/news-story/77f088ec8e8aa768af1ac979b39f0b63",
+          "source": "The Courier Mail"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "journalist",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Ohio State professor who assaulted cameraman resigns",
+          "url": "https://www.thelantern.com/2026/10/ohio-state-professor-who-assaulted-cameraman-resigns/",
+          "source": "The Lantern"
+        },
+        {
+          "title": "Ohio State professor accused of attacking independent journalist resigns",
+          "url": "https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-professor-accused-of-attacking-independent-journalist-resigns/",
+          "source": "NBC4 WCMH-TV"
+        },
+        {
+          "title": "Ohio State University professor who assaulted a documentarian in February resigns",
+          "url": "https://www.wosu.org/news/2026-10-23/ohio-state-university-professor-who-assaulted-a-documentarian-in-february-resigns",
+          "source": "WOSU Public Media"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "cyanide lol",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:40:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Cyanide, former Fnatic jungler and LoL World Champion, dies aged 31",
+          "url": "https://www.sheepesports.com/en/articles/cyanide-former-fnatic-jungler-and-lol-world-champion-dies-aged-31/en",
+          "source": "Sheep Esports"
+        },
+        {
+          "title": "2011 World Champion Cyanide Has Passed Away At The Age Of 31",
+          "url": "https://www.hotspawn.com/league-of-legends/news/cyanide-passed-away",
+          "source": "Hotspawn"
+        },
+        {
+          "title": "Lauri \"Cyanide\" Happonen, Youngest League of Legends World Champion, Dies At 31",
+          "url": "https://gamedaily.com/games/cyanide-lauri-happonen-lol-world-champion-dies-31",
+          "source": "GameDaily"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "trabzonspor",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "🚨 İLK GOL SESİ GELDİ! | Rizespor - Trabzonspor maçı ne zaman, saat kaçta, hangi kanalda?",
+          "url": "https://www.fanatik.com.tr/trabzonspor/live-caykur-rizespor-trabzonspor-maci-canli-anlatim-crz-ts-maci-kadrosu-skoru-ve-istatistikleri-2642290",
+          "source": "Fanatik"
+        },
+        {
+          "title": "Thomas Reis: \"Bu onları daha tehlikeli hale getiriyor\"",
+          "url": "https://beinsports.com.tr/haber/thomas-reis-bu-onlari-daha-tehlikeli-hale-getiriyor",
+          "source": "beinsports.com.tr"
+        },
+        {
+          "title": "Trabzonspor'da Thomas Reis'tan 7 değişiklik! - Trabzonspor Haberler - HT Spor",
+          "url": "https://www.haberturk.com/spor/trabzonspor-da-thomas-reis-tan-7-degisiklik-3922722",
+          "source": "Habertürk"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "rwanda",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "U.S. senators call on NBA to reevaluate Rwanda partnership",
+          "url": "https://www.espn.com/nba/story/_/id/50288053/us-senators-call-nba-reevaluate-rwanda-partnership",
+          "source": "ESPN"
+        },
+        {
+          "title": "At the end of their letter, the senators asked the NBA …",
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/26/at-the-end-of-their-letter-the-senators-asked-the-nba/92445262007/",
+          "source": "HoopsHype"
+        },
+        {
+          "title": "American senators again question NBA's relationship with Rwanda",
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/26/american-senators-again-question-nbas-relationship-with-rwanda/92445264007/",
+          "source": "HoopsHype"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "donal lunny",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Folk music legend dead at 79: ‘A giant of a musician’",
+          "url": "https://www.pennlive.com/entertainment/2026/10/folk-music-legend-dead-at-79-a-giant-of-a-musician.html",
+          "source": "PennLive.com"
+        },
+        {
+          "title": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
+          "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Andy Irvine pays tribute to Dónal Lunny: ‘The first 18 months of Planxty were the most joyous of my life up to then’",
+          "url": "https://www.irishtimes.com/culture/music/2026/10/26/andy-irvine-pays-tribute-to-donal-lunny-the-first-18-months-of-planxty-were-the-most-joyous-of-my-life-up-to-then/",
+          "source": "The Irish Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "charles leclerc",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Hamilton singles out his ‘biggest issue’ in US GP",
+          "url": "https://www.formula1.com/en/latest/article/hamilton-singles-out-his-biggest-issue-in-united-states-gp-with-leclerc-optimistic-after-podium.5mv33bCKbMzoECWZ6JqTBD",
+          "source": "Formula 1"
+        },
+        {
+          "title": "Lewis Hamilton, Charles Leclerc discuss reasons why Ferrari went from US GP pole favourites to behind Kimi Antonelli, Red Bulls on grid",
+          "url": "https://www.skysports.com/f1/news/13603156/lewis-hamilton-charles-leclerc-reasons-why-ferrari-went-from-us-gp-pole-favourites-to-behind-kimi-antonelli-red-bulls-on-grid",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "The two weaknesses conspiring against Ferrari at Austin",
+          "url": "https://www.the-race.com/formula-1/why-another-ferrari-f1-pole-bid-faltered-us-gp-2026/",
+          "source": "The Race"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from formula1.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "arthur fery",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "October 28, 2026: Tallon Griekspoor vs Brandon Nakashima: Total Games Tennis Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/tallon-griekspoor-vs-brandon-nakashima-total-games-oct-28-2026/",
+          "source": "Robinhood"
+        },
+        {
+          "title": "October 25, 2026: Paula Badosa vs Xiyu Wang: Set 2 Winner Tennis Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/paula-badosa-vs-xiyu-wang-set-2-winner-oct-25-2026/",
+          "source": "Robinhood"
+        },
+        {
+          "title": "October 26, 2026: Mika Brunold vs Nuno Borges: Set 1 Winner Tennis Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/mika-brunold-vs-nuno-borges-set-1-winner-oct-26-2026/",
+          "source": "Robinhood"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "microsoft",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Microsoft offers 'buyouts' to 60,000 staff including UK workers",
+          "url": "https://news.sky.com/story/microsoft-offers-buyouts-to-60-000-staff-including-uk-workers-13604076",
+          "source": "Sky News"
+        },
+        {
+          "title": "Microsoft is offering buyouts to around 60,000 employees, Business Insider reports",
+          "url": "https://www.reuters.com/technology/microsoft-is-offering-buyouts-around-60000-employees-business-insider-reports-2026-10-26/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Microsoft to Offer Buyouts to 60,000 Workers in Latest Cost Cut",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ineos",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "INEOS puts Lausanne-Sport up for sale: Are Jim Ratcliffe’s sports investments working? - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7723604/2026/10/26/ineos-jim-ratcliffe-lausanne-sport/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "INEOS 'put club up for sale' amid Man Utd turmoil",
+          "url": "https://www.standard.co.uk/sport/football/ineos-man-utd-sale-b1302366.html",
+          "source": "London Evening Standard"
+        },
+        {
+          "title": "Sir Jim Ratcliffe puts Lausanne-Sport up for sale as Man Utd crisis deepens",
+          "url": "https://sports.yahoo.com/articles/sir-jim-ratcliffe-puts-lausanne-155000372.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "sunset",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "A rare clear sky delivers Lovetsky’s long-awaited sunset shot over St. Petersburg",
+          "url": "https://apnews.com/photo-gallery/photo-sunset-tpe-ap-photography-d3832005296f71fe13a1436edb0ac7ab",
+          "source": "AP News"
+        },
+        {
+          "title": "A rare clear sky delivers Lovetsky’s long-awaited sunset shot over St. Petersburg",
+          "url": "https://www.wvnews.com/newsfeed/world/a-rare-clear-sky-delivers-lovetsky-s-long-awaited-sunset-shot-over-st-petersburg/article_dfb4e6f8-f18e-50fa-a36c-05ab4ebed20c.html",
+          "source": "WV News"
+        },
+        {
+          "title": "A rare clear sky delivers Lovetsky’s long-awaited sunset shot over St. Petersburg",
+          "url": "https://www.joplinglobe.com/region/a-rare-clear-sky-delivers-lovetsky-s-long-awaited-sunset-shot-over-st-petersburg/article_308d7554-09a4-57ba-93ae-2042100b9939.html",
+          "source": "The Joplin Globe"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "microsoft",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+          "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Microsoft offers voluntary exit packages to 60,000 staff",
+          "url": "https://www.ctvnews.ca/world/article/microsoft-offers-voluntary-exit-packages-to-60000-staff/",
+          "source": "CTV News"
+        },
+        {
+          "title": "Microsoft to Offer Buyouts to 60,000 Workers in Latest Cost Cut",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ernie clement",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Blue Jays’ Ernie Clement Has Personal News Emerge Amid Career Questions",
+          "url": "https://heavy.com/sports/mlb/toronto-blue-jays/ernie-clement-personal-news-career-questions/",
+          "source": "Heavy.com"
+        },
+        {
+          "title": "These are the top 10 trending dog and cat names in Canada for 2026",
+          "url": "https://cheknews.ca/these-are-the-top-10-trending-dog-and-cat-names-in-canada-for-2026-1355719/",
+          "source": "CHEK News"
+        },
+        {
+          "title": "Ernie Clement leads the pack in inspiring this year's roster of trending pet names",
+          "url": "https://torontosun.com/life/relationships/ernie-clement-leads-the-pack-in-inspiring-2026s-roster-of-trending-pet-names",
+          "source": "Toronto Sun"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "craig pardy energy tax break",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 09:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Provincial HST Cuts Coming to Gas and Diesel for Winter Months, says Finance Minister",
+          "url": "https://vocm.com/2026/10/26/314489/",
+          "source": "VOCM"
+        },
+        {
+          "title": "Gas will be 8 cents a litre cheaper as N.L. government axes gas tax for 4 months",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/province-cuts-gas-tax-9.7396099",
+          "source": "CBC"
+        },
+        {
+          "title": "Government proposes cut to gas and diesel tax for four months",
+          "url": "https://www.bayfm.ca/2026/10/26/government/",
+          "source": "100.1 BayFM"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "alex de minaur",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 07:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Hot Shot: Machac's video-game tennis leaves De Minaur helpless in Vienna 2026",
+          "url": "https://www.atptour.com/en/video/hot-shot-machacs-videogame-tennis-leaves-de-minaur-helpless-in-vienna-2026",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Machac vs. de Minaur Prediction at the Erste Bank Open – Monday, October 26",
+          "url": "https://www.bleachernation.com/picks/2026/10/25/machac-vs-de-minaur-prediction-at-the-erste-bank-open-monday-october-26/",
+          "source": "Bleacher Nation"
+        },
+        {
+          "title": "Alex de Minaur vs Tomas Machac ATP Vienna Tips, Prediction & Live Stream - Can Demon survive dangerous Machac?",
+          "url": "https://www.bets.com.au/tennis/atp-tour/alex-de-minaur-vs-tomas-machac-atp-vienna-tips-prediction-live-stream-20261026-0002/",
+          "source": "Bets.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "ipad mini",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 06:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Apple updates the iPad Mini with a larger OLED display",
+          "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple Brings TechWoven to iPad With All-New $79 iPad Mini Smart Folio",
+          "url": "https://www.macrumors.com/2026/10/26/techwoven-ipad-mini-smart-folio/",
+          "source": "MacRumors"
+        },
+        {
+          "title": "iPad mini is just the start of an exciting week, says Apple",
+          "url": "https://appleinsider.com/articles/26/10/26/ipad-mini-is-just-the-start-of-an-exciting-week-says-apple",
+          "source": "AppleInsider"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "steam stuck on loading user data",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 04:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Steam was down for many — but the 'loading user data' issue now seems to be fixed",
+          "url": "https://www.techradar.com/news/live/steam-down-october-2026",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Steam down for hundreds of PC users as gamers get locked out of libraries",
+          "url": "https://www.gamingbible.com/news/platform/steam/steam-down-october-26-2026-350151-20261026",
+          "source": "GAMINGbible"
+        },
+        {
+          "title": "Is Steam Down? Everything We Know About the October 26 Outage.",
+          "url": "https://www.vice.com/en/article/is-steam-down-everything-we-know-about-the-october-26-outage/",
+          "source": "VICE"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "chris brown",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 26 Oct 2026 04:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+          "url": "https://www.bbc.com/news/articles/cq3dje4g4d5jo",
+          "source": "BBC"
+        },
+        {
+          "title": "Chris Brown avoids jail time over London nightclub brawl",
+          "url": "https://www.abc.net.au/news/2026-10-27/chris-brown-sentenced-london-nightclub-brawl/107311850",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Chris Brown Gets Suspended Eight-Month Sentence for ‘Vicious and Unprovoked’ Attack at U.K. Nightclub",
+          "url": "https://variety.com/2026/music/global/chris-brown-sentenced-attack-london-nightclub-1236931029/",
+          "source": "Variety"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "viktor gyökeres",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 26 Oct 2026 09:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Transfer rumors, news: Arsenal want £55M in any Gyökeres deal",
+          "url": "https://www.espn.co.uk/football/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
+          "source": "ESPN"
+        },
+        {
+          "title": "Emmanuel Petit claims £64m Arsenal star is 'not welcome anymore'",
+          "url": "https://metro.co.uk/2026/10/24/emmanuel-petit-claims-64m-arsenal-star-not-welcome-anymore-29736277/",
+          "source": "Metro.co.uk"
+        },
+        {
+          "title": "Arsenal will ‘100 per cent’ sell Arteta starter vs Everton for one key reason",
+          "url": "https://www.football365.com/news/arsenal-100-per-cent-sell-gyokeres-everton-performance",
+          "source": "Football365"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "anthony bourdain",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "A24’s Tony Finally Sets HBO Max Streaming Release Date",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/a24-tony-finally-sets-hbo-112000918.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "'Tony' Prime Video Review: Dominic Sessa and Antonio Banderas Shine in a Rough-Edged Portrait of Anthony Bourdain as a Cocky Teenager",
+          "url": "https://www.micropsiacine.com/2026/10/tony-prime-video-review-dominic-sessa-and-antonio-banderas-shine-in-a-rough-edged-portrait-of-anthony-bourdain-as-a-cocky-teenager/",
+          "source": "Micropsia"
+        },
+        {
+          "title": "How to watch Tony (2026) in the US",
+          "url": "https://blog.reelgood.com/how-to-watch-tony-2026-in-the-us",
+          "source": "UpNext by Reelgood"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "michael beale ticket refund fans",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 26 Oct 2026 09:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "I'm a former Rangers boss paying fans a refund after a fourth defeat on the spin",
+          "url": "https://uk.sports.yahoo.com/news/im-former-rangers-boss-paying-102100401.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Ex Rangers boss Beale refunds fans with own money after fourth straight defeat",
+          "url": "https://www.heraldscotland.com/sport/26669150.former-rangers-boss-beale-refunds-fans-money-loss/",
+          "source": "The Herald"
+        },
+        {
+          "title": "'Humbled' Michael Beale refunds fans personally after latest embarrassing defeat",
+          "url": "https://www.dailyrecord.co.uk/sport/football/football-news/humbled-michael-beale-refunds-fans-37810541",
+          "source": "Daily Record"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "gold nugget found",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 26 Oct 2026 09:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Amateur prospector finds $150,000 gold nugget in outback",
+          "url": "https://www.abc.net.au/news/2026-10-26/gold-nugget-discovered-in-outback/107306976",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Gold nugget worth up to $160,000 found in Australia — ABC News Australia",
+          "url": "https://ua.news/en/dovkolo-svitu/v-avstraliyi-znaishli-samorodok-zolota-vartistiu-do-160-tisiach-abc-news-australia",
+          "source": "UA.NEWS"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "black friday",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 26 Oct 2026 06:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Aussies rush to mega Cotton On sale",
+          "url": "https://www.news.com.au/checkout/sales-and-deals/black-friday/black-friday-2026-early-deals/news-story/e86033e630906d23144312e5d1d90edf",
+          "source": "News.com.au"
+        },
+        {
+          "title": "Black Friday 2026: Here’s what the team at THE ICONIC expects to sell out",
+          "url": "https://7news.com.au/7you/fashion/black-friday-2026-heres-what-the-team-at-the-iconic-expects-to-sell-out-c-23070595",
+          "source": "7NEWS"
+        },
+        {
+          "title": "Black Friday 2026: Shopping Starts Earlier, Gaming Dominates Tech & Travellers Look for Longer Trips",
+          "url": "https://www.exchangewire.com/blog/2026/10/20/black-friday-2026-shopping-starts-earlier-gaming-dominates-tech-travellers-look-for-longer-trips/",
+          "source": "ExchangeWire"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "jack nicholson",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 26 Oct 2026 05:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Actor ‘punched’ co-star after heated scene",
+          "url": "https://www.news.com.au/entertainment/celebrity-life/costar-claims-tom-cruise-punched-jack-nicholson-while-filming-iconic-movie-scene/news-story/7b6e0a2329b97eb76803e15a1a709f02",
+          "source": "News.com.au"
+        },
+        {
+          "title": "Tom Cruise punched Jack Nicholson on set of most famous film, co-star claims",
+          "url": "https://www.nine.com.au/entertainment/celebrity/tom-cruise-punched-jack-nicholson-on-a-few-good-men-set-20261026-p618hg.html",
+          "source": "Nine.com.au"
+        },
+        {
+          "title": "The Truth Behind Tom Cruise Punching Jack Nicholson: How a Climactic Showdown on the Set of A Few Good Men Dissolved Into Unscripted Chaos",
+          "url": "https://www.istitutoimpariamo.it/the-truth-behind-tom-cruise-punching-jack-nicholson-how-a-climactic-showdown-on-the-set-of-a-few-good-men-dissolved-into-unscripted-chaos/",
+          "source": "Istituto Impariamo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "police academy",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 26 Oct 2026 04:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Charleston Police Academy Pickleball Tournament serves up support for local youth",
+          "url": "https://wchstv.com/news/local/charleston-police-academy-pickleball-tournament-serves-up-support-for-local-youth",
+          "source": "WCHS"
+        },
+        {
+          "title": "Licensable picture: 502 prospective police officers sworn in",
+          "url": "https://www.reutersconnect.com/item/502-prospective-police-officers-sworn-in/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjEwMjZYOTlYNzAxOTY",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "New class of Massachusetts State Police recruits begin training under new reforms",
+          "url": "https://turnto10.com/news/local/new-class-of-massachusetts-state-police-recruits-begin-training-under-new-reforms-oct-26-2026",
+          "source": "WJAR"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "lily allen",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 26 Oct 2026 04:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Fans divided over huge pop star’s Aussie tour",
+          "url": "https://www.news.com.au/entertainment/music/tours/too-good-for-him-fans-rally-as-lily-allen-relives-marriage-split-in-sydney/news-story/9b7a8564df56524368ac8612fc4e9f56",
+          "source": "News.com.au"
+        },
+        {
+          "title": "Lost in the arena: Lily Allen’s intimate theatrical drama West End Girl falls flat",
+          "url": "https://www.smh.com.au/culture/live-reviews/lost-in-the-arena-lily-allen-s-intimate-theatrical-drama-falls-flat-plus-other-big-shows-this-week-20261026-p618kw.html",
+          "source": "SMH.com.au"
+        },
+        {
+          "title": "Live Review: Lily Allen @ Brisbane Entertainment Centre",
+          "url": "https://themusic.com.au/reviews/lily-allen-brisbane-entertainment-centre/X1vdc3J1dHc/24-10-26",
+          "source": "theMusic"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"tour\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "姆巴佩",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 26 Oct 2026 09:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "西甲｜麦巴比国家打吡攻入皇马生涯第100球 写世纪里程碑誓夺金球奖",
+          "url": "https://dushi.singtao.ca/toronto/%E4%BD%93%E8%82%B2/%E8%A5%BF%E7%94%B2%EF%BD%9C%E9%BA%A6%E5%B7%B4%E6%AF%94%E5%9B%BD%E5%AE%B6%E6%89%93%E5%90%A1%E6%94%BB%E5%85%A5%E7%9A%87%E9%A9%AC%E7%94%9F%E6%B6%AF%E7%AC%AC100%E7%90%83-%E5%86%99%E4%B8%96%E7%BA%AA/",
+          "source": "加拿大都市网"
+        },
+        {
+          "title": "博主：穆里尼奥的帅位这下稳了 经典反击锁定胜局",
+          "url": "https://3g.china.com/act/redian/13004758/20261026/49818319.html",
+          "source": "中华网"
+        },
+        {
+          "title": "西甲|巴萨九连胜戛然而止，不败美梦被姆巴佩两刀刺破",
+          "url": "https://www.sohu.com/a/1092712522_121218495?scm=10001.1289_13-100000-0_922.0-0.0-0-0-0-0.a2_5X162X1820",
+          "source": "Sohu"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "bonnie crombie",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 26 Oct 2026 09:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "CROMBIE: An affordable city starts with better choices",
+          "url": "https://torontosun.com/opinion/columnists/crombie-an-affordable-city-starts-with-better-choices",
+          "source": "Toronto Sun"
+        },
+        {
+          "title": "Does Toronto even want a subway to Mississauga?",
+          "url": "https://www.blogto.com/city/2026/10/does-toronto-want-subway-mississauga/",
+          "source": "blogTO"
+        },
+        {
+          "title": "Bonnie Crombie lays out first 100 days roadmap to bring the subway to Mississauga",
+          "url": "https://natlawreview.com/press-releases/bonnie-crombie-lays-out-first-100-days-roadmap-bring-subway-mississauga",
+          "source": "The National Law Review"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"city\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "tim sweeney",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 26 Oct 2026 09:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Epic Games Boss Tim Sweeney Doubles Down on Valve Criticism, Says Steam's AI Content Disclosure Is a 'Political Act'",
+          "url": "https://www.ign.com/articles/epic-games-boss-tim-sweeney-doubles-down-on-valve-criticism-says-steams-ai-content-disclosure-is-a-political-act",
+          "source": "IGN"
+        },
+        {
+          "title": "Epic Boss Tim Sweeney Calls Steam’s AI Declarations ‘Political’ And ‘Abhorrent’",
+          "url": "https://kotaku.com/epic-steam-valve-tim-sweeney-gen-ai-declaration-political-abhorrent-2000749706",
+          "source": "Kotaku"
+        },
+        {
+          "title": "Epic CEO says Steam's AI disclosures are 'just as partisan as mandatory political essays'",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+          "source": "PC Gamer"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "bleach",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 26 Oct 2026 09:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Bleach: Popular anime series officially ends as fans say goodbye",
+          "url": "https://www.bbc.com/news/articles/c8p3g73ep520o",
+          "source": "BBC"
+        },
+        {
+          "title": "'BLEACH' Creator Tite Kubo: Blood, Sweat, Tears, and Ink (Cover Story)",
+          "url": "https://hypebeast.com/2026/10/tite-kubo-bleach-hypebeast-magazine-issue-38-cover-story",
+          "source": "Hypebeast"
+        },
+        {
+          "title": "Bleach: Thousand-Year Blood War Finale Synopsis Reveals a Ten-Year Time Skip and a New Threat",
+          "url": "https://in.ign.com/bleach-thousand-year-blood-war/275311/bleach-thousand-year-blood-war-finale-synopsis-reveals-a-ten-year-time-skip-and-a-new-threat",
+          "source": "IGN India"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-10-26",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Seasonal spooky",
+      "motifs": [
+        "friendly ghost",
+        "vintage pumpkin label",
+        "black cat crescent"
+      ],
+      "suggestedProducts": [
+        "graphic tee",
+        "sticker",
+        "mug"
+      ],
+      "why": "Seasonally weighted for 2026-10.",
+      "market": null
+    },
+    "support": {
+      "niche": "Celestial / tarot",
+      "motifs": [
+        "moon phases",
+        "hand-drawn tarot suit",
+        "constellation map"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
