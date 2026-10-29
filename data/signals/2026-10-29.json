@@ -1,0 +1,1283 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T17:19:10.011Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 1,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "snow",
+      "traffic": 20000,
+      "trafficLabel": "20000+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Winter storm brings inches of snow to Cascade Mountains",
+          "url": "https://www.king5.com/article/weather/severe-weather/winter-storm-brings-inches-snow-to-cascade-mountains/281-95d3e6d5-531f-40fd-967c-fb123f1e1b3c",
+          "source": "KING5.com"
+        },
+        {
+          "title": "First snowfall at Snoqualmie Pass as skiers & businesses hope for better season than 2025",
+          "url": "https://komonews.com/news/local/first-snowfall-at-snoqualmie-pass-as-skiers-businesses-hope-for-better-season-than-2025-mount-rainier-winter-weather-skii-snowboarding-outdoor-activities-holiday-event-sports-resort",
+          "source": "KOMO"
+        },
+        {
+          "title": "Seattle weather: Wet Tuesday, possible mountain snow this week",
+          "url": "https://www.fox13seattle.com/news/seattle-traffic-winter-weather-advisory",
+          "source": "FOX 13 Seattle"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"storm\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "matthew breetzke",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Thu, 29 Oct 2026 08:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Australia strike late to restrict South Africa to 140-4, just 40 runs ahead, on the third day of men’s third Test– as it happened",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/29/south-africa-v-australia-third-test-day-three-cricket-newlands-cape-town-live-updates",
+          "source": "The Guardian"
+        },
+        {
+          "title": "South Africa vs Australia: Careless dismissals give tourists route to series win",
+          "url": "https://www.bbc.com/sport/cricket/articles/cwz0vevng3n0o",
+          "source": "BBC"
+        },
+        {
+          "title": "Starc, Hazlewood strike early after Australia take 100-run lead",
+          "url": "https://www.cricinfo.com/series/australia-in-south-africa-2026-27-1525634/south-africa-vs-australia-3rd-test-1525661/match-report",
+          "source": "Cricinfo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"strike\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "valkyries game today",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Thu, 29 Oct 2026 09:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Kiah Stokes fuels Game 5 win vs. Dream, putting Valkyries on brink of WNBA title",
+          "url": "https://www.espn.com/wnba/story/_/id/50293405/wnba-finals-game-5-golden-state-valkyries-atlanta-dream",
+          "source": "ESPN"
+        },
+        {
+          "title": "Game Recap: Atlanta Dream vs. Golden State Valkyries (Finals, Game 5)",
+          "url": "https://www.wnba.com/news/2026-finals-valkyries-dream-game-5-recap",
+          "source": "WNBA"
+        },
+        {
+          "title": "Kiah Stokes goes beyond dirty work to power Valkyries to brink of WNBA title",
+          "url": "https://sports.yahoo.com/wnba/article/kiah-stokes-goes-beyond-dirty-work-to-power-valkyries-to-brink-of-wnba-title-054317326.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "u2 european tour dates",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Thu, 29 Oct 2026 09:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "UK & Europe Dates for The Greatest Show On Earth World Tour",
+          "url": "https://www.u2.com/blogs/news/uk-europe-dates-for-the-greatest-show-on-earth-world-tour",
+          "source": "U2.com"
+        },
+        {
+          "title": "U2 announce UK stadium dates for 2027 world tour",
+          "url": "https://discover.ticketmaster.co.uk/music/u2-announce-uk-shows-for-2027-world-tour-81601/",
+          "source": "Ticketmaster UK"
+        },
+        {
+          "title": "U2 announce first UK stadium shows in a decade for 2027 tour",
+          "url": "https://www.independent.co.uk/arts-entertainment/music/news/u2-2027-tour-dates-tickets-b3075706.html",
+          "source": "The Independent"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"tour\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "snow",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Thu, 29 Oct 2026 10:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Fresh snow brings hope to Okanagan ski resorts as El Niño looms",
+          "url": "https://globalnews.ca/news/12125144/fresh-snow-brings-hope-okanagan-ski-resorts-el-nino-looms/",
+          "source": "Global News"
+        },
+        {
+          "title": "Big White hit by blast of winter weather overnight",
+          "url": "https://www.kelownanow.com/watercooler/big_white/news/Big_White/Big_White_hit_by_a_blast_of_winter_weather_overnight/",
+          "source": "KelownaNow"
+        },
+        {
+          "title": "PHOTOS: Big White covered in snow a month before opening day",
+          "url": "https://kelownacapnews.com/2026/10/27/photos-big-white-covered-in-snow-a-month-before-opening-day/",
+          "source": "Kelowna Capital News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "playstation plus games",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Thu, 29 Oct 2026 09:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2",
+          "url": "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2/",
+          "source": "PlayStation.Blog"
+        },
+        {
+          "title": "November’s three ‘free’ PS Plus Essential monthly games include Dead Island 2 and Tomb Raider 4-6 Remastered",
+          "url": "https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/",
+          "source": "Video Games Chronicle"
+        },
+        {
+          "title": "3 Titles Including Tomb Raider IV-VI Remastered Join PlayStation Plus Monthly Games for November 2026!",
+          "url": "https://saiganak.com/news/ps-plus-freeplay-addition-nov2026/",
+          "source": "Saiga NAK"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from blog.playstation.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "vienna open",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Daniil Medvedev punches and slaps Vienna Open court in unusual outburst",
+          "url": "https://www.aol.co.uk/articles/daniil-medvedev-punches-slaps-vienna-152800000.html",
+          "source": "AOL.com"
+        },
+        {
+          "title": "Video – Medvedev Punches the Ground, Then Mocks ATP Fines",
+          "url": "https://en.tennistemple.com/actu/video-medvedev-punches-the-ground-then-mocks-atp/G6i0",
+          "source": "TennisTemple"
+        },
+        {
+          "title": "Daniil Medvedev aggressively punches the Vienna Open courts in bizarre reaction",
+          "url": "https://tennisuptodate.com/atp/daniil-medvedev-aggressively-punches-the-vienna-open-courts-in-bizarre-reaction",
+          "source": "Tennisuptodate.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"court\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "dream vs valkyries",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 29 Oct 2026 09:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Golden State Valkyries v Atlanta Dream: WNBA finals 2026 Game 6 – live",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/29/golden-state-valkyries-v-atlanta-dream-wnba-finals-2026-game-6-live-buildup",
+          "source": "The Guardian"
+        },
+        {
+          "title": "WNBA Finals: Game 6 live on Sky Sports, Thursday at 4.30pm as Golden State Valkyries vs Atlanta Dream makes history",
+          "url": "https://www.skysports.com/more-sports/basketball/news/13605210/wnba-finals-game-6-live-on-sky-sports-thursday-at-4-30pm-as-golden-state-valkyries-vs-atlanta-dream-makes-history",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "The NBA wants the WNBA to grow. This Finals scheduling blunder won’t help",
+          "url": "https://www.nytimes.com/athletic/7730266/2026/10/28/wnba-finals-game-6-start-time-nba/",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "afg vs zim",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 29 Oct 2026 07:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Afghanistan v Zimbabwe - Afghanistan v Zimbabwe in UAE 2026, 1st T20I - Cricket Score Centre - Live Cricket Scores",
+          "url": "https://www.abc.net.au/news/sport/score-centre/cricket/2026-10-27/afg-zim/69054",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Recent Match Report - Afghanistan vs Zimbabwe 1st T20I 2026 | cricinfo.com",
+          "url": "https://www.espn.com.au/cricket/series/24799/report/1555120/afghanistan-vs-zimbabwe-1st-t20i-24799",
+          "source": "ESPN"
+        },
+        {
+          "title": "Rashid, Ahmadzai power Afghanistan to series-opening win",
+          "url": "https://www.cricbuzz.com/cricket-news/140684/rashid-ahmadzai-power-afghanistan-to-series-opening-win",
+          "source": "Cricbuzz"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "dream",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "‘Who are you when you don't have all your achievements?’ A Madison Latina reflects on the American Dream",
+          "url": "https://www.wpr.org/culture/voices-and-dreams-live-madison-liliana",
+          "source": "WPR"
+        },
+        {
+          "title": "Midwest Mujeres Inc.’s annual storytelling event to explore the American Dream",
+          "url": "https://madison365.com/midwest-mujeres-inc-s-annual-storytelling-event-to-explore-the-american-dream/",
+          "source": "Madison365"
+        },
+        {
+          "title": "Rascal Does Not Dream of a Dear Friend Anime Film Debuts Special Footage Video",
+          "url": "https://www.crunchyroll.com/news/latest/2026/10/28/rascal-does-not-dream-of-a-dear-friend-anime-film-special-footage-video",
+          "source": "Crunchyroll"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "college football week 9 upset picks",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "How to bet UGA-Florida, UNC-Miami and other best bets for Week 9",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50310174/college-football-betting-odds-upsets-week-9-best-bets",
+          "source": "ESPN"
+        },
+        {
+          "title": "Ohio State, Georgia among top-25 teams on upset alert in a Week 9 full of intrigue",
+          "url": "https://www.cbssports.com/college-football/news/ohio-state-georgia-top-25-upset-alert-week-9/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Week 9 college football viewer's guide: Will No. 2 Ohio State win with a backup QB at USC?",
+          "url": "https://sports.yahoo.com/college-football/article/week-9-college-football-viewers-guide-will-no-2-ohio-state-win-with-a-backup-qb-at-usc-135540869.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "voting near me",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Here are the 3 constitutional amendments on Virginia’s ballot and what they mean for voters",
+          "url": "https://www.wusa9.com/article/news/politics/elections/virginia-ballot-question-guide-2026/65-c255df1c-9074-4dc6-9da4-f20e1917004e",
+          "source": "WUSA9"
+        },
+        {
+          "title": "What are the 3 constitutional amendments on Virginia ballots? Here’s what you need to know",
+          "url": "https://www.dcnewsnow.com/news/local-news/virginia/what-are-the-3-constitutional-amendments-on-virginia-ballots-heres-what-you-need-to-know/",
+          "source": "DC News Now"
+        },
+        {
+          "title": "Lawsuit challenges Virginia reproductive rights amendment ahead of Election Day",
+          "url": "https://www.wsls.com/news/local/2026/10/26/bedford-legal-challenge-about-virginias-reproductive-rights/",
+          "source": "WSLS"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"election\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "usa network",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 09:40:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Janelle James to Host Critics Choice Awards 2027",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/janelle-james-host-critics-choice-160000039.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Janelle James to Host 2027 Critics Choice Awards",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/janelle-james-2027-critics-choice-awards-host-1236742240/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "Janelle James To Host 32nd Annual Critics Choice Awards",
+          "url": "https://www.criticschoice.com/janelle-james-to-host-32nd-annual-critics-choice-awards/",
+          "source": "The Critics Choice Association"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "최불암",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 09:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "‘국민 아버지’ 배우 최불암 별세",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/30/C4FZLCB77RBDBPTFSNJY4ZGBHY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[속보]배우 최불암 별세…향년 87세",
+          "url": "https://www.munhwa.com/article/11627428",
+          "source": "문화일보"
+        },
+        {
+          "title": "너털웃음 속 ‘시대의 얼굴’…‘국민 아버지’ 배우 최불암 별세",
+          "url": "https://www.koreadaily.com/article/20261029091734398",
+          "source": "미주중앙일보"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "deadpool and wolverine production cost",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 09:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "‘Deadpool & Wolverine’ Busts Budget As Disney Reveals Final Cost",
+          "url": "https://www.forbes.com/sites/carolinereid/2026/10/28/disney-reveals-total-cost-of-deadpool--wolverine-and-admits-it-blew-its-budget/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Disney Stock (NYSE:DIS) Gains Despite True Costs of the Deadpool & Wolverine Movie",
+          "url": "https://www.tipranks.com/news/disney-stock-nysedis-gains-despite-true-costs-of-the-deadpool-wolverine-movie",
+          "source": "TipRanks"
+        },
+        {
+          "title": "Deadpool & Wolverine cost over $500m to make, report reveals",
+          "url": "https://filmstories.co.uk/news/deadpool-wolverine-cost-over-500m-to-make-report-reveals/",
+          "source": "Film Stories"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"movie\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "detective",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "“Up there with Broadchurch”: Blackshore is the “5-star” detective drama to watch tonight",
+          "url": "https://www.goodhousekeeping.com/uk/lifestyle/a74274186/blackshore-bbc-broadchurch/",
+          "source": "Good Housekeeping"
+        },
+        {
+          "title": "Robson Green’s new BBC detective drama The Northumbria Mysteries – here's five things to know",
+          "url": "https://www.independent.co.uk/bulletin/culture/robson-green-new-detective-drama-northumbria-mysteries-bbc-b3073698.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "TV tonight: Robson Green stars in a rural culture-clash cosy crime drama",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/tv-tonight-robson-green-stars-in-a-rural-culture-clash-cosy-drama",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "moonrise today",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 09:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "The Hunger Games of Karwa Chauth",
+          "url": "https://www.newindianexpress.com/cities/delhi/2026/Oct/29/the-hunger-games-of-karwa-chauth",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "India Hindu Festival",
+          "url": "https://www.guardonline.com/news/world/india-hindu-festival/image_3cd18aaa-47d3-577f-a14e-9499e02db97b.html",
+          "source": "The Batesville Daily Guard"
+        },
+        {
+          "title": "Licensable picture: India: Women Do Shopping And Apply Mehndi At Markets Ahead Of Karwa Chauth Festival",
+          "url": "https://www.reutersconnect.com/item/india-women-do-shopping-and-apply-mehndi-at-markets-ahead-of-karwa-chauth-festival/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBMMElaNUM",
+          "source": "Reuters Connect"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "états-unis",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 10:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Démystifier la politique américaine | Et si les démocrates avaient été majoritaires ?",
+          "url": "https://www.lapresse.ca/international/etats-unis/2026-10-29/demystifier-la-politique-americaine/et-si-les-democrates-avaient-ete-majoritaires.php",
+          "source": "La Presse"
+        },
+        {
+          "title": "Élections de mi-mandat américaines | À l'approche du scrutin, les républicains changent leur fusil d'épaule",
+          "url": "https://www.985fm.ca/audio/811759/a-l-approche-du-scrutin-les-republicains-changent-leur-fusil-d-epaule",
+          "source": "98.5 Montréal"
+        },
+        {
+          "title": "EN DIRECT, midterms 2026 : après l’Ohio, Donald Trump doit se rendre en Caroline du Sud jeudi soir pour soutenir la candidature de la sénatrice Darline Graham",
+          "url": "https://www.lemonde.fr/international/live/2026/10/29/en-direct-midterms-2026-apres-l-ohio-donald-trump-doit-se-rendre-en-caroline-du-sud-jeudi-soir-pour-soutenir-la-candidature-de-la-senatrice-darline-graham_6801590_3210.html",
+          "source": "Le Monde.fr"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "marques ackerman",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 29 Oct 2026 06:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "‘What are you doing?’: Marnus in stump mic moment as Aussies take control",
+          "url": "https://www.nine.com.au/sport/cricket/australia-south-africa-third-test-day-three-2026-marnus-labuschagne-mic-moment-marques-ackerman-dismissal-20261030-p619vj.html",
+          "source": "Nine.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "mama bear curry barker",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "‘Obsession’ Director Curry Barker Debuts Shocking New Short Film ‘Mama Bear,’ Just in Time for Halloween",
+          "url": "https://variety.com/2026/film/news/curry-barker-mama-bear-short-film-obsession-1236932639/",
+          "source": "Variety"
+        },
+        {
+          "title": "OBSESSION Director Curry Barker Is Back Just In Time For Halloween",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/obsession-director-curry-barker-back-155640538.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "‘Mama Bear’ – Watch Curry Barker’s Brand New Horror Short",
+          "url": "https://bloody-disgusting.com/movie/3973905/mama-bear-watch-curry-barkers-brand-new-horror-short/",
+          "source": "Bloody Disgusting"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "mlb trade rumors",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 09:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Key dates for the Pirates’ offseason — and the impact the MLB lockout will have",
+          "url": "https://www.post-gazette.com/sports/pirates/2026/10/29/pirates-offseason-dates/stories/202610280019",
+          "source": "Pittsburgh Post-Gazette"
+        },
+        {
+          "title": "Ranking the top 50 MLB free agents for the 2026-27 offseason, plus landing spots for every player",
+          "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-2026-27-ranking-top-50-landing-spots/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "MLB Free Agent Rankings 2026-27: Tarik Skubal, Freddy Peralta, Teruaki Sato headline this offseason's Top 100",
+          "url": "https://www.nbcsports.com/fantasy/baseball/news/mlb-free-agent-rankings-2026-27-tarik-skubal-freddy-peralta-teruaki-sato-headline-this-offseasons-top-100",
+          "source": "NBC Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"mlb\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "frosinone vs lecce",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Frosinone vs Lecce: Italian Serie A stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/crvg9x81we9lt",
+          "source": "BBC"
+        },
+        {
+          "title": "October 29, 2026: Frosinone vs Lecce: First Half Winner Soccer Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/soccer/events/frosinone-vs-lecce-first-half-winner-oct-29-2026/",
+          "source": "Robinhood"
+        },
+        {
+          "title": "Frosinone v Lecce Odds",
+          "url": "https://sportsbook.fanduel.com/soccer/italian-serie-a/frosinone-v-lecce-36221223",
+          "source": "FanDuel Sportsbook"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "gabriel gudmundsson",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Premier League panel cast vote on two Leeds United vs Man Utd incidents including Gudmundsson red card claims",
+          "url": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-manchester-united-premier-league-panel-gabriel-gudmundsson-red-card-penalty-9314265",
+          "source": "Yorkshire Evening Post"
+        },
+        {
+          "title": "Premier League Panel Verdict On Leeds Red Card Call vs Man Utd Revealed",
+          "url": "https://www.givemesport.com/premier-league-leeds-man-utd-gudmundsson/",
+          "source": "GiveMeSport"
+        },
+        {
+          "title": "Premier League panel delivers verdict on Gabriel Gudmundsson controversy in Leeds vs Man United",
+          "url": "https://motleedsnews.com/match/premier-league-panel-delivers-verdict-on-gabriel-gudmundsson-controversy-in-leeds-vs-man-united",
+          "source": "MOT Leeds News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"verdict\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "south wales argus",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Monmouthshire food businesses among Wales’ best rated for food hygiene",
+          "url": "https://www.freepressseries.co.uk/news/26677362.monmouthshire-wales-best-food-hygiene-ratings/",
+          "source": "Free Press Series"
+        },
+        {
+          "title": "Food businesses in one area have lowest hygiene ratings in Wales",
+          "url": "https://www.southwalesargus.co.uk/news/26677352.blaenau-gwent-wales-highest-share-low-food-ratings/",
+          "source": "South Wales Argus"
+        },
+        {
+          "title": "'Genuine, caring and kind' dad dies in crash",
+          "url": "https://www.walesonline.co.uk/news/wales-news/genuine-caring-kind-dad-dies-34835174",
+          "source": "Wales Online"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"crash\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "piracy off the coast of somalia",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "‘If you don’t stop, they’ll kill all of us’: Somali pirates are back with a vengeance",
+          "url": "https://www.cnn.com/2026/10/29/business/somali-pirates-iran-war-honour-25",
+          "source": "CNN"
+        },
+        {
+          "title": "Piracy at its lowest level since 1992, but attacks are on the rise again in Somalia",
+          "url": "https://www.adriaports.com/en/news-en/piracy-at-its-lowest-level-since-1992-but-attacks-are-on-the-rise-again-in-somalia/",
+          "source": "AdriaPorts"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "oil rig worker weight loss",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 09:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Offshore workers turn to weight-loss jabs to meet helicopter weight rules",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqgx8w0537o",
+          "source": "BBC"
+        },
+        {
+          "title": "Overweight offshore workers turn to weight loss jabs to avoid losing their jobs under new rules",
+          "url": "https://www.independent.co.uk/news/uk/home-news/offshore-workers-weight-loss-north-sea-b3075872.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Overweight offshore workers could lose their jobs under new rules, industry body OEUK warns",
+          "url": "https://news.sky.com/story/overweight-offshore-workers-could-lose-their-jobs-under-new-rules-industry-body-oeuk-warns-13605340",
+          "source": "Sky News"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "arthur kaliyev",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Wild Organization Adds Former Second-Round Pick Coming Off 40-Goal AHL Season",
+          "url": "https://thehockeynews.com/nhl/minnesota-wild/latest-news/wild-organization-adds-former-second-round-pick-coming-off-40-goal-ahl-season",
+          "source": "The Hockey News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "internet invitational",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Why Barstool’s latest golf swing is about much more than virality",
+          "url": "https://golf.com/news/internet-invitational-glimpse-golf-tv-watching-future/",
+          "source": "GOLF.com"
+        },
+        {
+          "title": "Heated Exchange at 2026 Internet Invitational Has Fans Piling On Newest Villain",
+          "url": "https://heavy.com/sports/golf/heated-exchange-2026-internet-invitational-newest-villain/",
+          "source": "Heavy.com"
+        },
+        {
+          "title": "Emotional tribute paid to Barstool employee who died at 31 as Dave Portnoy makes touching gesture",
+          "url": "https://www.aol.com/articles/emotional-tribute-paid-barstool-employee-142411000.html",
+          "source": "AOL.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"died\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "denis shapovalov",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Denis Shapovalov reels off 5 straight wins to clinch 1st-round victory at Swiss Indoors tourney",
+          "url": "https://www.cbc.ca/lite/story/9.7399829",
+          "source": "CBC"
+        },
+        {
+          "title": "Shapovalov moves on to second round at Swiss Indoors",
+          "url": "https://www.theglobeandmail.com/sports/tennis/article-shapovalov-moves-on-to-second-round-at-swiss-indoors/",
+          "source": "The Globe and Mail"
+        },
+        {
+          "title": "Highlights: Shapovalov breezes past Bertola in Basel 2026",
+          "url": "https://www.atptour.com/en/video/highlights-shapovalov-breezes-past-bertola-in-basel-2026",
+          "source": "ATP Tour"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "aiden pleterski",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "‘Crypto King’ Aiden Pleterski found guilty of fraud at his jury trial in Toronto",
+          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-verdict-9.7401214",
+          "source": "CBC"
+        },
+        {
+          "title": "What the jury didn’t hear at trial of Ontario ‘Crypto King’",
+          "url": "https://www.thestar.com/news/gta/what-the-jury-didn-t-hear-at-the-crypto-king-trial-why-he-didn-t-have-a-lawyer-and-why-the-judge-said-i-am-not-fooled/article_025abcdd-0ed0-4368-a4d6-b02bb177fb10.html",
+          "source": "Toronto Star"
+        },
+        {
+          "title": "Ontario ‘Crypto king’ is found guilty of fraud. Jury takes just hour and a half to reach verdict",
+          "url": "https://www.thespec.com/news/ontario/ontario-crypto-king-is-found-guilty-of-fraud-jury-takes-just-an-hour-and-a-half-to-reach-verdict/article_4f3a13f9-aa3f-53c9-b999-82ba516b5312.html",
+          "source": "The Spec"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "cappadocia",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3",
+          "url": "https://www.cnn.com/2026/10/29/world/rock-collapse-turkeys-touristic-latam-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+          "url": "https://www.bbc.com/news/articles/cknv08nvzld4o",
+          "source": "BBC"
+        },
+        {
+          "title": "Fairy chimney rockfall kills two at Turkey's Cappadocia tourist attraction after heavy rain",
+          "url": "https://www.reuters.com/business/environment/fairy-chimney-rockfall-kills-two-turkeys-cappadocia-tourist-attraction-after-2026-10-29/",
+          "source": "Reuters"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "hilary duff",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 08:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Hilary Duff’s Custom Paul Aaron Micro Minidress Is All Cutouts & Fringe",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/hilary-duff-custom-paul-aaron-092625697.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Hilary Duff teases fans in barely-there dress made ONLY of glow-in-the-dark stars",
+          "url": "https://www.the-sun.com/entertainment/17225391/hilary-duff-star-dress-dancing-video/",
+          "source": "The Sun"
+        },
+        {
+          "title": "Hilary Duff’s Completely See-Through Micro Minidress Glows in the Dark",
+          "url": "https://www.thefashionspot.com/fashion-news/980175-hilary-duff-see-through-micro-minidress-glow-in-the-dark",
+          "source": "theFashionSpot"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "moon",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 05:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Spectacular Rocket Launch: The MMX Mission to Phobos is Underway!",
+          "url": "https://www.yahoo.com/news/videos/spectacular-rocket-launch-mmx-mission-160000679.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Japan sets off to bring back a piece of a martian moon",
+          "url": "https://timesfreepress.com/news/2026/oct/25/japan-sets-off-to-bring-back-a-piece-of-a-martian/",
+          "source": "Chattanooga Times Free Press"
+        },
+        {
+          "title": "ATLANTIC SKIES: What mysteries will a new mission to the Mars moons reveal?",
+          "url": "https://www.saltwire.com/newfoundland-labrador/atlantic-skies-mars-moon-mission",
+          "source": "PNI Atlantic News"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.75,
+      "printable": true,
+      "reasons": [
+        "Matches print-on-demand vocabulary (\"moon\")."
+      ]
+    },
+    {
+      "title": "lily allen",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 29 Oct 2026 04:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "“A lesson to all musicians”: Lily Allen amazes at TikTok Entertainment Centre",
+          "url": "https://www.abc.net.au/triplej/news/lily-allen-west-end-girl-tour-review-2026/107324358",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "‘F**k you, David’: Lily Allen hits Melbourne with pure theatrical revenge",
+          "url": "https://www.heraldsun.com.au/entertainment/confidential/f-you-david-lily-allen-lays-bare-marriage-breakdown-at-rod-laver-arena/news-story/c11f0cd0df21af1aafc3bedb9882a299",
+          "source": "Herald Sun"
+        },
+        {
+          "title": "Lily Allen’s West End Girl could have been ‘excitingly different’. But it’s lost in an arena",
+          "url": "https://www.smh.com.au/culture/live-reviews/lost-in-the-arena-lily-allen-s-intimate-theatrical-drama-falls-flat-plus-other-big-shows-this-week-20261026-p618kw.html",
+          "source": "SMH.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "최불암",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 29 Oct 2026 10:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "‘국민 아버지’ 배우 최불암 별세",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/30/C4FZLCB77RBDBPTFSNJY4ZGBHY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "아버지 여읜 뒤 얻은 이름 ‘불암’…연기로 부성애 배웠다",
+          "url": "https://www.koreadaily.com/article/20261029093703657",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "'영원한 수사반장' 최불암 별세‥향년 87세",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861809_36918.html",
+          "source": "MBC 뉴스"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "skeleton",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Make no bones about it, the giant skeleton has become an American Halloween fixture",
+          "url": "https://www.thespec.com/life/make-no-bones-about-it-the-giant-skeleton-has-become-an-american-halloween-fixture/article_a38fc73c-b80b-5968-b4a2-9d33a083cb65.html",
+          "source": "The Spec"
+        },
+        {
+          "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+          "url": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "America 250 Objects Giant Skeleton",
+          "url": "https://www.timesargus.com/news/national/america-250-objects-giant-skeleton/image_2c8187ed-990c-5543-a015-55bf3bd21ca3.html",
+          "source": "Times Argus"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"fixture\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "wnba",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "WNBA Finals live: Valkyries-Dream Game 6 analysis, updates and highlights",
+          "url": "https://www.espn.com.au/wnba/story/_/id/50310203/2026-wnba-finals-valkyries-dream-game-6-live-updates",
+          "source": "ESPN"
+        },
+        {
+          "title": "Golden State Valkyries v Atlanta Dream: WNBA finals 2026 Game 6 – live",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/29/golden-state-valkyries-v-atlanta-dream-wnba-finals-2026-game-6-live-buildup",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Embarrassing scenario highlights shocking reality for women’s sports",
+          "url": "https://www.nine.com.au/sport/basketball/wnba-finals-series-schedule-conflict-atlanta-dream-statement-embarrassing-realia-opinion-20261029-p619hb.html",
+          "source": "Nine.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "carlos alcaraz",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 29 Oct 2026 09:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Nikoloz Basilashvili beats home hope Jurij Rodionov in Vienna to set up Alcaraz clash",
+          "url": "https://www.thechronicle.com.au/sport/nikoloz-basilashvili-beats-home-hope-jurij-rodionov-in-vienna-to-set-up-alcaraz-clash/video/8e1e9393e96ee14a2a8b3a971a5fcbca",
+          "source": "Toowoomba Chronicle"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "haval h7",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 29 Oct 2026 07:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "2027 GWM Haval H7 price and specs: Boxy new-generation PHEV, hybrid SUV reaches showrooms",
+          "url": "https://www.carexpert.com.au/car-news/2027-gwm-haval-h7-price-and-specs-boxy-new-generation-phev-hybrid-suv-reaches-showrooms",
+          "source": "CarExpert"
+        },
+        {
+          "title": "Sharp price for Haval's new rugged SUV",
+          "url": "https://www.canberratimes.com.au/story/9382686/sharp-price-for-havals-new-rugged-suv/",
+          "source": "The Canberra Times"
+        },
+        {
+          "title": "GWM rival to RAV4 replaced after just over 12 months in Australia",
+          "url": "https://www.drive.com.au/news/2027-gwm-haval-h7-price-and-specs-boxy-hybrid-and-plug-in-hybrid-suv-arrives/",
+          "source": "Drive"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "george michael",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 29 Oct 2026 03:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "George Michael at His Eighties Pop Peak: See Photos From ‘The Faith Tour’",
+          "url": "https://www.rollingstone.com/music/music-pictures/george-michael-faith-tour-documentary-photos-1235597764/",
+          "source": "Rolling Stone"
+        },
+        {
+          "title": "The ‘sexy power’ of George Michael’s Faith-era look",
+          "url": "https://www.ft.com/content/607114b0-8999-4b43-9605-4144048b12cc",
+          "source": "Financial Times"
+        },
+        {
+          "title": "George Michael unseen: backstage on the tour that changed pop",
+          "url": "https://www.thetimes.com/culture/music/article/george-michael-faith-behind-the-scenes-tf60v058c",
+          "source": "The Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"tour\" — commonly a protected mark or event name."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-10-29",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Celestial / tarot",
+      "motifs": [
+        "moon phases",
+        "hand-drawn tarot suit",
+        "constellation map"
+      ],
+      "suggestedProducts": [
+        "poster",
+        "graphic tee",
+        "sticker"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Plant parent",
+      "motifs": [
+        "single-line monstera",
+        "propagation station",
+        "terracotta row"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [
+      {
+        "topic": "moon",
+        "geo": "AU",
+        "traffic": "200+",
+        "trademarkRisk": "low",
+        "caution": "Verify trademark/likeness clearance before printing anything tied to a trending topic."
+      }
+    ],
+    "timelyHookNote": "1 trending topic(s) passed filtering. Still verify clearance yourself."
+  }
+}
