@@ -1,0 +1,1303 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T15:57:16.880Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "michigan vs rutgers",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Sat, 31 Oct 2026 08:20:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Game Thread: Michigan Football at Rutgers",
+          "url": "https://sports.yahoo.com/articles/game-thread-michigan-football-rutgers-153000227.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Michigan injury report: Several defensive starters game-time decisions",
+          "url": "https://www.detroitnews.com/story/sports/college/university-michigan/2026/10/31/michigan-injury-report-several-defensive-starters-game-time-decisions/92533299007/",
+          "source": "The Detroit News"
+        },
+        {
+          "title": "How to Watch Michigan vs. Rutgers: TV Channel, Live Stream, Time",
+          "url": "https://www.foxsports.com/stories/college-football/how-to-watch-michigan-vs-rutgers-tv-channel-live-stream-time-oct-31-2026",
+          "source": "FOX Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "josh jacobs",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Multiple other women accused Jacobs of abuse, according to newly-released records",
+          "url": "https://www.nbc26.com/sports/nfl/green-bay-packers/some-josh-jacobs-files-released-video-withheld",
+          "source": "NBC26"
+        },
+        {
+          "title": "Records show other women contacted police about previous incidents with Packers’ Josh Jacobs after his arrest",
+          "url": "https://www.nfl.com/news/records-show-other-women-contacted-police-about-previous-incidents-with-packers-josh-jacobs-after-his-arrest",
+          "source": "NFL.com"
+        },
+        {
+          "title": "After Josh Jacobs was arrested, three other women told police he had abused them, too",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-josh-jacobs-was-arrested-three-other-women-told-police-he-had-abused-them-too",
+          "source": "NBC Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nfl.com — league/studio/label IP very likely.",
+        "Reads as news/current affairs (\"arrested\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "illinois vs maryland",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Maryland football vs. Illinois game thread: updates, highlights & more",
+          "url": "https://sports.yahoo.com/articles/maryland-football-vs-illinois-game-153052679.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Can't Wait For Saturday | My guess: Illini will take third straight ... barely",
+          "url": "https://www.news-gazette.com/sports/cant-wait-for-saturday-my-guess-illini-will-take-third-straight-barely/article_ba334618-f8b3-451f-bd3d-c6fd2166d2d3.html",
+          "source": "The News-Gazette"
+        },
+        {
+          "title": "Will the new-coach sugar high lift Maryland past Illinois? Six predictions for Saturday",
+          "url": "https://247sports.com/college/maryland/article/will-the-new-coach-sugar-high-lift-maryland-past-illinois-six-predictions-for-saturday-291946391/",
+          "source": "247Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "chelsea f.c. vs manchester united f.c. standings",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 31 Oct 2026 07:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Chelsea 2-0 Manchester United: Premier League – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Pressure piles on Michael Carrick as 10-man Man United lose at Chelsea",
+          "url": "https://www.espn.com/soccer/story/_/id/50335664/pressure-piles-michael-carrick-10-man-man-united-lose-chelsea-report",
+          "source": "ESPN"
+        },
+        {
+          "title": "Chelsea v Man Utd player ratings: Rogers and Palmer make the difference - how did Martinez rate?",
+          "url": "https://www.bbc.com/sport/football/articles/c3j47prvlz04o",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "california vs nc state",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Cal vs. NC State Thread: Golden Bears Seeking to Halt 2-Game Skid",
+          "url": "https://www.si.com/college/cal/football/cal-vs-nc-state-thread-bears-hope-to-halt-2-game-skid-01m685tqnsyh",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Let’s have a warm welcome for our brothers in football despair, the Cal Bears",
+          "url": "https://www.backingthepack.com/nc-state-football/42041/lets-have-a-warm-welcome-for-our-brothers-in-football-despair-the-cal-bears",
+          "source": "Backing The Pack"
+        },
+        {
+          "title": "Weekly Writer Predictions: Cal vs. NC State Football 2026",
+          "url": "https://writeforcalifornia.com/p/weekly-writer-predictions-cal-nc-state",
+          "source": "Write For California"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "boston college vs duke",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "The Boston College running game broke out last week, but up next is Duke, ‘one of the best defenses in the country’",
+          "url": "https://www.bostonglobe.com/2026/10/30/sports/boston-college-duke-football-preview/",
+          "source": "The Boston Globe"
+        },
+        {
+          "title": "Gamethread: Boston College vs Duke",
+          "url": "https://sports.yahoo.com/articles/gamethread-boston-college-vs-duke-151055812.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Preview & Predictions: Boston College vs. Duke",
+          "url": "https://247sports.com/college/boston-college/longformarticle/preview-predictions-boston-college-vs-duke-291935566/",
+          "source": "247Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "bowling green vs wmu",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Week 9 game day preview: BGSU football at Western Michigan",
+          "url": "https://www.toledoblade.com/sports/bgsu/2026/10/31/2026-week-9-game-day-preview-bgsu-football-western-michigan/stories/20261029105",
+          "source": "Toledo Blade"
+        },
+        {
+          "title": "Bowling Green vs Western Michigan Prediction, Pick, NCAAF Odds for Saturday, Oct. 31",
+          "url": "https://www.actionnetwork.com/ncaaf/bowling-green-falcons-vs-western-michigan-broncos-prediction-pick-odds-ncaaf-saturday-oct-31",
+          "source": "Action Network"
+        },
+        {
+          "title": "Bowling Green vs. Western Michigan: Week 9 Betting Odds, Prediction",
+          "url": "https://collegesportswire.usatoday.com/story/sports/college/college-football/2026/10/31/bowling-green-western-michigan-week-9-betting-odds-prediction/92464179007/",
+          "source": "College Sports Wire"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "uab vs south florida",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "UAB vs. USF: Week 9 Betting Odds, Prediction",
+          "url": "https://collegesportswire.usatoday.com/story/sports/college/college-football/2026/10/31/uab-usf-week-9-betting-odds-prediction/92463900007/",
+          "source": "College Sports Wire"
+        },
+        {
+          "title": "Alabama-Birmingham at South Florida - Where to Watch, Stream Info, TV Channel, and Live Updates (October 31, 2026)",
+          "url": "https://www.fubo.tv/news/ncaaf/alabama-birmingham-at-south-florida-where-to-watch-stream-info-tv-channel-and-live-updates-october-31-2026/",
+          "source": "Fubo"
+        },
+        {
+          "title": "Scouting report: What you need to know for UAB’s game at South Florida",
+          "url": "https://www.al.com/sports/2026/10/scouting-report-what-you-need-to-know-for-uabs-game-at-south-florida.html",
+          "source": "AL.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "man city vs brighton",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 31 Oct 2026 07:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Manchester City v Brighton, Bournemouth v Leeds, and more: clockwatch - live",
+          "url": "https://www.theguardian.com/football/live/2026/oct/31/manchester-city-v-brighton-bournemouth-v-leeds-and-more-clockwatch-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Premier League live as Man City face Brighton, Chelsea strike after red card",
+          "url": "https://onefootball.com/en/news/premier-league-live-as-man-city-face-brighton-chelsea-strike-after-red-card-43703017",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Chelsea v Man Utd player ratings: Rogers and Palmer make the difference - how did Martinez rate?",
+          "url": "https://www.bbc.com/sport/football/articles/c3j47prvlz04o",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"strike\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "coventry vs sunderland",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 31 Oct 2026 07:50:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Chelsea vs. Man Utd (Oct 31, 2026) Team Stats",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879248",
+          "source": "ESPN"
+        },
+        {
+          "title": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
+          "url": "https://www.espn.co.uk/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real",
+          "source": "ESPN"
+        },
+        {
+          "title": "Chelsea 2-0 Man Utd (Oct 31, 2026) Player Stats",
+          "url": "https://www.espn.com/soccer/player-stats/_/gameId/401879248",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "thomas castellanos",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Sources - Texas Tech to use Castellanos, Hammond vs. Arizona",
+          "url": "https://www.espn.com/college-football/story/_/id/50328498/sources-texas-tech-use-castellanos-hammond-vs-arizona",
+          "source": "ESPN"
+        },
+        {
+          "title": "Could WVU See a New QB When They Play Texas Tech Next Week?",
+          "url": "https://www.si.com/college/westvirginia/football/could-wvu-see-a-new-qb-when-they-play-texas-tech-next-week",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Texas Tech football to start Thomas Castellanos at QB against Arizona",
+          "url": "https://www.lubbockonline.com/story/sports/college/red-raiders/2026/10/31/texas-tech-football-thomas-castellanos/92533592007/",
+          "source": "Lubbock Avalanche-Journal"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "sunset",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Opinion | Why daylight saving time should be eliminated entirely",
+          "url": "https://www.washingtonpost.com/opinions/2026/10/31/daylight-saving-time-is-bad-your-health-here-better-option/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Springfield police share safety tips as clocks fall back",
+          "url": "https://www.wwlp.com/news/local-news/hampden-county/springfield-police-share-safety-tips-as-clocks-fall-back/",
+          "source": "WWLP"
+        },
+        {
+          "title": "Daylight saving time 2026 ends tonight. Here's what time the clocks change and more key details.",
+          "url": "https://www.cbsnews.com/news/daylight-savings-time-ends-2026/",
+          "source": "CBS News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "france internet tax",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 31 Oct 2026 08:20:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "France's lower house narrowly votes a 5.5-cent-per-gigabyte tax on Netflix, Google and other content providers",
+          "url": "https://app.dealroom.co/news/note/france-s-lower-house-narrowly-votes-a-5-5-cent-per-gigabyte-tax-on-netflix-google-and-other-content-providers",
+          "source": "Dealroom"
+        },
+        {
+          "title": "French MPs Back a Google, Netflix Data Tax Pitched at €10B",
+          "url": "https://fourweekmba.com/ai-french-mps-back-a-google-netflix-data-tax-pitched-at-10b/",
+          "source": "FourWeekMBA"
+        },
+        {
+          "title": "France has approved a €0,055 tax on every GB of internet traffic, and downloading GTA 6 may become more expensive.",
+          "url": "https://en.gamegpu.com/news/igry/frantsiya-odobrila-nalog-eur0-055-za-kazhdyj-gb-internet-trafika-i-zagruzka-gta-6-mozhet-podorozhat",
+          "source": "GameGPU"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "levante ud vs atlético madrid standings",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Ratings: Atlético beat Levante to go top of LaLiga (for the moment)",
+          "url": "https://sports.yahoo.com/articles/ratings-atl-tico-beat-levante-152130534.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "A historic night, Simeone: Atletico Madrid light up La Liga and climb to the top",
+          "url": "https://www.goal.com/en/news/a-historic-night-simeone-atletico-madrid-light-up-la-liga-and-climb-to-the-top/bltfbcb0de0c699e643",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Atletico beat Levante to move top above Barcelona",
+          "url": "https://www.thescore.com/news/3640247",
+          "source": "theScore"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "daijohn richards",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Toronto man, 23, identified as suspect in Bridle Path home invasion",
+          "url": "https://www.cbc.ca/news/canada/toronto/bridle-path-neighbourhood-home-invasion-toronto-police-update-9.7404151",
+          "source": "CBC"
+        },
+        {
+          "title": "Police identify suspect in violent Bridle Path home invasion",
+          "url": "https://toronto.citynews.ca/2026/10/31/police-identify-suspect-in-violent-bridle-path-home-invasion/",
+          "source": "CityNews Toronto"
+        },
+        {
+          "title": "Manhunt under way after Toronto CEO and family violently attacked in home invasion",
+          "url": "https://www.bbc.com/news/articles/c6ewepng9ky5o",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "valentin vacherot",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Zverev, Djokovic on course for Paris QF showdown; Turin contenders eye push",
+          "url": "https://www.atptour.com/en/news/paris-2026-draw-preview",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "2026 Edition: Live draw ceremony",
+          "url": "https://www.rolexparismasters.com/en/news/article/2026-edition-live-draw-zverev-alcaraz-french-players",
+          "source": "Rolex Paris Masters"
+        },
+        {
+          "title": "Novak Djokovic's ATP Finals chances handed huge blow as the Paris Masters draw is revealed",
+          "url": "https://tennishead.net/novak-djokovics-atp-finals-chances-handed-huge-blow-as-the-paris-masters-draw-is-revealed/",
+          "source": "Tennishead"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "cornell vs princeton",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Staff Picks: Football vs. Cornell",
+          "url": "https://www.dailyprincetonian.com/article/2026/10/princeton-tigers-football-cornell-big-red-ivy-league-staff-picks-october-2026",
+          "source": "The Daily Princetonian"
+        },
+        {
+          "title": "Cornell football to battle Princeton on the road",
+          "url": "https://607newsnow.com/news/258852-cornell-football-to-battle-princeton-on-the-road/",
+          "source": "607 News Now"
+        },
+        {
+          "title": "Penn Quakers vs Cornell Big Red Prediction, Picks, Prop Bets For November 07, 2026 - NCAAF",
+          "url": "https://www.covers.com/sport/football/ncaaf/matchup/378708/picks",
+          "source": "Covers.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "crewe vs barnet",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Crewe Alexandra vs Barnet: League Two stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/cqn731dmx030t",
+          "source": "BBC"
+        },
+        {
+          "title": "Crewe vs Barnet: Lineups, Prediction, Betting Tips & Odds",
+          "url": "https://www.oddschecker.com/tips/football/english-league-two/cng101-20261031-crewe-vs-barnet-predictions-bet-builder-tips-lineups-odds",
+          "source": "Oddschecker"
+        },
+        {
+          "title": "Crewe Alexandra vs Barnet predictions for Saturday (3pm KO): Tshimanga to fire the promotion chasers",
+          "url": "https://www.squawka.com/en/news/previews/crewe-vs-barnet-predictions-saturday-31-10-2026/",
+          "source": "Squawka"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "millwall fc",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Portsmouth 2-1 Millwall: Portsmouth hit back to edge out Millwall",
+          "url": "https://www.bbc.co.uk/sport/football/live/cwe9lr20jgyvt",
+          "source": "BBC"
+        },
+        {
+          "title": "Neil identifies where Millwall need to improve to turn results around",
+          "url": "https://southwarknews.co.uk/sport/football/millwall/both-boxes-neil-identifies-where-millwall-need-to-improve-to-turn-results-around/",
+          "source": "Southwark News"
+        },
+        {
+          "title": "Mousinho: We Dug In",
+          "url": "https://www.portsmouthfc.co.uk/news/2026/october/24/mousinho--we-dug-in/",
+          "source": "Portsmouth Football Club"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"fc\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "east kilbride vs ross county",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "East Kilbride vs Ross County: Scottish League One stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cxm23rz76j8qt",
+          "source": "BBC"
+        },
+        {
+          "title": "『LIVeSTREAMS』 East Kilbride vs Ross County LIVE STREA.Ms ON 14th. October. 2026",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbGVvZ29hdHMuZ2l0aHViLmlvL2JmLmVkdS91am0ueG1sIi8+PC9rcnBhbm8+&id=video-east-kilbride-vs-ross-county-liv-str-cvrptuz",
+          "source": "Port of Rotterdam"
+        },
+        {
+          "title": "Full back is doing all he can to be noticed",
+          "url": "https://www.ross-shirejournal.co.uk/sport/full-back-is-doing-all-he-can-to-be-noticed-448861/",
+          "source": "Ross-shire Journal"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "evanilson",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "FPL notes: Evanilson, Jackson + Manzambi rested for Gameweek 9",
+          "url": "https://www.fantasyfootballscout.co.uk/2026/10/29/fpl-notes-evanilson-jackson-manzambi-rested-for-gameweek-9/",
+          "source": "Fantasy Football Scout"
+        },
+        {
+          "title": "FPL Price Changes: Rogers, Tavernier, Gabriel and Jackson Rise",
+          "url": "https://www.fantasyfootballfix.com/blog-index/fpl-price-changes-31-oct/",
+          "source": "Fantasy Football Fix"
+        },
+        {
+          "title": "FPL Gameweek 8 Live Transfers and Price Changes",
+          "url": "https://thefalse9.com/2026/10/fpl-gameweek-8-live-transfers-prices-saka-tavernier.html",
+          "source": "The False 9"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "cliftonville vs carrick",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Cliftonville vs Carrick Rangers: Irish Premiership stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/cr86zygqjnxyt",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "tatsuhiro sakamoto",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Frank Lampard on Tatsuhiro Sakamoto stepping up and striving for Premier League football",
+          "url": "https://www.coventrytelegraph.net/sport/football/football-news/frank-lampard-tatsuhiro-sakamoto-stepping-34841836",
+          "source": "Coventry Telegraph"
+        },
+        {
+          "title": "Sakamoto hoping to make Coventry splash in 'best league in the world'",
+          "url": "https://www.eastrennews.co.uk/news/26679019.sakamoto-hoping-make-coventry-splash-best-league-world/",
+          "source": "East Renfrewshire News"
+        },
+        {
+          "title": "Coventry City favourite on stepping up to the Premier League",
+          "url": "https://www.coventrytelegraph.net/sport/football/football-news/coventry-city-favourite-stepping-up-34832924",
+          "source": "Coventry Telegraph"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"city\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "nffc",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Forest’s Ndoye could miss Brentford game",
+          "url": "https://www.westlondonsport.com/brentford/nottingham-forest-star-could-miss-brentford-game",
+          "source": "West London Sport"
+        },
+        {
+          "title": "Nottingham Forest have a Morgan Gibbs-White problem — and it goes beyond his availability",
+          "url": "https://www.nottinghamforest.news/2026/10/27/nottingham-forest-have-a-morgan-gibbs-white-problem-and-it-goes-beyond-his-availability/",
+          "source": "Nottingham Forest News"
+        },
+        {
+          "title": "Forest misfire but leave Ipswich with point after controversial draw",
+          "url": "https://www.chronicle-tribune.com/sports/wire/forest-misfire-but-leave-ipswich-with-point-after-controversial-draw/article_42b96f2c-10dc-5d53-8807-35eebeb7ea4f.html",
+          "source": "Chronicle-Tribune"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "luke pearce",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Angry referee in row with 'rude' Louis Rees-Zammit after Wales star's wonder try",
+          "url": "https://www.walesonline.co.uk/sport/rugby/rugby-news/angry-referee-row-rude-louis-34843342",
+          "source": "Wales Online"
+        },
+        {
+          "title": "Watch: Ref lays down law at ‘rude’ LRZ",
+          "url": "https://www.sarugbymag.co.za/watch-ref-lays-law-rude-lrz/",
+          "source": "SA Rugby magazine"
+        },
+        {
+          "title": "\"Don't speak to me like that\" – Luke Pearce clashes with Louis Rees-Zammit",
+          "url": "https://www.ruck.co.uk/rugby-news/dont-speak-to-me-like-that-luke-pearce-clashes-with-louis-rees-zammit",
+          "source": "Ruck.co.uk"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "fenerbahçe vs göztepe",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Dirk Kuyt'tan Greenwood açıklaması: 'Grip olduğu için oynayamayacak'",
+          "url": "https://www.yenicaggazetesi.com/dirk-kuyttan-greenwood-aciklamasi-grip-oldugu-icin-oynayamayacak-1086891h.htm",
+          "source": "Yeniçağ Gazetesi"
+        },
+        {
+          "title": "[[Canlı-Yayın!] FB Göztepe Canlı Ücretsiz Şampiyonlar Ligi Maçı TV'de 09 Eylül 2026",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbGVvZ29hdHMuZ2l0aHViLmlvL2JmLmVkdS91am0ueG1sIi8+PC9rcnBhbm8+&id=video-fb-goztepe-liv-str-dmgchvj",
+          "source": "Port of Rotterdam"
+        },
+        {
+          "title": "Fenerbahçe-Göztepe sakat ve cezalılar kimler? Nathan Ake ve Asensio oynayacak mı?",
+          "url": "https://www.fotomac.com.tr/ingilterepremierlig/2026/10/31/fenerbahce-goztepe-macinda-sakat-ve-cezali-oyuncular-kimler",
+          "source": "Fotomaç"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "josh jacobs",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Multiple other women accused Jacobs of abuse, according to newly-released records",
+          "url": "https://www.nbc26.com/sports/nfl/green-bay-packers/some-josh-jacobs-files-released-video-withheld",
+          "source": "NBC26"
+        },
+        {
+          "title": "Records show 3 other women accused Packers' Josh Jacobs of abuse after arrest",
+          "url": "https://www.espn.com/nfl/story/_/id/50333636/records-show-3-other-women-accused-packers-josh-jacobs-abuse",
+          "source": "ESPN"
+        },
+        {
+          "title": "After Josh Jacobs was arrested, three other women told police he had abused them, too",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-josh-jacobs-was-arrested-three-other-women-told-police-he-had-abused-them-too",
+          "source": "NBC Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Reads as news/current affairs (\"arrested\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "jonas brothers",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Nick Jonas Says Former Disney CEO Bob Iger ‘Was Among the First to Reach Out’ When the Jonas Brothers Reunited in 2019",
+          "url": "https://people.com/nick-jonas-says-former-disney-ceo-bob-iger-among-first-to-reach-out-jonas-brothers-reunion-12202749",
+          "source": "People.com"
+        },
+        {
+          "title": "2026 PAC NYC Icons of Culture Gala",
+          "url": "https://www.bdtonline.com/news/nation_world/2026-pac-nyc-icons-of-culture-gala/image_f886291d-bf3d-5f7f-8639-621035a7f3bc.html",
+          "source": "Bluefield Daily Telegraph"
+        },
+        {
+          "title": "Nick Jonas Credits Bob Iger for Jonas Brothers’ Comeback at NYC Gala",
+          "url": "https://www.jubileecast.com/articles/40710/20261031/nick-jonas-credits-bob-iger-jonas-brothers-comeback-pac-nyc-gala.htm",
+          "source": "JubileeCast"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "valentin vacherot",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Fritz advances to Basel SFs after his Live Race rival Fils retires",
+          "url": "https://www.atptour.com/en/news/fils-fritz-basel-2026-friday",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Fils reveals the extent of his injury: Doubt for the ATP Finals?",
+          "url": "https://www.puntodebreak.com/en/2026/10/30/fils-reveals-the-extent-of-his-injury-doubt-for-the-atp-finals",
+          "source": "Punto de Break"
+        },
+        {
+          "title": "Basel QF previews and predictions: Fils vs. Fritz, Vacherot vs. Rune",
+          "url": "https://tenngrand.com/basel-tennis-previews-picks-predictions-fils-vs-fritz-vacherot-vs-rune/",
+          "source": "The Grandstand"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "alcaraz",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Hot Shot: A touch of genius from Alcaraz at the net in Vienna 2026",
+          "url": "https://www.atptour.com/en/video/hot-shot-a-touch-of-genius-from-alcaraz-at-the-net-in-vienna-2026",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Carlos Alcaraz admits what he sometimes really struggles with when playing matches, ‘I wouldn’t say it’s my best skill’",
+          "url": "https://sports.yahoo.com/articles/carlos-alcaraz-admits-sometimes-really-150000875.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Vienna Open 2026: Results, Draw, Entry List, Prize Money and History",
+          "url": "https://tennisuptodate.com/atp/vienna-open-2026-results-draw-entry-list-prize-money-and-history",
+          "source": "Tennisuptodate.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "hull vs ipswich town",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Hull City vs Ipswich LIVE! Premier League match updates, news and score",
+          "url": "https://www.skysports.com/football/live-blog/13604902/hull-city-vs-ipswich-live-premier-league-match-updates-news-and-score",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Who is the man in the middle for Town's trip to Hull City tomorrow?",
+          "url": "https://www.kingsofanglia.com/news/26681174.hull-city-v-ipswich-town---meet-referee-thomas-kirk/",
+          "source": "https://www.kingsofanglia.com/"
+        },
+        {
+          "title": "Licensable picture: UK: Premier League: Hull City v Ipswich Town",
+          "url": "https://www.reutersconnect.com/item/uk-premier-league-hull-city-v-ipswich-town/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBNR0gySDk",
+          "source": "Reuters Connect"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "fakhar zaman",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 08:00:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Pakistan Tri-Series Cricket",
+          "url": "https://www.goskagit.com/sports/ap/pakistan-tri-series-cricket/image_23937e5f-1ce8-5340-adc8-1fbca4bcfd7c.html",
+          "source": "goSkagit"
+        },
+        {
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+          "url": "https://www.cricbuzz.com/player-match-performance/match/170733/player/10420/bowling",
+          "source": "Cricbuzz"
+        },
+        {
+          "title": "Pakistan Tri-Series Cricket",
+          "url": "https://www.dailyrecordnews.com/ap_news/sports/pakistan-tri-series-cricket/image_4d2d45fd-8d5e-5234-afb7-1f763818c79e.html",
+          "source": "dailyrecordnews.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"score\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "coventry vs sunderland",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 07:50:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Real Sociedad vs. Rayo (Nov 8, 2026) Odds and Spread",
+          "url": "https://www.espn.com/soccer/odds/_/gameId/401882810",
+          "source": "ESPN"
+        },
+        {
+          "title": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
+          "url": "https://www.espn.co.uk/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real",
+          "source": "ESPN"
+        },
+        {
+          "title": "West Ham vs. West Brom (Oct 31, 2026) Team Stats",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401880186/league/eng.2",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "prem",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 31 Oct 2026 07:30:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Prem team news: Fin Smith out injured as Saints make changes for Gloucester",
+          "url": "https://www.bbc.com/sport/rugby-union/articles/cmd7q0z34vqjo",
+          "source": "BBC"
+        },
+        {
+          "title": "Searle makes difference as Leicester battle to Prem top spot at Bristol",
+          "url": "https://www.theguardian.com/sport/2026/oct/30/bristol-exeter-prem-rugby-union-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "【LIVESTREAMS】FREE] Bristol vs Leicester Tigers Live Free soccer League World Cup 30 October 2026",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vbXVzYWRkaWthaC5naXRodWIuaW8vdHJrL3Rya3kvdHJrbC54bWwiLz48L2tycGFubz4=&id=BristolvsLeicesterTigerslive005",
+          "source": "Port of Rotterdam"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "argos",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "CFL East semifinal preview: Argonauts offence faces tough test vs. Blue Bombers",
+          "url": "https://www.sportsnet.ca/cfl/article/cfl-east-semifinal-preview-argonauts-offence-faces-tough-test-vs-blue-bombers/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Halloween Playoff Football: Winnipeg's Redemption",
+          "url": "https://cfl.ca/article/halloween-playoff-football-winnipeg-s-redemption",
+          "source": "CFL"
+        },
+        {
+          "title": "Dru Brown confirmed as Bombers starting QB for East semifinal in Toronto on Saturday",
+          "url": "https://www.cbc.ca/news/canada/manitoba/dru-brown-starting-bombers-playoff-game-9.7403295",
+          "source": "CBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "breeders cup 2026",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "What’s On Track: 43rd Breeders’ Cup World Championships Edition",
+          "url": "https://woodbine.com/woodbine-news/whats-on-track-43rd-breeders-cup-world-championships-edition/",
+          "source": "Woodbine Racetrack"
+        },
+        {
+          "title": "Handle Slightly Down on Five Breeders' Cup Friday Races",
+          "url": "https://www.bloodhorse.com/horse-racing/articles/295725/handle-slightly-down-on-five-breeders-cup-friday-races",
+          "source": "BloodHorse"
+        },
+        {
+          "title": "Betting on the 2026 Breeders' Cup: Favorites, picks for Distaff, Turf, Classic",
+          "url": "https://www.espn.com/horse-racing/story/_/id/50310601/2026-breeders-cup-classic-distaff-turf-odds-bets-picks",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "hull vs ipswich town",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 31 Oct 2026 08:20:00 -0700",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Premier League: Brighton, Coventry, Ipswich, Brentford and Bournemouth all lead",
+          "url": "https://www.bbc.com/sport/football/live/cm2l8lx5k1zvt",
+          "source": "BBC"
+        },
+        {
+          "title": "Why Coventry vs. Sunderland could be turning point in Premier League relegation battle",
+          "url": "https://www.dazn.com/en-CA/news/soccer/coventry-sunderland-premier-league-relegation-battle-turning-point/4ssl0yb60heb1tk614v6yh1zy",
+          "source": "DAZN"
+        },
+        {
+          "title": "‘There’s a new chapter to write’: Le Bris upbeat as Sunderland eye Coventry reunion",
+          "url": "https://www.theguardian.com/football/2026/oct/30/regis-le-bris-sunderland-coventry-reunion",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "west ham vs west brom",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 31 Oct 2026 08:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "West Ham United v West Bromwich Albion: Championship stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cq8jzx1yenr3t",
+          "source": "BBC"
+        },
+        {
+          "title": "Matchday Gallery | Irons take on Baggies at London Stadium",
+          "url": "https://www.whufc.com/en/news/matchday-gallery-or-irons-take-on-baggies-at-london-stadium",
+          "source": "West Ham United"
+        },
+        {
+          "title": "James Morrison | We're going to have to be at our best against West Ham",
+          "url": "https://www.wba.co.uk/news/james-morrison-were-going-have-be-our-best-against-west-ham",
+          "source": "West Bromwich Albion"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from whufc.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "brentford vs nottm forest",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "B'mouth vs Leeds LIVE! Premier League match updates, news and score",
+          "url": "https://www.skysports.com/football/live-blog/13606127/bournemouth-vs-leeds-live-premier-league-match-updates-news-and-score",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Bournemouth vs Leeds United: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cq5ynj2r87rpt",
+          "source": "BBC"
+        },
+        {
+          "title": "Pitted against the Cherries! How to watch Bournemouth vs Leeds United",
+          "url": "https://www.leedsunited.com/en/news/pitted-against-the-cherries-how-to-watch-bournemouth-vs-leeds-united",
+          "source": "Leeds United | Official Website - Leeds United"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0.35,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Matches print-on-demand vocabulary (\"forest\")."
+      ]
+    },
+    {
+      "title": "fpl",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 31 Oct 2026 07:20:00 -0700",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Who is the best FPL captain for Gameweek 9?",
+          "url": "https://www.premierleague.com/en/news/4750462/who-is-the-best-fpl-captain-for-gameweek-9",
+          "source": "Premier League"
+        },
+        {
+          "title": "FPL Gameweek 9 Transfers: 5 Popular Moves Analysed",
+          "url": "https://www.fantasyfootballfix.com/blog-index/fpl-gameweek-9-transfer-trends-2026-27/",
+          "source": "Fantasy Football Fix"
+        },
+        {
+          "title": "Fantasy Premier League: the best team for gameweek nine",
+          "url": "https://www.bbc.com/sport/football/videos/cq8rz8v3yez8o",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from premierleague.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-10-31",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Outdoors / van life",
+      "motifs": [
+        "retro park badge",
+        "mountain line art",
+        "camper silhouette"
+      ],
+      "suggestedProducts": [
+        "graphic tee",
+        "mug",
+        "sticker"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Seasonal spooky",
+      "motifs": [
+        "friendly ghost",
+        "vintage pumpkin label",
+        "black cat crescent"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
