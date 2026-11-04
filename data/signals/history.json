@@ -10162,5 +10162,159 @@
       "printfulBestsellers": 0,
       "etsyNiches": 0
     }
+  },
+  {
+    "date": "2026-11-04",
+    "topTrends": [
+      {
+        "title": "aek vs real madrid",
+        "traffic": 10000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "citi tampa",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "liverpool fixtures",
+        "traffic": 2000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "ftse 100 index",
+        "traffic": 2000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "fenerbahçe vs liverpool",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "aek vs real madrid",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "madrid vs",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "deion sanders",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "trey nyoni",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "meghan, duchess of sussex",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "low"
+      },
+      {
+        "title": "gemini ai",
+        "traffic": 1000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "real madrid game",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "ugo humbert",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "alyce huckstepp",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "kervin arriaga",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "real madrid vs aek",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "bob dylan",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "god of war laufey",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "low"
+      },
+      {
+        "title": "maisie adam",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "night sky",
+        "traffic": 500,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      }
+    ],
+    "topVideos": [],
+    "etsyNiches": [],
+    "counts": {
+      "trends": 40,
+      "trendsPrintable": 0,
+      "youtube": 0,
+      "printfulBestsellers": 0,
+      "etsyNiches": 0
+    }
   }
 ]
