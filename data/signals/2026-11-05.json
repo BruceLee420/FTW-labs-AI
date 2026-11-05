@@ -1,0 +1,1306 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T18:32:21.493Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "sylvester stallone",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Thu, 5 Nov 2026 09:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
+          "url": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+          "source": "The Guardian"
+        },
+        {
+          "title": "‘I Play Rocky’ Review: He’s a Champion",
+          "url": "https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "'I Play Rocky' tells the underdog story behind the classic underdog film",
+          "url": "https://www.reuters.com/business/media-telecom/i-play-rocky-tells-underdog-story-behind-classic-underdog-film-2026-11-02/",
+          "source": "Reuters"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "justin jefferson",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Thu, 5 Nov 2026 09:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Why Justin Jefferson’s silence is deafening when it comes to the Vikings’ offense - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7753776/2026/11/05/justin-jefferson-vikings-offense-trade-deadline-silence/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Justin Jefferson keeps getting open. Here’s why the Vikings aren’t capitalizing.",
+          "url": "https://www.startribune.com/minnesota-vikings-offense-kyler-murray-justin-jefferson-stats-nfl-film-breakdown-buffalo-bills-mnf/601906308",
+          "source": "Star Tribune"
+        },
+        {
+          "title": "Vikings’ Jordan Addison Sends Veiled Shot at Kyler Murray After Lions Loss",
+          "url": "https://sports.yahoo.com/articles/vikings-jordan-addison-sends-veiled-001510910.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "stock markets today",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Thu, 5 Nov 2026 09:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "S&P/TSX composite down nearly 500 points, U.S. stock markets also fall",
+          "url": "https://www.bnnbloomberg.ca/markets/2026/11/05/sptsx-composite-down-nearly-500-points-us-stock-markets-also-fall/",
+          "source": "BNN Bloomberg"
+        },
+        {
+          "title": "S&P/TSX composite down nearly 500 points, U.S. stock markets also fall",
+          "url": "https://www.thestar.com/business/s-p-tsx-composite-down-nearly-500-points-u-s-stock-markets-also-fall/article_6067b741-1a9c-58df-b21b-dc645857d9a3.html",
+          "source": "Toronto Star"
+        },
+        {
+          "title": "TSX Today: What to Watch for in Stocks on Wednesday, November 4",
+          "url": "https://www.fool.ca/2026/11/04/tsx-today-what-to-watch-for-in-stocks-on-wednesday-november-4/",
+          "source": "The Motley Fool Canada"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "india",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Thu, 5 Nov 2026 09:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "India in final-stage talks to expand missile sale to Philippines, sources say",
+          "url": "https://www.reuters.com/world/asia-pacific/india-final-stage-talks-expand-missile-sale-philippines-sources-say-2026-11-05/",
+          "source": "Reuters"
+        },
+        {
+          "title": "India eyes new $800m BrahMos deal as Philippines boosts defences against China",
+          "url": "https://timesofindia.indiatimes.com/defence/news/india-eyes-new-800m-brahmos-deal-as-philippines-boosts-defences-against-china/articleshow/135577766.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Philippines Eyes Army BrahMos Deal to Expand South China Sea Deterrence",
+          "url": "https://defencesecurityasia.com/en/philippines-army-brahmos-deal-south-china-sea-deterrence/",
+          "source": "Defence Security Asia"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "crystal palace",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Thu, 5 Nov 2026 09:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Crystal Palace vs Hoffenheim: UEFA Europa League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/ck87z2p1g5gzt",
+          "source": "BBC"
+        },
+        {
+          "title": "Crystal Palace v Hoffenheim, Sparta Prague v Bournemouth: Europa League – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/05/crystal-palace-hoffenheim-sparta-prague-bournemouth-sunderland-celtic-europa-league-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Europa League and Conference League LIVE! Crystal Palace, Brighton, Bournemouth, Celtic, Sunderland score updates",
+          "url": "https://www.skysports.com/football/live-blog/13608388/europa-league-and-conference-league-live-crystal-palace-brighton-bournemouth-celtic-sunderland-score-updates",
+          "source": "Sky Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "big brother finale",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Thu, 5 Nov 2026 10:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "‘Big Brother’ 2026 finalists confirmed – find out who is in tonight’s final!",
+          "url": "https://entertainment-focus.com/2026/11/05/big-brother-2026-finalists-confirmed-find-out-who-is-in-tonights-final/",
+          "source": "Entertainment Focus"
+        },
+        {
+          "title": "Big Brother 2026 Final Odds: All remaining 6 housemates' chances of winning ranked",
+          "url": "https://www.scotsman.com/culture/television/big-brother-2026-final-odds-latest-all-remaining-6-housemates-chances-of-winning-ranked-according-to-the-bookies-twinks-and-rochelle-neck-and-neck-9332020",
+          "source": "The Scotsman"
+        },
+        {
+          "title": "Big Brother 2026 winner 'exposed' hours before final - and it's not Rochelle",
+          "url": "https://www.ok.co.uk/tv/big-brother-odds-to-win-37846555",
+          "source": "OK! Magazine"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "nasdaq",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Thu, 5 Nov 2026 07:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Dow tumbles 1,600 points, erasing its postelection rally; Nasdaq plummets 5%: Live updates",
+          "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Nasdaq heading for worst day in 18 months as Wall Street sustains widespread losses",
+          "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Nasdaq set to confirm correction as AI stocks tumble",
+          "url": "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05/",
+          "source": "Reuters"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "russell brand",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Thu, 5 Nov 2026 06:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Breaking: Russell Brand found guilty of rape and sexual assault",
+          "url": "https://www.abc.net.au/news/2026-11-06/russell-brand-jury-verdict/107353304",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Flashbulbs, lies and victim blaming: how Russell Brand’s trial unfolded",
+          "url": "https://www.theguardian.com/culture/2026/nov/05/flashbulbs-lies-and-victim-blaming-how-russell-brands-trial-unfolded",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Brand faces ‘significant’ jail term after guilty verdicts for rape, sexual assaults",
+          "url": "https://www.smh.com.au/world/europe/russell-brand-found-guilty-of-rape-and-sexual-assault-20261106-p61bv7.html",
+          "source": "SMH.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "brysen wright",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 5 Nov 2026 10:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Florida, Miami or Texas? Elite WR Brysen Wright set to make commitment",
+          "url": "https://247sports.com/article/florida-miami-texas-wr-brysen-wright-commitment-292209449/",
+          "source": "247Sports"
+        },
+        {
+          "title": "Canes’ elite class could get even better on Thursday. And UM notes, draft fallout",
+          "url": "https://www.miamiherald.com/sports/college/acc/university-of-miami/article317517061.html",
+          "source": "Miami Herald"
+        },
+        {
+          "title": "Decision Primer: Five-star Miami WR target Brysen Wright ready to make call",
+          "url": "https://www.on3.com/teams/miami-hurricanes/news/decision-primer-five-star-miami-wr-target-brysen-wright-ready-to-make-call/",
+          "source": "On3"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "aldosivi vs river",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 5 Nov 2026 09:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Aldosivi vs. River, hoy EN VIVO por el Torneo Clausura: formaciones confirmadas, horario y por dónde ver",
+          "url": "https://www.ole.com.ar/futbol-primera/aldosivi-vs-river-vivo-minuto-minuto-partido-torneo-clausura-fecha16_0_h9r9bVagbD.html",
+          "source": "Olé"
+        },
+        {
+          "title": "Aldosivi vs. River, EN VIVO: el minuto a minuto del partido",
+          "url": "https://www.lanacion.com.ar/deportes/futbol/aldosivi-vs-river-en-vivo-nid05112026/",
+          "source": "La Nación"
+        },
+        {
+          "title": "Formación definida en River: los once de Ponzio con un debut absoluto",
+          "url": "https://tntsports.com.ar/ligaprofesional/formacion-river-aldosivi-torneo-clausura-20261105-0004.html",
+          "source": "TNT Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "fc thun",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 5 Nov 2026 09:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Lowdown on Thun: The Hearts parallels, Jamestown striker and why it's a winnable tie",
+          "url": "https://www.heartsstandard.co.uk/news/26692910.lowdown-thun-hearts-parallels-jamestown-striker/",
+          "source": "Hearts Standard"
+        },
+        {
+          "title": "Thun v Hearts Prediction: Can the Jambos Turn It Around?",
+          "url": "https://news.williamhill.com/football/thun-vs-hearts-prediction-conference-league-tips-2026-27/",
+          "source": "William Hill News"
+        },
+        {
+          "title": "Tickets für FC Thun gegen Heart of Midlothian in Thun",
+          "url": "https://karlobag.eu/de/sport/nachrichten/tickets-fur-fc-thun-gegen-heart-of-midlothian-in-thun-nsfqy/",
+          "source": "KarloBag.eu"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"fc\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "lion city sailors fc vs adelaide united standings",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 5 Nov 2026 06:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Aussie Asian woe continues as Lion City maul Adelaide",
+          "url": "https://www.canberratimes.com.au/story/9386808/aussie-asian-woe-continues-as-lion-city-maul-adelaide/",
+          "source": "The Canberra Times"
+        },
+        {
+          "title": "Reds focused on response as Andrioli backs Adelaide United to get a result in Singapore",
+          "url": "https://adelaideunited.com.au/news/reds-focused-on-response-as-andrioli-backs-adelaide-united-to-get-a-result-in-singapore/",
+          "source": "Adelaide United"
+        },
+        {
+          "title": "Reds back coach to steady the ship against Sailors",
+          "url": "https://www.theaustralian.com.au/breaking-news/ethan-alagich-defends-adelaide-united-coach-airton-andrioli-ahead-of-crucial-singapore-clash/news-story/6bbe3027fc23a183679e9fad9a56b5c6",
+          "source": "The Australian"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "erin napier",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 10:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "HGTV Star Erin Napier Announces Devastating Family Loss",
+          "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hgtv-star-erin-napier-announces-152122701.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Erin Napier Honors Late Aunt Mae Mae in Heartfelt Instagram Tribute",
+          "url": "https://www.aol.com/articles/erin-napier-honors-aunt-mae-040429000.html",
+          "source": "AOL.com"
+        },
+        {
+          "title": "HGTV’s Erin Napier Announces Devastating Family Loss Amid ‘Home Town’ Filming",
+          "url": "https://www.imdb.com/news/ni66096762/?ref_=tt_nwr_1",
+          "source": "IMDb"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "jalayshia alford",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 10:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "All-out search continues for 10-year-old Jalayshia Allford of West Philadelphia",
+          "url": "https://6abc.com/post/jalayshia-allford-update-search-continues-missing-10-year-old-west-philadelphia/20017799/",
+          "source": "6abc Philadelphia"
+        },
+        {
+          "title": "Search for 10-year-old Jalayshia Alford expands to new location in West Philly; Crime Scene Unit, FBI on scene",
+          "url": "https://www.fox29.com/news/search-10-year-old-jalayshia-alford-expands-new-location-west-philly-crime-scene-unit-fbi-scene",
+          "source": "FOX 29 Philadelphia"
+        },
+        {
+          "title": "10-year-old girl found dead after disappearing from West Philadelphia",
+          "url": "https://www.nbcphiladelphia.com/news/local/10-year-old-missing-philadelphia-girl-jalayshia-malayshia-alford-found-dead-lindenwold-nj/4492319/",
+          "source": "NBC10 Philadelphia"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "perez hilton",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Perez Hilton’s Family Shares Health Update 3 Months After Blogger’s Mental Health Crisis",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/perez-hilton-family-shares-health-000127519.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Three months after alarming livestream, there’s a major update in Perez Hilton’s condition",
+          "url": "https://www.miamiherald.com/miami-com/miami-com-news/article317922221.html",
+          "source": "Miami Herald"
+        },
+        {
+          "title": "Perez Hilton’s sister shares new details about celeb blogger’s ‘meltdown’ in 911 call: ‘He’s covered in blood’",
+          "url": "https://pagesix.com/2026/10/29/celebrity-news/perez-hiltons-sister-shares-new-details-about-meltdown-in-911-call/",
+          "source": "Page Six"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "naresh bhatt",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Naresh Bhatt testifies he found his wife dead, tried to dismember her body",
+          "url": "https://www.wusa9.com/article/news/crime/naresh-bhatt-murder-trial/naresh-bhatt-murder-trial-mamta-kafle-bhatt-says-he-found-her-dead/65-1e47de3d-9243-4329-9a51-b0ccf6e29920",
+          "source": "WUSA9"
+        },
+        {
+          "title": "Naresh Bhatt testifies he found his wife dead, then disposed of her body",
+          "url": "https://www.nbcwashington.com/news/local/northern-virginia/naresh-bhatt-testifies-he-found-his-wife-dead-then-disposed-of-her-body/4178386/",
+          "source": "NBC4 Washington"
+        },
+        {
+          "title": "Husband denies killing missing nurse but admits to cutting up her body so it would fit in trash can",
+          "url": "https://www.courttv.com/news/husband-denies-killing-missing-nurse-but-admits-to-cutting-up-her-body-so-it-would-fit-in-trash-can/",
+          "source": "Court TV"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "theft",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "North Yorkshire Police release CCTV image of person following theft at bar in Harrogate town centre",
+          "url": "https://www.harrogateadvertiser.co.uk/news/crime/north-yorkshire-police-release-cctv-image-of-person-following-theft-at-bar-in-harrogate-town-centre-9331692",
+          "source": "Harrogate Advertiser"
+        },
+        {
+          "title": "Police appeal to identify man after theft at North Yorkshire venue",
+          "url": "https://www.yorkpress.co.uk/news/26701550.police-appeal-identify-man-harrogate-jacket-theft/",
+          "source": "The York Press"
+        },
+        {
+          "title": "East Tennessee woman sentenced for TennCare fraud, theft of services",
+          "url": "https://www.wvlt.tv/2026/11/05/east-tennessee-woman-sentenced-tenncare-fraud-theft-services/",
+          "source": "WVLT"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "fred vasseur",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "F1 Q&A: Hamilton and Leclerc tension at Ferrari, Qatar and Abu Dhabi Grands Prix, Ocon's future and red flags",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c862y1en5vrzo",
+          "source": "BBC"
+        },
+        {
+          "title": "Sao Paulo GP: Do Ferrari need to impose repercussions after latest Lewis Hamilton-Charles Leclerc incident?",
+          "url": "https://www.skysports.com/f1/news/13607857/sao-paulo-gp-do-ferrari-need-to-impose-repercussions-after-latest-lewis-hamilton-charles-leclerc-incident",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Jolyon Palmer's Analysis: Ferraris fighting at Turn 4 in Mexico City",
+          "url": "https://www.formula1.com/en/video/jolyon-palmers-analysis-ferraris-fighting-at-turn-4-in-mexico-city.1880848876630577753",
+          "source": "Formula 1"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "besiktas fc",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Celtic vs Besiktas: Martin O'Neill insists Scottish champions still qualify",
+          "url": "https://www.bbc.com/sport/football/live/c6vg7dn53gdvt",
+          "source": "BBC"
+        },
+        {
+          "title": "Martin O’Neill looking to get points on board against Beşiktaş",
+          "url": "https://www.celticfc.com/news/2026/november/04/martin-o-neill-looking-to-get-points-on-board-against-be-ikta-/",
+          "source": "Celtic FC"
+        },
+        {
+          "title": "Football Bet of the Day: Goals galore expected in Glasgow on Thursday",
+          "url": "https://mrfixitstips.co.uk/football-bet-of-the-day-goals-galore-expected-in-glasgow-on-thursday/",
+          "source": "MrFixitsTips"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "when is bonfire night in the uk",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Could this be the last Bonfire Night for noisy fireworks?",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gk07850zo",
+          "source": "BBC"
+        },
+        {
+          "title": "Firework noise limit should be drastically cut to protect wild animals, UK government told",
+          "url": "https://www.theguardian.com/environment/2026/nov/04/firework-noise-limit-protect-wild-animals-bonfire-night",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Like most dogs, mine fears fireworks. Can they be taught not to?",
+          "url": "https://www.thetimes.com/uk/science/article/dogs-fireworks-help-guide-qrp5lxvb0",
+          "source": "The Times"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "avengers doomsday",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Channing Tatum Stars in New Dunkin’ Video as Gambit: ‘I Knew That It Was Going to Be Hilarious’ (Exclusive)",
+          "url": "https://people.com/channing-tatum-stars-in-new-dunkin-video-as-avengers-doomsday-character-exclusive-12208214",
+          "source": "People.com"
+        },
+        {
+          "title": "KFC Brings the Doom: New Marvel-Inspired Menu Lands Ahead of Marvel Studios' \"Avengers: Doomsday\"",
+          "url": "https://www.newswire.ca/fr/news-releases/kfc-brings-the-doom-new-marvel-inspired-menu-lands-ahead-of-marvel-studios-avengers-doomsday--897985193.html",
+          "source": "PR Newswire Canada"
+        },
+        {
+          "title": "KFC Announces Avengers: Doomsday Collectible Figures",
+          "url": "https://www.lifestyleasia.com/hk/tech/gear/toys/kfc-announces-avengers-doomsday-collectible-figures/",
+          "source": "Lifestyle Asia Hong Kong"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "ryan wedding",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Mexican judge arrested for allegedly taking $2M bribe to free Canadian deputy of Ryan Wedding",
+          "url": "https://www.ctvnews.ca/canada/article/mexican-judge-arrested-for-allegedly-taking-2m-bribe-to-free-canadian-deputy-of-ryan-wedding/",
+          "source": "CTV News"
+        },
+        {
+          "title": "FBI Arrests Mexican Judge Implicated in Drug Trafficking Probe",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/fbi-arrests-mexican-judge-implicated-in-drug-trafficking-probe",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Mexican judge arrested for allegedly taking a bribe to release Ryan Wedding’s right-hand man",
+          "url": "https://www.theglobeandmail.com/world/article-judge-who-freed-alleged-ryan-wedding-associate-arrested/",
+          "source": "The Globe and Mail"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"arrested\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "sparta praha vs bournemouth",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Bournemouth visits Sparta Prague seeking fourth straight Europa League win",
+          "url": "https://www.thestar.com/sports/soccer/bournemouth-visits-sparta-prague-seeking-fourth-straight-europa-league-win/article_fe038ed5-9e66-551a-a0a0-2ef15eb413d7.html",
+          "source": "Toronto Star"
+        },
+        {
+          "title": "Bournemouth visits Sparta Prague seeking fourth straight Europa League win",
+          "url": "https://ca.sports.yahoo.com/news/bournemouth-visits-sparta-prague-seeking-091958740.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Czech Republic Europa League Soccer",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/czech-republic-europa-league-soccer/image_40c91326-4eb7-546e-9004-cb0cbb331f17.html",
+          "source": "Corsicana Daily Sun"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "real sociedad vs ol",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 5 Nov 2026 09:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Real Sociedad vs Olympique Lyonnais: UEFA Europa League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cm2keyvgjwqnt",
+          "source": "BBC"
+        },
+        {
+          "title": "How to watch Real Sociedad vs Lyon live today: Who is showing the match on TV and via live stream?",
+          "url": "https://www.goal.com/en-ca/news/how-to-watch-real-sociedad-vs-lyon-live-today-who-is-showing-the-match-on-tv-and-via-live-stream/blt791ba9f86c9f115a",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Licensable video: Matarazzo: \"They are not going to change their style\"",
+          "url": "https://www.reutersconnect.com/item/matarazzo-they-are-not-going-to-change-their-style/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxODg4MDA2MDAx",
+          "source": "Reuters Connect"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "blackheath fireworks 2026",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 5 Nov 2026 10:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Blackheath fireworks warning as trains get extra capacity for Bonfire Night",
+          "url": "https://www.newsshopper.co.uk/news/26690995.southeastern-passengers-told-avoid-blackheath-station-bonfire-night/",
+          "source": "News Shopper"
+        },
+        {
+          "title": "Blackheath station warning issued ahead of Bonfire Night fireworks display",
+          "url": "https://uk.news.yahoo.com/blackheath-station-warning-issued-ahead-130414597.html",
+          "source": "Yahoo News UK"
+        },
+        {
+          "title": "You can watch Blackheath Fireworks for FREE from this South East London pub",
+          "url": "https://www.newsshopper.co.uk/news/26699788.blackheath-fireworks-2026---free-viewing-spot-revealed/",
+          "source": "News Shopper"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "deschamps",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 5 Nov 2026 10:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Deschamps reaches decision on joining Man Utd to replace Carrick after INEOS 'contact in recent days'",
+          "url": "https://www.football365.com/news/man-utd-deschamps-reaches-decision-replacing-carrick-ineos-make-contact",
+          "source": "Football365"
+        },
+        {
+          "title": "Man Utd 'contact Didier Deschamps' and get immediate answer on replacing Michael Carrick",
+          "url": "https://www.express.co.uk/sport/football/2263572/Man-Utd-Didier-Deschamps-Michael-Carrick",
+          "source": "Daily Express"
+        },
+        {
+          "title": "Contact made: Man United approach experienced manager as another target set to sign new deal",
+          "url": "https://www.caughtoffside.com/2026/11/05/man-united-make-contact-with-didier-deschamps/",
+          "source": "CaughtOffside"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"united\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "bonfire night manchester",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 5 Nov 2026 10:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Bonfire Night 2026: Temperatures forecast to dip into single digits across UK",
+          "url": "https://www.bbc.co.uk/weather/articles/cqr7yk19l41no",
+          "source": "BBC"
+        },
+        {
+          "title": "'Anticyclonic gloom' that covered UK in fog returns ahead of Bonfire Night",
+          "url": "https://www.thesun.co.uk/news/40896008/anticyclonic-gloom-grips-uk-fog-drizzle-last/",
+          "source": "The Sun"
+        },
+        {
+          "title": "London's hourly weather forecast for today as thousands prepare for fireworks",
+          "url": "https://uk.news.yahoo.com/londons-hourly-weather-forecast-today-050000389.html",
+          "source": "Yahoo News UK"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "guy fawkes night 2026",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 5 Nov 2026 09:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "The full list of fireworks displays you can watch this Bonfire Night in and around Glasgow",
+          "url": "https://secretglasgow.com/the-full-list-of-fireworks-displays-you-can-watch-this-bonfire-night-in-and-around-glasgow/",
+          "source": "Secret Glasgow"
+        },
+        {
+          "title": "Edinburgh Public Fireworks Displays 2026: 10 Bonfire Night events to enjoy in and around the Capital",
+          "url": "https://www.scotsman.com/whats-on/edinburgh-public-fireworks-displays-2026-here-are-10-bonfire-night-events-to-enjoy-in-and-around-the-capital-9327803",
+          "source": "The Scotsman"
+        },
+        {
+          "title": "Everything you need to know about this year's West Fife firework displays",
+          "url": "https://www.dunfermlinepress.com/news/26698632.everything-need-know-fife-firework-displays/",
+          "source": "Dunfermline Press"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "harmeet dhillon",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 5 Nov 2026 10:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Harmeet Dhillon resigns as head of Justice Dept.’s civil rights division",
+          "url": "https://www.washingtonpost.com/national-security/2026/11/05/harmeet-dhillon-resigns-head-justice-depts-civil-rights-division/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Harmeet Dhillon, chief of DOJ civil rights division, expected to resign",
+          "url": "https://www.ms.now/news/justice-department-civil-rights-division-chief-harmeet-dhillon-expected-to-resign",
+          "source": "MS NOW"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "switch 2 zelda edition",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 5 Nov 2026 10:00:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "I'm tracking all the latest Nintendo Switch 2 - Zelda 40th Anniversary Edition restocks live — latest updates on where to buy the limited-edition console this week",
+          "url": "https://www.techradar.com/live/news/nintendo-switch-2-zelda-40th-anniversary-edition-restocks-live",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Zelda Switch 2 restock retailers: Where to buy the 40th anniversary console",
+          "url": "https://mashable.com/tech/zelda-switch-2-restock-retailers-where-to-buy-nov-5",
+          "source": "Mashable"
+        },
+        {
+          "title": "Zelda gamers secure over $500 in free credit ahead of Ocarina of Time launch",
+          "url": "https://www.gamingbible.com/news/platform/nintendo/nintendo-switch-2-zelda-console-orders-500-gift-cards-068644-20261103",
+          "source": "GAMINGbible"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "sparta praha vs bournemouth",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 5 Nov 2026 09:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Cherries match in Prague 'pinch me moment' for fan",
+          "url": "https://www.bbc.com/news/articles/cq77p066k1ero",
+          "source": "BBC"
+        },
+        {
+          "title": "🎧Cherries fans in Prague",
+          "url": "https://sports.yahoo.com/articles/cherries-fans-prague-083020386.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Sparta Prague vs Bournemouth LIVE, Score Updates in UEFA Europa League Match (1-0)",
+          "url": "https://www.vavel.com/en-us/soccer/2026/11/05/1278159-sparta-prague-vs-bournemouth-live-score-uefa-europa-league.html",
+          "source": "VAVEL.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "nvidia share price",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 5 Nov 2026 08:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor.",
+          "url": "https://www.moomoo.com/news/post/1003683258/nvidia-stock-is-below-200-what-history-suggests-is-the",
+          "source": "Moomoo"
+        },
+        {
+          "title": "Can NVDA Stock Jump From Here?",
+          "url": "https://www.forbes.com/sites/greatspeculations/2026/11/04/can-nvda-stock-jump-from-here/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Is NVIDIA's Cheap Valuation an Opportunity to Invest in the Stock?",
+          "url": "https://sg.finance.yahoo.com/news/nvidias-cheap-valuation-opportunity-invest-123200378.html",
+          "source": "Yahoo Finance Singapore"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "nathan cleary penrith panthers contract",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 5 Nov 2026 05:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Cleary turns down tax-free PNG millions, set to re-commit to Panthers",
+          "url": "https://www.nine.com.au/sport/nrl/news-nathan-cleary-contract-playing-future-penrith-panthers-png-chiefs-20261104-p61bhx.html",
+          "source": "Nine.com.au"
+        },
+        {
+          "title": "Why Cleary rejected $8.4 million deal with PNG Chiefs",
+          "url": "https://www.theaustralian.com.au/sport/nrl/inside-story-why-nathan-cleary-rejected-mantle-as-richest-player-in-nrl-history/news-story/97607a65ebd225fb00d572c7017852c8",
+          "source": "The Australian"
+        },
+        {
+          "title": "Nathan Cleary set to re-sign with Panthers after courtesy call to Chiefs",
+          "url": "https://www.smh.com.au/sport/nrl/nathan-cleary-set-to-re-sign-with-panthers-after-courtesy-call-to-chiefs-20261104-p61bi7.html",
+          "source": "SMH.com.au"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "budget fédéral 2026",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 5 Nov 2026 10:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Quatre choses à surveiller dans le budget fédéral déposé jeudi",
+          "url": "https://www.journaldequebec.com/2026/11/05/quatre-choses-a-surveiller-dans-le-budget-federal-depose-jeudi",
+          "source": "Journal de Québec"
+        },
+        {
+          "title": "«Maîtres chez nous»: les Innus rappellent leurs droits territoriaux",
+          "url": "https://www.lavoixdelest.ca/actualites/politique/2026/11/05/maitres-chez-nous-les-innus-rappellent-leurs-droits-territoriaux-27ORPKQT7VECBPLNEZI3QPLHT4/",
+          "source": "La Voix de l'Est"
+        },
+        {
+          "title": "Cinq choses à surveiller dans le budget fédéral",
+          "url": "https://ici.radio-canada.ca/info/long-format/2298242/mark-carney-budget-champagne-dette",
+          "source": "Radio-Canada"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "birthday",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 5 Nov 2026 09:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "California man, 97, dies at his own birthday party moments after dancing to Bee Gees’ ‘Stayin’ Alive’",
+          "url": "https://nypost.com/2026/11/05/us-news/california-man-vito-97-dies-at-birthday-party-moments-after-dancing-to-bee-gees-stayin-alive/",
+          "source": "New York Post"
+        },
+        {
+          "title": "California man dances to Bee Gees' 'Stayin' Alive' at Halloween-themed 97th birthday party; dies hours la",
+          "url": "https://timesofindia.indiatimes.com/world/us/california-man-dances-to-bee-gees-stayin-alive-at-halloween-themed-97th-birthday-party-dies-hours-later-after-an-unforgettable-final-celebration/articleshow/135562665.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "California man celebrates his 97th birthday with one final dance before unexpected turn",
+          "url": "https://www.cleveland.com/news/2026/11/california-man-celebrates-his-97th-birthday-with-one-final-dance-before-unexpected-turn.html",
+          "source": "Cleveland.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "radio-canada info",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 5 Nov 2026 09:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Équiterre exige un moratoire sur les centres de données",
+          "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec",
+          "source": "Radio-Canada"
+        },
+        {
+          "title": "Bibeau repousse son projet de moratoire sur les centres de données",
+          "url": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2026/11/04/centre-de-donnees-davantage-de-reflexion-avant-le-moratoire-BUJMSKCNYRAO3JOKLCH65EX7RQ/",
+          "source": "La Tribune"
+        },
+        {
+          "title": "Équiterre réclame un moratoire sur les centres de données au Québec",
+          "url": "https://www.ledevoir.com/economie/techno/1022429/equiterre-reclame-moratoire-centres-donnees-quebec",
+          "source": "Le Devoir"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "tesla share price",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 5 Nov 2026 08:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Up 34%, Tesla shares are defying the Nasdaq correction!",
+          "url": "https://uk.finance.yahoo.com/news/34-tesla-shares-defying-nasdaq-170200388.html",
+          "source": "Yahoo Finance UK"
+        },
+        {
+          "title": "TSLA Price Prediction: Price sits near a key pivot as positioning stays mixed",
+          "url": "https://blockchain.news/news/20261105-price-prediction-price-tsla-sits-near-a-key-pivot-as",
+          "source": "Blockchain News"
+        },
+        {
+          "title": "Tesla's weekly K-line has broken above the descending channel—can it sustain its recent strong upward momentum?",
+          "url": "https://news.futunn.com/en/post/1003083378/tesla-s-weekly-k-line-has-broken-above-the-descending",
+          "source": "富途牛牛"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "gta 6",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 5 Nov 2026 07:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "No GTA 6 November: Here's what you can play on PC instead",
+          "url": "https://www.pcgamer.com/games/november-games-2026/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "A problem has emerged with running PS5 games natively on PC — library coverage dropped from 91% to 26%",
+          "url": "https://ixbt.games/en/news/2026/11/02/s-nativnym-zapuskom-ps5-igr-na-pk-voznikla-problema-oxvat-bibliotek-upal-s-91-do-26.html",
+          "source": "iXBT.games"
+        },
+        {
+          "title": "GTA 6 Still Has No PC Release Date, but an NVIDIA DLSS 5 and 90 FPS Multi-Frame Generation Experiment Shows How Realistic It Could Look",
+          "url": "https://wccftech.com/gta-6-pc-release-date-nvidia-dlss-5-realistic/",
+          "source": "Wccftech"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "nepal premier league",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 5 Nov 2026 06:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Namibia beat Ireland, Namibia won by 5 wickets (with 172 balls remaining)",
+          "url": "https://www.cricinfo.com/series/ireland-in-namibia-2026-27-1558225/namibia-vs-ireland-5th-odi-1558235/live-cricket-score",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Cricket Coverage - TAS vs VIC, 11th Match Analysis",
+          "url": "https://www.cricinfo.com/series/one-day-cup-aus-2026-27-1544840/tasmania-vs-victoria-11th-match-1544852/match-news",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Pakistan players in doubt for Nepal Premier League",
+          "url": "https://www.cricinfo.com/story/pakistan-players-in-doubt-for-nepal-premier-league-1559988",
+          "source": "Cricinfo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "white",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 5 Nov 2026 05:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Renato Moicano: Arman Tsarukyan ‘is the next champion,’ but would rather watch Alexander Volkanovski fight Justin Gaethje",
+          "url": "https://www.mmafighting.com/ufc/518092/renato-moicano-arman-tsarukyan-is-the-next-champion-but-i-would-rather-watch-alexander-volkanovski-fight-justin-gaethje",
+          "source": "MMA Fighting"
+        },
+        {
+          "title": "Golf or UFC? Justin Gaethje must ‘decide what he’s gonna do’",
+          "url": "https://www.mmamania.com/ufc-news/484138/golf-or-ufc-justin-gaethje-must-decide-what-hes-gonna-do",
+          "source": "MMA Mania"
+        },
+        {
+          "title": "“He’s Getting Better With Age”: Dan Hooker Backs Alexander Volkanovski to Beat Gaethje and Tsarukyan",
+          "url": "https://mmasucka.com/news/hes-getting-better-with-age-dan-hooker-backs-alexander-volkanovski-to-beat-gaethje-and-tsarukyan/",
+          "source": "MMA Sucka"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"ufc\" — commonly a protected mark or event name."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-11-05",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Dark academia",
+      "motifs": [
+        "etched owl",
+        "stacked antique books",
+        "marginalia typography"
+      ],
+      "suggestedProducts": [
+        "poster",
+        "hoodie",
+        "mug"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Plant parent",
+      "motifs": [
+        "single-line monstera",
+        "propagation station",
+        "terracotta row"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
