@@ -1,0 +1,1315 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T17:49:12.694Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "meghan markle",
+      "traffic": 20000,
+      "trafficLabel": "20000+",
+      "pubDate": "Fri, 6 Nov 2026 07:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Meghan Markle’s father arrested in Florida over alleged child sexual abuse material",
+          "url": "https://www.nbcnews.com/news/us-news/meghans-father-thomas-markle-arrested-florida-child-sexual-abuse-rcna607836",
+          "source": "NBC News"
+        },
+        {
+          "title": "Meghan Markle’s Dad Busted in Florida Over Vile Child Porn Claims",
+          "url": "https://www.thedailybeast.com/meghan-markles-dad-busted-in-florida-over-vile-child-porn-claims",
+          "source": "The Daily Beast"
+        },
+        {
+          "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
+          "url": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"arrested\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "stock market today",
+      "traffic": 20000,
+      "trafficLabel": "20000+",
+      "pubDate": "Fri, 6 Nov 2026 08:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Euphoria meets raw fear on Wall Street as stocks plunge post US-midterms",
+          "url": "https://www.abc.net.au/news/2026-11-06/wall-street-sees-tech-sell-off-as-investors-rethink-ai-trade/107354110",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "ASX to open in red following Wall Street rout",
+          "url": "https://www.theaustralian.com.au/business/markets/asx-set-to-drop-as-sp-500-suffers-worst-fall-since-trump-tariffs/live-coverage/77e042d2e57a2a524b982c50c8868351",
+          "source": "The Australian"
+        },
+        {
+          "title": "Sharemarket dips but ends week higher despite risks",
+          "url": "https://www.smh.com.au/business/markets/wall-street-plunges-as-ai-stocks-tumble-asx-set-to-slide-lower-20261106-p61bvl.html",
+          "source": "SMH.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "ftse 100 index",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Fri, 6 Nov 2026 09:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+          "source": "BBC"
+        },
+        {
+          "title": "FTSE 100 slumps in AI rout – latest updates",
+          "url": "https://www.telegraph.co.uk/business/2026/11/06/ai-stocks-rout-data-centres-semiconductors-ftse-100-markets/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "treveyon henderson",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Fri, 6 Nov 2026 07:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Patriots' TreVeyon Henderson affected by neurological symptoms",
+          "url": "https://www.espn.com/nfl/story/_/id/50400016/patriots-treveyon-henderson-affected-neurological-symptoms",
+          "source": "ESPN"
+        },
+        {
+          "title": "Pats' TreVeyon Henderson says he was hospitalized after 'unusual' emergency, focused on recovery",
+          "url": "https://www.nfl.com/news/pats-treveyon-henderson-says-he-was-hospitalized-after-unusual-emergency-focused-on-recovery",
+          "source": "NFL.com"
+        },
+        {
+          "title": "Patriots' TreVeyon Henderson provides update on 'unknown and unexplainable' illness",
+          "url": "https://www.cbssports.com/nfl/news/patriots-treveyon-henderson-update-unknown-unexplainable-illness/",
+          "source": "CBS Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "tesla cybertruck discontinued",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Fri, 6 Nov 2026 09:00:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "url": "https://www.bbc.com/news/articles/cq1j33w7d232o",
+          "source": "BBC"
+        },
+        {
+          "title": "Tesla is going to stop making Cybertrucks, Musk says",
+          "url": "https://globalnews.ca/news/12139757/tesla-cybertruck-wind-down-production/",
+          "source": "Global News"
+        },
+        {
+          "title": "Musk bids farewell to Cybertruck as Tesla bets on robots and self-driving",
+          "url": "https://finance.yahoo.com/markets/stocks/article/musk-bids-farewell-to-cybertruck-as-tesla-bets-on-robots-and-self-driving-162259557.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "meghan markle",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Fri, 6 Nov 2026 07:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Meghan Markle’s estranged father arrested and charged with possessing child sexual abuse materials",
+          "url": "https://www.ctvnews.ca/world/article/meghan-markles-estranged-father-arrested-and-charged-with-possessing-child-sexual-abuse-materials/",
+          "source": "CTV News"
+        },
+        {
+          "title": "Meghan's father Thomas Markle arrested - follow live",
+          "url": "https://www.bbc.com/news/live/cwnv03203yvmt",
+          "source": "BBC"
+        },
+        {
+          "title": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"arrested\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "school",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 6 Nov 2026 07:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Peninsula high school rivalry coming to Stanford Stadium",
+          "url": "https://www.mercurynews.com/2026/11/06/sacred-heart-prep-menlo-school-rivalry-stanford-stadium/",
+          "source": "The Mercury News"
+        },
+        {
+          "title": "Peninsula high school rivalry coming to Stanford Stadium",
+          "url": "https://www.eastbaytimes.com/2026/11/06/sacred-heart-prep-menlo-school-rivalry-stanford-stadium/",
+          "source": "East Bay Times"
+        },
+        {
+          "title": "Five observations on the high school football season",
+          "url": "https://varsity.startribune.com/minnesota-high-school-football-playoffs-game-officials-player-safety/601908706",
+          "source": "Star Tribune"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "london tube strikes",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 6 Nov 2026 09:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "London Underground drivers to stage new strikes in coming months",
+          "url": "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo",
+          "source": "BBC"
+        },
+        {
+          "title": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Tube drivers to strike over Christmas period",
+          "url": "https://www.telegraph.co.uk/news/2026/11/06/tube-drivers-strike-christmas/",
+          "source": "The Telegraph"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"strike\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "katherine ryan",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 6 Nov 2026 08:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
+          "url": "https://www.bbc.com/news/articles/cxyvrr686lzqo",
+          "source": "BBC"
+        },
+        {
+          "title": "Why Russell Brand's lawyers wanted his Katy Perry marriage left out of trial",
+          "url": "https://www.usatoday.com/story/entertainment/music/2026/11/06/katy-perry-russell-brand-trial/92642985007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Russell Brand convicted of rape and sexual assault",
+          "url": "https://globalnews.ca/news/12137912/russell-brand-rape-sexual-assault-guilty-london/",
+          "source": "Global News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "katherine ryan",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 6 Nov 2026 08:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Russell Brand faces 'significant' prison sentence after rape and sexual assault conviction",
+          "url": "https://www.yahoo.com/news/world/article/russell-brand-faces-significant-prison-sentence-after-rape-and-sexual-assault-conviction-110123123.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Why Russell Brand's lawyers wanted his Katy Perry marriage left out of trial",
+          "url": "https://www.usatoday.com/story/entertainment/music/2026/11/06/katy-perry-russell-brand-trial/92642985007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Russell Brand, convicted of rape, now likely to face more allegations, says UK police chief",
+          "url": "https://www.reuters.com/world/uk/russell-brand-convicted-rape-now-likely-face-more-allegations-says-uk-police-2026-11-06/",
+          "source": "Reuters"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "djia today",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 6 Nov 2026 07:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+          "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b",
+          "source": "WSJ"
+        },
+        {
+          "title": "Market turmoil saps enthusiasm for the buzziest IPO of the year",
+          "url": "https://www.cnn.com/2026/11/06/investing/wall-street-mayhem-complicates-anthropics-already-complicated-ipo",
+          "source": "CNN"
+        },
+        {
+          "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
+          "url": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+          "source": "CNBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "other worlds stranger things",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 6 Nov 2026 09:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Other Worlds: A Stranger Things Adventure Is Coming",
+          "url": "https://www.netflix.com/tudum/articles/other-worlds-a-stranger-things-adventure-live-action-spinoff-release-date-news",
+          "source": "Netflix"
+        },
+        {
+          "title": "Netflix Finally Revealed the First ‘Stranger Things’ Prequel Spin-off",
+          "url": "https://www.esquire.com/uk/culture/tv/a74359904/stranger-things-prequel/",
+          "source": "Esquire"
+        },
+        {
+          "title": "‘Stranger Things’ Prequel Spinoff ‘Other Worlds’ Ordered to Series at Netflix",
+          "url": "https://variety.com/2026/tv/news/stranger-things-prequel-spinoff-other-worlds-series-netflix-1236940920/",
+          "source": "Variety"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from netflix.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "sarah friar",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 6 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+          "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Open AI makes pledges on data center operation after midterm backlash",
+          "url": "https://www.washingtonpost.com/business/2026/11/05/open-ai-makes-pledges-data-center-operation-after-midterm-backlash/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Setting a new standard for responsible AI infrastructure",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
+          "source": "OpenAI"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"election\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "broadcom stock",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 6 Nov 2026 07:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Broadcom Stock Has Had Only 2 Losing Years Since 2009. 2026 Is on Pace to Be the 3rd.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-had-only-2-090102789.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Broadcom And The AI Panic: The Market Has Lost Its Mind (NASDAQ:AVGO)",
+          "url": "https://seekingalpha.com/article/4963996-broadcom-and-the-ai-panic-the-market-has-lost-its-mind",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Broadcom Stock Is Surging Friday: What's Going On?",
+          "url": "https://www.benzinga.com/markets/tech/26/11/62976767/broadcom-stock-is-surging-friday-whats-going-on",
+          "source": "Benzinga"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "ciara",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 6 Nov 2026 07:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "GloRilla Responds to Ciara's Halloween Homage With Her Own Costume Tribute",
+          "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/glorilla-responds-ciaras-halloween-homage-171343402.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "GloRilla, Boyfriend Dress Up Like Ciara, Bow Wow for Halloween",
+          "url": "https://wbxxfm.com/ixp/812/p/glorilla-brandon-ingram-ciara-bow-wow-like-you-halloween-costume/",
+          "source": "K1025"
+        },
+        {
+          "title": "Clippers Brandon Ingram and Rapper GloRilla Channel Ciara, Bow Wow for Epic Halloween Couple Tribute",
+          "url": "https://www.si.com/onsi/athlete-lifestyle/clippers-brandon-ingram-rapper-glorilla-channel-ciara-bow-wow--epic-halloween",
+          "source": "Sports Illustrated"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "dell stock",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 6 Nov 2026 07:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Dell Technologies (DELL) Shares Just Moved, So What Is Driving Attention Now?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-shares-just-121309049.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Dell, Hewlett Packard Enterprise, Xerox, Super Micro, and HP stocks trade down, what you need to know",
+          "url": "https://www.barchart.com/story/news/8677956/dell-hewlett-packard-enterprise-xerox-super-micro-and-hp-stocks-trade-down-what-you-need-to-know",
+          "source": "Barchart.com"
+        },
+        {
+          "title": "Why is Dell Technologies stock plunging today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-plunging-today-93CH-5005083",
+          "source": "Investing.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "vxus",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 6 Nov 2026 07:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "SPDW vs VXUS: Is a State Street or Vanguard International ETF the Better Fit for Your Portfolio?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spdw-vs-vxus-state-street-190302458.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "SPDW vs EEM: Which International ETF Offers Better Value for Investors Seeking Global Stock Profits?",
+          "url": "https://www.fool.com/coverage/etfs/2026/11/05/spdw-vs-eem-which-international-etf-offers-better-value-for-investors-seeking-global-stock-profits/",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Inside the Ticker: IEMG vs. VWO",
+          "url": "https://etfdb.com/equity-etf-content-hub/inside-ticker-iemg-vwo/",
+          "source": "ETF Database"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "zelda ocarina of time nintendo switch",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 6 Nov 2026 09:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Remake of iconic Legend of Zelda game is released",
+          "url": "https://www.bbc.co.uk/news/videos/cq0ldd95j9r3o",
+          "source": "BBC"
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time has revived the midnight game launch – but was it worth the wait?",
+          "url": "https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Ask the Developer Vol. 24, The Legend of Zelda: Ocarina of Time – Chapter 1",
+          "url": "https://www.nintendo.com/en-gb/News/2026/November/Ask-the-Developer-Vol-24-The-Legend-of-Zelda-Ocarina-of-Time-Chapter-1-3230318.html",
+          "source": "Nintendo"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nintendo.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "mélanie maynard",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 6 Nov 2026 08:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Mélanie Maynard est en deuil",
+          "url": "https://www.tvanouvelles.ca/2026/11/06/melanie-maynard-est-en-deuil",
+          "source": "TVA Nouvelles"
+        },
+        {
+          "title": "Mélanie Maynard annonce le décès de sa mère dans un message touchant",
+          "url": "https://www.7jours.ca/2026/11/05/melanie-maynard-annonce-le-deces-de-sa-mere-dans-un-message-touchant",
+          "source": "7 Jours"
+        },
+        {
+          "title": "Mélanie Maynard annonce le décès de sa mère Denise",
+          "url": "https://www.noovomoi.ca/en-vedette/actualites-potins/article/melanie-maynard-annonce-le-deces-de-sa-mere-denise/",
+          "source": "Noovo Moi"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "coup de filet",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 6 Nov 2026 08:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Trafic de drogue: coup de filet chez les Dark Souls, un club proche des Hells Angels",
+          "url": "https://www.journaldemontreal.com/2026/11/06/trafic-de-drogue-coup-de-filet-chez-les-dark-souls-un-club-proche-des-hells-angels",
+          "source": "Le Journal de Montréal"
+        },
+        {
+          "title": "Coup de filet contre le crime organisé | Drogues et armes saisis: Dark Souls visés dans les Hautes-Laurentides",
+          "url": "https://laurentides.cime.fm/nouvelles/813969/drogues-et-armes-saisis-dark-souls-vises-dans-les-hautes-laurentides",
+          "source": "CIME 103.9"
+        },
+        {
+          "title": "Bilan de la frappe policière à Mont-Laurier et Ferme-Neuve",
+          "url": "https://www.cflo.ca/bilan-de-la-frappe-policiere-a-mont-laurier-et-ferme-neuve/",
+          "source": "CFLO"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "luca van assche",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 6 Nov 2026 07:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Licensable picture: FRANCE-ROLEX-PARIS-MASTERS-2026-TENNIS-VAN ASSCHE-HIJIKATA",
+          "url": "https://www.reutersconnect.com/item/france-rolex-paris-masters-2026-tennis-van-assche-hijikata/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMFhXVU8yNQ",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "November 6, 2026: Nishesh Basavareddy vs Jerome Kym Tennis Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/nishesh-basavareddy-vs-jerome-kym-nov-06-2026/",
+          "source": "Robinhood"
+        },
+        {
+          "title": "Van Assche vs Hijikata: Rare Under-1.80m Quarterfinal at Paris Masters",
+          "url": "https://en.tennistemple.com/actu/van-assche-vs-hijikata-rare-under-180m/GbHP",
+          "source": "TennisTemple"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "manchester christmas markets 2026",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 09:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Manchester’s Christmas markets set to return",
+          "url": "https://www.bbc.co.uk/news/videos/cmkge7652k7no",
+          "source": "BBC"
+        },
+        {
+          "title": "Manchester Christmas Market train travel advice released",
+          "url": "https://www.railadvent.co.uk/2026/11/rail-travel-advice-as-manchester-christmas-markets-return-tomorrow.html",
+          "source": "RailAdvent"
+        },
+        {
+          "title": "Warning to anyone travelling by train to Manchester Christmas markets this year",
+          "url": "https://www.nwemail.co.uk/news/26703714.rail-warning-issued-manchester-christmas-markets-return/",
+          "source": "NW Mail"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.6,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Matches print-on-demand vocabulary (\"christmas\")."
+      ]
+    },
+    {
+      "title": "f-35b",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 09:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Royal Navy pilot conducts first F-35B Meteor missile release test",
+          "url": "https://www.navylookout.com/royal-navy-pilot-conducts-first-f-35b-meteor-missile-release-test/",
+          "source": "Navy Lookout"
+        },
+        {
+          "title": "F-35B Releases Meteor BVRAAM for the First Time",
+          "url": "https://theaviationist.com/2026/11/05/f-35b-releases-meteor-bvraam-for-the-first-time/",
+          "source": "The Aviationist"
+        },
+        {
+          "title": "METEOR Completes First Jettison Trials on F-35",
+          "url": "https://www.f35.com/f35/news-and-features/METEOR-Completes-First-Jettison-Trials-on-F-35.html",
+          "source": "F35.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "motor lublin – wisła płock",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 09:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Motor Lublin - Wisła Płock [RELACJA NA ŻYWO]",
+          "url": "https://przegladsportowy.onet.pl/pilka-nozna/motor-lublin-wisla-plock-relacja-na-zywo/k3bhepb",
+          "source": "Przegląd Sportowy"
+        },
+        {
+          "title": "Mariusz Misiura: Motor ma stać się czołowym klubem w Polsce [WYWIAD]",
+          "url": "https://weszlo.com/mariusz-misiura-motor-ma-stac-sie-czolowym-klubem-w-polsce-wywiad/",
+          "source": "weszlo.com"
+        },
+        {
+          "title": "Wczorajszy kupon trafiony! Atakujemy AKO z kursem 2.43 na Ekstraklasę",
+          "url": "https://sportowefakty.wp.pl/bukmacherzy/1282904/wisla-wygra-kolejny-mecz-na-swoim-stadionie-kupon-z-kursem-243-na-derby-krakowa",
+          "source": "SportoweFakty"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "rugby nations championship 2026",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 09:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "England vs. Australia: How to watch, kick-off time, TV channel, team news for Nations Championship rugby clash",
+          "url": "https://www.espn.co.uk/rugby/story/_/id/50306414/england-vs-australia-how-watch-kick-tv-channel-team-news-nations-championship-clash",
+          "source": "ESPN"
+        },
+        {
+          "title": "England beware: Aussies are dangerous at breakdown and have a fine back three",
+          "url": "https://www.thetimes.com/sport/rugby-union/article/england-australia-nations-championship-steve-borthwick-6phk8cft0",
+          "source": "The Times"
+        },
+        {
+          "title": "Twickenham faithful are losing patience with Borthwick’s England",
+          "url": "https://www.telegraph.co.uk/rugby-union/2026/11/02/winning-ugly-help-borthwick-placate-fickle-twickenham-crowd/",
+          "source": "The Telegraph"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "brazilian grand prix",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 08:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "F1 practice LIVE: Sao Paulo Grand Prix 2026 times, results & radio from Interlagos",
+          "url": "https://www.bbc.co.uk/sport/formula1/live/cdxdn2gprvnt",
+          "source": "BBC"
+        },
+        {
+          "title": "Norris leads Antonelli and Verstappen in Sao Paulo FP1",
+          "url": "https://www.formula1.com/en/latest/article/fp1-norris-leads-antonelli-and-verstappen-in-opening-sao-paulo-gp-practice-session.3GXL3rAROwHsLxnxn9hReY",
+          "source": "Formula 1"
+        },
+        {
+          "title": "Sao Paulo GP: Lando Norris tops Brazil first practice in upgraded McLaren from Kimi Antonelli and Max Verstappen",
+          "url": "https://www.skysports.com/f1/news/13608857/sao-paulo-gp-lando-norris-tops-brazil-first-practice-in-upgraded-mclaren-from-kimi-antonelli-and-max-verstappen",
+          "source": "Sky Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from formula1.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "rugby fixtures",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 08:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "What we think we know about England, Australia, New Zealand and more as rugby's Nations Championship returns",
+          "url": "https://www.espn.co.uk/rugby/story/_/id/50369602/nations-championship-2026-takeaways-predictions-england-france-south-africa-new-zealand-australia-rugby",
+          "source": "ESPN"
+        },
+        {
+          "title": "Nations Championship, Round Four: Teams, predictions, global TV channels and more",
+          "url": "https://www.planetrugby.com/news/nations-championship-round-four-teams-predictions-global-tv-channels-and-more",
+          "source": "Planet Rugby"
+        },
+        {
+          "title": "A simple guide to the Nations Championship",
+          "url": "https://www.telegraph.co.uk/rugby-union/2026/11/03/nations-championship-format-guide-draw-finals-england/",
+          "source": "The Telegraph"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "mississippi senate election results",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 09:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
+          "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "A history-making Black governor can’t believe Mississippi’s Senate election",
+          "url": "https://www.washingtonpost.com/politics/2026/11/06/history-making-black-governor-couldnt-believe-mississippis-senate-election/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Anticipation and optimism take hold as Mississippi’s Senate race becomes a nail-biter",
+          "url": "https://www.nbcnews.com/politics/2026-election/mississippis-senate-race-colom-hyde-smith-rcna607436",
+          "source": "NBC News"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"election\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "rj mitte",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 09:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "RJ Mitte: Neue Details zum Tod des \"Breaking Bad\"-Stars bekannt",
+          "url": "https://www.rtl.de/unterhaltung/stars/rj-mitte-neue-details-zum-tod-des-breaking-bad-stars-bekannt-id31502152.html",
+          "source": "RTL.de"
+        },
+        {
+          "title": "Amtlicher Bericht aus Texas bestätigt Suizid von RJ Mitte",
+          "url": "https://web.de/magazine/unterhaltung/videos/shorts/stars/amtlicher-bericht-texas-bestaetigt-suizid-rj-mitte-42919152",
+          "source": "WEB.DE"
+        },
+        {
+          "title": "Der Vater der Tigerente ist tot: Autor und Illustrator Janosch ist im Alter von 95 Jahren verstorben",
+          "url": "https://www.brigitte.de/aktuell/gesellschaft/verstorbene-promis-2026--janosch-ist-tot_14111806-14055106.html",
+          "source": "BRIGITTE.de"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "maria sakkari",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 08:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "November 6, 2026: Casper Ruud vs Nuno Borges: Set 1 Winner Tennis Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/casper-ruud-vs-nuno-borges-set-1-winner-nov-06-2026/",
+          "source": "Robinhood"
+        },
+        {
+          "title": "November 5, 2026: Moyuka Uchijima vs Magda Linette: Set 1 Winner Tennis Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/moyuka-uchijima-vs-magda-linette-set-1-winner-nov-05-2026/",
+          "source": "Robinhood"
+        },
+        {
+          "title": "November 5, 2026: Moyuka Uchijima vs Magda Linette: Set 2 Winner Tennis Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/moyuka-uchijima-vs-magda-linette-set-2-winner-nov-05-2026/",
+          "source": "Robinhood"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "meghan, duchess of sussex",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 09:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Meghan Markle's father charged with possessing child pornography",
+          "url": "https://www.abc.net.au/news/2026-11-07/thomas-markle-charged-with-possessing-child-pornography/107358744",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Meghan's father Thomas Markle arrested - follow live",
+          "url": "https://www.bbc.com/news/live/cwnv03203yvmt",
+          "source": "BBC"
+        },
+        {
+          "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+          "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"arrested\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "sony walkman headphones",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 07:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Sony Debuts $60 Wired Headphones With ’80s-Inspired Design",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/sony-debuts-retro-60-wired-headphones-in-tribute-to-1979-walkman",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Sony releases the MDR-3R which puts a modern spin on the original Walkman wired headphones",
+          "url": "https://www.techguide.com.au/news/audio-news/sony-releases-the-mdr-3r-which-puts-a-modern-spin-on-the-original-walkman-wired-headphones/",
+          "source": "www.techguide.com.au"
+        },
+        {
+          "title": "Sony MDR-3R Review: Walkman Nostalgia Wins Again",
+          "url": "https://gizmodo.com/sony-mdr-3r-review-walkman-2000834508",
+          "source": "Gizmodo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "wow forever server status",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 07:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Set Your Campfire Ablaze with the Pouch of Violet Dust! — World of Warcraft",
+          "url": "https://news.blizzard.com/en-us/article/24317678/set-your-campfire-ablaze-with-the-pouch-of-violet-dust",
+          "source": "Blizzard News"
+        },
+        {
+          "title": "Why Blizzard Made a New ‘World of Warcraft’",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/why-blizzard-made-world-of-warcraft-forever",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Begin Again in Azeroth: World of Warcraft: Forever Is Here",
+          "url": "https://blog.twitch.tv/en/2026/11/04/world-of-warcraft-forever-is-here/",
+          "source": "Twitch Blog"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ringer",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 06:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "NFL Week 9 picks: Upset and score predictions, matchup breakdowns for every game",
+          "url": "https://www.nfl.com/news/nfl-picks-week-9-2026-nfl-season",
+          "source": "NFL.com"
+        },
+        {
+          "title": "Week 9 Fantasy Football Bold Predictions",
+          "url": "https://sports.yahoo.com/fantasy/article/week-9-fantasy-football-bold-predictions-171336803.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Self-learning AI releases NFL picks, score predictions for every Week 9 game",
+          "url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-best-bets-exact-scores-for-every-week-9-2026-game/",
+          "source": "CBS Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nfl.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "ben shelton",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 6 Nov 2026 05:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Ben Shelton tops Tommy Paul to reach first Paris Masters semifinal",
+          "url": "https://www.espn.com.au/tennis/story/_/id/50399868/ben-shelton-tops-tommy-paul-reach-paris-masters-semifinals",
+          "source": "ESPN"
+        },
+        {
+          "title": "Shelton shuts down Paul’s Turin hopes, reaches Paris SFs",
+          "url": "https://www.atptour.com/en/news/shelton-paul-paris-2026-qf",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Shelton edges past Rinderknech in third-set tiebreak to reach Paris quarters",
+          "url": "https://www.thechronicle.com.au/sport/shelton-edges-past-rinderknech-in-thirdset-tiebreak-to-reach-paris-quarters/video/361bbedad8e5b6135ac6bd6e9c1f4789",
+          "source": "Toowoomba Chronicle"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "power outage near me",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 6 Nov 2026 08:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "AES Ohio restoring electricity after outages reach 15K",
+          "url": "https://www.wdtn.com/top-stories/thousands-without-power-in-northern-miami-valley/",
+          "source": "WDTN.com"
+        },
+        {
+          "title": "Power restored after outages leave thousands without electricity",
+          "url": "https://dayton247now.com/news/local/outages-leave-thousands-without-electricity-near-auglaize-and-logan-counties",
+          "source": "WKEF"
+        },
+        {
+          "title": "More than 17,000 without power across Logan and Shelby Counties",
+          "url": "https://www.peakofohio.com/local-news/more-than-17000-without-power-across-logan-and-shelby-counties/",
+          "source": "Peak of Ohio"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "fencing",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 6 Nov 2026 07:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "New fencing installed at Skyline Park",
+          "url": "https://www.tnonline.com/20261105/new-fencing-installed-at-skyline-park/",
+          "source": "Times News Online"
+        },
+        {
+          "title": "Golden Valley to allow taller fences",
+          "url": "https://www.hometownsource.com/sun_post/community/newhope_goldenvalley/golden-valley-to-allow-taller-fences/article_69737caa-2326-47eb-a4f4-a59b947bf8c8.html",
+          "source": "hometownsource.com"
+        },
+        {
+          "title": "Fencing To Open Collegiate Competition At Duke - University of North Carolina Athletics",
+          "url": "https://goheels.com/news/2026/11/6/fencing-to-open-collegiate-competition-at-duke",
+          "source": "University of North Carolina Athletics"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "forex factory",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 6 Nov 2026 05:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Qatar’s emir holds call with Trump as mediators push for deal to end Iran war",
+          "url": "https://www.ft.com/content/d89a6369-7572-42e4-b3eb-413b462c587d?syn-25a6b1a6=1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Trump Holds Call With Mediator Qatar About Iran De-Escalation",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/trump-holds-call-with-mediator-qatar-about-iran-de-escalation",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Qatar’s emir, Trump discuss mediation efforts to end regional crisis",
+          "url": "https://www.arabnews.com/middle-east/qatars-emir-trump-discuss-mediation-efforts-to-end-regional-crisis-3010128",
+          "source": "Arab News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "you can see everything",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 6 Nov 2026 05:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "‘You Can See Everything’ Sparks Frenzy in Europe as Screenings Sell Out and Anticipation Soars: ‘People Are Just Desperate to See It’",
+          "url": "https://variety.com/2026/film/global/you-can-see-everything-sparks-frenzy-in-europe-1236938329/",
+          "source": "Variety"
+        },
+        {
+          "title": "‘You Can See Everything’ … in Space? A24 Sends Elizabeth Holmes Doc to ISS",
+          "url": "https://www.cnet.com/culture/entertainment/you-can-see-everything-outer-space-a24/",
+          "source": "CNET"
+        },
+        {
+          "title": "‘You Can See Everything’ Advance Screenings Sell Out in the U.K. and France",
+          "url": "https://mezha.net/eng/news/mezha-e02e28f42ab65378267d5f36_you_can_see/",
+          "source": "Mezha.net"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "legend of zelda ocarina of time",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 6 Nov 2026 05:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Spiritual Stone of Fire - Goron City and the Lost Woods Walkthrough",
+          "url": "https://www.ign.com/wikis/ocarina-of-time-remake/Spiritual_Stone_of_Fire_-_Goron_City_and_the_Lost_Woods_Walkthrough",
+          "source": "IGN"
+        },
+        {
+          "title": "Zelda OOT Remake: Lost Woods map, how to navigate",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
+          "source": "Video Games Chronicle"
+        },
+        {
+          "title": "How to get Saria's Song in Zelda Ocarina of Time",
+          "url": "https://www.eurogamer.net/zelda-ocarina-of-time-sarias-song",
+          "source": "Eurogamer.net"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"city\" — commonly a protected mark or event name."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-11-06",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Celestial / tarot",
+      "motifs": [
+        "moon phases",
+        "hand-drawn tarot suit",
+        "constellation map"
+      ],
+      "suggestedProducts": [
+        "poster",
+        "graphic tee",
+        "sticker"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Goblincore / whimsy",
+      "motifs": [
+        "frog in a hat",
+        "snail and moss",
+        "toadstool ring"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
