@@ -1,0 +1,1302 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T16:55:28.149Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "premier league standings",
+      "traffic": 50000,
+      "trafficLabel": "50000+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Premier League LIVE: Live text, radio and reaction from across the Premier League",
+          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+          "source": "BBC"
+        },
+        {
+          "title": "Nottingham Forest condemn Man City to 3rd straight Premier League loss",
+          "url": "https://www.espn.com/soccer/story/_/id/50410354/manchester-city-nottingham-forest-premier-league-loss",
+          "source": "ESPN"
+        },
+        {
+          "title": "The result Oliver Glasner needed: How Nottingham Forest ran Manchester City ragged",
+          "url": "https://www.nytimes.com/athletic/7762294/2026/11/08/nottingham-forest-oliver-glasner-delap-man-city/",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "power outages seattle",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Strong winds blow down trees, block roads and close roads Saturday night",
+          "url": "https://www.king5.com/article/weather/severe-weather/strong-winds-blow-down-trees-block-roads-and-close-routes-saturday-night/281-b0a1088e-8003-45d3-83fb-8d7b854620ac",
+          "source": "KING5.com"
+        },
+        {
+          "title": "Strong winds leave tens of thousands across Washington without power",
+          "url": "https://www.kiro7.com/news/local/strong-winds-leave-tens-thousands-across-washington-without-power/b291d13e-42e1-4af9-a9db-c7584953e470/",
+          "source": "KIRO 7 News Seattle"
+        },
+        {
+          "title": "Thousands in Western WA lost power from hefty windstorm",
+          "url": "https://www.seattletimes.com/seattle-news/weather/seattle-windstorm-83k-outages-reported-in-western-wa/",
+          "source": "The Seattle Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "chicago fire",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "It’s Miami Time presented by Royal Caribbean: Inter Miami CF to Face Columbus Crew in Round One of the Audi 2026 MLS Playoffs",
+          "url": "https://www.intermiamicf.com/news/it-s-miami-time-presented-by-royal-caribbean-inter-miami-cf-to-face-columbus-crew-in-round-one-of-the-audi-2026-mls-playoffs",
+          "source": "Inter Miami CF"
+        },
+        {
+          "title": "Crew enter MLS playoffs as No. 7 seed, to face Inter Miami in Round One",
+          "url": "https://www.nbc4i.com/sports/mls/columbus-crew/crew-enter-mls-playoffs-as-no-7-seed-to-face-inter-miami-in-round-one/",
+          "source": "NBC4 WCMH-TV"
+        },
+        {
+          "title": "Chicago Fire vs Columbus Crew: Major League Soccer stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cw203jemke86t",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "epl",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+          "url": "https://www.bbc.com/sport/football/live/c8x23v559276t",
+          "source": "BBC"
+        },
+        {
+          "title": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+          "url": "https://www.bbc.co.uk/sport/football/live/c8x23v559276t?page=2",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"score\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "man utd vs aston villa",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sun, 8 Nov 2026 07:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Wimborne vs. Crawley (9 Nov, 2026) Team Stats",
+          "url": "https://www.espn.com.au/football/team-stats/_/gameId/401931093/league/eng.fa",
+          "source": "ESPN"
+        },
+        {
+          "title": "Real Sociedad vs. Rayo (9 Nov, 2026) Team Stats",
+          "url": "https://www.espn.com.au/football/team-stats/_/gameId/401882810/league/esp.1",
+          "source": "ESPN"
+        },
+        {
+          "title": "Santa Clara vs. Gil Vicente (9 Nov, 2026) Team Stats",
+          "url": "https://www.espn.com.au/football/team-stats/_/gameId/401885396/league/por.1",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "crystal palace f.c. vs liverpool f.c. standings",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sun, 8 Nov 2026 08:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Alexander Isak tops off goal trio for Liverpool as late penalty offers little for Crystal Palace",
+          "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "C Palace 1-3 Liverpool (Nov 8, 2026) Game Analysis",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401879243",
+          "source": "ESPN"
+        },
+        {
+          "title": "Crystal Palace 1-3 Liverpool: How the players rated",
+          "url": "https://www.bbc.com/sport/football/articles/c6rmygp0pvdpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "iihf world junior championship russia reintegration",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sun, 8 Nov 2026 08:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "IIHF bars Belarus from WJC, men’s worlds; exploring ways to meet CAS ruling on Russia",
+          "url": "https://globalnews.ca/news/12141307/iihf-bars-belarus-from-wjc/",
+          "source": "Global News"
+        },
+        {
+          "title": "IIHF issues statement on Russian and Belarusian participation in tournaments",
+          "url": "https://www.sportsnet.ca/ice-hockey-world-championship/article/iihf-issues-statement-on-russian-and-belarusian-participation-in-tournaments/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Wayne Gretzky weighs in on PM Carney’s call to bar Russia from world juniors",
+          "url": "https://www.ctvnews.ca/sports/article/wayne-gretzy-support-carneys-decision-to-bar-russia-from-world-juniors/",
+          "source": "CTV News"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "wallabies",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sun, 8 Nov 2026 07:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "England vs Australia LIVE: Nations Championship 2026 - latest scores, radio commentary, live text updates & lineups",
+          "url": "https://www.bbc.com/sport/rugby-union/live/crrpn80dgn9t",
+          "source": "BBC"
+        },
+        {
+          "title": "England v Australia: Nations Championship – rugby union live",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/08/england-v-australia-nations-championship-rugby-union-live?page=with:block-6af0a51e8f08c30857a84e9a",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Live: Wallabies open spring tour at Twickenham against England",
+          "url": "https://www.abc.net.au/news/2026-11-09/live-updates-england-vs-wallabies-nations-championship/107351328",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "khalil herbert",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Red Sox Decline Mutual Option On Sonny Gray",
+          "url": "https://www.mlbtraderumors.com/2026/10/sonny-gray-becomes-free-agent-after-mutual-option-is-declined.html",
+          "source": "MLB Trade Rumors"
+        },
+        {
+          "title": "Could Braves and Sonny Gray finally happen this offseason?",
+          "url": "https://www.ajc.com/sports/2026/11/could-braves-and-sonny-gray-finally-happen-this-offseason/",
+          "source": "The Atlanta Journal-Constitution"
+        },
+        {
+          "title": "MLB Free Agency Buzz: Dodgers Make Coaching Change; Nationals Extend OF",
+          "url": "https://www.foxsports.com/stories/mlb/mlb-free-agency-skubal-offseason-signings",
+          "source": "FOX Sports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"mlb\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "bkfc glasgow ovo hydro disturbance",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Two arrests and police officers hurt after brawl outside bare-knuckle fighting event",
+          "url": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo",
+          "source": "BBC"
+        },
+        {
+          "title": "Police officers hurt and two charged after bare-knuckle boxing event at Hydro",
+          "url": "https://news.stv.tv/west-central/two-men-charged-after-bare-knuckle-boxing-event-at-hydro-in-glasgow",
+          "source": "STV News"
+        },
+        {
+          "title": "Fights outside Glasgow's OVO Hydro with 'police everywhere' after event",
+          "url": "https://www.dailyrecord.co.uk/news/scottish-news/fights-outside-glasgows-ovo-hydro-37854984",
+          "source": "Daily Record"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "pl",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Lekarze ruszyli na ratunek policjantom w Krakowie. \"Tak znaleźliśmy się w oku cyklonu\"",
+          "url": "https://wiadomosci.onet.pl/krakow/lekarze-ratowali-policjantow-po-zamachu-w-krakowie-tak-znalezlismy-sie-w-oku-cyklonu/fzn497z",
+          "source": "Wiadomości Onet"
+        },
+        {
+          "title": "\"Wciąż nie wiedzieli, co się dzieje\". Dramatyczna relacja",
+          "url": "https://wiadomosci.wp.pl/krakow/wciaz-nie-wiedzieli-co-sie-dzieje-dramatyczna-relacja-7348846286850496a",
+          "source": "WP Wiadomości"
+        },
+        {
+          "title": "Malarka Izabela W. zginęła w strzelaninie w Krakowie. Osierociła czworo dzieci",
+          "url": "https://www.o2.pl/informacje/malarka-izabela-w-zginela-w-strzelaninie-w-krakowie-osierocila-czworo-dzieci-7348853426973152a",
+          "source": "o2"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "usa network",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "The CW Goes Big on College Basketball, Expanding REMI Workflows, Specialty Cameras Across Three Conferences, 130 Games",
+          "url": "https://www.sportsvideo.org/2026/11/05/the-cw-goes-big-on-college-basketball-expanding-remi-workflows-specialty-cameras-across-three-conferences-130-games/",
+          "source": "Sports Video Group"
+        },
+        {
+          "title": "Neil Everett to guest host Bill Walton Classic on USA Network",
+          "url": "https://sports.yahoo.com/articles/neil-everett-guest-host-bill-180009924.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Off Historic Opener in Rome, FOX Sports Relies on REMI Workflows, Specialty Cameras for College Basketball Season",
+          "url": "https://www.sportsvideo.org/2026/11/02/off-historic-opener-in-rome-fox-sports-relies-on-remi-workflows-specialty-cameras-for-college-basketball-season/",
+          "source": "Sports Video Group"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "myles garrett",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Rams' Myles Garrett to be activated from injured reserve, play vs. Commanders",
+          "url": "https://www.espn.com/nfl/story/_/id/50400738/sources-rams-myles-garrett-track-return-vs-commanders",
+          "source": "ESPN"
+        },
+        {
+          "title": "Is Myles Garrett finally making LA debut vs. Commanders after knee surgery?",
+          "url": "https://sports.yahoo.com/articles/myles-garrett-finally-making-la-154305013.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Rams activate Myles Garrett (knee) from injured reserve ahead of Sunday's game vs. Commanders",
+          "url": "https://www.nfl.com/news/rams-myles-garrett-knee-activated-injured-reserve-commanders",
+          "source": "NFL.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "nicolas jackson",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "\"Don't get me wrong\": Haaland identifies what Manchester City need after Aston Villa slap",
+          "url": "https://www.goal.com/en/news/don-t-get-me-wrong-haaland-identifies-what-manchester-city-need-after-aston-villa-blow/bltad26da92958641cf",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Another two wins on the board",
+          "url": "https://www.avfc.co.uk/news/2026/october/27/feature-another-two-wins-on-the-board/",
+          "source": "Aston Villa"
+        },
+        {
+          "title": "He was supposed to join instead of Nicolas Jackson! Bayern Munich face a former transfer target",
+          "url": "https://www.goal.com/en/news/he-was-supposed-to-join-instead-of-nicolas-jackson-bayern-munich-face-a-former-transfer-target/blt4cafa377e9224dcb",
+          "source": "Goal.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"city\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "inter vs como",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 8 Nov 2026 08:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Inter Milan vs Como: Italian Serie A stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cq5ynmk4lpy5t",
+          "source": "BBC"
+        },
+        {
+          "title": "Serie A line-ups: Inter vs. Como",
+          "url": "https://sports.yahoo.com/articles/serie-line-ups-inter-vs-160100190.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Inter",
+          "url": "https://www.flashscore.com/match/football/como-ttyLthOA/inter-Iw7eKK25/summary/lineups/avg-rating/?mid=UugSM0CD",
+          "source": "Flashscore.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "carlos alcaraz",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 8 Nov 2026 06:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Hot Shot: Alcaraz, Shelton raise the roof in Paris final",
+          "url": "https://www.atptour.com/en/video/hot-shot-alcaraz-shelton-raise-the-roof-in-paris-final",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Carlos Alcaraz looking for 'revenge' against Ben Shelton in Paris Masters final",
+          "url": "https://www.espn.com.au/tennis/story/_/id/50409999/alcaraz-looking-revenge-vs-shelton-paris-masters-final",
+          "source": "ESPN"
+        },
+        {
+          "title": "Alcaraz wants US Open revenge over Shelton in Paris",
+          "url": "https://www.canberratimes.com.au/story/9387565/alcaraz-wants-us-open-revenge-over-shelton-in-paris/",
+          "source": "The Canberra Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "chelsea",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sun, 8 Nov 2026 06:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+          "url": "https://www.bbc.com/sport/football/live/c8x23v559276t",
+          "source": "BBC"
+        },
+        {
+          "title": "Chelsea shocked by Sunderland, Liverpool cruise",
+          "url": "https://www.theaustralian.com.au/news/latest-news/chelsea-shocked-by-sunderland-liverpool-cruise/news-story/482d7f0a303dcc6bc5d98f569b4f47b1",
+          "source": "The Australian"
+        },
+        {
+          "title": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"score\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "nicolas jackson",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Nicolas Jackson could end Aston Villa's comical 11-year wait after Premier League announcement",
+          "url": "https://sports.yahoo.com/articles/nicolas-jackson-could-end-aston-165900830.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "'He could go on a run at Villa' - Arsenal legend Ian Wright backs £65m signing Nicolas Jackson to make Chelsea regret summer sale",
+          "url": "https://www.goal.com/en-us/news/ian-wright-backs-65m-aston-villa-signing-nicolas-jackson-make-chelsea-regret-sale/bltd9222f8122e27bab",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Man Utd's perfect signing receives official transfer verdict",
+          "url": "https://www.footballtransfers.com/us/transfer-news/uk-premier-league/2026/10/man-utds-perfect-signing-receives-official-transfer-verdict",
+          "source": "www.footballtransfers.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"premier league\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"verdict\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "freiburg vs union berlin",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Liveticker | SC Freiburg - 1. FC Union Berlin 0:0 | 9. Spieltag | Bundesliga 2026/27",
+          "url": "https://www.kicker.de/freiburg-gegen-union-2026-bundesliga-5226885/ticker",
+          "source": "Kicker"
+        },
+        {
+          "title": "Bundesliga live: Freiburg gegen Berlin | Auftsellung und Ticker",
+          "url": "https://www.t-online.de/sport/live-ticker/fussball/bundesliga/sdc_fm-59361/bundesliga-live-freiburg-gegen-berlin-auftsellung-und-ticker.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "SC Freiburg vs. 1. FC Union Berlin: Die offiziellen Aufstellungen sind da!",
+          "url": "https://www.tipico.de/wett-tipps/sportwetten-news/freiburg-union-berlin-offizielle-aufstellungen",
+          "source": "Tipico"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "alan ritchson motor city streaming",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Alan Ritchson's Non-Stop 103-Minute Action Thriller Takes Over Streaming in Just 1 Day",
+          "url": "https://movieweb.com/motor-city-alan-ritchson-stream-amc-november-2026/",
+          "source": "MovieWeb"
+        },
+        {
+          "title": "Stream It Or Skip It: ‘Motor City’ on AMC+, an Alan Ritchson dialogue-free action stylegasm",
+          "url": "https://decider.com/2026/11/06/motor-city-amc-review-stream-it-or-skip-it/",
+          "source": "Decider"
+        },
+        {
+          "title": "How to watch Motor City in Australia",
+          "url": "https://blog.reelgood.com/en-au/how-to-watch-motor-city-in-australia",
+          "source": "UpNext by Reelgood"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"city\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "inter - como",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Serie A tips, best bets and predictions: Inter shot shout and Roma strongly backed",
+          "url": "https://www.dazn.com/en-GB/news/football/serie-a-betting-tips-best-bets-build-a-bet-predictions-preview-juventus-roma-dbn/do0nvu82fssb18or2cuqluxfw",
+          "source": "DAZN"
+        },
+        {
+          "title": "Sunday’s Serie A betting tips: Expert predictions from Italy’s top flight",
+          "url": "https://mrfixitstips.co.uk/sunday-serie-a-predictions-08-11-2026/",
+          "source": "MrFixitsTips"
+        },
+        {
+          "title": "Saturday’s Serie A betting tips: Expert predictions from Italy’s top flight",
+          "url": "https://mrfixitstips.co.uk/saturday-serie-a-predictions-07-11-2026/",
+          "source": "MrFixitsTips"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "曼聯對阿斯頓維拉",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "40年來首陷降班區 曼聯今晚變包尾？",
+          "url": "https://hk.sports.yahoo.com/news/40%E5%B9%B4%E4%BE%86%E9%A6%96%E9%99%B7%E9%99%8D%E7%8F%AD%E5%8D%80-%E6%9B%BC%E8%81%AF%E4%BB%8A%E6%99%9A%E8%AE%8A%E5%8C%85%E5%B0%BE-004036592.html",
+          "source": "Yahoo體育：新聞"
+        },
+        {
+          "title": "卡域克：無高層承諾保我帥位",
+          "url": "https://news.now.com/mobile/sports/player?newsId=sp39836778679",
+          "source": "Now 新聞"
+        },
+        {
+          "title": "曼聯對維拉前墮降班區 卡域克未獲保證留任：要發生的事總會發生",
+          "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408490/%E6%9B%BC%E8%81%AF%E5%B0%8D%E7%B6%AD%E6%8B%89%E5%89%8D%E5%A2%AE%E9%99%8D%E7%8F%AD%E5%8D%80-%E5%8D%A1%E5%9F%9F%E5%85%8B%E6%9C%AA%E7%8D%B2%E4%BF%9D%E8%AD%89%E7%95%99%E4%BB%BB-%E8%A6%81%E7%99%BC%E7%94%9F%E7%9A%84%E4%BA%8B%E7%B8%BD%E6%9C%83%E7%99%BC%E7%94%9F",
+          "source": "香港01"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "man u game",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Michael Carrick's Man Utd future uncertain as club ponder international break change - Paper Talk",
+          "url": "https://www.skysports.com/football/transfer-paper-talk/13609640/michael-carricks-man-utd-future-uncertain-as-club-ponder-international-break-change-paper-talk",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Carrick not seeking assurances ahead of Villa's visit",
+          "url": "https://www.rte.ie/sport/soccer/2026/1107/1598390-carrick-not-seeking-assurances-ahead-of-villas-visit/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "Inside the indecision at Man United and the question that will decide Michael Carrick’s future",
+          "url": "https://www.independent.co.uk/sport/football/man-united-michael-carrick-unai-emery-aston-villa-preview-b3080251.html",
+          "source": "The Independent"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "greg fisilau",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Greg Fisilau: Exeter boss Rob Baxter backs forward for England",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckwyqj2ljl3do",
+          "source": "BBC"
+        },
+        {
+          "title": "Fisilau on bench for England debut",
+          "url": "https://www.exeterchiefs.co.uk/news/fisilau-on-bench-for-england-debut",
+          "source": "Exeter Chiefs"
+        },
+        {
+          "title": "England vs Australia team news - Exeter Chiefs duo start, uncapped back on bench",
+          "url": "https://uk.sports.yahoo.com/news/england-vs-australia-team-news-143657242.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "legia warszawa – raków częstochowa",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Składy meczowe Legia Warszawa - Raków Częstochowa - 08.11.2026",
+          "url": "https://www.meczyki.pl/wyniki-na-zywo/legia-warszawa-rakow-czestochowa/6082850/sklady-meczowe",
+          "source": "Meczyki.pl"
+        },
+        {
+          "title": "Debiut Stępniewskiego w Legii",
+          "url": "https://legia.net/news/debiut-stepniewskiego-w-legii/105738",
+          "source": "Legia.Net"
+        },
+        {
+          "title": "Papszun już szykuje go do debiutu. Legia może mieć perełkę na lata",
+          "url": "https://weszlo.com/papszun-juz-szykuje-go-do-debiutu-legia-moze-miec-perelke-na-lata/",
+          "source": "weszlo.com"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "oldham athletic",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Oldham Athletic vs Sheffield Wednesday: FA Cup stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/cm1ex5p3gj1zt",
+          "source": "BBC"
+        },
+        {
+          "title": "SWFC: Owls predicted line-up for Dave Challinor's maiden outing at Oldham",
+          "url": "https://www.thestar.co.uk/sport/football/sheffield-wednesday/sheffield-wednesday-predicted-line-up-oldham-athletic-9334419",
+          "source": "The Star"
+        },
+        {
+          "title": "TV and streaming details ahead of Oldham Athletic v Sheffield Wednesday",
+          "url": "https://www.yorkshirepost.co.uk/sport/football/oldham-athletic-sheffield-wednesday-tv-channel-streaming-fa-cup-9336384",
+          "source": "Yorkshire Post"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "jennifer aniston",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Before Friends, Jennifer Aniston Starred In A Forgotten '90s Sketch Comedy Show",
+          "url": "https://www.imdb.com/de/news/ni66099017/?ref_=nwc_art_perm",
+          "source": "IMDb"
+        },
+        {
+          "title": "Before Friends, Jennifer Aniston Starred In A Forgotten '90s Sketch Comedy Show",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/friends-jennifer-aniston-starred-forgotten-191200025.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Before Friends, Jennifer Aniston Starred In A Forgotten '90s Sketch Comedy Show",
+          "url": "https://www.imdb.com/news/ni66099017/?ref_=nwc_art_perm",
+          "source": "IMDb"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "boris becker",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Lilly Becker: „Konnte nicht mal genug trinken, um ihn zu vergessen“",
+          "url": "https://home.1und1.de/magazine/unterhaltung/videos/stars/lilly-becker-trinken-vergessen-42924194",
+          "source": "1&1"
+        },
+        {
+          "title": "Lilly Becker: \"Habe mich noch nie so hässlich und ungewollt gefühlt\"",
+          "url": "https://web.de/magazine/unterhaltung/stars/lilly-becker-haesslich-ungewollt-gefuehlt-42923998",
+          "source": "WEB.DE"
+        },
+        {
+          "title": "Lilly Becker fühlte sich wegen Boris' Verlobung \"ungewollt\"",
+          "url": "https://www.promiflash.de/news/2026/11/08/lilly-becker-fuehlte-sich-wegen-boris-verlobung-ungewollt.html",
+          "source": "Promiflash"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "george pickens",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Updates: Lawrence to IR, Liufau returns",
+          "url": "https://www.dallascowboys.com/news/updates-november-2026",
+          "source": "Dallas Cowboys | Official Site of the Dallas Cowboys"
+        },
+        {
+          "title": "Will George Pickens Play Today? Injury Update, Start-or-Sit Advice for Week 9",
+          "url": "https://www.si.com/nfl/cowboys/onsi/will-george-pickens-play-today-injury-update-start-sit-advice-week-9",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Cowboys Add Two Offensive Players Ahead of Colts Matchup",
+          "url": "https://athlonsports.com/nfl/dallas-cowboys/cowboys-add-two-offensive-players-ahead-of-colts-matchup",
+          "source": "Athlon Sports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"cowboys\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "preparedness",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:00:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "As Europe prepares for the worst, Britons get schooled in preparedness",
+          "url": "https://www.cbc.ca/news/world/britain-be-ready-campaign-emergency-prep-9.7413720",
+          "source": "CBC"
+        },
+        {
+          "title": "Why did the preppers suddenly start thinking about the quickly impending apocalypse?",
+          "url": "https://www.technology.org/2026/11/03/why-did-the-preppers-suddenly-start-thinking-about-the-quickly-impending-apocalypse/",
+          "source": "Technology Org"
+        },
+        {
+          "title": "The Hangout: Ready to face the zombie apocalypse",
+          "url": "https://iol.co.za/saturday-star/news/2026-11-06-the-hangout-ready-to-face-the-zombie-apocalypse/",
+          "source": "IOL"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "premier league games",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 08:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Fulham 1-1 Newcastle United: Rodrigo Muniz equaliser denies visitors much-needed win",
+          "url": "https://www.bbc.com/sport/football/live/c6gr87qy1zd1t",
+          "source": "BBC"
+        },
+        {
+          "title": "Fulham 1-1 Newcastle (8 Nov, 2026) Game Analysis",
+          "url": "https://www.espn.com.au/football/report/_/gameId/401879241",
+          "source": "ESPN"
+        },
+        {
+          "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
+          "url": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "falcons vs bengals",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 07:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Michael Penix Jr. finds Charlie Woerner to give the Falcons an early lead in Madrid",
+          "url": "https://www.espn.com.au/video/clip/_/id/50420069/michael-penix-jr-finds-charlie-woerner-give-falcons-early-lead-madrid",
+          "source": "ESPN"
+        },
+        {
+          "title": "Bengals vs. Falcons: Three must-know storylines for NFL Week 9 Madrid game",
+          "url": "https://www.nfl.com/news/bengals-vs-falcons-preview-week-9-madrid-game",
+          "source": "NFL.com"
+        },
+        {
+          "title": "How To Watch Bengals at Falcons Week 9 in Madrid: TV, Streaming and Radio Information",
+          "url": "https://www.bengals.com/news/how-to-watch-listen-stream-falcons-bengals-week-9-2026-madrid",
+          "source": "Cincinnati Bengals"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nfl.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "genoa vs milan",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 06:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "AC Milan player ratings vs Genoa: Christian Pulisic sparkles as Rossoneri survive late scare",
+          "url": "https://www.goal.com/en-au/news/player-ratings-ac-milan-vs-genoa-christian-pulisic/blt9652514deb70abd2",
+          "source": "Goal.com"
+        },
+        {
+          "title": "ROSSONERI BOUNCE BACK AT MARASSI",
+          "url": "https://onefootball.com/en/news/rossoneri-bounce-back-at-marassi-43747024",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Only six wins in 26 games: Davide Massa will officiate Milan’s encounter with Genoa",
+          "url": "https://sempremilan.com/six-wins-massa-officiate-genoa-milan",
+          "source": "SempreMilan"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "ipswich town vs bournemouth",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sun, 8 Nov 2026 06:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Evanilson launches eighth straight Bournemouth win as Ipswich blunder",
+          "url": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Junior Kroupi still needs time to start for Cherries again, says Marco Rose",
+          "url": "https://onefootball.com/en/news/junior-kroupi-still-needs-time-to-start-for-cherries-again-says-marco-rose-43744160",
+          "source": "OneFootball"
+        },
+        {
+          "title": "RECAP: Town boss previews Bournemouth clash",
+          "url": "https://www.kingsofanglia.com/sport/ipswich-town-fc/26705606.ipswich-town-v-bournemouth---gary-oneil-pre-match-press-conference/",
+          "source": "https://www.kingsofanglia.com/"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "motogp",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 8 Nov 2026 08:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Bezzecchi crashes out after contact with Marquez for Sprint lead",
+          "url": "https://www.motogp.com/en/videos/2026/11/07/bezzecchi-crashes-out-after-contact-with-marquez-for-sprint-lead/1184648",
+          "source": "motogp.com"
+        },
+        {
+          "title": "Marc Marquez has shot at eighth MotoGP title after Qatar sprint win",
+          "url": "https://www.france24.com/en/live-news/20261107-marc-marquez-has-shot-at-eighth-motogp-title-after-qatar-sprint-win",
+          "source": "France 24"
+        },
+        {
+          "title": "Marc Marquez, Di Giannantonio in tense exchange over Bezzecchi clash",
+          "url": "https://www.crash.net/motogp/news/1109829/1/marc-marquez-di-giannantonio-tense-exchange-over-bezzecchi-clash",
+          "source": "Crash.net"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "trabzonspor",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 8 Nov 2026 08:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Alanyaspor-Trabzonspor maçı canlı anlatım (Süper Lig 11. hafta) Canlı",
+          "url": "https://www.sozcu.com.tr/alanyaspor-trabzonspor-maci-canli-anlatim-super-lig-11-hafta-canli-p377260",
+          "source": "Sözcü Gazetesi"
+        },
+        {
+          "title": "Thomas Reis Alanya Deplasmanında Tarihi Seri İçin Sahada",
+          "url": "https://www.takagazete.com.tr/thomas-reis-alanya-deplasmaninda-tarihi-seri-icin-sahada",
+          "source": "Taka Gazete"
+        },
+        {
+          "title": "Joao Pereira: Kritik bir durum olduğunu düşünmüyorum",
+          "url": "https://www.kuzeyekspres.com.tr/haber/29124323/joao-pereira-kritik-bir-durum-oldugunu-dusunmuyorum",
+          "source": "Kuzey Ekspres"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "barca vs atletico",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 8 Nov 2026 08:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Partidos de HOY, domingo 8 de noviembre: horario y por dónde ver fútbol EN VIVO :: Olé - ole.com.ar",
+          "url": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-8-noviembre-horario-ver-futbol-vivo-tv-online-formaciones_0_EUZTTehISD.html",
+          "source": "Olé"
+        },
+        {
+          "title": "Calendario de fútbol europeo: Barça vs Atlético de Madrid",
+          "url": "https://www.vietnam.vn/es/lich-truc-tiep-bong-da-chau-au-barca-doi-dau-atletico-madrid",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Programación de partidos del domingo 8 de noviembre",
+          "url": "https://www.futbolperuano.com/partidos-por-tv/noticias/programacion-de-hoy-domingo-8-de-noviembre-de-2026-horarios-del-futbol-en-vivo-por-television-en-el-peru-610687",
+          "source": "Futbolperuano.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "steve yzerman",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 8 Nov 2026 08:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Henrik Zetterberg says Detroit Red Wings did Steve Yzerman dirty",
+          "url": "https://www.freep.com/story/sports/nhl/red-wings/2026/11/07/red-wings-news-henrik-zetterberg-steve-yzerman/92649139007/",
+          "source": "Detroit Free Press"
+        },
+        {
+          "title": "Zetterberg on Steve Yzerman's Red Wings Exit + Simon Edvinsson Trade Rumors | Karsch & Anderson",
+          "url": "https://www.audacy.com/971theticket/video/zetterberg-on-steve-yzerman-s-red-wings-exit-simon-edvinsson-trade-rumors-karsch-anderson-xbtzlku",
+          "source": "Audacy"
+        },
+        {
+          "title": "'I thought it was wrong.' Red Wings legend Henrik Zetterberg talks Yzerman stepping down",
+          "url": "https://octopusthrower.com/i-thought-it-was-wrong-red-wings-legend-henrik-zetterberg-talks-yzerman-stepping-down-01m6ppz0m2r7",
+          "source": "Octopus Thrower"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "pl",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 8 Nov 2026 08:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "W Polsce zbudują dom z ubijanej ziemi. „Najzdrowsze miejsce do życia”",
+          "url": "https://sukces.rp.pl/styl-zycia/art45444311-w-sercu-polski-zbuduja-dom-z-ubijanej-ziemi-trzyma-cieplo-i-jest-dobry-dla-zdrowia",
+          "source": "Rzeczpospolita"
+        },
+        {
+          "title": "Ściany z ubitej ziemi i 85 mkw. W centralnej Polsce rośnie dom jak sprzed stu lat, ale energooszczędny",
+          "url": "https://www.propertydesign.pl/architektura/104/sciany_z_ubitej_ziemi_i_85_mkw_w_centralnej_polsce_rosnie_dom_jak_sprzed_stu_lat_ale_energooszczedny,56229.html",
+          "source": "PropertyDesign"
+        },
+        {
+          "title": "Izabela zginęła z rąk zamachowca. Artystka osierociła czworo dzieci",
+          "url": "https://www.fakt.pl/wydarzenia/polska/poznan/izabela-z-chodziezy-ofiara-zamachu-osierocila-czworo-dzieci/g8jt92n",
+          "source": "Fakt"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "grok",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sun, 8 Nov 2026 07:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Elon Musk Says Grok Bot Costs Were ‘Unsustainably High’ Amid Complaints Over Usage Limits",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/",
+          "source": "Forbes"
+        },
+        {
+          "title": "AI firms ration usage as losses mount",
+          "url": "https://www.telegraph.co.uk/business/2026/11/02/ai-firms-ration-usage-as-losses-mount/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Why Elon Musk will keep funding Grok, no matter the cost",
+          "url": "https://finance.yahoo.com/video/why-elon-musk-will-keep-funding-grok-no-matter-the-cost-134354511.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-11-08",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Plant parent",
+      "motifs": [
+        "single-line monstera",
+        "propagation station",
+        "terracotta row"
+      ],
+      "suggestedProducts": [
+        "mug",
+        "tote bag",
+        "poster"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Cosy reading",
+      "motifs": [
+        "cat on a book stack",
+        "tea and paperback",
+        "library window light"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
