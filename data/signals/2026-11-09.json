@@ -1,0 +1,1305 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T21:18:17.620Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "lauren boebert results",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 9 Nov 2026 12:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "GOP Rep. Lauren Boebert will lose reelection to Democrat Eileen Laubacher in Colorado, CNN projects",
+          "url": "https://www.cnn.com/2026/11/09/politics/lauren-boebert-lose-reelection-eileen-laubacher",
+          "source": "CNN"
+        },
+        {
+          "title": "Colorado House District 4 Midterm Election 2026: Live Results",
+          "url": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-4-results",
+          "source": "NBC News"
+        },
+        {
+          "title": "Colorado Fourth Congressional District 2026: Live Election Results, Boebert vs. Laubacher",
+          "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-colorado-us-house-4.html",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"election\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "carla hall",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 9 Nov 2026 12:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Beloved Food Network judge will not return to ANY show as 'business relationship has ended'",
+          "url": "https://www.the-sun.com/tv/17269680/food-network-carla-hall-quit-fired-holiday-baking-championship/",
+          "source": "The Sun"
+        },
+        {
+          "title": "Why Fans Think Food Network Judge Carla Hall Is Leaving: Rumors Explained",
+          "url": "https://www.aol.com/articles/why-fans-think-food-network-044047000.html",
+          "source": "AOL.com"
+        },
+        {
+          "title": "Carla Hall Reportedly Won't Return to Food Network After Years on Its Popular Baking Shows",
+          "url": "https://parade.com/food/carla-hall-reportedly-wont-return-to-food-network-after-years-on-its-popular-baking-shows",
+          "source": "Parade Magazine"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "thomas massie",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 9 Nov 2026 11:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Republican Thomas Massie will force impeachment vote on Defence Secretary Pete Hegseth",
+          "url": "https://www.bbc.com/news/articles/cwr5y58jjp8ro",
+          "source": "BBC"
+        },
+        {
+          "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Hegseth impeachment vote looms as House Republicans privately warn it could pass",
+          "url": "https://www.foxnews.com/politics/hegseth-impeachment-vote-looms-house-republicans-privately-warn-could-pass",
+          "source": "Fox News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "rklb stock",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Why Nov. 9 Could Be a Huge Day for Rocket Lab Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nov-9-could-huge-210500172.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Rocket Lab Earnings Loom: Here’s What Investors Need to Know",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63032947/rocket-lab-earnings-loom-heres-what-investors-need-to-know",
+          "source": "Benzinga"
+        },
+        {
+          "title": "Rocket Lab Reports Monday With Neutron Pushed to 2027 and Its CFO Selling $17 Million of Stock",
+          "url": "https://www.tikr.com/blog/rocket-lab-reports-monday-with-neutron-pushed-to-2027-and-its-cfo-selling-17-million-of-stock",
+          "source": "TIKR.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "sabalenka",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 9 Nov 2026 12:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Tennis player Sabalenka may part ways with Mirnyi — Interia Sport",
+          "url": "https://ua.news/en/dovkolo-svitu/tenisistka-sobolenko-mozhe-rozstatisia-z-mirnim-interia-sport",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "Sabalenka shakes up her team before WTA Finals: two key departures",
+          "url": "https://en.tennistemple.com/actu/sabalenka-shakes-up-her-team-before-wta-finals-two/Hc1n",
+          "source": "TennisTemple"
+        },
+        {
+          "title": "FAGE WTA Finals Day 2 preview: Can Sabalenka even series with Muchova?",
+          "url": "https://www.wtatennis.com/news/4606429/wta-finals-2026-day-2-preview-can-aryna-sabalenka-even-series-with-karolina-muchova",
+          "source": "WTA Tennis"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "russia",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Russia's leading independent newspaper closes after eviction",
+          "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go",
+          "source": "BBC"
+        },
+        {
+          "title": "The Kremlin kills Russia’s last liberal newspaper",
+          "url": "https://www.economist.com/the-world-in-brief/2026/11/09/1de48b92-52de-4284-be93-93fe1eb7a8e0",
+          "source": "The Economist"
+        },
+        {
+          "title": "Not even a nuclear bomb can stop us, say Russia’s last free journalists",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/09/russia-novaya-gazeta-vladimir-putin-journalists-kremlin/",
+          "source": "The Telegraph"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "aryna sabalenka",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 9 Nov 2026 12:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Mirra Andreeva explains why she really wants to face Aryna Sabalenka at the WTA Finals this year, ‘I am very curious’",
+          "url": "https://tennishead.net/mirra-andreeva-explains-why-she-really-wants-to-face-aryna-sabalenka-at-the-wta-finals-this-year-i-am-very-curious/",
+          "source": "Tennishead"
+        },
+        {
+          "title": "Road to the WTA Finals: The eight doubles teams heading to Indian Wells",
+          "url": "https://www.wtatennis.com/news/4604880/road-to-the-wta-finals-the-eight-doubles-teams-heading-to-indian-wells",
+          "source": "WTA Tennis"
+        },
+        {
+          "title": "WTA Finals Doubles Preview: Townsend Seeks Twin Success in Indian Wells",
+          "url": "https://bnpparibasopen.com/news/wta-finals-doubles-preview",
+          "source": "BNP Paribas Open | Indian Wells"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "drummer",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 9 Nov 2026 11:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Popular rock drummer dies after cancer battle: ‘He fought until the bitter end’",
+          "url": "https://www.pennlive.com/entertainment/2026/11/popular-rock-drummer-dies-after-cancer-battle-he-fought-until-the-bitter-end.html",
+          "source": "PennLive.com"
+        },
+        {
+          "title": "Veteran Rock Drummer Dies After Years-Long Cancer Battle as Family Shares Heartbreaking Tribute",
+          "url": "https://www.vice.com/en/article/veteran-rock-drummer-dies-after-years-long-cancer-battle-as-family-shares-heartbreaking-tribute/",
+          "source": "VICE"
+        },
+        {
+          "title": "NYU Percussion Ensemble Performs a Concerto by The Police Drummer Stewart Copeland",
+          "url": "https://www.nyu.edu/about/news-publications/news/2026/november/nyu-percussion-ensemble-performs-a-concerto-by-the-police-drumme.html",
+          "source": "New York University"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "ttd stock",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Why The Trade Desk Stock Skyrocketed Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-trade-desk-stock-skyrocketed-170008124.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Trade Desk’s ‘Lost Year’ Won’t Be Rescued by Earnings, Say Analysts",
+          "url": "https://www.barrons.com/articles/trade-desk-earnings-stock-price-7ac7ae25",
+          "source": "Barron's"
+        },
+        {
+          "title": "The Trade Desk Jumps 8% Ahead of Earnings; Magnite Gains 2%, AppLovin Dips",
+          "url": "https://247wallst.com/investing/2026/11/09/the-trade-desk-climbs-6-ahead-of-earnings-magnite-gains-2-applovin-dips/",
+          "source": "24/7 Wall St."
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "sebastian lelio",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 12:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+          "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Oscar-winning Chilean filmmaker Sebastián Lelio dies at 52",
+          "url": "https://apnews.com/article/sebastian-lelio-obit-oscar-chile-19766b7805a7c9557146600a068069b0",
+          "source": "AP News"
+        },
+        {
+          "title": "Sanfic Prizes: 'Monguen,' 'Narciso' Win, Sebastián Lelio Is Remembered",
+          "url": "https://variety.com/2026/film/global/sanfic-prizes-monguen-narciso-sebastian-lelio-remembered-1236942162/",
+          "source": "Variety"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"oscar\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "icahn stadium",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 12:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Gotham FC to Host NWSL Semifinal at Icahn Stadium",
+          "url": "https://www.gothamfc.com/news/gotham-fc-to-host-nwsl-semifinal-at-icahn-stadium",
+          "source": "GothamFC.com"
+        },
+        {
+          "title": "Gotham to play NWSL semi at 5K seat Ichan Stadium due to shoddy home field",
+          "url": "https://www.espn.com/soccer/story/_/id/50435046/gotham-nwsl-semifinal-5k-seat-venue-shoddy-field",
+          "source": "ESPN"
+        },
+        {
+          "title": "Washington Spirit avert scheduling crisis, keep NWSL semi-final at Audi Field; Gotham venue TBD",
+          "url": "https://www.theguardian.com/football/2026/nov/08/washington-spirit-semifinal-audi-field-gotham-nwsl-playoffs",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "tiger",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 12:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Kiffin says LSU must execute better late in games as Tigers prepare for Texas",
+          "url": "https://www.wbrz.com/news/after-losing-to-alabama-in-tiger-stadium-lane-kiffin-looks-ahead-to-lsu-s-matchup-against-texas/",
+          "source": "WBRZ"
+        },
+        {
+          "title": "Despite a loss, LSU received good news about its kickoff time with Texas",
+          "url": "https://www.nola.com/sports/lsu/lsu-football-texas-kickoff-time/article_da8c8c1f-1fb1-4326-b1b3-3d66e45f73fe.html",
+          "source": "NOLA.com"
+        },
+        {
+          "title": "Lane Kiffin Faces a Major Question About LSU's Offense Before Texas",
+          "url": "https://www.si.com/college/lsu/football/lane-kiffin-faces-a-major-question-about-lsu-s-offense-before-texas",
+          "source": "Sports Illustrated"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "police",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Detective stole more than £85,000 from police force",
+          "url": "https://www.bbc.co.uk/news/articles/c65yny5nv7ywo",
+          "source": "BBC"
+        },
+        {
+          "title": "Derby detective stole more than £85,000 from force safe to pay for car and holiday",
+          "url": "https://www.derbytelegraph.co.uk/news/derby-news/derby-detective-stole-more-85000-11234803",
+          "source": "Derbyshire Live"
+        },
+        {
+          "title": "Former Derbyshire detective jailed after stealing more than £85,000 from force",
+          "url": "https://www.derbyshire.police.uk/news/derbyshire/news/news/forcewide/2026/november/former-derbyshire-detective-jailed-after-stealing-more-than-85000-from-force/",
+          "source": "Derbyshire Constabulary"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "uk blackouts",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 12:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "What happens if the internet goes down? BlackSky - the UK's emergency backup plans",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no",
+          "source": "BBC"
+        },
+        {
+          "title": "Britain’s blackout survival plan? Listen to the BBC",
+          "url": "https://www.telegraph.co.uk/news/2026/11/08/britains-blackout-survival-plan-listen-to-the-bbc/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "What Is ‘Black Sky’ and Why Is the UK Preparing for Days Without Power?",
+          "url": "https://openthemagazine.com/world/what-is-black-sky-and-why-is-the-uk-preparing-for-days-without-power",
+          "source": "Open Magazine"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "cf montreal",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 13:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Avenir du CF Montréal | Joey Saputo fera le point lundi après-midi",
+          "url": "https://www.lapresse.ca/sports/soccer/2026-11-09/avenir-du-cf-montreal/joey-saputo-fera-le-point-lundi-apres-midi.php",
+          "source": "La Presse"
+        },
+        {
+          "title": "CF Montréal en difficulté financière: Joey Saputo prêt à passer le flambeau?",
+          "url": "https://www.985fm.ca/balados/373944/episode/814436/cf-montreal-en-difficulte-financiere-joey-saputo-pret-a-passer-le-flambeau",
+          "source": "98.5 Montréal"
+        },
+        {
+          "title": "Joey Saputo fera le point sur l’avenir du CF Montréal à 16 heures",
+          "url": "https://www.rds.ca/soccer/cfm/article/joey-saputo-adressera-lavenir-du-cf-montreal-a-16-heures/",
+          "source": "RDS"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "guillaume lemay-thivierge",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 12:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Guillaume Lemay-Thivierge et ses garçons se lancent dans le vide et Emily Bégin réagit",
+          "url": "https://www.noovomoi.ca/en-vedette/actualites-potins/article/guillaume-lemay-thivierge-et-ses-garcons-se-lancent-dans-le-vide-et-emily-begin-reagit/",
+          "source": "Noovo Moi"
+        },
+        {
+          "title": "Guillaume Lemay-Thivierge joue un espion triste dans une nouvelle série d’action",
+          "url": "https://www.lesacdechips.com/2026/10/28/guillaume-lemay-thivierge-joue-un-espion-triste-dans-une-nouvelle-serie-daction",
+          "source": "Le Sac de chips"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "sunday",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 12:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Long march for field goal proved valuable for Packers",
+          "url": "https://www.packers.com/news/long-march-for-field-goal-proved-valuable-for-packers-week-9-2026",
+          "source": "Green Bay Packers – packers.com"
+        },
+        {
+          "title": "Why Patriots should be concerned about Drake Maye after three interceptions vs. Packers",
+          "url": "https://sports.yahoo.com/articles/why-patriots-concerned-drake-maye-194923851.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "'Balling' Jordan Love wows teammates with big performance at Patriots",
+          "url": "https://www.espn.com/nfl/story/_/id/50429190/balling-jordan-love-wows-teammates-big-performance-patriots",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "aryna sabalenka",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 9 Nov 2026 12:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "FAGE WTA Finals Day 2 preview: Can Sabalenka even series with Muchova?",
+          "url": "https://www.wtatennis.com/news/4606429/wta-finals-2026-day-2-preview-can-aryna-sabalenka-even-series-with-karolina-muchova",
+          "source": "WTA Tennis"
+        },
+        {
+          "title": "Aryna Sabalenka admits why Karolina Muchova is so difficult to beat",
+          "url": "https://www.tennisworldusa.org/tennis/news/WTA_Tennis/171331/aryna-sabalenka-admits-why-karolina-muchova-is-so-difficult-to-beat/",
+          "source": "Tennis World USA"
+        },
+        {
+          "title": "Sabalenka has resumed working with a psychologist before the WTA Finals",
+          "url": "https://www.tennismajors.com/wta-tour-news/wta-finals/sabalenka-has-resumed-working-with-a-psychologist-before-the-wta-finals-866374.html",
+          "source": "Tennis Majors"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "melvin council jr",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Kansas' Melvin Council Jr. suffers broken foot, may be out until January",
+          "url": "https://www.espn.com/mens-college-basketball/story/_/id/50435012/kansas-council-suffers-broken-foot-jan",
+          "source": "ESPN"
+        },
+        {
+          "title": "Kansas Jayhawks' Melvin Council Jr. suffers broken foot, will undergo surgery",
+          "url": "https://www.kmbc.com/article/kansas-jayhawks-melvin-council-jr-broken-foot-injury-surgery/74378893",
+          "source": "KMBC"
+        },
+        {
+          "title": "Kansas suffers critical injury ahead of Kentucky matchup in Champions Classic",
+          "url": "https://sports.yahoo.com/articles/kansas-suffers-critical-injury-ahead-204320128.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "tyler robinson",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Judge sets trial date for Charlie Kirk’s accused killer for summer 2028",
+          "url": "https://www.cnn.com/2026/11/09/us/tyler-robinson-charlie-kirk-trial",
+          "source": "CNN"
+        },
+        {
+          "title": "Man Accused of Murdering Charlie Kirk to Go on Trial in 2028",
+          "url": "https://www.nytimes.com/2026/11/09/us/charlie-kirk-murder-trial-date.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "MICHAEL RUIZ: Tyler Robinson judge to give long-awaited trial date ruling in assassination of Charlie Kirk",
+          "url": "https://www.foxnews.com/us/michael-ruiz-tyler-robinson-judge-give-long-awaited-trial-date-ruling-assassination-charlie-kirk",
+          "source": "Fox News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "sebastián lelio",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "El mundo despide a Sebastián Lelio: El mensaje de Julianne Moore y el reconocimiento de medios internacionales",
+          "url": "https://www.emol.com/noticias/Nacional/2026/11/08/1216457/julianne-moore-sebastian-lelio.html",
+          "source": "Emol"
+        },
+        {
+          "title": "“Un amor tan inmenso que jamás pensé vivir”: la historia de Sebastián Lelio y Amalia Kassai",
+          "url": "https://www.latercera.com/culto/noticia/un-amor-tan-inmenso-que-jamas-pense-vivir-la-historia-de-sebastian-lelio-y-amalia-kassai/",
+          "source": "La Tercera"
+        },
+        {
+          "title": "‘Una mujer fantástica’ rompió moldes en representación de las vidas de mujeres trans: por ella recordaremos al director Sebastián Lelio",
+          "url": "https://www.espinof.com/directores-y-guionistas/ha-fallecido-sebastian-lelio-siempre-recordaremos-esta-magnifica-pelicula-que-sorprendio-ganando-oscar",
+          "source": "Espinof"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "imran khan",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Pakistan: Detention of Imran Khan's family violates rights",
+          "url": "https://www.genocidewatch.com/single-post/pakistan-detention-of-imran-khan-s-family-violates-rights",
+          "source": "Genocide Watch"
+        },
+        {
+          "title": "LHC directs jail authorities to arrange meeting between Noreen Niazi, her daughters",
+          "url": "https://www.dawn.com/news/2041583",
+          "source": "Dawn"
+        },
+        {
+          "title": "LHC Orders Meeting Between Noreen Niazi and Her Daughters in Jail",
+          "url": "https://www.tapmad.com/watch/lhc-orders-meeting-between-noreen-niazi-and-her-daughters-in-jail/13420560",
+          "source": "Tapmad"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "sabalenka",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Tennis player Sabalenka may part ways with Mirnyi — Interia Sport",
+          "url": "https://ua.news/en/dovkolo-svitu/tenisistka-sobolenko-mozhe-rozstatisia-z-mirnim-interia-sport",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "Sabalenka shakes up her team before WTA Finals: two key departures",
+          "url": "https://en.tennistemple.com/actu/sabalenka-shakes-up-her-team-before-wta-finals-two/Hc1n",
+          "source": "TennisTemple"
+        },
+        {
+          "title": "In 2026, Aryna Sabalenka wore $330,000 worth of jewelry to win the US Open; Now she’s a luxury brand’s first ambassador",
+          "url": "https://athlonsports.com/tennis/in-2026-aryna-sabalenka-wore-330000-worth-jewelry-to-win-the-us-open-now-shes-a-luxury-brands-first-ambassador",
+          "source": "Athlon Sports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "djed spence",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 12:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Spence makes Spurs return after £25m transfer as reunion photo emerges",
+          "url": "https://www.standard.co.uk/sport/football/spence-tottenham-return-transfer-england-b1304168.html",
+          "source": "London Evening Standard"
+        },
+        {
+          "title": "Di Canio: “Inter are unplayable when they’re like this. Spence plays blindfolded in Italy. Against Milan, they lost because of a reckless decision”",
+          "url": "https://www.goal.com/en/lists/di-canio-inter-are-unplayable-when-they-are-like-this-spence-plays-blindfolded-in-italy-defeat-against-ac-milan-came-down-to-a-reckless-decision/bltee28b578d9730746",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Newspaper singles out Spence after impressive performance in Inter 2-0 Como",
+          "url": "https://football-italia.net/newspaper-praises-spence-after-inter-2-0-como/",
+          "source": "Football Italia"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "sebastian lelio",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 12:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+          "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Chilean Oscar-winning director Sebastián Lelio dies aged 52",
+          "url": "https://www.euronews.com/2026/11/09/chilean-oscar-winning-director-sebastian-lelio-dies-aged-52",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Sanfic Prizes: 'Monguen,' 'Narciso' Win, Sebastián Lelio Is Remembered",
+          "url": "https://variety.com/2026/film/global/sanfic-prizes-monguen-narciso-sebastian-lelio-remembered-1236942162/",
+          "source": "Variety"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"oscar\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "andrew scott",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 12:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "‘Elsinore’s Andrew Scott To Receive Palm Springs’ Desert Palm Achievement Award, Actor",
+          "url": "https://www.imdb.com/news/ni66103017/?ref_=tt_nwr_1",
+          "source": "IMDb"
+        },
+        {
+          "title": "The 2027 Palm Springs International Film Awards Will Honor Andrew Scott With The Desert Palm Achievement Award, Actor",
+          "url": "https://nextbestpicture.com/the-2027-palm-springs-international-film-awards-will-honor-andrew-scott-with-the-desert-palm-achievement-award-actor/",
+          "source": "Next Best Picture"
+        },
+        {
+          "title": "Andrew Scott to Receive Desert Palm Achievement Award, Actor at Film Awards",
+          "url": "https://mynewsla.com/hollywood/2026/11/09/andrew-scott-to-receive-desert-palm-achievement-award-actor-at-film-awards/",
+          "source": "MyNewsLA.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "sarah lancashire",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 12:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "‘Tom Hardy Is Dangerously Magnetic’: The Dark Period Drama With Sarah Lancashire Is On ITVX Now",
+          "url": "https://www.elle.com/uk/life-and-culture/culture/a74374234/tom-hardy-sarah-lancashire-wuthering-heights/",
+          "source": "ELLE"
+        },
+        {
+          "title": "‘Tom Hardy blows you away’: This dark period drama also starring Sarah Lancashire is a must-watch",
+          "url": "https://uk.style.yahoo.com/tom-hardy-blows-away-dark-104000197.html",
+          "source": "Yahoo Life UK"
+        },
+        {
+          "title": "Black Doves star Keira Knightley explains dynamic with Sarah Lancashire's \"f***ed up mummy\" Reed",
+          "url": "https://www.radiotimes.com/tv/drama/black-doves-keira-knightley-sarah-lancashire-helen-reed-dynamic-exclusive-newsupdate/",
+          "source": "Radio Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "landlord",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 13:00:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "B.C. landlord refuses renter’s parents entry on move-in day leading to tense situation",
+          "url": "https://dailyhive.com/vancouver/bc-landlord-refuse-renter-parents-entry",
+          "source": "Daily Hive"
+        },
+        {
+          "title": "BizCover moves into commercial landlord cover - and brokers should take note",
+          "url": "https://www.insurancebusinessmag.com/au/news/sme/bizcover-moves-into-commercial-landlord-cover--and-brokers-should-take-note-596709.aspx",
+          "source": "Insurance Business"
+        },
+        {
+          "title": "‘We fart too much’: Toronto tenants claim they’re being evicted for flatulence",
+          "url": "https://www.elliotlaketoday.com/local-news/toronto-tenants-evicted-for-farting-12995547",
+          "source": "ElliotLakeToday.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "garçon",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 11:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Un garçon de 8 ans placé seul par l’ICE en détention fédérale",
+          "url": "https://www.tvanouvelles.ca/2026/11/09/un-garcon-de-8-ans-place-seul-par-lice-en-detention-federale",
+          "source": "TVA Nouvelles"
+        },
+        {
+          "title": "L'ICE arrête un garçon haïtien de 8 ans lors d'un rendez-vous à un centre d'immigration de San Diego.",
+          "url": "https://haitiantimes.com/fr/2026/11/08/La-police-de-San-Diego-arr%C3%AAte-un-gar%C3%A7on-ha%C3%AFtien-de-8-ans/",
+          "source": "The Haitian Times"
+        },
+        {
+          "title": "Insulte en direct | L’intervention d’un garçon de 8 ans à la télévision devient virale en France",
+          "url": "https://www.985fm.ca/audio/814339/l-intervention-d-un-garcon-de-8-ans-a-la-television-devient-virale-en-france",
+          "source": "98.5 Montréal"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "russell brand children",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 12:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Russell Brand’s wife 'standing by' convicted rapist facing years in jail",
+          "url": "https://www.standard.co.uk/showbiz/laura-gallacher-russell-brand-wife-profile-b1300453.html",
+          "source": "London Evening Standard"
+        },
+        {
+          "title": "Who is Russell Brand’s wife? The disgraced comedian has been married to Laura Gallacher since 2017",
+          "url": "https://ew.com/is-russell-brand-married-the-comedian-wed-wife-laura-gallacher-in-2017-12244925",
+          "source": "Entertainment Weekly"
+        },
+        {
+          "title": "Russell Brand’s famous sister-in-law misses daily radio show amid sentencing",
+          "url": "https://www.hellomagazine.com/celebrities/933909/russell-brands-famous-sister-in-law-kirsty-gallacher-telling-move/",
+          "source": "HELLO!"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "ukraine",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 9 Nov 2026 12:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Ukrainian drone attack sets Russia's Kirishi refinery ablaze, woman killed by debris",
+          "url": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Russia imposes gasoline sales restrictions amid Ukrainian oil refinery attacks, Russian media report",
+          "url": "https://kyivindependent.com/russia-imposes-gasoline-sales-restrictions-amid-ukrainian-oil-refinery-attacks-russian-media-report/",
+          "source": "The Kyiv Independent"
+        },
+        {
+          "title": "Ukraine hits Russia’s second-largest refinery, Rosneft caps sales",
+          "url": "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads",
+          "source": "Euronews.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "paul mccartney",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 9 Nov 2026 13:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "How Paul McCartney Became A Billionaire—Thanks To Broadway Shows And Christmas Songs",
+          "url": "https://www.forbes.com/sites/the-billie/2026/11/09/the-14-billion-beatle-how-paul-mccartney-became-the-worlds-third-richest-musician/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Paul McCartney Becomes a Billionaire, Making Him the World’s Third-Richest Musician",
+          "url": "https://variety.com/2026/music/news/paul-mccartney-becomes-billionaire-third-richest-musician-1236943191/",
+          "source": "Variety"
+        },
+        {
+          "title": "Paul McCartney Enters ‘Forbes’ List Behind Jay-Z, Taylor Swift With $1.4 Billion Fortune",
+          "url": "https://www.complex.com/music/a/jaelaniturnerwilliams/paul-mccartney-net-worth-forbes-billionaire",
+          "source": "Complex"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "sabalenka",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 9 Nov 2026 12:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Tennis player Sabalenka may part ways with Mirnyi — Interia Sport",
+          "url": "https://ua.news/en/dovkolo-svitu/tenisistka-sobolenko-mozhe-rozstatisia-z-mirnim-interia-sport",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "Sabalenka shakes up her team before WTA Finals: two key departures",
+          "url": "https://en.tennistemple.com/actu/sabalenka-shakes-up-her-team-before-wta-finals-two/Hc1n",
+          "source": "TennisTemple"
+        },
+        {
+          "title": "FAGE WTA Finals Day 2 preview: Can Sabalenka even series with Muchova?",
+          "url": "https://www.wtatennis.com/news/4606429/wta-finals-2026-day-2-preview-can-aryna-sabalenka-even-series-with-karolina-muchova",
+          "source": "WTA Tennis"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "twilight of the punks",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 9 Nov 2026 11:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Fall Out Boy Announce Biggest Tour Yet — and New Single ‘Aces’",
+          "url": "https://www.rollingstone.com/music/music-features/fall-out-boy-interview-tour-dates-new-single-aces-1235654708/",
+          "source": "Rolling Stone"
+        },
+        {
+          "title": "Fall Out Boy announces 2027 tour and Toronto is the only Canada stop",
+          "url": "https://www.blogto.com/music/2026/11/fall-out-boy-toronto-2027-tour/",
+          "source": "blogTO"
+        },
+        {
+          "title": "Fall Out Boy Announce 2027 Tour With The Offspring and Good Charlotte",
+          "url": "https://consequence.net/2026/11/fall-out-boy-2027-tour-the-offspring-good-charlotte/",
+          "source": "Consequence of Sound"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"tour\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "queensland bulls",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 9 Nov 2026 12:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Focus on Sheffield Shield as Test selection comes to the crunch",
+          "url": "https://www.abc.net.au/news/2026-11-10/sheffield-shield-matches-crucial-as-batters-hunt-test-spots/107351178",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Labuschagne dropped for Tests against New Zealand",
+          "url": "https://www.cricket.com.au/news/4606602/marnus-labuschagne-loses-place-dropped-axes-tests-against-new-zealand-australia-selectors-george-bailey",
+          "source": "cricket.com.au"
+        },
+        {
+          "title": "Labuschagne dropped for New Zealand Test series",
+          "url": "https://www.cricinfo.com/story/australia-batter-marnus-labuschagne-dropped-for-new-zealand-test-series-1561923",
+          "source": "Cricinfo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "booker prize 2026",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 9 Nov 2026 12:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Six books are vying for the Booker Prize. One stands above the rest",
+          "url": "https://www.smh.com.au/culture/books/the-booker-prize-is-anyone-s-game-here-s-where-i-d-put-my-money-20261104-p619sl.html",
+          "source": "SMH.com.au"
+        },
+        {
+          "title": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
+          "url": "https://www.theguardian.com/books/2026/nov/07/narrative-threads-how-to-write-a-booker-shortlisted-novel-by-marlon-james-douglas-stuart-elizabeth-strout-and-more",
+          "source": "The Guardian"
+        },
+        {
+          "title": "The 2026 Booker Prize shortlist: What made it and what didn't",
+          "url": "https://www.abc.net.au/news/2026-11-05/booker-prize-shortlist-2026-elizabeth-strout-marlon-james/107322872",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "sebastián lelio",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 9 Nov 2026 12:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "El mundo despide a Sebastián Lelio: El mensaje de Julianne Moore y el reconocimiento de medios internacionales",
+          "url": "https://www.emol.com/noticias/Nacional/2026/11/08/1216457/julianne-moore-sebastian-lelio.html",
+          "source": "Emol"
+        },
+        {
+          "title": "“Un amor tan inmenso que jamás pensé vivir”: la historia de Sebastián Lelio y Amalia Kassai",
+          "url": "https://www.latercera.com/culto/noticia/un-amor-tan-inmenso-que-jamas-pense-vivir-la-historia-de-sebastian-lelio-y-amalia-kassai/",
+          "source": "La Tercera"
+        },
+        {
+          "title": "Pena y catarsis: Paulina García recrea el liberador baile de ’Gloria’ en velatorio de Sebastián Lelio",
+          "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/11/09/pena-y-catarsis-paulina-garcia-recrea-el-liberador-baile-de-gloria-en-velatorio-de-sebastian-lelio.shtml",
+          "source": "BioBioChile"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "thomas massie",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 9 Nov 2026 12:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Congress ultimatum to Trump: Fire Hegseth or we will impeach him",
+          "url": "https://www.abc.net.au/news/2026-11-09/donald-trump-revamping-team-and-pete-hegeth-could-be-next/107358974",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Republican congressman files resolution to impeach Pete Hegseth",
+          "url": "https://www.smh.com.au/world/north-america/republican-congressman-files-resolution-to-impeach-pete-hegseth-20261110-p61crg.html",
+          "source": "SMH.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"congress\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "nations league",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 9 Nov 2026 12:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Barça's Lamine Yamal (knee) to miss next Spain Nations League game",
+          "url": "https://www.espn.com.au/football/story/_/id/50431764/barcelona-lamine-yamal-knee-nations-league-spain",
+          "source": "ESPN"
+        },
+        {
+          "title": "Lamine Yamal & Mikel Oyarzabal to miss Spain’s Nations League clash with Czechia through injury and illness",
+          "url": "https://www.goal.com/en-au/news/lamine-yamal-mikel-oyarzabal-spain-nations-league-czechia/bltedfa0b40c8aaf2d5",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Víctor Muñoz joins up with the Spain squad",
+          "url": "https://onefootball.com/en/news/victor-munoz-joins-up-with-the-spain-squad-43751432",
+          "source": "OneFootball"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "officer",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 9 Nov 2026 12:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Police officer's suicide exposes sexism, bullying in the force",
+          "url": "https://www.abc.net.au/news/2026-11-09/victoria-police-culture-exposed-officers-sucide-four-corners/107342438",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "‘No hope’: Shocking claims of bullying rock Victoria Police",
+          "url": "https://www.heraldsun.com.au/leader/victoria-police-face-class-action-as-70-former-and-current-cops-make-bullying-sexual-harassment-claims/news-story/4c9c58f2523e841c1682cf648ef253c7",
+          "source": "Herald Sun"
+        },
+        {
+          "title": "Four Corners: S2026 Unprofessional Four Corners",
+          "url": "https://iview.abc.net.au/show/four-corners/series/2026/video/NC2603H037S00",
+          "source": "ABC iview"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-11-09",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Goblincore / whimsy",
+      "motifs": [
+        "frog in a hat",
+        "snail and moss",
+        "toadstool ring"
+      ],
+      "suggestedProducts": [
+        "sticker",
+        "tote bag",
+        "graphic tee"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Cottagecore botanical",
+      "motifs": [
+        "pressed flowers",
+        "mushroom clusters",
+        "hand-lettered herbs"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
