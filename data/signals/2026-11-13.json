@@ -1,0 +1,1300 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T18:24:47.694Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "jake bauers",
+      "traffic": 20000,
+      "trafficLabel": "20000+",
+      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Sources - Jake Bauers, Red Sox agree to 4-year, $58M deal",
+          "url": "https://www.espn.com/mlb/story/_/id/50473029/sources-jake-bauers-red-sox-agree-4-year-58m-deal",
+          "source": "ESPN"
+        },
+        {
+          "title": "NLCS MVP Jake Bauers won't be returning to the Brewers in 2027",
+          "url": "https://sports.yahoo.com/articles/nlcs-mvp-jake-bauers-wont-180517155.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Jake Bauers reportedly signs deal with Red Sox",
+          "url": "https://www.mlb.com/redsox/video/jake-bauers-reportedly-signs-deal-with-red-sox",
+          "source": "MLB.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "tony richards",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Original W.A.S.P. Drummer Tony Richards Dead at 69",
+          "url": "https://consequence.net/2026/11/w-a-s-p-drummer-tony-richards-dead-at-69/",
+          "source": "Consequence of Sound"
+        },
+        {
+          "title": "Original W.A.S.P. Drummer Tony Richards Has Died",
+          "url": "https://ghostcultmag.com/original-w-a-s-p-drummer-tony-richards-has-died/",
+          "source": "Ghost Cult Magazine"
+        },
+        {
+          "title": "Metal Breakdown Daily: New Slipknot Album, Original W.A.S.P. Drummer Tony Richards Dies, Ronnie Radke Sued",
+          "url": "https://loadedradio.com/metal-breakdown-daily-slipknot-album-tony-richards-radke/",
+          "source": "Loaded Radio"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"album\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"died\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "rockstar gta vi",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 13 Nov 2026 10:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+          "source": "XBOX Wire"
+        },
+        {
+          "title": "Pre-load Grand Theft Auto VI on PS5 starting today",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
+          "source": "PlayStation.Blog"
+        },
+        {
+          "title": "Grand Theft Auto VI Will Run At 30 FPS On All Consoles, But PS5 Pro Will Feature 'Improved Clarity' And Ray-Traced Shadows",
+          "url": "https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved",
+          "source": "Game Informer"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from blog.playstation.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "philip rivers",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 13 Nov 2026 09:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Rivers Named Head Coach for NC State Football",
+          "url": "https://gopack.com/news/2026/11/13/rivers-named-head-coach-for-nc-state-football",
+          "source": "NC State University Athletics"
+        },
+        {
+          "title": "Sources: Philip Rivers set to return to NC State, deal to be finalized Friday",
+          "url": "https://www.espn.com/college-football/story/_/id/50456831/sources-philip-rivers-nc-state-deal-set-finalized",
+          "source": "ESPN"
+        },
+        {
+          "title": "Philip Rivers is NC State’s dream coaching hire. He’s also not qualified for the job",
+          "url": "https://www.nytimes.com/athletic/7764757/2026/11/08/philip-rivers-head-coach-nc-state/",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "iran bahrain",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 13 Nov 2026 09:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Iran war live: US says shot down 2 drones over Bahrain, denies radar strike",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Iran targets US military site in Gulf for first time in two months as hopes for a deal fade",
+          "url": "https://www.cnn.com/2026/11/13/middleeast/iran-targets-us-military-site-in-gulf-first-time-in-two-months-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "taylor swift",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 13 Nov 2026 09:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Taylor Swift to perform at CMAs for 1st time in 13 years",
+          "url": "https://www.goodmorningamerica.com/culture/story/taylor-swift-perform-cmas-1st-time-13-years-138104764",
+          "source": "Good Morning America"
+        },
+        {
+          "title": "Taylor Swift to Perform at the 2026 CMA Awards for the First Time in 13 Years",
+          "url": "https://people.com/taylor-swift-to-perform-at-the-2026-cma-awards-12252679",
+          "source": "People.com"
+        },
+        {
+          "title": "Is Taylor Swift Participating in the Dolly Parton Tribute at CMA Awards 2026? The Truth",
+          "url": "https://www.eonline.com/ca/news/1438024/taylor-swift-is-not-performing-in-dolly-parton-tribute-at-cma-awards-2026",
+          "source": "E! News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "el nino",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "What 165 days of record ocean temperatures will mean for extreme winter weather",
+          "url": "https://www.washingtonpost.com/weather/2026/11/12/what-165-days-record-ocean-temperatures-will-mean-extreme-winter-weather/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "What the new 'astonishing' El Niño forecast means for California",
+          "url": "https://www.sfgate.com/weather/article/new-el-nino-forecast-22523911.php",
+          "source": "SFGATE"
+        },
+        {
+          "title": "See What the ‘Super El Niño’ Means for This Year’s Ski Season",
+          "url": "https://www.wsj.com/us-news/climate-environment/see-what-the-super-el-nino-means-for-this-years-ski-season-f233a1d6",
+          "source": "WSJ"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "gta 6 online",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Another Update About The ‘GTA 6 Online’ Release Date",
+          "url": "https://www.forbes.com/sites/paultassi/2026/11/13/the-gta-6-online-release-date-is-far-off-says-new-report/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Is GTA 6 Going to Have Online? What We Know About Multiplayer and Its Release Date",
+          "url": "https://www.vice.com/en/article/gta-6-online-release-date/",
+          "source": "VICE"
+        },
+        {
+          "title": "GTA 6 Online release window has apparently leaked",
+          "url": "https://www.notebookcheck.net/GTA-6-Online-release-window-has-apparently-leaked.1449676.0.html",
+          "source": "Notebookcheck"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "james bond",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Robert Pattinson reportedly leads James Bond contenders",
+          "url": "https://www.theguardian.com/film/2026/nov/13/robert-pattinson-reportedly-leads-james-bond-contenders",
+          "source": "The Guardian"
+        },
+        {
+          "title": "James Bond: What we know so far about the next 007 film",
+          "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po",
+          "source": "BBC"
+        },
+        {
+          "title": "Nicholas Hoult confirms UK move",
+          "url": "https://uk.movies.yahoo.com/nicholas-hoult-confirms-uk-move-164312937.html",
+          "source": "Yahoo Entertainment UK"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "vehicle",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 13 Nov 2026 08:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Cape Breton police say chop shop probe grew from report of one stolen vehicle",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-police-chop-shop-probe-9.7419807",
+          "source": "CBC"
+        },
+        {
+          "title": "Police in Cape Breton disrupt major, national stolen vehicle trafficking ring",
+          "url": "https://halifax.citynews.ca/2026/11/13/police-in-cape-breton-disrupt-major-national-stolen-vehicle-trafficking-ring/",
+          "source": "CityNews Halifax"
+        },
+        {
+          "title": "Four arrested, 220 charges laid in Cape Breton organized crime probe",
+          "url": "https://globalnews.ca/news/12149362/cape-breton-organized-crime-arrests/",
+          "source": "Global News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"arrested\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "egypt vs malawi",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Egypt vs Malawi: Africa Cup of Nations Qualification stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cq8jz443j2pxt",
+          "source": "BBC"
+        },
+        {
+          "title": "Uganda vs Botswana: First Half Winner",
+          "url": "https://www.coinbase.com/en-au/predictions/event/KXAFCON1H-26NOV14UGABOT",
+          "source": "Coinbase"
+        },
+        {
+          "title": "Egypt faces Malawi Friday in crucial 2027 AFCON qualifier",
+          "url": "https://www.egyptindependent.com/egypt-faces-malawi-friday-in-crucial-2027-afcon-qualifier/",
+          "source": "Egypt Independent"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "willson contreras",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 13 Nov 2026 10:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Willson Contreras, Red Sox still talking after first baseman’s criticism of analytics reliance",
+          "url": "https://www.bostonglobe.com/2026/11/11/sports/red-sox-gm-meetings/",
+          "source": "The Boston Globe"
+        },
+        {
+          "title": "CALLED OUT: Red Sox Star Willson Contreras DEMANDS Change—Are Analytics UNDERMINING Success?",
+          "url": "https://www.fox61.com/video/sports/locked-on/lo-new-england/red-sox-show/called-out-red-sox-star-willson-contreras-demands-changeare-analytics-undermining-success/535-d9ea7f3f-2f20-448e-b05c-1d2bf1a8ce91",
+          "source": "fox61.com"
+        },
+        {
+          "title": "World Series star Contreras the very definition of first Flow Mayor Award",
+          "url": "https://www.mlb.com/news/william-contreras-wins-inaugural-flow-mayor-award",
+          "source": "MLB.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from mlb.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "elijah higgins",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 13 Nov 2026 10:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Cardinals Extend Tight End Elijah Higgins",
+          "url": "https://www.azcardinals.com/news/cardinals-extend-tight-end-elijah-higgins",
+          "source": "Arizona Cardinals"
+        },
+        {
+          "title": "Elijah Higgins Two grabs versus Seattle",
+          "url": "https://www.thefantasyfootballers.com/news/647058/elijah-higgins-two-grabs-versus-seattle/",
+          "source": "Fantasy Footballers Podcast"
+        },
+        {
+          "title": "Cardinals Sign TE Elijah Higgins To Three-Year Extension",
+          "url": "https://nfltraderumors.co/cardinals-sign-te-elijah-higgins-to-three-year-extension/",
+          "source": "NFLTradeRumors.co"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "portugal",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Mega Odd Betano: Portugal x Dinamarca com Odd de 25.00",
+          "url": "https://www.record.pt/casas-de-apostas/mega-odd-betano-portugal-vs-dinamarca/",
+          "source": "Record"
+        },
+        {
+          "title": "Seleção em Braga: as variantes do jogo após a renúncia de Cristiano Ronaldo",
+          "url": "https://www.zerozero.pt/noticias/portugal-em-braga-os-pontos-atraentes-para-este-jogo/1260030",
+          "source": "zerozero.pt"
+        },
+        {
+          "title": "DIRETO 🔴 Última Bola: Conferência de Imprensa da Seleção Nacional A",
+          "url": "https://golo.fm/destaque/direto-%F0%9F%94%B4-ultima-bola-conferencia-de-imprensa-da-selecao-nacional-a-7/",
+          "source": "Golo FM"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "crime",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Bedfordshire Police rated 'inadequate' at cracking crime",
+          "url": "https://www.bbc.co.uk/news/articles/cmlydwdk49v1o",
+          "source": "BBC"
+        },
+        {
+          "title": "Bedfordshire Police needs to urgently improve how it investigates crime",
+          "url": "https://hmicfrs.justiceinspectorates.gov.uk/news/news-feed/bedfordshire-police-needs-to-urgently-improve-how-it-investigates-crime/",
+          "source": "Criminal Justice Inspectorates"
+        },
+        {
+          "title": "Bedfordshire Police faces stark criticism in watchdog report as leaders cite '500 officer' funding gap",
+          "url": "https://www.bedfordindependent.co.uk/bedfordshire-police-faces-stark-criticism-in-watchdog-report-as-leaders-cite-500-officer-funding-gap/",
+          "source": "Bedford Independent"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "gta 6 online",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Another Update About The ‘GTA 6 Online’ Release Date",
+          "url": "https://www.forbes.com/sites/paultassi/2026/11/13/the-gta-6-online-release-date-is-far-off-says-new-report/",
+          "source": "Forbes"
+        },
+        {
+          "title": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
+          "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
+          "source": "Push Square"
+        },
+        {
+          "title": "GTA 6 Online release window has apparently leaked",
+          "url": "https://www.notebookcheck.net/GTA-6-Online-release-window-has-apparently-leaked.1449676.0.html",
+          "source": "Notebookcheck"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "avengers endgame encore",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 13 Nov 2026 09:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Avengers Endgame: Encore: streaming details, story, cast & what to watch next | Explore Disney+",
+          "url": "https://www.disneyplus.com/en-gb/explore/articles/avengers-endgame-encore",
+          "source": "Disney Plus"
+        },
+        {
+          "title": "Avengers Endgame: Encore's Ending And Avengers: Doomsday Tie-In Post-Credits Scenes Released In HD",
+          "url": "https://www.imdb.com/news/ni66109277/?ref_=int_nwr_3",
+          "source": "IMDb"
+        },
+        {
+          "title": "‘Avengers: Endgame Encore’ Sets Disney+ Streaming Release Date",
+          "url": "https://variety.com/2026/film/news/avengers-endgame-encore-disney-streaming-release-date-1236821013/",
+          "source": "Variety"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "jake bauers",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 13 Nov 2026 09:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Report: Jake Bauers agrees to four-year, $58-million deal with Red Sox",
+          "url": "https://www.sportsnet.ca/mlb/article/report-jake-bauers-agrees-to-four-year-58-million-deal-with-red-sox/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Report: Bauers joins BoSox in biggest MLB free agent splash yet",
+          "url": "https://www.tsn.ca/mlb/article/report-bauers-joins-bosox-in-biggest-mlb-free-agent-splash-yet/",
+          "source": "TSN"
+        },
+        {
+          "title": "Postseason breakout star Bauers agrees to 4-year deal with Red Sox (source)",
+          "url": "https://www.mlb.com/news/jake-bauers-4-year-contract-with-red-sox",
+          "source": "MLB.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from mlb.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "egypt vs malawi",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Egypt vs Malawi: Africa Cup of Nations Qualification stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/cq8jz443j2pxt",
+          "source": "BBC"
+        },
+        {
+          "title": "Uganda vs Botswana: First Half Winner",
+          "url": "https://www.coinbase.com/en-au/predictions/event/KXAFCON1H-26NOV14UGABOT",
+          "source": "Coinbase"
+        },
+        {
+          "title": "Egypt faces Malawi Friday in crucial 2027 AFCON qualifier",
+          "url": "https://www.egyptindependent.com/egypt-faces-malawi-friday-in-crucial-2027-afcon-qualifier/",
+          "source": "Egypt Independent"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "cholesterol",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Two-drug therapy reduces heart artery plaque more than statins alone",
+          "url": "https://www.medicalnewstoday.com/articles/combining-two-cholesterol-drugs-may-shrink-artery-plaque-more-effectively-trial-finds",
+          "source": "Medical News Today"
+        },
+        {
+          "title": "Initial statin–ezetimibe combination therapy reaches LDL cholesterol targets twice as fast",
+          "url": "https://www.sportschosun.com/en/culture/2026-11-11/202611110100080150007571",
+          "source": "스포츠조선"
+        },
+        {
+          "title": "Ez-PAVE: Initial Statin-Ezetimibe Combination No Better than Statins Alone",
+          "url": "https://www.hcplive.com/view/ez-pave-initial-statin-ezetimibe-combination-no-better-than-statins-alone",
+          "source": "HCPLive"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "france south africa rugby",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 09:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "France v South Africa: Antoine Dupont at fly-half for Paris match",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq742lw1v3pvo",
+          "source": "BBC"
+        },
+        {
+          "title": "France team: Winners and losers as Grégory Alldritt returns to Fabien Galthié's favour but exiled wing forced to wait after five year absence",
+          "url": "https://www.planetrugby.com/news/france-team-winners-and-losers-as-gregory-alldritt-returns-to-fabien-galthies-favour-but-exiled-wing-forced-to-wait-after-five-year-absence",
+          "source": "Planet Rugby"
+        },
+        {
+          "title": "KOLISI: Boks know exactly what’s required against France",
+          "url": "https://supersport.com/rugby/news/080d1c75-c1ed-4a8f-846b-3b4deee2ff47/kolisi-we-know-exactly-what-s-required-",
+          "source": "SuperSport"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"match\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "rugby fixtures",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 09:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Cardiff train stations to introduce queuing systems for Wales rugby matches",
+          "url": "https://www.wales247.co.uk/cardiff-train-stations-to-introduce-queuing-systems-for-wales-rugby-matches",
+          "source": "Wales 247"
+        },
+        {
+          "title": "Wales rail network anticipates large crowds for remaining Rugby fixtures",
+          "url": "https://www.railadvent.co.uk/2026/11/wales-rail-network-anticipates-large-crowds-for-remaining-rugby-fixtures.html",
+          "source": "RailAdvent"
+        },
+        {
+          "title": "France have spent years trying to beat the Boks but belief and bodies are fading",
+          "url": "https://www.theguardian.com/sport/2026/nov/12/antoine-dupont-fly-half-france-south-africa-nations-championship-rugby",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "viggo mortensen",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Jamie Dornan Cried When He Was Cast as Aragorn in 'Lord of the Rings'",
+          "url": "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943/",
+          "source": "Variety"
+        },
+        {
+          "title": "Jamie Dornan, like most of us, hopes Hunt For Gollum works out",
+          "url": "https://www.avclub.com/jamie-dornan-lord-of-the-rings-hunt-for-gollum-aragorn-role-viggo-mortensen",
+          "source": "A.V. Club"
+        },
+        {
+          "title": "Lord of the Rings' Viggo Mortensen Replacement Says Aragorn Casting Made Him Cry",
+          "url": "https://www.cbr.com/lord-of-the-rings-the-hunt-for-gollum-jamie-dornan-aragorn/",
+          "source": "Comic Book Resources"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "ftse 250 index",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "FTSE 250 shares round-up: B&M, Persimmon, WH Smith, Dr Martens",
+          "url": "https://www.ii.co.uk/analysis-commentary/ftse-250-shares-round-bm-persimmon-wh-smith-dr-martens-ii540878",
+          "source": "Interactive Investor"
+        },
+        {
+          "title": "BME: UK like-for-likes returned to growth as margin repair and store-format trials advanced",
+          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4587728:0-bme-uk-like-for-likes-returned-to-growth-as-margin-repair-and-store-format-trials-advanced/",
+          "source": "TradingView"
+        },
+        {
+          "title": "Retailer B&M says annual profit may rise up to 16% as turnaround takes hold",
+          "url": "https://www.reuters.com/world/uk/retailer-bm-says-annual-profit-may-rise-up-16-turnaround-takes-hold-2026-11-12/",
+          "source": "Reuters"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "rene haas",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 09:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Nvidia's CEO search has a 3- to 4-month clock: 'It's pretty urgent'",
+          "url": "https://finance.yahoo.com/video/nvidias-ceo-search-has-a-3--to-4-month-clock-its-pretty-urgent-175552767.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+          "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "5 things Jensen Huang mastered that Nvidia’s next CEO will have to learn",
+          "url": "https://www.fastcompany.com/91642252/5-things-jensen-huang-mastered-that-nvidias-next-ceo-will-have-to-learn",
+          "source": "Fast Company"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "taylor fritz",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 09:00:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Bold Fritz Blitzes Musetti for 25th Career Final in Stockholm",
+          "url": "https://tennisnow.com/bold-fritz-blitzes-musetti-for-25th-career-final-in-stockholm/",
+          "source": "Tennis Now"
+        },
+        {
+          "title": "ATP Stockholm Best Bets Including Taylor Fritz Vs Lorenzo Musetti",
+          "url": "https://lastwordonsports.com/tennis/2026/11/12/atp-stockholm-best-bets-fritz-musetti/",
+          "source": "Last Word On Sports"
+        },
+        {
+          "title": "Video : Taylor Fritz and Thiago Agustín Tirante reach Stockholm Open 2026 final on hard court",
+          "url": "https://en.tennistemple.com/video/taylor-fritz-and-thiago-agustin-tirante-reach/zWJJr",
+          "source": "TennisTemple"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"court\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "riftbound bans",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 08:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Radiance Ban List Updates (Effective November 23, 2026)",
+          "url": "https://playriftbound.com/en-us/news/announcements/radiance-ban-list-updates-effective-november-23-2026/",
+          "source": "Riftbound"
+        },
+        {
+          "title": "10 Riftbound Cards Just Got Banned, Including A Radiance Legend",
+          "url": "https://www.thegamer.com/riftbound-bans-riven-broken-blade/",
+          "source": "TheGamer"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "avril lavigne",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 07:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Avril Lavigne welcomes 'princess' first child",
+          "url": "https://www.canberratimes.com.au/story/9391515/avril-lavigne-welcomes-princess-first-child/",
+          "source": "The Canberra Times"
+        },
+        {
+          "title": "Avril Lavigne Reveals Baby Daughter with Mystery Partner",
+          "url": "https://consequence.net/2026/11/avril-lavigne-baby-daughter-partner/",
+          "source": "Consequence of Sound"
+        },
+        {
+          "title": "Avril Lavigne’s Dating History: Her Mystery Boyfriend, Exes & Past Relationships",
+          "url": "https://hollywoodlife.com/feature/avril-lavigne-boyfriends-husband-dating-history-5035066/",
+          "source": "Hollywood Life"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "anz",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 07:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "ANZ boss warns global markets in 'dangerous situation' as interest rates rise",
+          "url": "https://www.abc.net.au/news/2026-11-12/anz-boss-says-global-markets-in-dangerous-situation/107377392",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Australia news as it happened: Head of ANZ encourages reduction in government spending; China’s Xi says Taiwan ‘reunification’ must happen",
+          "url": "https://www.smh.com.au/national/australia-news-live-albanese-defends-australia-as-climate-leader-after-un-boss-pushes-him-to-step-up-commitments-russia-and-ukraine-talks-end-with-no-major-breakthrough-20261112-p61dgl.html",
+          "source": "SMH.com.au"
+        },
+        {
+          "title": "AI job fears miss the real risk for insurance, says ANZIIF chief",
+          "url": "https://www.insurancebusinessmag.com/au/news/breaking-news/ai-job-fears-miss-the-real-risk-for-insurance-says-anziif-chief-597232.aspx",
+          "source": "Insurance Business"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "paramount",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 06:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "The 3 Best Movies to Watch on Paramount+ This Week",
+          "url": "https://www.imdb.com/it/news/ni66100550/?ref_=nwc_art_perm",
+          "source": "IMDb"
+        },
+        {
+          "title": "3 new to Paramount+ movies to watch this weekend (Nov. 13-15)",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/3-paramount-movies-watch-weekend-140000487.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "4 staggering Paramount+ movies to watch this week (November 9-15)",
+          "url": "https://www.howtogeek.com/paramount-plus-movies-to-watch-this-week-november-9/",
+          "source": "How-To Geek"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "taylor swift",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 05:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Taylor Swift Sets First CMA Awards Performance in 13 Years",
+          "url": "https://www.rollingstone.com/music/music-news/taylor-swift-will-perform-2026-cma-awards-1235657442/",
+          "source": "Rolling Stone"
+        },
+        {
+          "title": "Taylor Swift’s Last CMA Performance Was Truly Special [WATCH]",
+          "url": "https://drgnews.com/2026/11/13/taylor-swifts-last-cma-performance-was-truly-special-watch/",
+          "source": "DRGNews"
+        },
+        {
+          "title": "Taylor Swift performing at 60th annual CMA Awards in Nashville",
+          "url": "https://mynbc15.com/news/entertainment/taylor-swift-performing-at-60th-annual-cma-awards-in-nashville-tennessee-country-music-i-knew-it-i-knew-you-single-of-the-year-nomination",
+          "source": "NBC 15 WPMI"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "lewis harrison adelaide",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 04:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Beloved teen kart racer dies after surgery complications",
+          "url": "https://www.adelaidenow.com.au/messenger/south/teenage-gokart-racer-lewis-harrison-dies-after-surgery-complications-in-adelaide/news-story/a28db5dc98c46d1f8ca656257934d7e7",
+          "source": "Adelaide Now"
+        },
+        {
+          "title": "'Live like Lewis': Adelaide family’s message after son dies aged 18 - News",
+          "url": "https://www.indailysa.com.au/news/just-in/2026/11/13/live-like-lewis-adelaide-familys-message-after-son-dies-aged-18",
+          "source": "InDaily South Australia"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "fire perth",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 04:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Terrifying bushfire inferno nears homes in Perth's north",
+          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/bushfire-warning-ellenbrook-aveley-the-vines-residents-urged-to-prepare-to-evacuate-as-bushfire-rages-c-23160704",
+          "source": "PerthNow"
+        },
+        {
+          "title": "How the decline of the department store could shape the future of shopping",
+          "url": "https://www.abc.net.au/news/2026-11-13/david-jones-department-stores-decline-retail-future/107376858",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Qantas status the airline doesn’t want: as a David Jones creditor",
+          "url": "https://www.theaustralian.com.au/business/retail/qantas-emerges-as-creditor-after-department-store-david-jones-enters-administration/news-story/314ed59067360631d1f158f9e81238ed",
+          "source": "The Australian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "billy evans",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 03:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Elizabeth Holmes' Fiancé Billy Evans Says He Loves Nathan Fielder Despite Villain Portrayal in Doc",
+          "url": "https://www.tmz.com/2026/11/13/elizabeth-holmes-fiance-billy-evans-speaks-out-on-nathan-fielder-doc/",
+          "source": "TMZ"
+        },
+        {
+          "title": "Whose Idea Was Billy Evans' Shower Scene in 'You Can See Everything'?",
+          "url": "https://www.pajiba.com/tv_reviews/whose-idea-was-billy-evans-shower-scene-in-you-can-see-everything.php",
+          "source": "Pajiba"
+        },
+        {
+          "title": "Elizabeth Holmes’ Partner Is A Villain In You Can See Everything. I’m Shocked By His Thoughts On It",
+          "url": "https://www.cinemablend.com/movies/elizabeth-holmes-partner-billy-evans-villain-you-can-see-everything-shocked-thoughts-it-nathan-fielder",
+          "source": "Cinemablend"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "amanda seyfried",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 03:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "The ‘You Can See Everything’ Interview You’ve Been Waiting For",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/amanda-seyfried-nathan-fielder-you-can-see-everything-1235653104/",
+          "source": "Rolling Stone"
+        },
+        {
+          "title": "Amanda Seyfried Slams Billy Evans, Talks 'You Can See Everything' Filming",
+          "url": "https://variety.com/2026/film/news/amanda-seyfried-slams-billy-evans-you-can-see-everything-filming-1236945046/",
+          "source": "Variety"
+        },
+        {
+          "title": "Amanda Seyfried reveals ‘jaw-dropping’ clash with Elizabeth Holmes’ partner",
+          "url": "https://www.thechronicle.com.au/entertainment/celebrity-life/amanda-seyfried-reveals-jawdropping-clash-with-elizabeth-holmes-partner/video/73361c466a4dc7bb10d8b296e251b29f",
+          "source": "Toowoomba Chronicle"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "one championship",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 13 Nov 2026 03:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "ONE Friday Fights 178 Main Event Result: Anar Mammadov Shocks Superlek With First-Round Knockout",
+          "url": "https://www.onefc.com/news/one-friday-fights-178-main-event-result-anar-mammadov-shocks-superlek-with-first-round-knockout/",
+          "source": "ONE Championship"
+        },
+        {
+          "title": "After A Winning Return, Superlek Eyes A Statement Finish At ONE Friday Fights 178",
+          "url": "https://www.beinsports.com/en-asia/mixed-martial-arts/one-championship/articles/after-a-winning-return-superlek-eyes-a-statement-finish-at-one-friday-fights-178-2026-11-12",
+          "source": "beIN SPORTS"
+        },
+        {
+          "title": "ONE Friday Fights 178 & The Inner Circle 38 Results: Nong-O, Shimon Advance",
+          "url": "https://combatpress.com/2026/11/one-friday-fights-178-the-inner-circle-38-results-nong-o-shimon-advance/",
+          "source": "Combat Press"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "lpga",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "LPGA Golf",
+          "url": "https://www.idahostatejournal.com/sports/national/lpga-golf/image_aea1c725-9dab-5184-8392-cb6cbc7ec7c4.html",
+          "source": "Idaho State Journal"
+        },
+        {
+          "title": "LPGA Golf",
+          "url": "http://www.idahopress.com/sports/national/lpga-golf/image_d8c26754-7a2f-5a1f-a26c-4bf78de89094.html",
+          "source": "Idaho Press"
+        },
+        {
+          "title": "LPGA Golf",
+          "url": "http://www.idahopress.com/sports/national/lpga-golf/image_438d225a-459e-5d5a-aaf2-0c7ff3a25840.html",
+          "source": "Idaho Press"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "lpga leaderboard",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 13 Nov 2026 09:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Allisen Corpuz and Lindy Duncan record opening-round aces at The ANNIKA",
+          "url": "https://www.lpga.com/news/2026/allisen-corpuz-and-lindy-duncan-record-opening-round-aces-at-the-annika",
+          "source": "LPGA"
+        },
+        {
+          "title": "Featured Groups: 2026 The ANNIKA driven by Gainbridge at Pelican",
+          "url": "https://www.lpga.com/news/2026/featured-groups-2026-the-annika-driven-by-gainbridge-at-pelican",
+          "source": "LPGA"
+        },
+        {
+          "title": "Korda returns to golf and gets right back in the mix, trailing Katsu and Choi by two shots",
+          "url": "https://www.tsn.ca/golf/article/korda-returns-to-golf-and-gets-right-back-in-the-mix-trailing-katsu-and-choi-by-two-shots/",
+          "source": "TSN"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "haïti",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 13 Nov 2026 09:00:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Les forces haïtiennes reprennent aux gangs le stade de l’équipe nationale de soccer",
+          "url": "https://ici.radio-canada.ca/article/info/2300301/haiti-forces-gangs-reprise-stade-soccer",
+          "source": "Radio-Canada"
+        },
+        {
+          "title": "Le Salvador vaincra-t-il les gangs en Haïti?",
+          "url": "https://www.ledevoir.com/monde/ameriques/1024673/salvador-vaincra-il-gangs-haiti",
+          "source": "Le Devoir"
+        },
+        {
+          "title": "La très contestée méthode anti-gangs du président salvadorien Bukele porte ses premiers fruits en Haïti",
+          "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-tres-contestee-methode-anti-gangs-du-president-salvadorien-bukele-porte-ses-premiers-fruits-en-haiti_8259701.html",
+          "source": "franceinfo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "mauricio pochettino",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 13 Nov 2026 04:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Michael Carrick breaks silence after Man United sacking, love for club 'never dies'",
+          "url": "https://www.espn.com.au/football/story/_/id/50471058/michael-carrick-man-united-sacked-silence",
+          "source": "ESPN"
+        },
+        {
+          "title": "With club in drop zone, Manchester United sacks manager Michael Carrick",
+          "url": "https://www.abc.net.au/news/2026-11-12/michael-carrick-sacked-as-manchester-united-manager/107380482",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"united\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-11-13",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Dark academia",
+      "motifs": [
+        "etched owl",
+        "stacked antique books",
+        "marginalia typography"
+      ],
+      "suggestedProducts": [
+        "poster",
+        "hoodie",
+        "mug"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Plant parent",
+      "motifs": [
+        "single-line monstera",
+        "propagation station",
+        "terracotta row"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
