@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T18:24:47.694Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T16:51:36.542Z",
   "sources": [
     {
       "id": "google_trends_rss:US",
@@ -56,26 +56,57 @@
   },
   "trends": [
     {
-      "title": "jake bauers",
+      "title": "rugby championship",
       "traffic": 20000,
       "trafficLabel": "20000+",
-      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
+      "pubDate": "Sat, 14 Nov 2026 08:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "France vs South Africa LIVE: Nations Championship 2026 - scores, commentary, text updates & lineups",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/live/c3vgxx9p02p5t",
+          "source": "BBC"
+        },
+        {
+          "title": "France cling on for furious victory against South Africa after Dupont sizzles",
+          "url": "https://www.theguardian.com/sport/2026/nov/13/france-south-africa-nations-championship-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "France resist Springboks’ second-half rearguard to win Paris thriller",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-14-france-resist-springboks-second-half-rearguard-to-win-paris-thriller/",
+          "source": "Daily Maverick"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "kenneth walker",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
       "geo": "US",
       "newsItems": [
         {
-          "title": "Sources - Jake Bauers, Red Sox agree to 4-year, $58M deal",
-          "url": "https://www.espn.com/mlb/story/_/id/50473029/sources-jake-bauers-red-sox-agree-4-year-58m-deal",
+          "title": "Chiefs RB Kenneth Walker III (groin) misses practice, status uncertain",
+          "url": "https://www.espn.com/nfl/story/_/id/50473948/chiefs-rb-walker-groin-misses-practice-status-uncertain",
           "source": "ESPN"
         },
         {
-          "title": "NLCS MVP Jake Bauers won't be returning to the Brewers in 2027",
-          "url": "https://sports.yahoo.com/articles/nlcs-mvp-jake-bauers-wont-180517155.html",
-          "source": "Yahoo Sports"
+          "title": "NFL Week 10 injury report: Chiefs' Kenneth Walker III ruled out, Patriots' A.J. Brown questionable",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
+          "source": "CBS Sports"
         },
         {
-          "title": "Jake Bauers reportedly signs deal with Red Sox",
-          "url": "https://www.mlb.com/redsox/video/jake-bauers-reportedly-signs-deal-with-red-sox",
-          "source": "MLB.com"
+          "title": "Chiefs injury update: 3 players out, star running back questionable for Chiefs-Falcons",
+          "url": "https://www.kmbc.com/article/chiefs-injury-update-falcons-kenneth-walker-questionable/74426557",
+          "source": "KMBC"
         }
       ],
       "trademarkRisk": "high",
@@ -86,876 +117,300 @@
       ]
     },
     {
-      "title": "tony richards",
-      "traffic": 5000,
-      "trafficLabel": "5000+",
-      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
-      "geo": "US",
+      "title": "norway vs wales",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Sat, 14 Nov 2026 08:00:00 -0800",
+      "geo": "GB",
       "newsItems": [
         {
-          "title": "Original W.A.S.P. Drummer Tony Richards Dead at 69",
-          "url": "https://consequence.net/2026/11/w-a-s-p-drummer-tony-richards-dead-at-69/",
-          "source": "Consequence of Sound"
+          "title": "Uefa Nations League: Norway vs Wales - listen live, text updates, stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/crz6568xvv8vt",
+          "source": "BBC"
         },
         {
-          "title": "Original W.A.S.P. Drummer Tony Richards Has Died",
-          "url": "https://ghostcultmag.com/original-w-a-s-p-drummer-tony-richards-has-died/",
-          "source": "Ghost Cult Magazine"
+          "title": "Norway vs Wales LIVE! Nations League Group A4 score updates, commentary, news and line-ups",
+          "url": "https://www.skysports.com/football/live-blog/13612159/norway-vs-wales-live-nations-league-group-a4-score-updates-commentary-news-and-line-ups",
+          "source": "Sky Sports"
         },
         {
-          "title": "Metal Breakdown Daily: New Slipknot Album, Original W.A.S.P. Drummer Tony Richards Dies, Ronnie Radke Sued",
-          "url": "https://loadedradio.com/metal-breakdown-daily-slipknot-album-tony-richards-radke/",
-          "source": "Loaded Radio"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Contains \"album\" — commonly a protected mark or event name.",
-        "Reads as news/current affairs (\"died\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "rockstar gta vi",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Fri, 13 Nov 2026 10:00:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
-          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
-          "source": "XBOX Wire"
-        },
-        {
-          "title": "Pre-load Grand Theft Auto VI on PS5 starting today",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
-          "source": "PlayStation.Blog"
-        },
-        {
-          "title": "Grand Theft Auto VI Will Run At 30 FPS On All Consoles, But PS5 Pro Will Feature 'Improved Clarity' And Ray-Traced Shadows",
-          "url": "https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved",
-          "source": "Game Informer"
+          "title": "Norway vs Wales prediction, tips and team news | Nations League",
+          "url": "https://www.tntsports.co.uk/betting/tips/norway-vs-wales-prediction-tips-and-team-news-14-11-26/",
+          "source": "TNT Sports"
         }
       ],
       "trademarkRisk": "high",
       "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Coverage from blog.playstation.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "philip rivers",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Fri, 13 Nov 2026 09:50:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Rivers Named Head Coach for NC State Football",
-          "url": "https://gopack.com/news/2026/11/13/rivers-named-head-coach-for-nc-state-football",
-          "source": "NC State University Athletics"
-        },
-        {
-          "title": "Sources: Philip Rivers set to return to NC State, deal to be finalized Friday",
-          "url": "https://www.espn.com/college-football/story/_/id/50456831/sources-philip-rivers-nc-state-deal-set-finalized",
-          "source": "ESPN"
-        },
-        {
-          "title": "Philip Rivers is NC State’s dream coaching hire. He’s also not qualified for the job",
-          "url": "https://www.nytimes.com/athletic/7764757/2026/11/08/philip-rivers-head-coach-nc-state/",
-          "source": "The New York Times"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Coverage from skysports.com — league/studio/label IP very likely.",
         "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     },
     {
-      "title": "iran bahrain",
+      "title": "noruega - gales",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 14 Nov 2026 08:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Pronóstico Noruega - Gales - Nations League",
+          "url": "https://www.sportytrader.es/pronosticos/noruega-gales-386579/",
+          "source": "SportyTrader"
+        },
+        {
+          "title": "Alineaciones de Noruega y Gales por la Liga de Naciones: formaciones probables",
+          "url": "https://bolavip.com/pe/futbol-internacional/alineaciones-de-noruega-y-gales-por-la-liga-de-naciones-formaciones-probables",
+          "source": "Bolavip Perú"
+        },
+        {
+          "title": "Noruega – Galés: Un duelo sin margen de error para los vikingos y dragones rojos",
+          "url": "https://onefootball.com/es/noticias/noruega-gales-un-duelo-sin-margen-de-error-para-los-vikingos-y-dragones-rojos-43774960",
+          "source": "OneFootball"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "wales vs new zealand",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 14 Nov 2026 05:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Wales bury 73-year All Blacks hoodoo with seismic victory over New Zealand",
+          "url": "https://www.theguardian.com/sport/2026/nov/14/wales-new-zealand-nations-championship-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "'We weren’t good enough': Rennie's disappointment as All Blacks stunned by Wales",
+          "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-v-wales-live-updates-from-the-nations-championship-test-in-cardiff/RWUODEUWWFFNLGTRZBGAL4VAAU/",
+          "source": "NZ Herald"
+        },
+        {
+          "title": "Wales v New Zealand prediction: All Blacks to continue fine form and extend hosts' 'misery' with 'comfortable' victory",
+          "url": "https://www.planetrugby.com/news/wales-v-new-zealand-prediction-all-blacks-to-continue-fine-form-and-extend-hosts-misery-with-comfortable-victory",
+          "source": "Planet Rugby"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "syracuse vs nc state",
       "traffic": 2000,
       "trafficLabel": "2000+",
-      "pubDate": "Fri, 13 Nov 2026 09:20:00 -0800",
+      "pubDate": "Sat, 14 Nov 2026 08:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Pack Power Predictions for NC State vs. Syracuse football in Week 11",
+          "url": "https://247sports.com/college/north-carolina-state/article/pack-power-predictions-for-nc-state-vs-syracuse-football-in-week-11-292661374/",
+          "source": "247Sports"
+        },
+        {
+          "title": "How to watch Syracuse vs. North Carolina State football free stream today",
+          "url": "https://www.syracuse.com/tv/2026/11/how-to-watch-syracuse-vs-north-carolina-state-football-free-stream-today.html",
+          "source": "Syracuse.com"
+        },
+        {
+          "title": "Keys to Victory: SU vs. NC State",
+          "url": "https://www.localsyr.com/orange-nation/keys-to-victory-su-vs-nc-state/",
+          "source": "WSYR"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "james madison vs uconn",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 14 Nov 2026 08:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "UConn football faces another challenge with James Madison visiting Saturday: How to watch",
+          "url": "https://www.courant.com/2026/11/13/uconn-football-faces-another-challenge-with-james-madison-visiting-saturday-how-to-watch/",
+          "source": "Hartford Courant"
+        },
+        {
+          "title": "JMU vs UConn Prediction, Pick, NCAAF Odds for Saturday, Nov. 14",
+          "url": "https://sports.yahoo.com/articles/jmu-vs-uconn-prediction-pick-101321904.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "James Madison vs UConn Prediction, Picks & Odds | 14 Nov 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/ncaaf/james-madison-dukes-vs-uconn-huskies-prediction-odds-2026-11-14/",
+          "source": "Sportsgambler"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "raf",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
       "geo": "CA",
       "newsItems": [
         {
-          "title": "Iran war live: US says shot down 2 drones over Bahrain, denies radar strike",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Iran targets US military site in Gulf for first time in two months as hopes for a deal fade",
-          "url": "https://www.cnn.com/2026/11/13/middleeast/iran-targets-us-military-site-in-gulf-first-time-in-two-months-intl",
+          "title": "US Air Force responds to suspected drone activity over UK airbase",
+          "url": "https://www.cnn.com/2026/11/13/uk/uk-airbase-usaf-suspected-drone-latam-intl",
           "source": "CNN"
         },
         {
-          "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+          "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+          "url": "https://www.bbc.com/news/articles/c6jd75geegzyo",
+          "source": "BBC"
+        },
+        {
+          "title": "US Air Force responds to suspected drone activity at RAF Lakenheath",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
           "source": "The Guardian"
         }
       ],
       "trademarkRisk": "medium",
-      "podRelevance": 0,
+      "podRelevance": 0.1,
       "printable": false,
       "reasons": [
         "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche.",
-        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+        "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     },
     {
-      "title": "taylor swift",
+      "title": "norway vs wales",
       "traffic": 2000,
       "trafficLabel": "2000+",
-      "pubDate": "Fri, 13 Nov 2026 09:10:00 -0800",
+      "pubDate": "Sat, 14 Nov 2026 08:10:00 -0800",
       "geo": "CA",
       "newsItems": [
         {
-          "title": "Taylor Swift to perform at CMAs for 1st time in 13 years",
-          "url": "https://www.goodmorningamerica.com/culture/story/taylor-swift-perform-cmas-1st-time-13-years-138104764",
-          "source": "Good Morning America"
-        },
-        {
-          "title": "Taylor Swift to Perform at the 2026 CMA Awards for the First Time in 13 Years",
-          "url": "https://people.com/taylor-swift-to-perform-at-the-2026-cma-awards-12252679",
-          "source": "People.com"
-        },
-        {
-          "title": "Is Taylor Swift Participating in the Dolly Parton Tribute at CMA Awards 2026? The Truth",
-          "url": "https://www.eonline.com/ca/news/1438024/taylor-swift-is-not-performing-in-dolly-parton-tribute-at-cma-awards-2026",
-          "source": "E! News"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "el nino",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "What 165 days of record ocean temperatures will mean for extreme winter weather",
-          "url": "https://www.washingtonpost.com/weather/2026/11/12/what-165-days-record-ocean-temperatures-will-mean-extreme-winter-weather/",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "What the new 'astonishing' El Niño forecast means for California",
-          "url": "https://www.sfgate.com/weather/article/new-el-nino-forecast-22523911.php",
-          "source": "SFGATE"
-        },
-        {
-          "title": "See What the ‘Super El Niño’ Means for This Year’s Ski Season",
-          "url": "https://www.wsj.com/us-news/climate-environment/see-what-the-super-el-nino-means-for-this-years-ski-season-f233a1d6",
-          "source": "WSJ"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"season\" — commonly a protected mark or event name.",
-        "Mainstream news coverage — event-driven, not a durable merch niche.",
-        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "gta 6 online",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Another Update About The ‘GTA 6 Online’ Release Date",
-          "url": "https://www.forbes.com/sites/paultassi/2026/11/13/the-gta-6-online-release-date-is-far-off-says-new-report/",
-          "source": "Forbes"
-        },
-        {
-          "title": "Is GTA 6 Going to Have Online? What We Know About Multiplayer and Its Release Date",
-          "url": "https://www.vice.com/en/article/gta-6-online-release-date/",
-          "source": "VICE"
-        },
-        {
-          "title": "GTA 6 Online release window has apparently leaked",
-          "url": "https://www.notebookcheck.net/GTA-6-Online-release-window-has-apparently-leaked.1449676.0.html",
-          "source": "Notebookcheck"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "james bond",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Robert Pattinson reportedly leads James Bond contenders",
-          "url": "https://www.theguardian.com/film/2026/nov/13/robert-pattinson-reportedly-leads-james-bond-contenders",
+          "title": "Norway v Wales: Nations League – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
           "source": "The Guardian"
         },
         {
-          "title": "James Bond: What we know so far about the next 007 film",
-          "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po",
+          "title": "Uefa Nations League: Norway vs Wales - listen live, text updates, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/crz6568xvv8vt",
           "source": "BBC"
         },
         {
-          "title": "Nicholas Hoult confirms UK move",
-          "url": "https://uk.movies.yahoo.com/nicholas-hoult-confirms-uk-move-164312937.html",
-          "source": "Yahoo Entertainment UK"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "vehicle",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Fri, 13 Nov 2026 08:50:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Cape Breton police say chop shop probe grew from report of one stolen vehicle",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-police-chop-shop-probe-9.7419807",
-          "source": "CBC"
-        },
-        {
-          "title": "Police in Cape Breton disrupt major, national stolen vehicle trafficking ring",
-          "url": "https://halifax.citynews.ca/2026/11/13/police-in-cape-breton-disrupt-major-national-stolen-vehicle-trafficking-ring/",
-          "source": "CityNews Halifax"
-        },
-        {
-          "title": "Four arrested, 220 charges laid in Cape Breton organized crime probe",
-          "url": "https://globalnews.ca/news/12149362/cape-breton-organized-crime-arrests/",
-          "source": "Global News"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Reads as news/current affairs (\"arrested\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "egypt vs malawi",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Egypt vs Malawi: Africa Cup of Nations Qualification stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cq8jz443j2pxt",
-          "source": "BBC"
-        },
-        {
-          "title": "Uganda vs Botswana: First Half Winner",
-          "url": "https://www.coinbase.com/en-au/predictions/event/KXAFCON1H-26NOV14UGABOT",
-          "source": "Coinbase"
-        },
-        {
-          "title": "Egypt faces Malawi Friday in crucial 2027 AFCON qualifier",
-          "url": "https://www.egyptindependent.com/egypt-faces-malawi-friday-in-crucial-2027-afcon-qualifier/",
-          "source": "Egypt Independent"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name.",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "willson contreras",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 13 Nov 2026 10:00:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Willson Contreras, Red Sox still talking after first baseman’s criticism of analytics reliance",
-          "url": "https://www.bostonglobe.com/2026/11/11/sports/red-sox-gm-meetings/",
-          "source": "The Boston Globe"
-        },
-        {
-          "title": "CALLED OUT: Red Sox Star Willson Contreras DEMANDS Change—Are Analytics UNDERMINING Success?",
-          "url": "https://www.fox61.com/video/sports/locked-on/lo-new-england/red-sox-show/called-out-red-sox-star-willson-contreras-demands-changeare-analytics-undermining-success/535-d9ea7f3f-2f20-448e-b05c-1d2bf1a8ce91",
-          "source": "fox61.com"
-        },
-        {
-          "title": "World Series star Contreras the very definition of first Flow Mayor Award",
-          "url": "https://www.mlb.com/news/william-contreras-wins-inaugural-flow-mayor-award",
-          "source": "MLB.com"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from mlb.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "elijah higgins",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 13 Nov 2026 10:00:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Cardinals Extend Tight End Elijah Higgins",
-          "url": "https://www.azcardinals.com/news/cardinals-extend-tight-end-elijah-higgins",
-          "source": "Arizona Cardinals"
-        },
-        {
-          "title": "Elijah Higgins Two grabs versus Seattle",
-          "url": "https://www.thefantasyfootballers.com/news/647058/elijah-higgins-two-grabs-versus-seattle/",
-          "source": "Fantasy Footballers Podcast"
-        },
-        {
-          "title": "Cardinals Sign TE Elijah Higgins To Three-Year Extension",
-          "url": "https://nfltraderumors.co/cardinals-sign-te-elijah-higgins-to-three-year-extension/",
-          "source": "NFLTradeRumors.co"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "portugal",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Mega Odd Betano: Portugal x Dinamarca com Odd de 25.00",
-          "url": "https://www.record.pt/casas-de-apostas/mega-odd-betano-portugal-vs-dinamarca/",
-          "source": "Record"
-        },
-        {
-          "title": "Seleção em Braga: as variantes do jogo após a renúncia de Cristiano Ronaldo",
-          "url": "https://www.zerozero.pt/noticias/portugal-em-braga-os-pontos-atraentes-para-este-jogo/1260030",
-          "source": "zerozero.pt"
-        },
-        {
-          "title": "DIRETO 🔴 Última Bola: Conferência de Imprensa da Seleção Nacional A",
-          "url": "https://golo.fm/destaque/direto-%F0%9F%94%B4-ultima-bola-conferencia-de-imprensa-da-selecao-nacional-a-7/",
-          "source": "Golo FM"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "crime",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Bedfordshire Police rated 'inadequate' at cracking crime",
-          "url": "https://www.bbc.co.uk/news/articles/cmlydwdk49v1o",
-          "source": "BBC"
-        },
-        {
-          "title": "Bedfordshire Police needs to urgently improve how it investigates crime",
-          "url": "https://hmicfrs.justiceinspectorates.gov.uk/news/news-feed/bedfordshire-police-needs-to-urgently-improve-how-it-investigates-crime/",
-          "source": "Criminal Justice Inspectorates"
-        },
-        {
-          "title": "Bedfordshire Police faces stark criticism in watchdog report as leaders cite '500 officer' funding gap",
-          "url": "https://www.bedfordindependent.co.uk/bedfordshire-police-faces-stark-criticism-in-watchdog-report-as-leaders-cite-500-officer-funding-gap/",
-          "source": "Bedford Independent"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "gta 6 online",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Another Update About The ‘GTA 6 Online’ Release Date",
-          "url": "https://www.forbes.com/sites/paultassi/2026/11/13/the-gta-6-online-release-date-is-far-off-says-new-report/",
-          "source": "Forbes"
-        },
-        {
-          "title": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
-          "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
-          "source": "Push Square"
-        },
-        {
-          "title": "GTA 6 Online release window has apparently leaked",
-          "url": "https://www.notebookcheck.net/GTA-6-Online-release-window-has-apparently-leaked.1449676.0.html",
-          "source": "Notebookcheck"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "avengers endgame encore",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 13 Nov 2026 09:20:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Avengers Endgame: Encore: streaming details, story, cast & what to watch next | Explore Disney+",
-          "url": "https://www.disneyplus.com/en-gb/explore/articles/avengers-endgame-encore",
-          "source": "Disney Plus"
-        },
-        {
-          "title": "Avengers Endgame: Encore's Ending And Avengers: Doomsday Tie-In Post-Credits Scenes Released In HD",
-          "url": "https://www.imdb.com/news/ni66109277/?ref_=int_nwr_3",
-          "source": "IMDb"
-        },
-        {
-          "title": "‘Avengers: Endgame Encore’ Sets Disney+ Streaming Release Date",
-          "url": "https://variety.com/2026/film/news/avengers-endgame-encore-disney-streaming-release-date-1236821013/",
-          "source": "Variety"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "jake bauers",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 13 Nov 2026 09:50:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Report: Jake Bauers agrees to four-year, $58-million deal with Red Sox",
-          "url": "https://www.sportsnet.ca/mlb/article/report-jake-bauers-agrees-to-four-year-58-million-deal-with-red-sox/",
-          "source": "Sportsnet.ca"
-        },
-        {
-          "title": "Report: Bauers joins BoSox in biggest MLB free agent splash yet",
-          "url": "https://www.tsn.ca/mlb/article/report-bauers-joins-bosox-in-biggest-mlb-free-agent-splash-yet/",
-          "source": "TSN"
-        },
-        {
-          "title": "Postseason breakout star Bauers agrees to 4-year deal with Red Sox (source)",
-          "url": "https://www.mlb.com/news/jake-bauers-4-year-contract-with-red-sox",
-          "source": "MLB.com"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from mlb.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "egypt vs malawi",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Egypt vs Malawi: Africa Cup of Nations Qualification stats & head-to-head",
-          "url": "https://www.bbc.co.uk/sport/football/live/cq8jz443j2pxt",
-          "source": "BBC"
-        },
-        {
-          "title": "Uganda vs Botswana: First Half Winner",
-          "url": "https://www.coinbase.com/en-au/predictions/event/KXAFCON1H-26NOV14UGABOT",
-          "source": "Coinbase"
-        },
-        {
-          "title": "Egypt faces Malawi Friday in crucial 2027 AFCON qualifier",
-          "url": "https://www.egyptindependent.com/egypt-faces-malawi-friday-in-crucial-2027-afcon-qualifier/",
-          "source": "Egypt Independent"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name.",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "cholesterol",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Two-drug therapy reduces heart artery plaque more than statins alone",
-          "url": "https://www.medicalnewstoday.com/articles/combining-two-cholesterol-drugs-may-shrink-artery-plaque-more-effectively-trial-finds",
-          "source": "Medical News Today"
-        },
-        {
-          "title": "Initial statin–ezetimibe combination therapy reaches LDL cholesterol targets twice as fast",
-          "url": "https://www.sportschosun.com/en/culture/2026-11-11/202611110100080150007571",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "Ez-PAVE: Initial Statin-Ezetimibe Combination No Better than Statins Alone",
-          "url": "https://www.hcplive.com/view/ez-pave-initial-statin-ezetimibe-combination-no-better-than-statins-alone",
-          "source": "HCPLive"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "france south africa rugby",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 09:50:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "France v South Africa: Antoine Dupont at fly-half for Paris match",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq742lw1v3pvo",
-          "source": "BBC"
-        },
-        {
-          "title": "France team: Winners and losers as Grégory Alldritt returns to Fabien Galthié's favour but exiled wing forced to wait after five year absence",
-          "url": "https://www.planetrugby.com/news/france-team-winners-and-losers-as-gregory-alldritt-returns-to-fabien-galthies-favour-but-exiled-wing-forced-to-wait-after-five-year-absence",
-          "source": "Planet Rugby"
-        },
-        {
-          "title": "KOLISI: Boks know exactly what’s required against France",
-          "url": "https://supersport.com/rugby/news/080d1c75-c1ed-4a8f-846b-3b4deee2ff47/kolisi-we-know-exactly-what-s-required-",
-          "source": "SuperSport"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Contains \"match\" — commonly a protected mark or event name.",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "rugby fixtures",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 09:50:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Cardiff train stations to introduce queuing systems for Wales rugby matches",
-          "url": "https://www.wales247.co.uk/cardiff-train-stations-to-introduce-queuing-systems-for-wales-rugby-matches",
-          "source": "Wales 247"
-        },
-        {
-          "title": "Wales rail network anticipates large crowds for remaining Rugby fixtures",
-          "url": "https://www.railadvent.co.uk/2026/11/wales-rail-network-anticipates-large-crowds-for-remaining-rugby-fixtures.html",
-          "source": "RailAdvent"
-        },
-        {
-          "title": "France have spent years trying to beat the Boks but belief and bodies are fading",
-          "url": "https://www.theguardian.com/sport/2026/nov/12/antoine-dupont-fly-half-france-south-africa-nations-championship-rugby",
-          "source": "The Guardian"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "viggo mortensen",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Jamie Dornan Cried When He Was Cast as Aragorn in 'Lord of the Rings'",
-          "url": "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943/",
-          "source": "Variety"
-        },
-        {
-          "title": "Jamie Dornan, like most of us, hopes Hunt For Gollum works out",
-          "url": "https://www.avclub.com/jamie-dornan-lord-of-the-rings-hunt-for-gollum-aragorn-role-viggo-mortensen",
-          "source": "A.V. Club"
-        },
-        {
-          "title": "Lord of the Rings' Viggo Mortensen Replacement Says Aragorn Casting Made Him Cry",
-          "url": "https://www.cbr.com/lord-of-the-rings-the-hunt-for-gollum-jamie-dornan-aragorn/",
-          "source": "Comic Book Resources"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "ftse 250 index",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 09:40:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "FTSE 250 shares round-up: B&M, Persimmon, WH Smith, Dr Martens",
-          "url": "https://www.ii.co.uk/analysis-commentary/ftse-250-shares-round-bm-persimmon-wh-smith-dr-martens-ii540878",
-          "source": "Interactive Investor"
-        },
-        {
-          "title": "BME: UK like-for-likes returned to growth as margin repair and store-format trials advanced",
-          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4587728:0-bme-uk-like-for-likes-returned-to-growth-as-margin-repair-and-store-format-trials-advanced/",
-          "source": "TradingView"
-        },
-        {
-          "title": "Retailer B&M says annual profit may rise up to 16% as turnaround takes hold",
-          "url": "https://www.reuters.com/world/uk/retailer-bm-says-annual-profit-may-rise-up-16-turnaround-takes-hold-2026-11-12/",
-          "source": "Reuters"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "rene haas",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 09:20:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Nvidia's CEO search has a 3- to 4-month clock: 'It's pretty urgent'",
-          "url": "https://finance.yahoo.com/video/nvidias-ceo-search-has-a-3--to-4-month-clock-its-pretty-urgent-175552767.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-          "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-          "source": "Financial Times"
-        },
-        {
-          "title": "5 things Jensen Huang mastered that Nvidia’s next CEO will have to learn",
-          "url": "https://www.fastcompany.com/91642252/5-things-jensen-huang-mastered-that-nvidias-next-ceo-will-have-to-learn",
-          "source": "Fast Company"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "taylor fritz",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 09:00:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Bold Fritz Blitzes Musetti for 25th Career Final in Stockholm",
-          "url": "https://tennisnow.com/bold-fritz-blitzes-musetti-for-25th-career-final-in-stockholm/",
-          "source": "Tennis Now"
-        },
-        {
-          "title": "ATP Stockholm Best Bets Including Taylor Fritz Vs Lorenzo Musetti",
-          "url": "https://lastwordonsports.com/tennis/2026/11/12/atp-stockholm-best-bets-fritz-musetti/",
-          "source": "Last Word On Sports"
-        },
-        {
-          "title": "Video : Taylor Fritz and Thiago Agustín Tirante reach Stockholm Open 2026 final on hard court",
-          "url": "https://en.tennistemple.com/video/taylor-fritz-and-thiago-agustin-tirante-reach/zWJJr",
-          "source": "TennisTemple"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name.",
-        "Reads as news/current affairs (\"court\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "riftbound bans",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 08:50:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Radiance Ban List Updates (Effective November 23, 2026)",
-          "url": "https://playriftbound.com/en-us/news/announcements/radiance-ban-list-updates-effective-november-23-2026/",
-          "source": "Riftbound"
-        },
-        {
-          "title": "10 Riftbound Cards Just Got Banned, Including A Radiance Legend",
-          "url": "https://www.thegamer.com/riftbound-bans-riven-broken-blade/",
-          "source": "TheGamer"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "avril lavigne",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 07:50:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Avril Lavigne welcomes 'princess' first child",
-          "url": "https://www.canberratimes.com.au/story/9391515/avril-lavigne-welcomes-princess-first-child/",
-          "source": "The Canberra Times"
-        },
-        {
-          "title": "Avril Lavigne Reveals Baby Daughter with Mystery Partner",
-          "url": "https://consequence.net/2026/11/avril-lavigne-baby-daughter-partner/",
-          "source": "Consequence of Sound"
-        },
-        {
-          "title": "Avril Lavigne’s Dating History: Her Mystery Boyfriend, Exes & Past Relationships",
-          "url": "https://hollywoodlife.com/feature/avril-lavigne-boyfriends-husband-dating-history-5035066/",
-          "source": "Hollywood Life"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "anz",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 07:00:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "ANZ boss warns global markets in 'dangerous situation' as interest rates rise",
-          "url": "https://www.abc.net.au/news/2026-11-12/anz-boss-says-global-markets-in-dangerous-situation/107377392",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        },
-        {
-          "title": "Australia news as it happened: Head of ANZ encourages reduction in government spending; China’s Xi says Taiwan ‘reunification’ must happen",
-          "url": "https://www.smh.com.au/national/australia-news-live-albanese-defends-australia-as-climate-leader-after-un-boss-pushes-him-to-step-up-commitments-russia-and-ukraine-talks-end-with-no-major-breakthrough-20261112-p61dgl.html",
-          "source": "SMH.com.au"
-        },
-        {
-          "title": "AI job fears miss the real risk for insurance, says ANZIIF chief",
-          "url": "https://www.insurancebusinessmag.com/au/news/breaking-news/ai-job-fears-miss-the-real-risk-for-insurance-says-anziif-chief-597232.aspx",
-          "source": "Insurance Business"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "paramount",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 06:30:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "The 3 Best Movies to Watch on Paramount+ This Week",
-          "url": "https://www.imdb.com/it/news/ni66100550/?ref_=nwc_art_perm",
-          "source": "IMDb"
-        },
-        {
-          "title": "3 new to Paramount+ movies to watch this weekend (Nov. 13-15)",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/3-paramount-movies-watch-weekend-140000487.html",
+          "title": "Norway captain Martin Odegaard eyes revenge against Wales in crucial Nations League clash to keep quarter-final dream alive in Oslo",
+          "url": "https://ca.sports.yahoo.com/news/norway-captain-martin-odegaard-eyes-065102809.html",
           "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "chiefs depth chart",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Travis Hunter makes Jessie Bates' Jaguars trade a hit with his nephews",
+          "url": "https://www.espn.com/nfl/story/_/id/50464631/jaguars-jessie-bates-trade-travis-hunter",
+          "source": "ESPN"
         },
         {
-          "title": "4 staggering Paramount+ movies to watch this week (November 9-15)",
-          "url": "https://www.howtogeek.com/paramount-plus-movies-to-watch-this-week-november-9/",
-          "source": "How-To Geek"
+          "title": "Falcons News Now: Top headlines for Week 10 game vs. Chiefs",
+          "url": "https://www.atlantafalcons.com/news/falcons-news-now-top-headlines-for-week-10-game-vs-chiefs",
+          "source": "Atlanta Falcons"
+        },
+        {
+          "title": "Thursday Insider: \"I Look at It as a Blessing…\"",
+          "url": "https://www.jaguars.com/news/thursday-insider-i-look-at-it-as-a-blessing",
+          "source": "Jacksonville Jaguars"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "georgia tech vs clemson",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Hours from a career milestone, Dabo Swinney will put on the headset for the 250th time as a head coach",
+          "url": "https://www.wltx.com/article/sports/football/hours-from-a-career-milestone-dabo-swinney-will-put-on-the-headset-for-the-250th-time-as-a-head-coach/101-7adfc7d8-423d-4d4c-8104-ff5f4e50e7c1",
+          "source": "WLTX"
+        },
+        {
+          "title": "Clemson vs Georgia Tech live updates: Score, highlights, game analysis",
+          "url": "https://sports.yahoo.com/articles/clemson-vs-georgia-tech-live-153106743.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Gameday: Football vs. Georgia Tech • Nov. 14 • 12:30 p.m. • CW Sports",
+          "url": "https://clemsontigers.com/news/2026/11/10/fbgameday26-gt",
+          "source": "Clemson University Athletics"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "henry pollock",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 14 Nov 2026 08:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "What rugby really thinks of Henry Pollock",
+          "url": "https://www.telegraph.co.uk/rugby-union/2026/11/13/what-rugby-really-thinks-of-henry-pollock/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Henry Pollock has \"broken rules twice\" amid England concern",
+          "url": "https://www.ruck.co.uk/england-rugby-news/henry-pollock-broken-rules-twice-england",
+          "source": "Ruck.co.uk"
+        },
+        {
+          "title": "Springboks hero calls out Henry Pollock after what he witnessed",
+          "url": "https://www.walesonline.co.uk/sport/rugby/rugby-news/springboks-hero-calls-out-henry-34898858",
+          "source": "Wales Online"
         }
       ],
       "trademarkRisk": "medium",
@@ -966,26 +421,179 @@
       ]
     },
     {
-      "title": "taylor swift",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 05:50:00 -0800",
-      "geo": "AU",
+      "title": "nations championship 2026",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 14 Nov 2026 08:10:00 -0800",
+      "geo": "GB",
       "newsItems": [
         {
-          "title": "Taylor Swift Sets First CMA Awards Performance in 13 Years",
-          "url": "https://www.rollingstone.com/music/music-news/taylor-swift-will-perform-2026-cma-awards-1235657442/",
-          "source": "Rolling Stone"
+          "title": "Wales vs New Zealand LIVE: Nations Championship 2026 - Build-up, team news, scores & live text updates",
+          "url": "https://www.bbc.com/sport/rugby-union/live/cwj3405g10jyt",
+          "source": "BBC"
         },
         {
-          "title": "Taylor Swift’s Last CMA Performance Was Truly Special [WATCH]",
-          "url": "https://drgnews.com/2026/11/13/taylor-swifts-last-cma-performance-was-truly-special-watch/",
-          "source": "DRGNews"
+          "title": "Wales v New Zealand: Beauden Barrett leads revamped All Blacks for first time",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjg46y699v41o",
+          "source": "BBC"
         },
         {
-          "title": "Taylor Swift performing at 60th annual CMA Awards in Nashville",
-          "url": "https://mynbc15.com/news/entertainment/taylor-swift-performing-at-60th-annual-cma-awards-in-nashville-tennessee-country-music-i-knew-it-i-knew-you-single-of-the-year-nomination",
-          "source": "NBC 15 WPMI"
+          "title": "The making of Captain Beauden: How a season of doubt became a story of redemption",
+          "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-v-wales-the-making-of-captain-beauden-how-a-season-of-doubt-became-a-story-of-redemption/premium/CY4DXVBDQBG47IUV4TPC55K3UI/",
+          "source": "NZ Herald"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "chiefs backup rb",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "How to Watch and Listen | Week 10: Chiefs vs. Falcons",
+          "url": "https://www.chiefs.com/news/how-to-watch-and-listen-week-10-chiefs-vs-falcons",
+          "source": "Kansas City Chiefs"
+        },
+        {
+          "title": "NFL Expert Picks: Who will win in Week 10, Falcons or Chiefs?",
+          "url": "https://www.atlantafalcons.com/news/nfl-expert-picks-week-10-falcons-chiefs",
+          "source": "Atlanta Falcons"
+        },
+        {
+          "title": "Seattle Seahawks vs. Las Vegas Raiders Odds, Betting Lines, Expert picks, Game Projections, DFS Projections and Player Prop Projections - Sunday 11/15 4:05 PM ET",
+          "url": "https://www.sportsline.com/nfl/game-forecast/NFL_20261115_SEA@LV/",
+          "source": "SportsLine"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "utah royals fc vs washington spirit",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "KNOW BEFORE YOU GO: Washington Spirit vs Utah Royals FC - 2026 NWSL Playoffs Semifinal",
+          "url": "https://washingtonspirit.com/blog/2026/11/13/know-before-you-go-washington-spirit-vs-utah-royals-fc-2026-nwsl-playoffs-semifinal/",
+          "source": "Washington Spirit"
+        },
+        {
+          "title": "Washington Spirit prepare for the NWSL semifinals as Audi Field hosts historic doubleheader",
+          "url": "https://wtop.com/washington-spirit/2026/11/washington-spirit-prepare-for-the-nwsl-semifinals-as-audi-field-hosts-historic-doubleheader/",
+          "source": "WTOP News"
+        },
+        {
+          "title": "Washington Spirit vs Utah Royals LIVE updates, lineups, score of NWSL semifinal",
+          "url": "https://www.usatoday.com/story/sports/soccer/nwsl/2026/11/14/washington-spirit-utah-royals-score-updates-nwsl-playoffs--live/92765798007/",
+          "source": "USA Today"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "nebraska vs rutgers",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Game 10: Football vs. Nebraska",
+          "url": "https://scarletknights.com/news/2026/11/9/game-10-football-vs-nebraska",
+          "source": "Rutgers University Athletics"
+        },
+        {
+          "title": "Week 11 Predictions: Huskers at Scarlet Knights",
+          "url": "https://sports.yahoo.com/articles/week-11-predictions-huskers-scarlet-154546984.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Status quo for Nebraska injury report on Friday night",
+          "url": "https://247sports.com/college/nebraska/article/nebraska-huskers-football-rutgers-scarlet-knights-football-friday-injury-report-292667942/",
+          "source": "247Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "vladimir putin",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+          "source": "BBC"
+        },
+        {
+          "title": "‘Yalta 2.0’: Why some are wary of a Trump-Putin-Xi summit",
+          "url": "https://www.nbcnews.com/world/russia/yalta-wary-trump-putin-xi-summit-rcna609291",
+          "source": "NBC News"
+        },
+        {
+          "title": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+          "url": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "kent hughes",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 14 Nov 2026 08:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Le CH pourrait ajouter une vedette ou deux grâce au contrat d’Ivan Demidov, croit l’agent Dan Milstein",
+          "url": "https://www.qub.ca/article/le-ch-pourrait-ajouter-une-vedette-ou-deux-grace-au-contrat-divan-demidov-croit-lagent-dan-milstein-891415655",
+          "source": "QUB radio"
+        },
+        {
+          "title": "L'agent d'Ivan Demidov envoie un message clair à Kent Hughes",
+          "url": "https://www.habsolumentfan.com/canadiens/lagent-divan-demidov-envoie-un-message-clair-a-kent-hughes",
+          "source": "HabsolumentFan"
+        },
+        {
+          "title": "Quand Dan Milstein met de la pression sur le CH pour qu’il ajoute une vedette",
+          "url": "https://www.danslescoulisses.com/quand-dan-milstein-met-de-la-pression-sur-le-ch-pour-quil-ajoute-une-vedette/",
+          "source": "DansLesCoulisses.com"
         }
       ],
       "trademarkRisk": "medium",
@@ -996,21 +604,118 @@
       ]
     },
     {
-      "title": "lewis harrison adelaide",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 04:50:00 -0800",
+      "title": "saff championship",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 14 Nov 2026 07:00:00 -0800",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "Beloved teen kart racer dies after surgery complications",
-          "url": "https://www.adelaidenow.com.au/messenger/south/teenage-gokart-racer-lewis-harrison-dies-after-surgery-complications-in-adelaide/news-story/a28db5dc98c46d1f8ca656257934d7e7",
-          "source": "Adelaide Now"
+          "title": "India vs Bhutan LIVE streaming info: When, where to watch IND v BHU SAFF Championship 2026 semifinal?",
+          "url": "https://sportstar.thehindu.com/football/indian-football/india-vs-bhutan-live-streaming-info-where-to-watch-saff-championship-semifinal-tv-channel-ind-v-bhu/article71699463.ece",
+          "source": "Sportstar"
         },
         {
-          "title": "'Live like Lewis': Adelaide family’s message after son dies aged 18 - News",
-          "url": "https://www.indailysa.com.au/news/just-in/2026/11/13/live-like-lewis-adelaide-familys-message-after-son-dies-aged-18",
-          "source": "InDaily South Australia"
+          "title": "VAR technology to be used for the first time in the last 3 matches of SAFF",
+          "url": "https://observerbd.com/news/606039",
+          "source": "Daily Observer"
+        },
+        {
+          "title": "SAFF GS defutes ‘bias claims’, warns coaches over refereeing row",
+          "url": "http://www.daily-sun.com/sports/908195/saff-gs-defutes-bias-claims-warns-coaches-over-refereeing-row",
+          "source": "Daily Sun"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "manchester city f.c.",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 14 Nov 2026 06:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Chelsea 1-0 Manchester City: Blues beat WSL champions after keeper Ayaka Yamashita sent off",
+          "url": "https://www.bbc.com/sport/football/live/cmg474nywwr5t",
+          "source": "BBC"
+        },
+        {
+          "title": "Chelsea 1-0 Man City: Sandy Baltimore's winner sees Blues leapfrog 10-player champions at top of the Women's Super League",
+          "url": "https://www.skysports.com/football/news/13612152/chelsea-1-0-man-city-sandy-baltimores-winner-sees-blues-leapfrog-10-player-champions-at-top-of-the-womens-super-league",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "An early WSL title decider: How early Chelsea vs. Man City can define season ahead",
+          "url": "https://www.espn.com.au/football/story/_/id/50471540/chelsea-man-city-women-super-league-wsl",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "eurovision asia",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 14 Nov 2026 05:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "First Eurovision Asia about to begin as world's biggest song contest heads to Bangkok",
+          "url": "https://www.bbc.com/news/live/cmwy04xnzzgzt",
+          "source": "BBC"
+        },
+        {
+          "title": "Mesh masks, Nana’s lampshade and the other Beck: what to watch for at Eurovision Asia",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/eurovision-asia-bangkok-thailand",
+          "source": "The Guardian"
+        },
+        {
+          "title": "CARMELLE is our first-ever Eurovision Asia champion",
+          "url": "https://www.eurovision.com/stories/carmelle-is-our-first-ever-eurovision-asia-champion/",
+          "source": "Eurovision.tv"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "deebo samuel sr.",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Deebo Samuel has no injury designation, but four CBs are questionable for 49ers",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deebo-samuel-has-no-injury-designation-but-four-cbs-are-questionable-for-49ers",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "49ers Designate DT CJ West For Return; Latest On Mike Evans, Deebo Samuel",
+          "url": "https://www.profootballrumors.com/2026/11/49ers-designate-dt-cj-west-for-return-latest-on-mike-evans-deebo-samuel",
+          "source": "ProFootballRumors.com"
+        },
+        {
+          "title": "Deebo Samuel Sr. Set to return in Week 10",
+          "url": "https://www.thefantasyfootballers.com/news/647560/deebo-samuel-set-to-return-in-week-10/",
+          "source": "Fantasy Footballers Podcast"
         }
       ],
       "trademarkRisk": "medium",
@@ -1021,243 +726,527 @@
       ]
     },
     {
-      "title": "fire perth",
+      "title": "will joseph",
       "traffic": 200,
       "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 04:20:00 -0800",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "England v Japan: Henry Pollock, Max Ojomoh and Will Joseph start",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqkg727741xvo",
+          "source": "BBC"
+        },
+        {
+          "title": "Injured Feyi-Waboso is our Robinson - Sinfield",
+          "url": "https://www.bbc.com/sport/rugby-union/articles/cq9vw88v8p80o",
+          "source": "BBC"
+        },
+        {
+          "title": "Will Joseph poised to audition for leading role against Japan in Feyi-Waboso’s absence",
+          "url": "https://www.theguardian.com/sport/2026/nov/10/rugby-union-england-japan-nations-championship-will-joseph",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "nations league standings",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "UEFA Nations League: Format, rules, promotion and relegation explained, and how it affects Euro 2028 qualifying",
+          "url": "https://www.skysports.com/football/news/13611545/uefa-nations-league-format-rules-promotion-and-relegation-explained-and-how-it-affects-euro-2028-qualifying",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Nations League: Latest on quarter-final qualification, promotion, play-offs and relegation",
+          "url": "https://www.uefa.com/uefanationsleague/news/02ab-2209792f2fda-6a523d4500bb-1000--nations-league-latest-on-quarter-final-qualification-prom/",
+          "source": "UEFA.com"
+        },
+        {
+          "title": "$[WATCHLIVE]ESPN@]UEFA Nations League Streaming in Diretta Gratis UEFA",
+          "url": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2ZyYW5jaXNqaGFycmlzby5naXRodWIuaW8vc29uYS9iYWwueG1sIi8+PC9rcnBhbm8+&id=video-watchlive-espn-uefa-nations-league-streaming-in-diretta-gratis-uefa-live-sky-sports-broadcasting-824-gzzrtyu5",
+          "source": "日本取引所グループ"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "ellis genge",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 08:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Seven strongest rugby players in the world right now – England powerhouse makes the cut",
+          "url": "https://www.ruck.co.uk/rugby-news/seven-strongest-rugby-players-in-the-world-right-now",
+          "source": "Ruck.co.uk"
+        },
+        {
+          "title": "Rassie Erasmus names England star he'd love to coach – \"He's a dog\"",
+          "url": "https://www.ruck.co.uk/rugby-news/rassie-erasmus-ellis-genge-england-star-coach",
+          "source": "Ruck.co.uk"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "ana de armas",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 08:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Ana de Armas Looks Gorgeous as She Steps Out to Support Boyfriend Beto Montenegro at Latin Grammys 2026",
+          "url": "https://www.imdb.com/news/ni66108941/?ref_=nwc_art_perm",
+          "source": "IMDb"
+        },
+        {
+          "title": "Ana de Armas’ Lacy Wiederhoeft Skirt Goes Completely See-Through at Gala",
+          "url": "https://www.thefashionspot.com/fashion-news/983114-ana-de-armas-lacy-see-through-skirt-wiederhoeft-gala",
+          "source": "theFashionSpot"
+        },
+        {
+          "title": "Ana de Armas Joins Rawayana's Beto Montenegro for Their First Formal Red Carpet Appearance",
+          "url": "https://www.latintimes.com/ana-de-armas-beto-montenegro-red-carpet-debut-601244",
+          "source": "Latin Times"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "georgia vs hungary",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 08:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Georgia vs Hungary: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/cmewewjlqq4pt",
+          "source": "BBC"
+        },
+        {
+          "title": "Licensable picture: UEFA Nations League - Group B2 - Georgia v Hungary",
+          "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-b2-georgia-v-hungary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxOVI5NUM",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Georgia vs Hungary Prediction, Betting Tips, Team News - 14 November 2026",
+          "url": "https://insights.betfred.com/football/georgia-vs-hungary-prediction-betting-tips-saturday-14-november-2026/",
+          "source": "Betfred Insights"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ana de armas",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 08:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Ana de Armas & Beto Montenegro Make Red-Carpet Debut",
+          "url": "https://extratv.com/2026/11/12/ana-de-armas-and-beto-montenegro-make-red-carpet-debut/",
+          "source": "Extra"
+        },
+        {
+          "title": "Ana de Armas Looks Gorgeous as She Steps Out to Support Boyfriend Beto Montenegro at Latin Grammys 2026",
+          "url": "https://www.imdb.com/news/ni66108941/?ref_=nwc_art_perm",
+          "source": "IMDb"
+        },
+        {
+          "title": "Ana de Armas’ Lacy Wiederhoeft Skirt Goes Completely See-Through at Gala",
+          "url": "https://www.thefashionspot.com/fashion-news/983114-ana-de-armas-lacy-see-through-skirt-wiederhoeft-gala",
+          "source": "theFashionSpot"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "occupation double",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 08:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "OD: Un gros secret dévoilé avant l’heure?",
+          "url": "https://hollywoodpq.com/od-un-gros-secret-devoile-avant-lheure/",
+          "source": "Hollywood PQ"
+        },
+        {
+          "title": "Une vidéo supprimée maintenant dévoilerait les couples finalistes d’Occupation Double",
+          "url": "https://www.petitpetitgamin.com/2026/11/14/une-video-supprimee-maintenant-devoilerait-les-couples-finalistes-doccupation-double/",
+          "source": "Petit Petit Gamin"
+        },
+        {
+          "title": "Fred d’OD Panamá aborde la rumeur qui circule sur sa potentielle richesse",
+          "url": "https://www.noovomoi.ca/en-vedette/article/fred-dod-panama-aborde-la-rumeur-qui-circule-sur-sa-richesse/",
+          "source": "Noovo Moi"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "norway vs wales",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 08:20:00 -0800",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "Terrifying bushfire inferno nears homes in Perth's north",
-          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/bushfire-warning-ellenbrook-aveley-the-vines-residents-urged-to-prepare-to-evacuate-as-bushfire-rages-c-23160704",
-          "source": "PerthNow"
+          "title": "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
+          "url": "https://www.espn.com.au/football/story/_/id/50470263/wales-norway-nations-league-haaland-bellamy",
+          "source": "ESPN"
         },
         {
-          "title": "How the decline of the department store could shape the future of shopping",
-          "url": "https://www.abc.net.au/news/2026-11-13/david-jones-department-stores-decline-retail-future/107376858",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+          "title": "Norway v Wales: Nations League – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
+          "source": "The Guardian"
         },
         {
-          "title": "Qantas status the airline doesn’t want: as a David Jones creditor",
-          "url": "https://www.theaustralian.com.au/business/retail/qantas-emerges-as-creditor-after-department-store-david-jones-enters-administration/news-story/314ed59067360631d1f158f9e81238ed",
+          "title": "Norway captain Martin Odegaard eyes revenge against Wales in crucial Nations League clash to keep quarter-final dream alive in Oslo",
+          "url": "https://www.goal.com/en-au/news/norway-captain-martin-odegaard-revenge-wales-nations-league-oslo/blt041bf7e274cd2a54",
+          "source": "Goal.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "bangladesh vs pakistan",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 06:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Bangladesh vs. Pakistan (15 Nov, 2026) Live Score",
+          "url": "https://www.espn.com.au/football/match/_/gameId/401934183/pakistan-bangladesh",
+          "source": "ESPN"
+        },
+        {
+          "title": "India vs. Bhutan (14 Nov, 2026) Live Score",
+          "url": "https://www.espn.com.au/soccer/match?gameId=401934182&action=summary",
+          "source": "ESPN"
+        },
+        {
+          "title": "BAN19 vs PAK19 Cricket Scorecard, 1st Semi-Final at Al Amarat, November 12, 2026",
+          "url": "https://www.cricinfo.com/series/under-19s-asia-cup-2026-27-1558428/bangladesh-under-19s-vs-pakistan-under-19s-1st-semi-final-1558442/full-scorecard",
+          "source": "Cricinfo"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "sand",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 06:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Tankers burn in the Middle East despite hopes for de-escalation",
+          "url": "https://www.reuters.com/business/energy/tankers-continue-burn-middle-east-despite-hopes-de-escalation-2026-11-10/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran claims gas tanker catches fire after striking mine on 'unauthorized' route in Strait of Hormuz",
+          "url": "https://www.theaustralian.com.au/news/iran-claims-gas-tanker-catches-fire-after-striking-mine-on-unauthorized-route-in-strait-of-hormuz/video/f016d0c98f20a7345589826e742948d4",
           "source": "The Australian"
         }
       ],
       "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "billy evans",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 03:50:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Elizabeth Holmes' Fiancé Billy Evans Says He Loves Nathan Fielder Despite Villain Portrayal in Doc",
-          "url": "https://www.tmz.com/2026/11/13/elizabeth-holmes-fiance-billy-evans-speaks-out-on-nathan-fielder-doc/",
-          "source": "TMZ"
-        },
-        {
-          "title": "Whose Idea Was Billy Evans' Shower Scene in 'You Can See Everything'?",
-          "url": "https://www.pajiba.com/tv_reviews/whose-idea-was-billy-evans-shower-scene-in-you-can-see-everything.php",
-          "source": "Pajiba"
-        },
-        {
-          "title": "Elizabeth Holmes’ Partner Is A Villain In You Can See Everything. I’m Shocked By His Thoughts On It",
-          "url": "https://www.cinemablend.com/movies/elizabeth-holmes-partner-billy-evans-villain-you-can-see-everything-shocked-thoughts-it-nathan-fielder",
-          "source": "Cinemablend"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "amanda seyfried",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 03:40:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "The ‘You Can See Everything’ Interview You’ve Been Waiting For",
-          "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/amanda-seyfried-nathan-fielder-you-can-see-everything-1235653104/",
-          "source": "Rolling Stone"
-        },
-        {
-          "title": "Amanda Seyfried Slams Billy Evans, Talks 'You Can See Everything' Filming",
-          "url": "https://variety.com/2026/film/news/amanda-seyfried-slams-billy-evans-you-can-see-everything-filming-1236945046/",
-          "source": "Variety"
-        },
-        {
-          "title": "Amanda Seyfried reveals ‘jaw-dropping’ clash with Elizabeth Holmes’ partner",
-          "url": "https://www.thechronicle.com.au/entertainment/celebrity-life/amanda-seyfried-reveals-jawdropping-clash-with-elizabeth-holmes-partner/video/73361c466a4dc7bb10d8b296e251b29f",
-          "source": "Toowoomba Chronicle"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "one championship",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 13 Nov 2026 03:30:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "ONE Friday Fights 178 Main Event Result: Anar Mammadov Shocks Superlek With First-Round Knockout",
-          "url": "https://www.onefc.com/news/one-friday-fights-178-main-event-result-anar-mammadov-shocks-superlek-with-first-round-knockout/",
-          "source": "ONE Championship"
-        },
-        {
-          "title": "After A Winning Return, Superlek Eyes A Statement Finish At ONE Friday Fights 178",
-          "url": "https://www.beinsports.com/en-asia/mixed-martial-arts/one-championship/articles/after-a-winning-return-superlek-eyes-a-statement-finish-at-one-friday-fights-178-2026-11-12",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "ONE Friday Fights 178 & The Inner Circle 38 Results: Nong-O, Shimon Advance",
-          "url": "https://combatpress.com/2026/11/one-friday-fights-178-the-inner-circle-38-results-nong-o-shimon-advance/",
-          "source": "Combat Press"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "lpga",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "LPGA Golf",
-          "url": "https://www.idahostatejournal.com/sports/national/lpga-golf/image_aea1c725-9dab-5184-8392-cb6cbc7ec7c4.html",
-          "source": "Idaho State Journal"
-        },
-        {
-          "title": "LPGA Golf",
-          "url": "http://www.idahopress.com/sports/national/lpga-golf/image_d8c26754-7a2f-5a1f-a26c-4bf78de89094.html",
-          "source": "Idaho Press"
-        },
-        {
-          "title": "LPGA Golf",
-          "url": "http://www.idahopress.com/sports/national/lpga-golf/image_438d225a-459e-5d5a-aaf2-0c7ff3a25840.html",
-          "source": "Idaho Press"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "lpga leaderboard",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 13 Nov 2026 09:30:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Allisen Corpuz and Lindy Duncan record opening-round aces at The ANNIKA",
-          "url": "https://www.lpga.com/news/2026/allisen-corpuz-and-lindy-duncan-record-opening-round-aces-at-the-annika",
-          "source": "LPGA"
-        },
-        {
-          "title": "Featured Groups: 2026 The ANNIKA driven by Gainbridge at Pelican",
-          "url": "https://www.lpga.com/news/2026/featured-groups-2026-the-annika-driven-by-gainbridge-at-pelican",
-          "source": "LPGA"
-        },
-        {
-          "title": "Korda returns to golf and gets right back in the mix, trailing Katsu and Choi by two shots",
-          "url": "https://www.tsn.ca/golf/article/korda-returns-to-golf-and-gets-right-back-in-the-mix-trailing-katsu-and-choi-by-two-shots/",
-          "source": "TSN"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "haïti",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 13 Nov 2026 09:00:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Les forces haïtiennes reprennent aux gangs le stade de l’équipe nationale de soccer",
-          "url": "https://ici.radio-canada.ca/article/info/2300301/haiti-forces-gangs-reprise-stade-soccer",
-          "source": "Radio-Canada"
-        },
-        {
-          "title": "Le Salvador vaincra-t-il les gangs en Haïti?",
-          "url": "https://www.ledevoir.com/monde/ameriques/1024673/salvador-vaincra-il-gangs-haiti",
-          "source": "Le Devoir"
-        },
-        {
-          "title": "La très contestée méthode anti-gangs du président salvadorien Bukele porte ses premiers fruits en Haïti",
-          "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-tres-contestee-methode-anti-gangs-du-president-salvadorien-bukele-porte-ses-premiers-fruits-en-haiti_8259701.html",
-          "source": "franceinfo"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "mauricio pochettino",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 13 Nov 2026 04:50:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live",
-          "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Michael Carrick breaks silence after Man United sacking, love for club 'never dies'",
-          "url": "https://www.espn.com.au/football/story/_/id/50471058/michael-carrick-man-united-sacked-silence",
-          "source": "ESPN"
-        },
-        {
-          "title": "With club in drop zone, Manchester United sacks manager Michael Carrick",
-          "url": "https://www.abc.net.au/news/2026-11-12/michael-carrick-sacked-as-manchester-united-manager/107380482",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        }
-      ],
-      "trademarkRisk": "medium",
       "podRelevance": 0.1,
       "printable": false,
       "reasons": [
-        "Contains \"united\" — commonly a protected mark or event name.",
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "coach",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 14 Nov 2026 06:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "NC State officially hires Philip Rivers as football coach",
+          "url": "https://www.espn.com/college-football/story/_/id/50456831/sources-philip-rivers-nc-state-deal-set-finalized",
+          "source": "ESPN"
+        },
+        {
+          "title": "Longtime NFL QB and former NC State QB Philip Rivers named the Wolfpack's new head coach",
+          "url": "https://sports.yahoo.com/college-football/breaking-news/article/longtime-nfl-qb-and-former-nc-state-qb-philip-rivers-named-the-wolfpacks-new-head-coach-172539756.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Wolfpack fans excited about next chapter for football program",
+          "url": "https://abc11.com/post/wolfpack-fans-excited-chapter-football-program/20037501/",
+          "source": "ABC11 News"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "kenneth walker",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 14 Nov 2026 08:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "NFL Week 10 injury report: Chiefs' Kenneth Walker III ruled out, Patriots' A.J. Brown questionable",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Report: Chiefs RB Kenneth Walker questionable vs. Falcons",
+          "url": "https://www.sportsnet.ca/nfl/article/report-chiefs-rb-kenneth-walker-questionable-vs-falcons/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Chiefs RB Kenneth Walker III (groin) misses practice, status uncertain",
+          "url": "https://www.espn.com/nfl/story/_/id/50473948/chiefs-rb-walker-groin-misses-practice-status-uncertain",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "portugal vs denmark",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Portugal vs Denmark: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmgj9jnvxx2qt",
+          "source": "BBC"
+        },
+        {
+          "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
+          "url": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Nations League tips, best bets and predictions: 5 shouts for Saturday's fixtures",
+          "url": "https://www.dazn.com/en-GB/news/football/nations-league-tips-best-bets-and-predictions-preview-portugal-denmark-norway-dbn/cuso2p5dnmjd155efl7uo316s",
+          "source": "DAZN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "portugal national football team",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Portugal FA to change No. 7 jersey design as tribute to Cristiano Ronaldo",
+          "url": "https://www.espn.com/soccer/story/_/id/50480173/portugal-cristiano-ronaldo-jersey",
+          "source": "ESPN"
+        },
+        {
+          "title": "'A sad moment' - Bernardo Silva opens up on stepping into Cristiano Ronaldo's shoes as Portugal captain",
+          "url": "https://ca.sports.yahoo.com/news/sad-moment-bernardo-silva-opens-111615365.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Cristiano Ronaldo’s Retirement Raises a Question Every Entrepreneur Should Consider",
+          "url": "https://www.inc.com/entrepreneurs-organization/cristiano-ronaldos-retirement-raises-a-question-every-entrepreneur-should-consider/91433564",
+          "source": "Inc.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "pont pierre laporte",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 14 Nov 2026 08:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Entraves dès dimanche à la tête des ponts",
+          "url": "https://ici.radio-canada.ca/article/info/2300483/pont-pierre-laporte-entraves-suspentes",
+          "source": "Radio-Canada"
+        },
+        {
+          "title": "Travaux majeurs sur le Pont Pierre-Laporte : une seule voie par direction pendant plusieurs nuits en novembre",
+          "url": "https://zone911.com/autres-actualites/divers/travaux-majeurs-sur-le-pont-pierre-laporte-une-seule-voie-par-direction-pendant-plusieurs-nuits-en-novembre",
+          "source": "Zone911"
+        },
+        {
+          "title": "Nouvelle fermeture du pont de Québec",
+          "url": "https://monthetford.com/2026/11/10/nouvelle-fermeture-du-pont-de-quebec/",
+          "source": "Mon Thetford"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "pfl",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 14 Nov 2026 08:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Live Now! PFL Dubai ‘Nemkov vs. Bilostenniy’ play-by-play, results & round scoring",
+          "url": "https://www.sherdog.com/news/news/PFL-Dubai-Nemkov-vs-Bilostenniy-playbyplay-results-round-scoring-203621",
+          "source": "Sherdog"
+        },
+        {
+          "title": "LIVE! PFL Dubai Results: Nemkov vs. Bilostenniy",
+          "url": "https://www.mmafighting.com/pfl/520927/pfl-dubai-results-nemkov-vs-bilostenniy",
+          "source": "MMA Fighting"
+        },
+        {
+          "title": "COMPLETE PFL DUBAI WEIGH-IN RESULTS",
+          "url": "https://pflmma.com/news/complete-pfl-dubai-weighin-results",
+          "source": "Professional Fighters League"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "nepal premier league",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 14 Nov 2026 07:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"premier league\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "kosovo vs israel",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 14 Nov 2026 07:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Kosovo vs Israel: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmwy7yx5ddelt",
+          "source": "BBC"
+        },
+        {
+          "title": "Kosovo fans boo and whistle Israeli national anthem before 0-0 Nations League draw",
+          "url": "https://www.wral.com/news/ap/95fd7-kosovo-fans-boo-and-whistle-israeli-national-anthem-before-0-0-nations-league-draw/",
+          "source": "WRAL"
+        },
+        {
+          "title": "Preview: Kosovo vs Israel - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/kosovo/uefa-nations-league/preview/kosovo-vs-israel-prediction-team-news-lineups_608982.html",
+          "source": "Sports Mole"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
         "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     }
@@ -1266,30 +1255,30 @@
   "printfulBestsellers": [],
   "etsyNiches": [],
   "drawBrief": {
-    "generatedFor": "2026-11-13",
+    "generatedFor": "2026-11-14",
     "basis": "model-inferred",
     "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
     "lead": {
-      "niche": "Dark academia",
+      "niche": "Celestial / tarot",
       "motifs": [
-        "etched owl",
-        "stacked antique books",
-        "marginalia typography"
+        "moon phases",
+        "hand-drawn tarot suit",
+        "constellation map"
       ],
       "suggestedProducts": [
         "poster",
-        "hoodie",
-        "mug"
+        "graphic tee",
+        "sticker"
       ],
       "why": "Evergreen rotation.",
       "market": null
     },
     "support": {
-      "niche": "Plant parent",
+      "niche": "Goblincore / whimsy",
       "motifs": [
-        "single-line monstera",
-        "propagation station",
-        "terracotta row"
+        "frog in a hat",
+        "snail and moss",
+        "toadstool ring"
       ],
       "market": null
     },

@@ -11702,5 +11702,159 @@
       "printfulBestsellers": 0,
       "etsyNiches": 0
     }
+  },
+  {
+    "date": "2026-11-14",
+    "topTrends": [
+      {
+        "title": "rugby championship",
+        "traffic": 20000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "kenneth walker",
+        "traffic": 10000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "norway vs wales",
+        "traffic": 10000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "noruega - gales",
+        "traffic": 5000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "wales vs new zealand",
+        "traffic": 5000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "syracuse vs nc state",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "james madison vs uconn",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "raf",
+        "traffic": 2000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "norway vs wales",
+        "traffic": 2000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "chiefs depth chart",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "georgia tech vs clemson",
+        "traffic": 1000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "henry pollock",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "nations championship 2026",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "chiefs backup rb",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "utah royals fc vs washington spirit",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "nebraska vs rutgers",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "vladimir putin",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "kent hughes",
+        "traffic": 500,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "saff championship",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "manchester city f.c.",
+        "traffic": 500,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      }
+    ],
+    "topVideos": [],
+    "etsyNiches": [],
+    "counts": {
+      "trends": 40,
+      "trendsPrintable": 0,
+      "youtube": 0,
+      "printfulBestsellers": 0,
+      "etsyNiches": 0
+    }
   }
 ]
