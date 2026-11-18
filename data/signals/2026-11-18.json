@@ -1,0 +1,1296 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T19:14:50.165Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "weather forecast snow",
+      "traffic": 50000,
+      "trafficLabel": "50000+",
+      "pubDate": "Wed, 18 Nov 2026 10:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Is there any more snow on the way?",
+          "url": "https://www.bbc.co.uk/weather/articles/cmvg2p9qlkz9o",
+          "source": "BBC"
+        },
+        {
+          "title": "UK weather: Snow warning in place for parts of country this morning",
+          "url": "https://news.sky.com/story/uk-weather-snow-warning-in-force-for-parts-of-country-with-risk-of-travel-disruption-13613062",
+          "source": "Sky News"
+        },
+        {
+          "title": "Snow lands in the North East and Cumbria",
+          "url": "https://www.bbc.com/news/articles/cj3vgr0vpdndo",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "florida flooding today",
+      "traffic": 20000,
+      "trafficLabel": "20000+",
+      "pubDate": "Wed, 18 Nov 2026 10:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Intense flooding slams Florida from a developing storm that could snarl early Thanksgiving travel on the East Coast",
+          "url": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
+          "source": "CNN"
+        },
+        {
+          "title": "Is South Florida experiencing a ‘rain bomb?’ Here’s what to know",
+          "url": "https://www.miamiherald.com/news/local/community/broward/article318138393.html",
+          "source": "Miami Herald"
+        },
+        {
+          "title": "Flood threat grows across Central Florida as additional inches of rain move in",
+          "url": "https://www.wesh.com/article/central-florida-flood-watch-heavy-rain-orlando-weather/74463066",
+          "source": "WESH"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"storm\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "usda health alert breakfast",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Wed, 18 Nov 2026 10:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Do not eat these breakfast items, says USDA health alert",
+          "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/11/17/breakfast-items-biscuits-recall-health-alert/92830906007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Breakfast foods recalled over listeria risk. What to know",
+          "url": "https://www.mycentraljersey.com/story/news/2026/11/18/breakfast-food-recall-listeria-risk/92841680007/",
+          "source": "Central New Jersey News"
+        },
+        {
+          "title": "A Popular Ready-to-Eat Meal Is Being Recalled for Possible Listeria Contamination—Here’s What to Know",
+          "url": "https://www.yahoo.com/news/us/articles/popular-ready-eat-meal-being-124035860.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "hakeem jeffries speaker",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Wed, 18 Nov 2026 09:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Jeffries wins Democratic nomination for House speaker, paving way for historic election",
+          "url": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
+          "source": "CBS News"
+        },
+        {
+          "title": "Hakeem Jeffries re-elected to lead US House Democrats",
+          "url": "https://www.bbc.com/news/articles/cmy49873dn95o",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"election\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "ak dear",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Wed, 18 Nov 2026 10:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Alabama running back prospect AK Dear no longer with team",
+          "url": "https://www.espn.com/college-football/story/_/id/50523034/alabama-running-back-prospect-ak-dear-no-longer-team",
+          "source": "ESPN"
+        },
+        {
+          "title": "Sophomore running back AK Dear no longer with Alabama football program, Kalen DeBoer says",
+          "url": "https://247sports.com/college/alabama/article/sophomore-running-back-ak-dear-292898366/",
+          "source": "247Sports"
+        },
+        {
+          "title": "Kalen DeBoer reveals Alabama RB AK Dear is no longer a member the program",
+          "url": "https://www.on3.com/news/kalen-deboer-reveals-rb-ak-dear-is-no-longer-a-member-of-alabama-roster/",
+          "source": "On3"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "the comeback king",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Wed, 18 Nov 2026 09:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "‘The Comeback King’ Trailer: Glen Powell Goes Country In New Judd Apatow Comedy",
+          "url": "https://deadline.com/2026/11/the-comeback-king-trailer-glen-powell-judd-apatow-1237228094/",
+          "source": "Deadline"
+        },
+        {
+          "title": "Glen Powell Tussles with Country Music Superstars in ‘The Comeback King’ Trailer",
+          "url": "https://www.esquire.com/entertainment/tv/a74465481/glen-powell-the-comeback-king-trailer/",
+          "source": "Esquire"
+        },
+        {
+          "title": "Glen Powell’s New Country Music Movie Has Jelly Roll Making A Sick Burn About Himself",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/glen-powell-country-music-movie-170450216.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"movie\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "katherine clark",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Wed, 18 Nov 2026 09:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Katherine Clark of Massachusetts elected as next House majority leader by Democrats in historic first",
+          "url": "https://www.cbsnews.com/boston/news/katherine-clark-house-majority-leader-democrats/",
+          "source": "CBS News"
+        },
+        {
+          "title": "Katherine Clark, Pete Aguilar, Joe Neguse elected to House majority posts",
+          "url": "https://www.politico.com/live-updates/2026/11/18/congress/clark-aguilar-neguse-win-01172728",
+          "source": "Politico"
+        },
+        {
+          "title": "Mass. Rep. Katherine Clark nominated to become first woman House majority leader",
+          "url": "https://www.wcvb.com/article/mass-rep-katherine-clark-nominated-to-become-first-woman-house-majority-leader/74466995",
+          "source": "WCVB"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "florida flooding",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Wed, 18 Nov 2026 10:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Intense flooding slams Florida from a developing storm that could snarl early Thanksgiving travel on the East Coast",
+          "url": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
+          "source": "CNN"
+        },
+        {
+          "title": "More rain to come after two 1-in-100-year floods strike Florida",
+          "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/more-rain-to-come-after-two-1-in-100-year-floods-strike-florida",
+          "source": "The Weather Network"
+        },
+        {
+          "title": "Flood threat grows across Central Florida as additional inches of rain move in",
+          "url": "https://www.wesh.com/article/central-florida-flood-watch-heavy-rain-orlando-weather/74463066",
+          "source": "WESH"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"storm\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "daniel roebuck",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Wed, 18 Nov 2026 05:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Legendary director on ‘horrible’ actor he axed",
+          "url": "https://www.news.com.au/entertainment/movies/home-alone-director-shames-horrible-actor-he-fired-from-hit-film/news-story/7a3254723fcfaa4b12d287afd492ddd6",
+          "source": "News.com.au"
+        },
+        {
+          "title": "Daniel Roebuck hits back at Chris Columbus’ claims he was ‘horrible’ in ‘Home Alone’ screen test",
+          "url": "https://ew.com/daniel-roebuck-hits-back-chris-columbus-home-alone-firing-12261353",
+          "source": "Entertainment Weekly"
+        },
+        {
+          "title": "Why Home Alone Recast Marv Addressed By Director 36 Years Later",
+          "url": "https://www.imdb.com/news/ni66116487/?ref_=tt_nwr_1",
+          "source": "IMDb"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "kamil mishara",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Wed, 18 Nov 2026 04:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Sudurpaschim Royals vs Chitwan Rhinos Preview & Prediction | 2026 Nepal Premier League | Qualifier 2",
+          "url": "https://www.thestatszone.com/sudurpaschim-royals-vs-chitwan-rhinos-preview-prediction-2026-nepal-premier-league-qualifier-2-240092",
+          "source": "The Stats Zone"
+        },
+        {
+          "title": "Kathmandu Gorkhas vs Chitwan Rhinos Preview & Prediction | 2026 Nepal Premier League | Eliminator",
+          "url": "https://www.thestatszone.com/kathmandu-gorkhas-vs-chitwan-rhinos-preview-prediction-2026-nepal-premier-league-eliminator-239693",
+          "source": "The Stats Zone"
+        },
+        {
+          "title": "NPL 2026: Lumbini into the finals again – Public Service Broadcasting, Radio Nepal",
+          "url": "https://radionepalonline.com/en/2026/11/17/438915.html",
+          "source": "radionepalonline.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "i am helen",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 10:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "I Am Helen review – Nicola Coughlan is absolutely superb in this terrifying must-watch",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/i-am-helen-review-channel-4",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Joe Cole: ‘The manosphere’s worse than I thought. You’ll be shocked’",
+          "url": "https://www.thetimes.com/culture/tv-radio/article/joe-cole-interview-i-am-helen-manosphere-c35l8ljsj",
+          "source": "The Times"
+        },
+        {
+          "title": "Nicola Coughlan gets trapped by the ‘manosphere’ in a devastating fable",
+          "url": "https://www.telegraph.co.uk/tv/0/i-am-helen-channel-4-review/",
+          "source": "The Telegraph"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ginny and georgia season 4 release date",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 10:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "‘Ginny & Georgia’ Season 4 Premiere Date Set By Netflix With First-Look Photos",
+          "url": "https://deadline.com/2026/11/ginny-and-georgia-season-4-release-date-photos-1237228180/",
+          "source": "Deadline"
+        },
+        {
+          "title": "‘Ginny & Georgia’ Season 4 First Look: The Past Is Never Far Behind (Exclusive)",
+          "url": "https://www.teenvogue.com/story/ginny-and-georgia-season-4-first-look-exclusive",
+          "source": "Teen Vogue"
+        },
+        {
+          "title": "'Ginny & Georgia' gets Season 4 photos, January premiere date",
+          "url": "https://www.upi.com/Entertainment_News/TV/2026/11/18/ginny-georgia-season-4-photos-premiere-date/4881795025780/",
+          "source": "upi"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "susan smith",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 10:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Susan Smith’s Ex-Husband Says He Can Barely Remember Their Murdered Sons, as She Seeks Parole (Exclusive)",
+          "url": "https://people.com/susan-smith-ex-husband-barely-remember-murdered-sons-exclusive-12262478",
+          "source": "People.com"
+        },
+        {
+          "title": "Susan Smith's ex-husband wants her ‘in prison until she dies’ after killing sons in alleged bid to win lover",
+          "url": "https://www.foxnews.com/us/susan-smith-ex-husband-wants-prison-until-dies-after-killing-sons-alleged-bid-win-lover",
+          "source": "Fox News"
+        },
+        {
+          "title": "He learned on TV that his wife Susan Smith drowned their two young sons in 1994. He wants her in prison forever",
+          "url": "https://edition.cnn.com/2026/11/15/us/susan-smith-murder-parole-hearing",
+          "source": "CNN"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "youngstown propane",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 09:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Firefighters are on scene of reported explosion in Austintown",
+          "url": "https://fox8.com/news/firefighters-are-on-scene-of-reported-explosion-in-austintown/",
+          "source": "FOX 8 News"
+        },
+        {
+          "title": "Crews investigating explosion at Youngstown Propane",
+          "url": "https://www.wfmj.com/news/local-news/austintown/crews-investigating-explosion-at-youngstown-propane/article_9f21be2a-eb7d-4414-861f-e4f56676f46c.html",
+          "source": "WFMJ"
+        },
+        {
+          "title": "Explosion Injures Two Workers at Youngstown Propane in Ohio",
+          "url": "https://www.limapagi.id/en/youngstown-propane-explosion-injures-workers",
+          "source": "Limapagi"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "coin",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 11:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Elementary school students find nearly 2,000-year-old coin near Jerusalem",
+          "url": "https://www.jpost.com/archaeology/article-915150",
+          "source": "The Jerusalem Post"
+        },
+        {
+          "title": "Fourth Graders Find Bar Kokhba Revolt-Era Coin",
+          "url": "https://www.ifcj.org/news/stand-for-israel-blog/fourth-graders-find-bar-kokhba-revolt-era-coin",
+          "source": "IFCJ"
+        },
+        {
+          "title": "A rare U.S. coin shouldn’t exist. It could auction for $2 million.",
+          "url": "https://www.popsci.com/technology/1885-silver-trade-dollar-auction/",
+          "source": "Popular Science"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "marlon davis",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 10:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "TV comedian 'spat on female security guard after forcing his way back into the baggage claim area of Heathrow'",
+          "url": "https://www.thesun.co.uk/tvandshowbiz/41062311/tv-comedian-spat-on-heathrow-guard/",
+          "source": "The Sun"
+        },
+        {
+          "title": "Armed police respond as British TV comedian ASSAULTS woman in Heathrow Airport",
+          "url": "https://www.echo-news.co.uk/news/26742829.heathrow-airport---marlon-davis-convicted-assaulting-woman/",
+          "source": "Southend Echo"
+        },
+        {
+          "title": "Famous comedian trespassed Heathrow Airport before 'intimidating' attack on female",
+          "url": "https://www.london-now.co.uk/news/26742809.heathrow-airport---marlon-davis-trespassed-committed-assault/",
+          "source": "London Now"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "alerte",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 10:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Un test du système «Québec En Alerte» aura lieu aujourd'hui",
+          "url": "https://www.journaldemontreal.com/2026/11/16/un-test-du-systeme-quebec-en-alerte-aura-lieu-mercredi-a-13-h-55",
+          "source": "Le Journal de Montréal"
+        },
+        {
+          "title": "Essai du système national d’alerte sur les téléphones cellulaires aujourd’hui",
+          "url": "https://ici.radio-canada.ca/article/info/2301464/test-systeme-en-alerte-canada",
+          "source": "Radio-Canada"
+        },
+        {
+          "title": "Le système «En Alerte» sera mis à l’essai mercredi matin au N.-B.",
+          "url": "https://www.acadienouvelle.com/actualites/2026/11/18/le-systeme-en-alerte-sera-mis-a-lessai-mercredi-partout-au-pays/",
+          "source": "Acadie Nouvelle"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "amber alert",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 09:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "AMBER Alert canceled after missing 12-year-old San Antonio girl found safe",
+          "url": "https://news4sanantonio.com/news/local/12-year-old-girl-missing-again-just-weeks-after-october-disappearance-san-antonio-texas-investigation-luna-middle-school",
+          "source": "WOAI"
+        },
+        {
+          "title": "Have you seen this child? AMBER Alert: Emma Cook",
+          "url": "https://www.missingkids.org/poster/AMBER/31738/15744/screen.htmlposter",
+          "source": "MissingKids.org"
+        },
+        {
+          "title": "12-year-old girl missing again, just weeks after October disappearance",
+          "url": "https://foxsanantonio.com/newsletter-daily/12-year-old-girl-missing-again-just-weeks-after-october-disappearance-san-antonio-texas-investigation-luna-middle-school",
+          "source": "KABB"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "brett berard",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 09:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Brett Berard to make Canadiens debut vs. Devils",
+          "url": "https://www.sportsnet.ca/nhl/article/brett-berard-to-make-canadiens-debut-vs-devils/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Brett Berard recalled from Laval Rocket | Montréal Canadiens",
+          "url": "https://www.nhl.com/canadiens/news/brett-berard-recalled-from-laval-rocket-nov-16-2026",
+          "source": "NHL.com"
+        },
+        {
+          "title": "Canadiens Call Up Recent Trade Addition Before Rangers Game",
+          "url": "https://sports.yahoo.com/articles/canadiens-call-recent-trade-addition-175229380.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nhl.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "mandy gta 6",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Wed, 18 Nov 2026 07:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy",
+          "url": "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/",
+          "source": "Polygon.com"
+        },
+        {
+          "title": "GTA 6 Pipework Mission Walkthrough",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-pipework-mission-walkthrough/",
+          "source": "Video Games Chronicle"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "shahed drones",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 11:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Putin's war machine tied to troubling recruitment of young women as new deals emerge",
+          "url": "https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge",
+          "source": "Fox News"
+        },
+        {
+          "title": "Russia promised African women a dual education, but a Ukrainian NGO says its documents place about 50 of them in the zone where Russia builds Shahed drones",
+          "url": "https://euromaidanpress.com/2026/11/18/russia-promised-african-women-a-dual-education-but-a-ukrainian-ngo-says-its-documents-place-about-50-of-them-in-the-zone-where-russia-builds-shahed-drones/",
+          "source": "Euromaidan Press"
+        },
+        {
+          "title": "Moscow promised a future, families are left with silence",
+          "url": "https://www.modernghana.com/news/1545214/moscow-promised-a-future-families-are-left-with.html",
+          "source": "Modern Ghana"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "darts tonight",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 10:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Grand Slam of Darts 2026: Schedule, order of play, results, prize money and previous winners",
+          "url": "https://www.bbc.co.uk/sport/darts/articles/cmwyqy57ejy6o",
+          "source": "BBC"
+        },
+        {
+          "title": "Grand Slam of Darts LIVE! Commentary, updates, scores, analysis with Luke Littler, Gerwyn Price, Rob Cross in action",
+          "url": "https://www.skysports.com/darts/live-blog/13613592/grand-slam-of-darts-live-commentary-updates-scores-analysis-with-luke-littler-gerwyn-price-rob-cross-in-action",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "PDC Darts | Darts Live Scores, Darts Results & Darts Tickets",
+          "url": "https://www.pdc.tv/news/2026/november/16/2026-mr-vegas-grand-slam-of-darts-day-three-latest/",
+          "source": "PDC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "fatima whitbread",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 10:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Fatima Whitbread awarded Freedom of the Borough of Brentwood",
+          "url": "https://www.bbc.co.uk/news/articles/ck4gndjvzj4eo",
+          "source": "BBC"
+        },
+        {
+          "title": "Freedom at the double for Fatima",
+          "url": "https://thurrock.nub.news/news/local-news/freedom-at-the-double-for-fatima-315164",
+          "source": "Thurrock Nub News"
+        },
+        {
+          "title": "Fatima Whitbread honoured with Freedom of Brentwood",
+          "url": "https://londragazete.com/index.php/2026/11/17/fatima-whitbread-honoured-with-freedom-of-brentwood/",
+          "source": "Londra Gazete"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "paul mcstay",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 10:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Paul McStay: Fan voice on board key to ending Celtic unrest",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crx20q47ljl7o",
+          "source": "BBC"
+        },
+        {
+          "title": "Paul McStay delivers update on Willie Haughey’s Celtic Season Ticket Alliance",
+          "url": "https://www.67hailhail.com/news/paul-mcstay-delivers-update-on-willie-haugheys-celtic-season-ticket-alliance/",
+          "source": "67 Hail Hail"
+        },
+        {
+          "title": "Paul McStay urges Celtic to show more ambition and understands fan frustrations",
+          "url": "https://www.heraldscotland.com/sport/football/26742654.paul-mcstay-urges-celtic-invest-squad-europe/",
+          "source": "The Herald"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "scott redding",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 10:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "How a bike change for Scott Redding’s 2027 BSB season could have WorldSBK implications",
+          "url": "https://www.crash.net/bsb/news/1110173/1/how-bike-change-scott-reddings-2027-bsb-season-could-have-worldsbk-implications",
+          "source": "Crash.net"
+        },
+        {
+          "title": "Superbike, Aprilia eyes SBK return via BSB: Scott Redding expected at Jerez to test the RSV4",
+          "url": "https://www.gpone.com/en/2026/11/17/wsbk/aprilia-eyes-sbk-return-via-bsb-scott-redding-expected-at-jerez-to-test-the-rsv4.html",
+          "source": "GPOne.com"
+        },
+        {
+          "title": "Aprilia springs a surprise: BSB participation as a trial run for the World Superbike Championship",
+          "url": "https://www.speedweek.com/en/a/worldsbk-wc/aprilia-bsb-participation-superbike-world-championship-2030",
+          "source": "SPEEDWEEK.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "jenny mccarthy",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 10:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Power couple Jenny McCarthy and Donnie Wahlberg sell St. Charles mansion for $2.65M",
+          "url": "https://www.chicagotribune.com/2026/11/17/jenny-mccarthy-donnie-wahlberg/",
+          "source": "Chicago Tribune"
+        },
+        {
+          "title": "Jenny McCarthy’s Son Evan Asher Tearfully Vows to Buy Back Family Home as They Move to Las Vegas",
+          "url": "https://www.eonline.com/ca/news/1438219/jenny-mccarthys-son-evan-asher-vows-to-buy-back-home-after-las-vegas-move",
+          "source": "E! News"
+        },
+        {
+          "title": "McCarthy and Wahlberg Sell Illinois Home for 2.6 Million",
+          "url": "https://cwibc.co.id/en/mccarthy-wahlberg-sell-illinois-home",
+          "source": "cwibc.co.id"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "virus géant",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 10:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "panic buying",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 10:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+          "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Costco sees surge in panic buying after string of tech outages, report says",
+          "url": "https://www.cbsnews.com/news/costco-panic-buying-tech-outages-generators/",
+          "source": "CBS News"
+        },
+        {
+          "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
+          "url": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab",
+          "source": "MarketWatch"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "saskatoon police service",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 10:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Missing Person - Request For Assistance",
+          "url": "https://saskatoonpolice.ca/news/2026673",
+          "source": "Saskatoon Police Service"
+        },
+        {
+          "title": "Saskatoon police say death on Eighth Street not suspicious",
+          "url": "https://www.cjme.com/2026/11/16/saskatoon-police-say-death-on-eighth-street-not-suspicious/",
+          "source": "980 CJME"
+        },
+        {
+          "title": "Heavy police presence reported on Saskatoon’s Eighth Street",
+          "url": "https://www.cjme.com/2026/11/16/heavy-police-presence-reported-on-saskatoons-eighth-street/",
+          "source": "980 CJME"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"death\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "anthropic ipo",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 07:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Anthropic Approaches Final IPO Hurdle After Tech Stocks Decline",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-approaches-final-ipo-hurdle-after-tech-stocks-churn",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Stocks slip as investors mull Nvidia earnings; Anthropic IPO to test AI boom",
+          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-18/",
+          "source": "Reuters"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"earnings\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "gta 6 cheat codes",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 06:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Here's every cheat in GTA 6 to get infinite money, weapons, and vehicles",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes",
+          "url": "https://insider-gaming.com/all-gta-6-cheats-best-grand-theft-auto-6-cheat-codes/",
+          "source": "Insider Gaming"
+        },
+        {
+          "title": "GTA 6 cheats: All the codes and how to unlock them",
+          "url": "https://www.redbull.com/au-en/gta-6-cheat-codes",
+          "source": "Red Bull"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "carlos alcaraz",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 06:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Alcaraz eases past Medvedev, moves to brink of Turin SFs",
+          "url": "https://www.atptour.com/en/news/alcaraz-medvedev-nitto-atp-finals-2026-wednesday",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "ATP Finals: Carlos Alcaraz outclasses Daniil Medvedev despite injury concern",
+          "url": "https://www.bbc.com/sport/tennis/articles/cmdx1erlpqkxo",
+          "source": "BBC"
+        },
+        {
+          "title": "Carlos Alcaraz beats Daniil Medvedev in ATP Finals tennis group stage – as it happened",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/18/carlos-alcaraz-v-daniil-medvedev-atp-finals-tennis-group-stage-live",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "gta 6 reddit",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 05:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Birdwatchers Are Apparently Buying 'GTA 6' Just to Watch Birds. Here's How Many Are in the Game.",
+          "url": "https://www.vice.com/en/article/birdwatchers-are-apparently-buying-gta-6-just-to-watch-birds-heres-how-many-are-in-the-game/",
+          "source": "VICE"
+        },
+        {
+          "title": "Reddit's birding community goes wild as unique 'Grand Theft Auto 6' feature comes to light | OutKick",
+          "url": "https://www.foxnews.com/outkick-culture/reddits-birding-community-goes-wild-unique-grand-theft-auto-6-feature-comes-light",
+          "source": "Fox News"
+        },
+        {
+          "title": "GTA 6 Has 62 Bird Types, Confirms Rockstar Games",
+          "url": "https://insider-gaming.com/gta-6-has-62-bird-types-confirms-rockstar-games/",
+          "source": "Insider Gaming"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "mckenna grace",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Wed, 18 Nov 2026 04:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Method Dressing Won at the ‘Hunger Games: Sunrise on the Reaping’ N.Y.C. Premiere",
+          "url": "https://people.com/method-dressing-won-at-the-hunger-games-sunrise-on-the-reaping-n-y-c-premiere-12260634",
+          "source": "People.com"
+        },
+        {
+          "title": "Mckenna Grace stuns at 'Hunger Games' premieres - See all her looks",
+          "url": "https://www.usatoday.com/picture-gallery/entertainment/movies/2026/11/17/mckenna-grace-hunger-games-press-tour-outfits-photos/92828980007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Mckenna Grace Wears Another ALmée Couture Creation Promoting ‘The Hunger Games’",
+          "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/mckenna-grace-wears-another-alm-224508640.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"premiere\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ginny and georgia season 4 release date",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 18 Nov 2026 11:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "‘Ginny & Georgia’ Season 4 First Look: The Past Is Never Far Behind (Exclusive)",
+          "url": "https://www.teenvogue.com/story/ginny-and-georgia-season-4-first-look-exclusive",
+          "source": "Teen Vogue"
+        },
+        {
+          "title": "‘Ginny & Georgia’ Season 4 Premiere Date Set By Netflix With First-Look Photos",
+          "url": "https://deadline.com/2026/11/ginny-and-georgia-season-4-release-date-photos-1237228180/",
+          "source": "Deadline"
+        },
+        {
+          "title": "'Ginny & Georgia' gets Season 4 photos, January premiere date",
+          "url": "https://www.upi.com/Entertainment_News/TV/2026/11/18/ginny-georgia-season-4-photos-premiere-date/4881795025780/",
+          "source": "upi"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "gentle monster",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 18 Nov 2026 11:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Google Is Trying Smart Glasses Again. I Tried Them On.",
+          "url": "https://www.nytimes.com/wirecutter/news/google-smart-glasses/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+          "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+          "source": "The Verge"
+        },
+        {
+          "title": "Joaquin Phoenix Wasn’t Thinking About Her When He Filmed This Intelligent Eyewear Campaign",
+          "url": "https://www.gq.com/story/joaquin-phoenix-gentle-monster-intelligent-eyewear-interview",
+          "source": "GQ"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "madden movie",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 18 Nov 2026 10:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Madden review – Nicolas Cage is a cartoonish NFL legend in David O Russell’s stinker",
+          "url": "https://www.theguardian.com/film/2026/nov/18/madden-review-nicolas-cage",
+          "source": "The Guardian"
+        },
+        {
+          "title": "'Madden' Review: Nicolas Cage and Christian Bale in Football Biopic",
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/madden-review-nicolas-cage-christian-bale-david-o-russell-1236756928/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "The ‘Madden’ movie whiffed on the title character, even if it has redeeming qualities",
+          "url": "https://www.nytimes.com/athletic/7791034/2026/11/18/madden-movie-john-madden-nicolas-cage/",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"movie\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "gta 6 cost",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 18 Nov 2026 10:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Some of GTA 6’s Ultimate Edition Content Can Only Be Used in Certain Story Chapters - Here's How it Works",
+          "url": "https://www.ign.com/articles/gta-6-how-the-ultimate-edition-content-works",
+          "source": "IGN"
+        },
+        {
+          "title": "GTA 6's Subscription-based Perks are Worrying Players",
+          "url": "https://www.polygon.com/gta-6-plus-membership-benefits-exclusive-car-garage/",
+          "source": "Polygon.com"
+        },
+        {
+          "title": "Where to buy Grand Theft Auto 6 for the best price — all the cheapest PS5 and Xbox deals on Rockstar's five-star blockbuster",
+          "url": "https://www.techradar.com/gaming/where-to-buy-grand-theft-auto-6-for-the-best-price-all-the-best-ps5-and-xbox-deals-on-rockstars-upcoming-blockbuster",
+          "source": "TechRadar"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "airbnb",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 18 Nov 2026 10:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "These regional escapes have beaten big-city stays in Airbnb's national awards",
+          "url": "https://www.canberratimes.com.au/story/9393114/regional-stays-sweep-the-2026-australian-airbnb-host-awards/",
+          "source": "The Canberra Times"
+        },
+        {
+          "title": "The best Airbnb hosts in the country have been crowned for 2026",
+          "url": "https://www.nine.com.au/travel/australia/best-airbnb-hosts-australia-crowned-2026-20261117-p61dzm.html",
+          "source": "Nine.com.au"
+        },
+        {
+          "title": "Idle Lakehouse’s national award** headline page 3Winning floating retreat",
+          "url": "https://lakespost.com.au/22325/idle-lakehouses-national-award/",
+          "source": "Lakes Post"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"city\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "how long is gta 6 story",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Wed, 18 Nov 2026 06:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "How Long Will It Take to Complete GTA 6? Platinum Trophy & Mythic Achievement Time Explained",
+          "url": "https://insider-gaming.com/how-long-to-complete-gta/",
+          "source": "Insider Gaming"
+        },
+        {
+          "title": "Here's every GTA 6 mission and chapter",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Yes, You Can Keep Playing GTA 6 After The Credits Roll And Don't Worry, That's Not A Spoiler",
+          "url": "https://kotaku.com/yes-you-can-keep-playing-gta-6-after-the-credits-roll-and-dont-worry-thats-not-a-spoiler-2000756333",
+          "source": "Kotaku"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-11-18",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Seasonal spooky",
+      "motifs": [
+        "friendly ghost",
+        "vintage pumpkin label",
+        "black cat crescent"
+      ],
+      "suggestedProducts": [
+        "graphic tee",
+        "sticker",
+        "mug"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Dark academia",
+      "motifs": [
+        "etched owl",
+        "stacked antique books",
+        "marginalia typography"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
