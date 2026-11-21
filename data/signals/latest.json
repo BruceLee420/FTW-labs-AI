@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-20T18:58:24.261Z",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T17:52:43.030Z",
   "sources": [
     {
       "id": "google_trends_rss:US",
@@ -56,694 +56,147 @@
   },
   "trends": [
     {
-      "title": "colts depth chart",
-      "traffic": 10000,
-      "trafficLabel": "10000+",
-      "pubDate": "Fri, 20 Nov 2026 10:30:00 -0800",
+      "title": "jerry jones",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
       "geo": "US",
       "newsItems": [
         {
-          "title": "Texans Inactives: Week 11 vs Indianapolis Colts",
-          "url": "https://www.houstontexans.com/news/texans-inactives-week-11-vs-indianapolis-colts",
-          "source": "Houston Texans"
-        },
-        {
-          "title": "Report: Sauce Gardner is not expected to play vs. Texans due to calf injury",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-sauce-gardner-is-not-expected-to-play-vs-texans-due-to-calf-injury",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "Texans DE Hunter, RB Marks to miss TNF; Colts rule out CB Ward, starting OTs",
-          "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots",
-          "source": "ESPN"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from espn.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "bayern vs köln",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "So startet der FC in München",
-          "url": "https://fc.de/aktuelles/news/so-startet-der-fc-in-muenchen",
-          "source": "1. FC Köln"
-        },
-        {
-          "title": "\"Kann und wird sich durchsetzen\": Jahmai Simpson-Pusey und der 1. FC Köln treffen auf Weltfußballer Harry Kane",
-          "url": "https://come-on-fc.com/profis/jahmai-simpson-pusey-fc-koeln-harry-kane/",
-          "source": "come-on-fc.com"
-        },
-        {
-          "title": "Bundesliga: Größte Gästekulisse trotz weitester Fahrt",
-          "url": "https://www.diefalsche9.de/bundesliga-groesste-gaestekulisse-trotz-weitester-fahrt/",
-          "source": "Die falsche 9"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "bayern - colonia",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Bayern Munich vs Köln LIVE: German Bundesliga stream, text, stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cw99ex0kn0p4t",
-          "source": "BBC"
-        },
-        {
-          "title": "Bayern Munich vs. FC Köln: Match discussion, game time thread, odds, prediction, how to watch",
-          "url": "https://sports.yahoo.com/articles/bayern-munich-vs-fc-k-163000381.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Preview: FC Bayern vs. 1. FC Köln, Bundesliga",
-          "url": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
-          "source": "FC Bayern"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name.",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "bayern vs köln",
-      "traffic": 2000,
-      "trafficLabel": "2000+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "\"Kann und wird sich durchsetzen\": Jahmai Simpson-Pusey und der 1. FC Köln treffen auf Weltfußballer Harry Kane",
-          "url": "https://come-on-fc.com/profis/jahmai-simpson-pusey-fc-koeln-harry-kane/",
-          "source": "come-on-fc.com"
-        },
-        {
-          "title": "So startet der FC in München",
-          "url": "https://fc.de/aktuelles/news/so-startet-der-fc-in-muenchen",
-          "source": "1. FC Köln"
-        },
-        {
-          "title": "Bundesliga: Größte Gästekulisse trotz weitester Fahrt",
-          "url": "https://www.diefalsche9.de/bundesliga-groesste-gaestekulisse-trotz-weitester-fahrt/",
-          "source": "Die falsche 9"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "bowen yang",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Fri, 20 Nov 2026 10:30:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Bowen Yang Under Fire for Antisemitic Remark About Regina Spektor: 'Incredibly Disappointing'",
-          "url": "https://www.thewrap.com/culture-lifestyle/culture/bowen-yang-slammed-antisemitic-remark-regina-spektor/",
-          "source": "TheWrap"
-        },
-        {
-          "title": "Bowen Yang Apologizes for Antisemitic Remark About Regina Spektor",
-          "url": "https://uk.news.yahoo.com/bowen-yang-apologizes-antisemitic-remark-175919387.html",
-          "source": "Yahoo News UK"
-        },
-        {
-          "title": "‘Saturday Night Live’ Alum Bowen Yang ‘Genuinely’ Apologizes for Antisemitic Podcast Comment",
-          "url": "https://www.usmagazine.com/celebrity-news/news/bowen-yang-apologizes-for-antisemitic-podcast-comment/",
-          "source": "Us Weekly"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "bayern vs köln",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Livestream: FC Bayern gegen Köln sehen",
-          "url": "https://www.dazn.com/de-DE/news/fussball/livestream-fc-bayern-gegen-koeln-sehen-bundesliga/1hvwreihxuy0e10taug4c28xub",
-          "source": "DAZN"
-        },
-        {
-          "title": "Bundesliga: Größte Gästekulisse trotz weitester Fahrt",
-          "url": "https://www.diefalsche9.de/bundesliga-groesste-gaestekulisse-trotz-weitester-fahrt/",
-          "source": "Die falsche 9"
-        },
-        {
-          "title": "Wagner über Ache - \"Er ist hundertprozentig fit und wird im Kader stehen\"",
-          "url": "https://www1.wdr.de/sport/fc-koeln/video-wagner-ueber-ache100.html",
-          "source": "WDR"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "pancreatic cancer pill",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Fri, 20 Nov 2026 10:30:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-          "url": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
-          "source": "BBC"
-        },
-        {
-          "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
-          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-          "source": "The Guardian"
-        },
-        {
-          "title": "New pancreatic cancer drug halts tumour growth in 90% of patients",
-          "url": "https://www.ft.com/content/6f8575e7-48df-4537-8c8d-73433f086e87?syn-25a6b1a6=1",
-          "source": "Financial Times"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche.",
-        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "al-ahli vs al-nassr",
-      "traffic": 1000,
-      "trafficLabel": "1000+",
-      "pubDate": "Fri, 20 Nov 2026 09:30:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Al-Ahli Jeddah vs Al-Nassr - Prediction, where to watch, kick-off time and line-ups 15-10-2026",
-          "url": "https://onefootball.com/en/betting/predictions/al-ahli-jeddah-vs-al-nassr-15-10-2026",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Al-Ahli star recovers from the Saudi national team curse before the Clasico after a month and a half",
-          "url": "https://www.goal.com/en/news/al-ahli-star-recovers-before-the-clasico-after-a-month-and-a-half/bltd936345b93520ff3",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Al Ahly FC release tickets for Saudi Pro League clash with Al Nassr in Jeddah",
-          "url": "https://m.dongqiudi.com/en/news/181677",
-          "source": "懂球帝"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "joey bart",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 20 Nov 2026 10:30:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Cubs acquire former No. 2 draft pick three days after White Sox cut him: report",
-          "url": "https://sports.yahoo.com/articles/cubs-acquire-former-no-2-182510310.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Giants sign Erick Mejia to minor league contract",
-          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-20/giants-sign-erick-mejia-to-minor-league-contract",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "White Sox add Bergolla, Woods to 40-man roster; Bart DFA'd",
-          "url": "https://www.mlb.com/news/william-bergolla-jr-jaden-woods-white-sox-40-man-joey-bart-dfa",
-          "source": "MLB.com"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from mlb.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "medicare part b premium hike 2027",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 20 Nov 2026 10:30:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "What You Will Pay for Medicare in 2027",
-          "url": "https://www.kiplinger.com/retirement/medicare/what-you-will-pay-for-medicare-in-2027",
-          "source": "Kiplinger"
-        },
-        {
-          "title": "Medicare out-of-pocket costs are rising in 2027",
-          "url": "https://finance.yahoo.com/economy/article/medicare-out-of-pocket-costs-are-rising-in-2027-150513215.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Medicare increase set to eat into Social Security hike - here’s how much",
-          "url": "https://www.the-independent.com/us/money/medicare-part-b-premium-increase-social-security-cola-b3088215.html",
-          "source": "The Independent"
-        }
-      ],
-      "trademarkRisk": "low",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": []
-    },
-    {
-      "title": "taylorswift",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 20 Nov 2026 10:10:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Taylor Swift loses it at CMA hosts’ joke about her wedding to Travis Kelce",
-          "url": "https://www.the-independent.com/arts-entertainment/music/news/taylor-swift-cmas-kelce-wedding-joke-b3088391.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Proof Travis Kelce is Down Bad for Taylor Swift's CMA Awards Performance",
-          "url": "https://www.eonline.com/news/1438245/travis-kelce-supports-taylor-swifts-2026-cma-awards-performance",
-          "source": "E! News"
-        },
-        {
-          "title": "Lainey Wilson Brings Back Brad Paisley for CMA Awards Monologue Medley and He Picks Up Right Where He Left Off",
-          "url": "https://people.com/cma-awards-2026-brad-paisley-joins-lainey-wilson-monologue-medley-12263966",
-          "source": "People.com"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "skipp townsend",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 20 Nov 2026 10:10:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "He's L.A.'s most renowned anti-gang crusader. How did his son end up charged with murder?",
-          "url": "https://www.latimes.com/california/story/2026-11-20/skipp-townsend-son-murder-charges",
-          "source": "Los Angeles Times"
-        },
-        {
-          "title": "Reginald Foreman’s death rattled South LA, then his murder investigation divided it",
-          "url": "https://thelalocal.org/neighborhoods/south-la/reginald-foremans-death-rattled-south-la-then-his-murder-investigation-divided-it/",
-          "source": "LA Local"
-        },
-        {
-          "title": "Anti-violence activist accuses LAPD of using his arrest as publicity stunt",
-          "url": "https://www.nbclosangeles.com/video/news/local/anti-violence-activist-accuses-lapd-of-using-his-arrest-as-publicity-stunt/3969214/",
-          "source": "NBC Los Angeles"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Reads as news/current affairs (\"death\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "brandon smith",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 20 Nov 2026 10:10:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Steelers make roster moves",
-          "url": "https://www.steelers.com/news/steelers-make-roster-moves-x9206",
-          "source": "Steelers.com"
-        },
-        {
-          "title": "Steelers waive wide receiver from the active roster",
-          "url": "https://www.wkbn.com/sports/pittsburgh-steelers/steelers-waive-wide-receiver-from-the-active-roster/",
-          "source": "WKBN.com"
-        },
-        {
-          "title": "Steelers Waive WR After Wilson, Pittman Return to Practice",
-          "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-waive-brandon-smith-wilson-pittman-return-practice",
-          "source": "Sports Illustrated"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "lauren price next fight",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 20 Nov 2026 10:20:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "History, hunger and headline bills - why Price is box office",
-          "url": "https://www.bbc.co.uk/sport/boxing/articles/crwy8e7d5lj1o",
-          "source": "BBC"
-        },
-        {
-          "title": "Lauren Price hopes making undisputed history could lead her to Claressa Shields showdown: 'I want the big fights'",
-          "url": "https://www.skysports.com/boxing/news/13613679/lauren-price-hopes-making-undisputed-history-could-lead-her-to-claressa-shields-showdown-i-want-the-big-fights",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Lauren Price v Michaela Kotaskova - watch live boxing",
-          "url": "https://www.bbc.com/sport/boxing/live/crp3e1ewy98dt",
-          "source": "BBC"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from skysports.com — league/studio/label IP very likely.",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "daniel jones",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 20 Nov 2026 10:10:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Shane Steichen on Daniel Jones remaining the starter: “We’ll evaluate everything”",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-on-daniel-jones-being-the-starter-well-evaluate-everything",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "Colts release QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
-          "url": "https://www.espn.co.uk/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+          "title": "Police investigate man's death after alleged altercation at 49ers-Cowboys game",
+          "url": "https://www.espn.com/nfl/story/_/id/50543613/police-investigate-man-death-incident-cowboys-game",
           "source": "ESPN"
         },
         {
-          "title": "Why can't Richardson beat out struggling Jones as Colts QB1?",
-          "url": "https://www.espn.com/nfl/story/_/id/50521994/colts-anthony-richardson-daniel-jones-quarterback",
-          "source": "ESPN"
+          "title": "Family of Dallas Cowboys fan who died after an apparent altercation at a game speaks out",
+          "url": "https://www.kcentv.com/article/news/nation-world/dallas-cowboys-fan-death-investigation-texas-game/507-bbf4f723-90de-4449-bdd5-dbc4e1012f4d",
+          "source": "kcentv.com"
+        },
+        {
+          "title": "Man dies days after fight at Dallas Cowboys game",
+          "url": "https://www.fox4news.com/news/man-dies-days-after-fight-dallas-cowboys-game",
+          "source": "FOX 4 News Dallas-Fort Worth"
         }
       ],
       "trademarkRisk": "high",
       "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Coverage from espn.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "why are canadian gas prices falling",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 20 Nov 2026 10:00:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "The Iran war is still going on. So why have gas prices fallen?",
-          "url": "https://www.ctvnews.ca/canada/article/the-iran-war-is-still-going-on-so-why-have-gas-prices-fallen/",
-          "source": "CTV News"
-        },
-        {
-          "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling",
-          "url": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html",
-          "source": "Crude Oil Prices Today | OilPrice.com"
-        },
-        {
-          "title": "Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks",
-          "url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a",
-          "source": "WSJ"
-        }
-      ],
-      "trademarkRisk": "low",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Mainstream news coverage — event-driven, not a durable merch niche.",
-        "Reads as news/current affairs (\"war\") rather than an aesthetic."
-      ]
-    },
-    {
-      "title": "riemann hypothesis",
-      "traffic": 500,
-      "trafficLabel": "500+",
-      "pubDate": "Fri, 20 Nov 2026 08:10:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
-          "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-          "source": "Scientific American"
-        },
-        {
-          "title": "Anthropic researcher says Claude solved math’s greatest riddle",
-          "url": "https://www.news.com.au/breaking-news/anthropic-researcher-says-claude-solved-maths-greatest-riddle/news-story/f478ca4aa82cde187ce5ead9d33f2f6b",
-          "source": "News.com.au"
-        },
-        {
-          "title": "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis",
-          "url": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/",
-          "source": "New Scientist"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "hogwarts legacy 2 major changes",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:30:00 -0800",
-      "geo": "US",
-      "newsItems": [
-        {
-          "title": "Hogwarts Legacy 2 Officially Reveals Its Most Major Change Yet",
-          "url": "https://www.polygon.com/hogwarts-legacy-2-warner-bros-major-change/",
-          "source": "Polygon.com"
-        },
-        {
-          "title": "Hogwarts Legacy 2's rumored feature could be its biggest curse (or its best mechanic yet)",
-          "url": "https://winteriscoming.net/hogwarts-legacy-2-rumored-feature-biggest-curse-or-best-mechanic",
-          "source": "Winter is Coming"
-        },
-        {
-          "title": "Hogwarts Legacy 2 Just Became Paramount's Most Important Game, But There's a Catch",
-          "url": "https://www.imdb.com/news/ni66109475/?ref_=ttnw_art_perm",
-          "source": "IMDb"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"game\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "millais school ofsted special measures",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Millais School in Horsham placed into special measures",
-          "url": "https://www.bbc.co.uk/news/articles/cqr7g2jke7zro",
-          "source": "BBC"
-        },
-        {
-          "title": "Exclusive: Horsham school placed in special measures after Ofsted identifies serious safeguarding concerns",
-          "url": "https://www.sussexexpress.co.uk/education/exclusive-horsham-school-placed-in-special-measures-after-ofsted-identifies-serious-safeguarding-concerns-9362986",
-          "source": "SussexWorld"
-        },
-        {
-          "title": "Millais School in Horsham placed into special measures",
-          "url": "https://www.bbc.com/news/articles/cqr7g2jke7zro",
-          "source": "BBC"
-        }
-      ],
-      "trademarkRisk": "low",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "aberdeen royal infirmary",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
-      "geo": "GB",
-      "newsItems": [
-        {
-          "title": "Man who nearly died during liver surgery at Aberdeen hospital says mistakes were made",
-          "url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o",
-          "source": "BBC"
-        },
-        {
-          "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
-          "url": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Surgeon calls for corporate homicide probe over claims NHS Grampian patients unnecessarily bled to death",
-          "url": "https://www.bbc.com/news/articles/crjeqxexyq05o",
-          "source": "BBC"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Coverage from espn.com — league/studio/label IP very likely.",
         "Reads as news/current affairs (\"died\") rather than an aesthetic."
       ]
     },
     {
-      "title": "gta 6 physical copy",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
-      "geo": "GB",
+      "title": "oilers vs hurricanes",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Sat, 21 Nov 2026 09:10:00 -0800",
+      "geo": "CA",
       "newsItems": [
         {
-          "title": "GameStop CEO Criticizes Digital Game Releases on ‘GTA VI’ Eve",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/gamestop-ceo-criticizes-digital-game-releases-on-gta-vi-eve",
-          "source": "Bloomberg.com"
+          "title": "Projected Lineup: November 21 vs. Edmonton",
+          "url": "https://www.nhl.com/hurricanes/news/projected-lineup-november-21-vs-edmonton",
+          "source": "NHL.com"
         },
         {
-          "title": "GME Stock In Focus: GameStop Bulls Want ‘GTA 6 Squeeze’ Even As CEO Ryan Cohen Questions Digital-Only Games Play",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/gme-stock-focus-gamestop-bulls-073405321.html",
-          "source": "Yahoo Finance"
+          "title": "NHL Best Bets, Predictions, Picks, Odds for Saturday, November 21",
+          "url": "https://www.dailyfaceoff.com/news/nhl-best-bets-predictions-picks-odds-for-saturday-november-21",
+          "source": "Daily Faceoff"
         },
         {
-          "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
-          "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
-          "source": "Decrypt"
+          "title": "Too soon to say Oilers and Hurricanes are a Stanley Cup Final preview, but still...",
+          "url": "https://edmontonjournal.com/sports/edmonton-oilers-carolina-hurricanes-game-preview",
+          "source": "Edmonton Journal"
         }
       ],
-      "trademarkRisk": "medium",
+      "trademarkRisk": "high",
       "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Contains \"game\" — commonly a protected mark or event name.",
-        "Mainstream news coverage — event-driven, not a durable merch niche.",
-        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+        "Coverage from nhl.com — league/studio/label IP very likely."
       ]
     },
     {
-      "title": "coinbase",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
-      "geo": "GB",
+      "title": "jeremiah smith",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "Coinbase expands Deribit’s global liquidity pool for traders",
-          "url": "https://cryptonews.net/news/market/33784463/",
-          "source": "Cryptonews.net"
+          "title": "Week 12 Game Day Kickoff: Appreciating Jeremiah Smith's greatness",
+          "url": "https://www.espn.com/college-football/story/_/page/gamedaykickoff111926/week-12-top-games-upsets-preview",
+          "source": "ESPN"
         },
         {
-          "title": "Coinbase Launches Crypto Options Trading Service Using Deribit Liquidity",
-          "url": "https://en.bloomingbit.io/feed/news/124807",
-          "source": "bloomingbit"
+          "title": "Jeremiah Smith Is That Good, So Which NFL Teams Could Consider Trading Up for Star WR in 2027 Draft",
+          "url": "https://bleacherreport.com/articles/25535684-jeremiah-smith-good-so-which-nfl-teams-could-consider-trading-star-wr-2027-draft",
+          "source": "Bleacher Report"
         },
         {
-          "title": "Coinbase Derivatives Launches BTC And ETH Options Against Deribit’s 2% USDC Share",
-          "url": "https://www.onebullex.com/news/articles/coinbase-derivatives-launches-btc-and-eth-options-against-deribit-s-2-usdc-share",
-          "source": "OneBullEx"
+          "title": "\"He Understands\": Ryan Day Announces Jeremiah Smith's Final Stance With Ohio State Amid Tough Times",
+          "url": "https://sports.yahoo.com/articles/understands-ryan-day-announces-jeremiah-015226351.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "usl championship",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 21 Nov 2026 09:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Sacramento Republic FC to host Louisville City FC in 2026 USL Championship Final on Saturday",
+          "url": "https://www.kcra.com/article/sacramento-republic-fc-louisville-city-fc-2026-usl-championship-final-saturday/74481407",
+          "source": "KCRA"
+        },
+        {
+          "title": "CRAWFORD | After a season of detours, Louisville City is 1 win from a 3rd championship",
+          "url": "https://www.wdrbwave.com/2026/11/20/crawford-after-season-detours-louisville-city-is-one-win-third-championship/",
+          "source": "WDRB"
+        },
+        {
+          "title": "Know Before You Go: USL Championship Final – Republic FC vs. Louisville City FC",
+          "url": "https://www.sacrepublicfc.com/news/2026/11/20/know-before-you-go/",
+          "source": "Sacramento Republic FC"
         }
       ],
       "trademarkRisk": "medium",
       "podRelevance": 0.25,
       "printable": false,
       "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+        "Contains \"vs\" — commonly a protected mark or event name."
       ]
     },
     {
-      "title": "gerwyn price",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
+      "title": "premier league results",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
       "geo": "GB",
       "newsItems": [
         {
-          "title": "Gerwyn Price makes honest admission about quitting darts and what leaves him gutted",
-          "url": "https://www.walesonline.co.uk/sport/other-sport/gerwyn-price-darts-grand-slam-34939568",
-          "source": "Wales Online"
-        },
-        {
-          "title": "GERYWN PRICE has revealed he doesn't want to be in darts \"too long.\"",
-          "url": "https://oche180.com/news/studio-article-6334eb99-d42d-4a20-a10d-7ec2df349332",
-          "source": "Oche180"
-        },
-        {
-          "title": "Grand Slam of Darts: Commentary, updates, scores, analysis with Gerwyn Price, Jermaine Wattimena, Kevin Doets in quarter-final action",
-          "url": "https://www.skysports.com/darts/live-blog/13614370/grand-slam-of-darts-commentary-updates-scores-analysis-with-gerwyn-price-jermaine-wattimena-kevin-doets-in-quarter-final-action",
+          "title": "Match commentary and highlights: Tottenham 2-0 Ipswich",
+          "url": "https://www.skysports.com/football/live-blog/13610687/tottenham-vs-ipswich-live-premier-league-match-updates-news-and-score",
           "source": "Sky Sports"
+        },
+        {
+          "title": "EARLY SPURS TEAM NEWS",
+          "url": "https://www.itfc.co.uk/news/2026/november/20/Early-Ipswich-Town-team-news-for-Tottenham-fixture/",
+          "source": "Ipswich Town FC"
+        },
+        {
+          "title": "Team news | Bergvall, Savio, Udogie available, Tel and Tosin out of Ipswich clash",
+          "url": "https://www.tottenhamhotspur.com/news/1234486/team-news-bergvall-savio-udogie-available-tel-and-tosin-out-of-ipswich-clash",
+          "source": "Tottenham Hotspur"
         }
       ],
       "trademarkRisk": "high",
@@ -754,148 +207,26 @@
       ]
     },
     {
-      "title": "bayern – cologne",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:50:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Live Blog: Bayern Munich vs. Köln | Bundesliga 2026-27",
-          "url": "https://www.beinsports.com/en-us/soccer/bundesliga/articles/live-blog-bayern-munich-vs-k-ln-bundesliga-2026-11-20",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "Bayern-Köln preview: Bayern lead the table with five injuries",
-          "url": "https://www.tufutbolero.com/en/news/bayern-koln-preview-bayern-lead-the-table-with-five-injuries-fcccf3",
-          "source": "Tu Futbolero"
-        },
-        {
-          "title": "Bayern Munich vs Cologne: Lineups, Prediction, Odds & Bet Builder Tip",
-          "url": "https://www.whoscored.com/articles/6FmCwf6YREmHIcm7Fexz3g/show/cng111-20261120-bayern-munich-vs-cologne-prediction-1795174569",
-          "source": "WhoScored.com"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"vs\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "game gta6",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:50:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
-          "url": "https://www.bbc.com/news/articles/cmvg2e0e9138o",
-          "source": "BBC"
-        },
-        {
-          "title": "Opinion | Grand Theft Auto Is Depraved. That’s the Point.",
-          "url": "https://www.nytimes.com/2026/11/17/opinion/grand-theft-auto-danger-art.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Does GTA VI cross moral and ethical lines?",
-          "url": "https://www.cbc.ca/player/play/video/9.7428478",
-          "source": "CBC"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Contains \"game\" — commonly a protected mark or event name.",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "marco rubio",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:00:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Republicans face a pivot away from Trump’s dystopia in 2028",
-          "url": "https://www.cnn.com/2026/11/20/politics/marco-rubio-2028-race-vance-trump",
-          "source": "CNN"
-        },
-        {
-          "title": "National Poll: Rubio Leads 2028 GOP Nomination Contest, Ossoff Rises Among Democrats",
-          "url": "https://emersoncollegepolling.com/national-poll-rubio-leads-2028-gop-nomination-contest-ossoff-rises-among-democrats/",
-          "source": "- Emerson Polling"
-        },
-        {
-          "title": "Rubio gains buzz while Vance’s fortunes falter in GOP race",
-          "url": "https://thehill.com/homenews/campaign/6231607-marco-rubio-trump-successor-buzz/",
-          "source": "The Hill"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
-      ]
-    },
-    {
-      "title": "511",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 10:00:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "WYDOT adds wildlife alerts to 511 Notify subscriptions",
-          "url": "https://wgfd.wyo.gov/news-events/wydot-adds-wildlife-alerts-511-notify-subscriptions",
-          "source": "Wyoming Game and Fish (.gov)"
-        },
-        {
-          "title": "WYDOT adds wildlife hazards to 511 notifications",
-          "url": "https://www.jhnewsandguide.com/news/environmental/local/wydot-adds-wildlife-hazards-to-511-notifications/article_2df72efb-357f-4a54-a3a5-4a6ba8f45e58.html",
-          "source": "JHNewsAndGuide.com"
-        },
-        {
-          "title": "WYDOT Adds Wildlife Alerts to 511 Program",
-          "url": "https://www.sweetwaternow.com/wydot-adds-wildlife-alerts-to-511-program/",
-          "source": "SweetwaterNOW"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
       "title": "stock market today",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 08:40:00 -0800",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "3 catalysts that could send Nvidia shares below $120 in the next 12 months",
-          "url": "https://www.fool.com.au/2026/11/21/3-catalysts-that-could-send-nvidia-shares-below-120-in-the-next-12-months/",
-          "source": "The Motley Fool Australia"
+          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "The Guardian"
         },
         {
-          "title": "Nvidia's share slide knocks it below Alphabet in valuation",
-          "url": "https://www.reuters.com/business/retail-consumer/nvidias-share-slide-knocks-it-below-alphabet-valuation-2026-11-20/",
-          "source": "Reuters"
+          "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+          "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+          "source": "Financial Times"
         },
         {
-          "title": "Nvidia Stock Has a 20% Rebound in Sight—If Bulls Can Clear a Hurdle",
-          "url": "https://decrypt.co/383334/nvidia-stock-rebound-in-sight-if-bulls-can-clear-hurdle",
-          "source": "Decrypt"
+          "title": "Trillions wiped from Wall Street as investors lose faith in AI",
+          "url": "https://www.nine.com.au/world-news/usa/trillions-wiped-from-wall-street-as-investors-lose-faith-in-ai-20261121-p61g3y.html",
+          "source": "Nine.com.au"
         }
       ],
       "trademarkRisk": "medium",
@@ -908,57 +239,56 @@
       ]
     },
     {
-      "title": "news today",
-      "traffic": 200,
-      "trafficLabel": "200+",
-      "pubDate": "Fri, 20 Nov 2026 07:50:00 -0800",
-      "geo": "AU",
+      "title": "tottenham vs ipswich town standings",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 21 Nov 2026 09:10:00 -0800",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "Alphabet raises $4.19 billion in Canadian bond offering",
-          "url": "https://www.reuters.com/business/alphabet-aims-raise-419-billion-canadian-debt-offering-2026-11-20/",
-          "source": "Reuters"
+          "title": "Match commentary and highlights: Tottenham 2-0 Ipswich",
+          "url": "https://www.skysports.com/football/live-blog/13610687/tottenham-vs-ipswich-live-premier-league-match-updates-news-and-score",
+          "source": "Sky Sports"
         },
         {
-          "title": "Alphabet Raises C$6B in Canadian Bonds for AI Liquidity",
-          "url": "https://www.tradingpedia.com/2026/11/20/alphabet-raises-c6b-in-canadian-bonds-for-ai-liquidity/",
-          "source": "TradingPedia"
+          "title": "Confirmed line-ups: Spurs vs Ipswich Town",
+          "url": "https://www.tottenhamhotspur.com/news/1266934/confirmed-line-ups-spurs-vs-ipswich-town-premier-league-november-2026",
+          "source": "Tottenham Hotspur"
         },
         {
-          "title": "Alphabet To Raise At Least $3.5 Billion With Canadian Debt Sale- Bloomberg News",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4700WE:0-alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale-bloomberg-news/",
-          "source": "TradingView"
+          "title": "De Zerbi: Bergvall, Maddison, Savio in contention for Ipswich, Tel, Tosin, Mudryk out",
+          "url": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-news/74957/tottenham-hotspur-news-ipswich-bergvall-maddison-savio-return",
+          "source": "Cartilage Free Captain"
         }
       ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
+      "trademarkRisk": "high",
+      "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
+        "Coverage from skysports.com — league/studio/label IP very likely."
       ]
     },
     {
-      "title": "better things",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 10:40:00 -0800",
-      "geo": "GB",
+      "title": "gio lopez",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 21 Nov 2026 09:10:00 -0800",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "Celia Imrie says she is ‘cross’ with Better Things co-star Mikey Madison. Here’s why",
-          "url": "https://www.independent.co.uk/bulletin/culture/celia-imrie-mikey-madison-better-things-table-manners-b3087331.html",
-          "source": "The Independent"
+          "title": "Wake Forest quarterback Gio Lopez upgraded to probable against Georgia Tech",
+          "url": "https://247sports.com/college/wake-forest/article/wake-forest-quarterback-gio-lopez-upgraded-to-probable-against-georgia-tech-292994990/",
+          "source": "247Sports"
         },
         {
-          "title": "Mikey Madison Gets Called Out for Forgetting Who Made Her a Star",
-          "url": "https://www.realitytea.com/2026/11/18/mikey-madison-celia-imrie-pamela-adlon-career-credit/",
-          "source": "Reality Tea"
+          "title": "Nick Saban has high praise for Alabama native, former South Alabama QB Gio Lopez",
+          "url": "https://www.al.com/sports/2026/11/nick-saban-has-high-praise-for-alabama-native-former-south-alabama-qb-gio-lopez.html",
+          "source": "AL.com"
         },
         {
-          "title": "Mikey Madison’s “Better Things ”costar shades actress for not giving ‘proper credit’ to Pamela Adlon for launching career",
-          "url": "https://uk.news.yahoo.com/mikey-madison-better-things-costar-170036285.html",
-          "source": "Yahoo News UK"
+          "title": "From Nick Saban to Scott Van Pelt, Wake Forest football is getting some serious love",
+          "url": "https://journalnow.com/sports/college/wfu/football/article_c7fbe2cc-15c1-4654-94df-b51a7fd19a67.html",
+          "source": "Winston-Salem Journal"
         }
       ],
       "trademarkRisk": "medium",
@@ -969,25 +299,87 @@
       ]
     },
     {
-      "title": "chris mason",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 10:30:00 -0800",
+      "title": "bob harris",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
       "geo": "GB",
       "newsItems": [
         {
-          "title": "Here’s how we can give Neets a fighting chance | Letters",
-          "url": "https://www.theguardian.com/society/2026/nov/19/heres-how-we-can-give-neets-a-fighting-chance",
-          "source": "The Guardian"
+          "title": "Ben Earle ready to host BBC Radio 2 Country Show",
+          "url": "https://ontheradio.co.uk/2026/11/ben-earle-ready-to-host-bbc-radio-2-country-show/",
+          "source": "OnTheRadio"
         },
         {
-          "title": "The Milburn review is no substitute for an economic plan",
-          "url": "https://www.ft.com/content/ce91c75c-0cf9-447c-ad9a-47b3f19b8844?syn-25a6b1a6=1",
-          "source": "Financial Times"
+          "title": "Huge UK music star reveals BBC Radio 2 start date after being confirmed as Bob Harris’s replacement",
+          "url": "https://www.thesun.co.uk/tvandshowbiz/41087119/ben-earle-bbc-radio2-start-date-bob-harris-replacement/",
+          "source": "The Sun"
         },
         {
-          "title": "Reverse NI tax raid or watch 40,000 jobs disappear, Burnham warned",
-          "url": "https://www.telegraph.co.uk/business/2026/11/20/failure-reverse-jobs-tax-cost-40000-jobs-hospitality-bosses/",
+          "title": "Fans rally to BBC legend, 80, following emotional health update",
+          "url": "https://www.oxfordmail.co.uk/news/26742729.fans-rally-bbc-legend-80-emotional-health-update/",
+          "source": "Oxford Mail"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "gulf of finland",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Ukraine war latest: Strike on Russian cargo ship in Finnish waters 'likely carried out by Kyiv'",
+          "url": "https://news.sky.com/story/ukraine-war-latest-zelenskyy-labels-putin-killer-after-trumps-friendship-comments-12541713",
+          "source": "Sky News"
+        },
+        {
+          "title": "Rescue efforts under way as drones hit Russian ship off Finland coast",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
+          "url": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
+          "source": "Reuters"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "raf",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Villagers in Barnham vote to 'leave the UK' over plan to house migrants at former military base",
+          "url": "https://www.bbc.co.uk/news/live/ck782w4056xwt",
+          "source": "BBC"
+        },
+        {
+          "title": "Moment village announces it has voted to 'leave UK'",
+          "url": "https://news.sky.com/video/moment-village-announces-it-has-voted-to-leave-uk-13614823",
+          "source": "Sky News"
+        },
+        {
+          "title": "Barnham residents hold vote to leave UK over planned migrant base",
+          "url": "https://www.telegraph.co.uk/news/2026/11/21/barnham-residents-hold-vote-to-leave-uk/",
           "source": "The Telegraph"
         }
       ],
@@ -1000,116 +392,270 @@
       ]
     },
     {
-      "title": "auston matthews potential trade destinations",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 10:10:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "7 Trade Landing Spots for Auston Matthews Amid NHL Rumors",
-          "url": "https://bleacherreport.com/articles/25535351-7-trade-landing-spots-auston-matthews-amid-nhl-rumors",
-          "source": "Bleacher Report"
-        },
-        {
-          "title": "Masters: Leafs' frustrations are bubbling up and Hiller's patience is starting to wear out",
-          "url": "https://www.tsn.ca/nhl/video/2026/11/18/masters-leafs-frustrations-are-bubbling-up-and-hillers-patience-is-starting-to-wear-out/",
-          "source": "TSN"
-        },
-        {
-          "title": "Is Auston Matthews’ Time In Toronto Coming To An End?",
-          "url": "https://bvmsports.com/2026/11/19/is-auston-matthews-time-in-toronto-coming-to-an-end/",
-          "source": "BVM Sports"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from bleacherreport.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "air force one",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 10:10:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "White House pool have phones taken away on return from China as speculation mounts over unscheduled stop",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-phones-air-force-one-reporters-china-trip-b3088404.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Trump China visit live updates: Reporter phones ‘taken away’ as Air Force One leaves China",
-          "url": "https://nypost.com/2026/11/18/us-news/trump-china-visit-live-updates-as-president-meets-with-xi-and-putin/",
-          "source": "New York Post"
-        },
-        {
-          "title": "White House takes phones from reporters traveling from China with president",
-          "url": "https://thehill.com/homenews/administration/6230274-trump-press-phones-confiscated-china/",
-          "source": "The Hill"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights)."
-      ]
-    },
-    {
-      "title": "kevin cheveldayoff",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 10:10:00 -0800",
-      "geo": "CA",
-      "newsItems": [
-        {
-          "title": "Jets GM Cheveldayoff trying to drum up trade interest in veteran F Niederreiter",
-          "url": "https://www.tsn.ca/nhl/article/jets-gm-cheveldayoff-trying-to-drum-up-trade-interest-in-veteran-f-niederreiter/",
-          "source": "TSN"
-        },
-        {
-          "title": "TSN | Elias Salomonsson nearing Jets return while Winnipeg continues to gauge interest in Nino Niederreiter",
-          "url": "https://illegalcurve.com/tsn-elias-salomonsson-nearing-jets-return-while-winnipeg-continues-to-gauge-interest-in-nino-niederreiter/",
-          "source": "Illegal Curve Hockey"
-        },
-        {
-          "title": "Niederreiter | 26.11.16 | Winnipeg Jets",
-          "url": "https://www.nhl.com/jets/video/niederreiter-26-11-16-6408459054112",
-          "source": "NHL.com"
-        }
-      ],
-      "trademarkRisk": "high",
-      "podRelevance": 0,
-      "printable": false,
-      "reasons": [
-        "Coverage from nhl.com — league/studio/label IP very likely."
-      ]
-    },
-    {
-      "title": "taylor swift",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 09:50:00 -0800",
+      "title": "newcastle vs arsenal",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 21 Nov 2026 08:40:00 -0800",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "Taylor Swift joined on stage at CMA’s by Australian country icon",
-          "url": "https://www.nine.com.au/entertainment/celebrity/country-music-awards-2026-taylor-swift-first-appearance-performance-13-years-20261119-p61fkw.html",
+          "title": "Newcastle United v Arsenal: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Preview: Newcastle United v Arsenal",
+          "url": "https://www.arsenal.com/news/preview-newcastle-united-v-arsenal-aSvdm5s8P3nk",
+          "source": "Arsenal.com"
+        },
+        {
+          "title": "Newcastle United vs Arsenal LIVE: Premier League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league",
+          "source": "Al Jazeera"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "aleksandre topuria",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 21 Nov 2026 08:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Prelim Results | UFC Qatar",
+          "url": "https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling",
+          "source": "UFC.com"
+        },
+        {
+          "title": "Kiwi sensation’s rapid rise spells ‘trouble’ for ex-champion",
+          "url": "https://www.nine.com.au/sport/combat-sports/ufc-doha-preview-navajo-stirling-jiri-prochazka-fight-robert-whittaker-comments-jake-matthews-exclusive-interview-20261120-p61frl.html",
           "source": "Nine.com.au"
         },
         {
-          "title": "The Easter eggs from Taylor Swift’s CMAs return: A-list cameos, a surprise song mashup and more",
-          "url": "https://www.thechronicle.com.au/entertainment/celebrity-life/the-easter-eggs-from-taylor-swifts-cmas-return-alist-cameos-a-surprise-song-mashup-and-more/video/68fe16db6abce514f31889f4fe4fc452",
-          "source": "Toowoomba Chronicle"
+          "title": "UFC Qatar predictions",
+          "url": "https://www.mmafighting.com/ufc/522566/ufc-qatar-predictions",
+          "source": "MMA Fighting"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from ufc.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "ireland vs south africa",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Sat, 21 Nov 2026 07:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Ireland v South Africa: Nations Championship rugby union – live",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/21/ireland-v-south-africa-nations-championship-rugby-union-live",
+          "source": "The Guardian"
         },
         {
-          "title": "Taylor Swift, Keith Urban reunite at the CMA Awards 2026 and more star snaps",
-          "url": "https://pagesix.com/2026/11/19/photos/taylor-swift-keith-urban-reunite-at-the-cma-awards-2026-and-more-star-snaps/",
-          "source": "Page Six"
+          "title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
+          "url": "https://www.bbc.com/sport/rugby-union/articles/cm930nj435dvo",
+          "source": "BBC"
+        },
+        {
+          "title": "Ireland v Springboks, LIVE BLOG: Coverage of the Nations Championship fixture",
+          "url": "https://www.planetrugby.com/news/ireland-v-springboks-live-blog-coverage-of-the-nations-championship-fixture",
+          "source": "Planet Rugby"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ilia topuria",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 21 Nov 2026 09:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Aleksandre Topuria: 'I Don't Plan On Letting Him Win' | UFC Qatar",
+          "url": "https://www.ufc.com/video/162216",
+          "source": "UFC.com"
+        },
+        {
+          "title": "Ilia Topuria predicts timeline for his 7-1 brother to become UFC bantamweight champion",
+          "url": "https://bloodyelbow.com/2026/11/21/ilia-topuria-predicts-timeline-for-his-7-1-brother-to-become-ufc-bantamweight-champion/",
+          "source": "Bloody Elbow"
+        },
+        {
+          "title": "UFC Fight Night: Aleksandre Topuria vs Santiago Luna Preview & Prediction",
+          "url": "https://www.thestatszone.com/ufc-fight-night-aleksandre-topuria-vs-santiago-luna-preview-prediction-239681",
+          "source": "The Stats Zone"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from ufc.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "gulf of finland",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
+          "url": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rescue efforts under way as drones hit Russian ship off Finland coast",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "arsenal",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Fresh injury blow for Arsenal as Zohran Mamdani is sidelined with achilles tear",
+          "url": "https://www.theguardian.com/football/2026/nov/20/fresh-injury-blow-for-arsenal-as-zohran-mamdani-is-sidelined-with-achilles-tear",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Mamdani tears Achilles tendon while playing soccer",
+          "url": "https://www.politico.com/news/2026/11/20/mamdani-tears-achilles-tendon-while-playing-soccer-01179156",
+          "source": "Politico"
+        },
+        {
+          "title": "Zohran Mamdani tears Achilles while playing soccer against NYC press corps",
+          "url": "https://www.nbcnews.com/news/us-news/zohran-mamdani-tears-achilles-playing-soccer-nyc-press-corps-rcna610443",
+          "source": "NBC News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "bucks vs 76ers",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Sat, 21 Nov 2026 09:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Sixers host Milwaukee Bucks for afternoon game",
+          "url": "https://www.libertyballers.com/76ers-game-previews/102433/sixers-host-milwaukee-bucks-for-afternoon-game-lebron-james-joel-embiid",
+          "source": "Liberty Ballers"
+        },
+        {
+          "title": "LeBron and the Sixers Headline NBA Weekend Primetime Action",
+          "url": "https://www.sports247.ng/lebron-and-the-sixers-headline-nba-weekend-primetime-action/",
+          "source": "Sports247 Nigeria"
+        },
+        {
+          "title": "How to watch Bucks vs 76ers: Live stream NBA, TV channel",
+          "url": "https://sports.yahoo.com/articles/watch-bucks-vs-76ers-live-165000344.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "roma fc",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "D’Amico on Kone’s future: “It’s unlikely he’ll leave in January.”",
+          "url": "https://sports.yahoo.com/articles/d-amico-kone-future-unlikely-164500332.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Man United and Chelsea to renew interest in Kone",
+          "url": "https://romapress.net/man-united-and-chelsea-to-renew-interest-in-kone/",
+          "source": "RomaPress"
+        },
+        {
+          "title": "Roma Star Remains in Two EPL Powerhouses’ Crosshairs",
+          "url": "https://cultofcalcio.com/roma-star-kone-remains-in-two-epl-powerhouses-crosshairs/",
+          "source": "The Cult of Calcio"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"fc\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "désiré doué",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Désiré Doué blessé au genou droit et sorti en pleurs à Nice avec le PSG",
+          "url": "https://www.lequipe.fr/Football/Actualites/Desire-doue-blesse-au-genou-droit-et-sorti-en-pleurs-a-nice-avec-le-psg/1745150",
+          "source": "L'Équipe"
+        },
+        {
+          "title": "PSG : Mayulu et Doué inscrivent deux buts en deux minutes à Nice",
+          "url": "https://www.footmercato.net/a7452972469606147320-psg-mayulu-et-doue-inscrivent-deux-buts-en-deux-minutes-a-nice",
+          "source": "Foot Mercato"
+        },
+        {
+          "title": "Grosse inquiétude pour Désiré Doué, sorti sur civière",
+          "url": "https://www.sofoot.com/breves/nice-psg-desire-doue-evacue-sur-civiere-apres-une-torsion-du-genou",
+          "source": "SO FOOT.com"
         }
       ],
       "trademarkRisk": "medium",
@@ -1120,57 +666,414 @@
       ]
     },
     {
-      "title": "spacex share price",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 09:30:00 -0800",
-      "geo": "AU",
+      "title": "matt rhule",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "US",
       "newsItems": [
         {
-          "title": "Three Ways SpaceX Stock Can Buck the AI Slump",
-          "url": "https://www.barrons.com/articles/spacex-stock-price-ai-slump-c3557145",
-          "source": "Barron's"
+          "title": "Tad Stryker: Matt Rhule Owes Nebraska Fans Tangible Results, Starting with Ohio State and Iowa",
+          "url": "https://www.si.com/college/nebraska/football/tad-stryker-matt-rhule-owes-huskers-fans-tangible-results-ohio-state-and-iowa-01m7y2c90d3v",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "The “Bank of Nvidia” Is Pulling Back. SpaceX’s CFO Says Cash Flow Funds Most of Its 10GW Build",
-          "url": "https://www.tikr.com/zh/blog/the-bank-of-nvidia-is-pulling-back-spacexs-cfo-says-cash-flow-funds-most-of-its-10gw-build?",
-          "source": "TIKR.com"
+          "title": "Can Nebraska's Matt Rhule end his drought against ranked opponents?",
+          "url": "https://www.espn.com/college-football/story/_/id/50534102/nebraska-cornhuskers-matt-rhule-ranked-win-drought",
+          "source": "ESPN"
         },
         {
-          "title": "Is Space Exploration Technologies (SPCX) Reasonable After Big AI Expansion Plans?",
-          "url": "https://simplywall.st/stocks/us/telecom/nasdaq-spcx/space-exploration-technologies/news/is-space-exploration-technologies-spcx-reasonable-after-big",
-          "source": "Simply Wall St"
+          "title": "Live updates: Nebraska hosts Ohio State on Senior Day",
+          "url": "https://www.ketv.com/article/nebraska-ohio-state-live-updates/74497785",
+          "source": "KETV"
         }
       ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.1,
+      "trademarkRisk": "high",
+      "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Reads as news/current affairs (\"stock\") rather than an aesthetic."
+        "Coverage from espn.com — league/studio/label IP very likely."
       ]
     },
     {
-      "title": "bitcoin price usd",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 09:20:00 -0800",
+      "title": "mariah carey",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Mariah Carey to headline Devon castle festival with two huge pop groups",
+          "url": "https://www.greatbritishlife.co.uk/magazines/devon/26746654.mariah-carey-headline-live-powderham-sugababes/",
+          "source": "Great British Life"
+        },
+        {
+          "title": "Mariah Carey sparks concern amongst fans with overly ‘stiff’ performance: ‘Rest or retire’",
+          "url": "https://pagesix.com/2026/11/18/entertainment/mariah-carey-sparks-concern-amongst-fans-with-overly-stiff-performance/",
+          "source": "Page Six"
+        },
+        {
+          "title": "Licensable picture: Mariah Carey Kicks Off Her Christmas Time Tour In Brazil With A Show In Sao Paulo.",
+          "url": "https://www.reutersconnect.com/item/mariah-carey-kicks-off-her-christmas-time-tour-in-brazil-with-a-show-in-sao-paulo/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBCNjVIVlQ",
+          "source": "Reuters Connect"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"tour\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "northampton town f.c. vs rochdale a.f.c. standings",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Watson On Northampton Defeat",
+          "url": "https://rochdaleafc.co.uk/watson-on-northampton-defeat/",
+          "source": "Rochdale AFC"
+        },
+        {
+          "title": "Dale Defeated At Northampton",
+          "url": "https://rochdaleafc.co.uk/report-northampton-town-away-211126/",
+          "source": "Rochdale AFC"
+        },
+        {
+          "title": "Northampton Town vs Rochdale: League Two stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/cj1dv3kdd1qdt",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "76ers vs bucks",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Sixers host Milwaukee Bucks for afternoon game",
+          "url": "https://www.libertyballers.com/76ers-game-previews/102433/sixers-host-milwaukee-bucks-for-afternoon-game-lebron-james-joel-embiid",
+          "source": "Liberty Ballers"
+        },
+        {
+          "title": "LeBron and the Sixers Headline NBA Weekend Primetime Action",
+          "url": "https://www.sports247.ng/lebron-and-the-sixers-headline-nba-weekend-primetime-action/",
+          "source": "Sports247 Nigeria"
+        },
+        {
+          "title": "How to watch Bucks vs 76ers: Live stream NBA, TV channel",
+          "url": "https://sports.yahoo.com/articles/watch-bucks-vs-76ers-live-165000344.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "arsenal game today",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Arteta's update on Saka, Saliba and Zubimendi",
+          "url": "https://www.arsenal.com/news/artetas-update-on-saka-saliba-and-zubimendi-aeGpX1u8JqKG",
+          "source": "Arsenal.com"
+        },
+        {
+          "title": "Premier League gameweek 11 build-up: Team news, news conferences and top stories",
+          "url": "https://www.bbc.co.uk/sport/football/live/cmkg5zwnwg7rt",
+          "source": "BBC"
+        },
+        {
+          "title": "Arsenal's Bukayo Saka out for a month, William Saliba available - Mikel Arteta",
+          "url": "https://www.espn.co.uk/football/story/_/id/50540215/arsenal-saka-saliba-arteta-injury",
+          "source": "ESPN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"game\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "league one table",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "League One LIVE: Score updates, text commentary, team news and match stats from across League One",
+          "url": "https://www.bbc.co.uk/sport/football/live/cwz0v53rgnrlt",
+          "source": "BBC"
+        },
+        {
+          "title": "League One LIVE: Build-up, team news, match states, score updates & live text commentary from across League One",
+          "url": "https://www.bbc.co.uk/sport/football/live/cm2ke374x7wvt",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"score\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "brenden aaronson",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "E. Emegha scores for Chelsea 1-0 25'",
+          "url": "https://www.thechelseachronicle.com/talkingpoints/chelsea-vs-leeds-united-premier-league-261121/1557470-goal-203762-1/",
+          "source": "The Chelsea Chronicle"
+        },
+        {
+          "title": "Sean Longstaff names surprise Leeds star that is 'unbelievable' in training, 'I want to kick him'",
+          "url": "https://www.leedsunited.news/news/sean-longstaff-names-surprise-leeds-star-that-is-unbelievable-in-training-i-want-to-kick-him/",
+          "source": "Leeds United News"
+        },
+        {
+          "title": "“He’s unbelievable…” – Sean Longstaff makes surprise admission about Leeds United teammate",
+          "url": "https://www.leedsallover.com/hes-unbelievable-sean-longstaff-makes-surprise-admission-about-leeds-united-teammate/",
+          "source": "LeedsAllOver"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"united\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "sevilla vs betis",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 09:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Sevilla - Betis, en directo | Última hora de LaLiga EA Sports hoy en vivo",
+          "url": "https://www.marca.com/futbol/laliga-ea-sports/sevilla-betis/2026/11/21/01_0101_20261121_179_185-directo.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "Un derbi de goles repartidos",
+          "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/derbi-goles-repartidos-20261121070718-nts.html",
+          "source": "ABC"
+        },
+        {
+          "title": "Guridi y Castrín, novedades en el Sevilla y Pellegrini sorprende con Ruibal en punta",
+          "url": "https://es-us.noticias.yahoo.com/deportes/guridi-castr%C3%ADn-novedades-sevilla-pellegrini-165019879.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "ohio state vs nebraska",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 08:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "No. 16 Ohio State getting back to basics with playoff hopes revived ahead of Nebraska matchup",
+          "url": "https://www.thestar.com/sports/football/no-16-ohio-state-getting-back-to-basics-with-playoff-hopes-revived-ahead-of-nebraska-matchup/article_647c5623-f267-5464-893f-21f4103ab56d.html",
+          "source": "Toronto Star"
+        },
+        {
+          "title": "Skull Session: Get Dumped Then, Cornhuskers",
+          "url": "https://www.elevenwarriors.com/skull-sessions/2026/11/165577/skull-session-get-dumped-then-cornhuskers",
+          "source": "Eleven Warriors"
+        },
+        {
+          "title": "Ten Pressing Questions: Buckeyes in for challenge visiting upset-minded Nebraska",
+          "url": "https://247sports.com/college/ohio-state/article/ohio-state-buckeyes-football-facing-challenge-at-nebraska-cornhuskers-293046793/",
+          "source": "247Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "kyoji horiguchi",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 08:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Kyoji Horiguchi vs. Asu Almabayev Prediction, Picks, Odds for UFC Qatar, Saturday, November 21",
+          "url": "https://www.actionnetwork.com/mma/kyoji-horiguchi-vs-asu-almabayev-prediction-picks-odds-for-ufc-qatar-saturday-november-21",
+          "source": "Action Network"
+        },
+        {
+          "title": "Manel Kape Found an Opening in Kyoji Horiguchi’s Game. Can Almabayev Exploit It?",
+          "url": "https://athlonsports.com/mma/manel-kape-found-an-opening-in-kyoji-horiguchis-game-can-almabayev-exploit-it",
+          "source": "Athlon Sports"
+        },
+        {
+          "title": "Kyoji Horiguchi v Asu Almabayev Odds",
+          "url": "https://sportsbook.fanduel.com/mma/ufc-matches/kyoji-horiguchi-v-asu-almabayev-36320374",
+          "source": "FanDuel Sportsbook"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "santiago luna",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 08:50:00 -0800",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "Prediction: When Will Bitcoin Get Back to Its All-Time High?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-back-time-high-193318780.html",
-          "source": "Yahoo Finance"
+          "title": "Aleksandre Topuria: 'I Don't Plan On Letting Him Win' | UFC Qatar",
+          "url": "https://www.ufc.com/video/162216",
+          "source": "UFC.com"
         },
         {
-          "title": "Bitcoin price today crashes near $59,000: Why Peter Brandt warns of a 75% correction as crypto market slid",
-          "url": "https://m.economictimes.com/world/business/bitcoin-price-today-crashes-near-59000-why-peter-brandt-warns-of-a-75-correction-as-crypto-market-slides-how-low-could-btc-usd-drop-next/articleshow/136033542.cms",
-          "source": "The Economic Times"
+          "title": "Ilia Topuria predicts timeline for his 7-1 brother to become UFC bantamweight champion",
+          "url": "https://bloodyelbow.com/2026/11/21/ilia-topuria-predicts-timeline-for-his-7-1-brother-to-become-ufc-bantamweight-champion/",
+          "source": "Bloody Elbow"
         },
         {
-          "title": "Peter Brandt Points to a 75% Bitcoin Correction Pattern. Will the Crash Deepen?",
-          "url": "https://beincrypto.com/peter-brandt-bitcoin-75-percent-correction/",
-          "source": "BeInCrypto"
+          "title": "UFC Fight Night: Aleksandre Topuria vs Santiago Luna Preview & Prediction",
+          "url": "https://www.thestatszone.com/ufc-fight-night-aleksandre-topuria-vs-santiago-luna-preview-prediction-239681",
+          "source": "The Stats Zone"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from ufc.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "amir albazi",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 08:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Amir Albazi Wants To Show He’s Still That Guy",
+          "url": "https://www.ufc.com/news/amir-albazi-wants-show-hes-still-guy-ufc-qatar",
+          "source": "UFC.com"
+        },
+        {
+          "title": "UFC Qatar’s Alessandro Costa seeks 4th win in 2026, pitches backup role for Joshua Van vs. Manel Kape",
+          "url": "https://www.mmafighting.com/ufc/522187/ufc-qatars-alessandro-costa-seeks-4th-win-in-2026-pitches-backup-role-for-joshua-van-vs-manel-kape",
+          "source": "MMA Fighting"
+        },
+        {
+          "title": "UFC Fight Night: Amir Albazi vs Alessandro Costa Preview & Prediction",
+          "url": "https://www.thestatszone.com/ufc-fight-night-amir-albazi-vs-alessandro-costa-preview-prediction-239685",
+          "source": "The Stats Zone"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from ufc.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "shamil gaziev",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Sat, 21 Nov 2026 08:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Tallison Teixeira learned heel hooks training with Valter Walker, Shamil Gaziev ‘in trouble’ at UFC Qatar",
+          "url": "https://www.mmafighting.com/ufc/521975/tallison-teixeira-learned-heel-hooks-training-with-valter-walker-shamil-gaziev-in-trouble-at-ufc-qatar",
+          "source": "MMA Fighting"
+        },
+        {
+          "title": "UFC Fight Night: Shamil Gaziev vs Tallison Teixeira Preview & Prediction",
+          "url": "https://www.thestatszone.com/ufc-fight-night-shamil-gaziev-vs-tallison-teixeira-preview-prediction-239683",
+          "source": "The Stats Zone"
+        },
+        {
+          "title": "UFC Qatar: Shamil Gaziev vs. Tallison Teixeira Predictions & Odds",
+          "url": "https://sports.betmgm.com/en/blog/ufc/qatar-shamil-gaziev-tallison-teixeira-predictions-odds-bm05/",
+          "source": "sports.betmgm.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "tsa",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 21 Nov 2026 09:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "The next big travel nightmare could start at the TSA check-in line",
+          "url": "https://www.cnn.com/2026/11/21/business/holiday-travel-tsa-faa-shutdown",
+          "source": "CNN"
+        },
+        {
+          "title": "Shutdown Threatens US Holiday Airport Travel",
+          "url": "https://demokratis.co.id/en/shutdown-threatens-holiday-airport-travel",
+          "source": "Demokratis.co.id"
+        },
+        {
+          "title": "Will a government shutdown affect Thanksgiving travel? No, funding runs until December 11",
+          "url": "https://www.nacionale.com/en/articles/will-government-shutdown-affect-thanksgiving-travel-tsa-december-11-deadline",
+          "source": "Nacionale"
         }
       ],
       "trademarkRisk": "medium",
@@ -1178,98 +1081,188 @@
       "printable": false,
       "reasons": [
         "Short proper-noun query — likely a person or brand (likeness/name rights).",
-        "Reads as news/current affairs (\"crash\") rather than an aesthetic."
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "aljamain sterling",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 21 Nov 2026 09:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Aljamain Sterling says critics can argue with the history books as he chases more legacy: 'Numbers don't lie'",
+          "url": "https://www.cbssports.com/ufc/news/aljamain-sterling-chases-legacy-at-ufc-fight-night/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Opinion: Why Aljamain Sterling could deserve UFC title shot over Jean Silva",
+          "url": "https://www.sherdog.com/news/articles/Opinion-Why-Aljamain-Sterling-could-deserve-UFC-title-shot-over-Jean-Silva-203701",
+          "source": "Sherdog"
+        },
+        {
+          "title": "Kevin Vallejos expects title shot with UFC Qatar win over Aljamain Sterling: ‘I’m next’",
+          "url": "https://www.mmafighting.com/ufc/521924/kevin-vallejos-expects-title-shot-with-ufc-qatar-win-over-aljamain-sterling-im-next",
+          "source": "MMA Fighting"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"ufc\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "theo rochette",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 21 Nov 2026 09:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Théo Rochette voudrait lui aussi être libéré par les Red Wings",
+          "url": "https://www.tvasports.ca/article/theo-rochette-voudrait-lui-aussi-etre-libere-par-les-red-wings-413757515",
+          "source": "TVA Sports"
+        },
+        {
+          "title": "Red Wings : un troisième joueur veut quitter l’organisation",
+          "url": "https://www.danslescoulisses.com/red-wings-un-troisieme-joueur-veut-quitter-lorganisation/",
+          "source": "DansLesCoulisses.com"
+        },
+        {
+          "title": "Théo Rochette : un autre dossier épineux chez les Red Wings",
+          "url": "https://www.toutsurlehockey.com/actualite-nhl/theo-rochette-un-autre-dossier-epineux-chez-les-red-wings/",
+          "source": "TSLH"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "fenerbahçe",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 21 Nov 2026 08:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "+!Kocaelispor - Fenerbahçe CANLI İZLE: Süper Lig'de Dev Maç, Canlı Skor ve Son Dakika Haberleri!",
+          "url": "https://www.cochraneeagle.ca/classifieds/homes-rentals-and-real-estate/cochrane-open-houses/2178013",
+          "source": "Cochrane Eagle"
+        },
+        {
+          "title": "Fenerbahçe'nin Lukaku ile attığı gol iptal edildi",
+          "url": "https://www.haber.tr/fenerbahcenin-lukaku-ile-attigi-gol-iptal-edildi",
+          "source": "Haber TR"
+        },
+        {
+          "title": "Tokadı attı 0 çekti! Maradona'nın Fenerbahçe şubesi",
+          "url": "https://www.fotospor.com.tr/fenerbahce/tokadi-atti-0-cekti-maradonanin-fenerbahce-subesi-717470",
+          "source": "Fotospor"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "ikram aliskerov",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Cannonier Vs. Aliskerov Odds, Full Fight Preview & Prediction",
+          "url": "https://www.mmamania.com/ufc-events-ppv/487036/jared-cannonier-vs-ikram-aliskerov-odds-full-fight-preview-and-prediction-ufc-qatar",
+          "source": "MMA Mania"
+        },
+        {
+          "title": "From Heavyweight to 42-Year-Old Middleweight Gatekeeper: The Evolution of Jared Cannonier’s UFC Run",
+          "url": "https://sports.yahoo.com/articles/heavyweight-42-old-middleweight-gatekeeper-163924058.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Jared Cannonier v Ikram Aliskerov Odds",
+          "url": "https://sportsbook.fanduel.com/mma/ufc-matches/jared-cannonier-v-ikram-aliskerov-36320375",
+          "source": "FanDuel Sportsbook"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
       ]
     },
     {
       "title": "football scores",
       "traffic": 100,
       "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 09:20:00 -0800",
+      "pubDate": "Sat, 21 Nov 2026 08:50:00 -0800",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "State championship previews for West De Pere, Notre Dame and Freedom",
-          "url": "https://fox11online.com/sports/high-school-gametime/state-championship-previews-for-west-de-pere-notre-dame-and-freedom",
-          "source": "WLUK"
+          "title": "Oregon's CFP push left Michigan State football fed up",
+          "url": "https://www.freep.com/story/sports/college/michigan-state/spartans/2026/11/21/pat-fitzgerald-dan-lanning-michigan-state-spartans-football-oregon-ducks-handshake/92895934007/",
+          "source": "Detroit Free Press"
         },
         {
-          "title": "Wisconsin football state finals live coverage, scores, highlights",
-          "url": "https://sports.yahoo.com/articles/wisconsin-football-state-finals-live-150741922.html",
-          "source": "Yahoo Sports"
+          "title": "What they’re saying nationally, in East Lansing after Oregon’s 45-7 demolition of Michigan State",
+          "url": "https://www.oregonlive.com/ducks/2026/11/what-theyre-saying-nationally-in-east-lansing-after-oregons-45-7-demolition-of-michigan-state.html",
+          "source": "OregonLive.com"
         },
         {
-          "title": "State Championship Game predictions and breakdown",
-          "url": "https://www.boundwisconsin.com/p/state-championship-game-predictions-and-breakdown-b4d9",
-          "source": "https://www.boundwisconsin.com/"
-        }
-      ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
-      "printable": false,
-      "reasons": [
-        "Contains \"game\" — commonly a protected mark or event name."
-      ]
-    },
-    {
-      "title": "coach",
-      "traffic": 100,
-      "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 06:40:00 -0800",
-      "geo": "AU",
-      "newsItems": [
-        {
-          "title": "Mauricio Pochettino wants input on Man United transfer decisions",
-          "url": "https://www.espn.com/soccer/story/_/id/50540980/mauricio-pochettino-man-united-transfers",
+          "title": "Oregon 45-7 Michigan State (Nov 20, 2026) Game Recap",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858529",
           "source": "ESPN"
-        },
-        {
-          "title": "Fernandes to remain as captain under Pochettino; Arteta takes fantasy football action; Nations League draw – live",
-          "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
-          "source": "The Guardian"
-        },
-        {
-          "title": "\"We are animals of the grass\"",
-          "url": "https://www.manutd.com/en/news/we-are-animals-of-the-grass-says-mauricio-pochettino",
-          "source": "Manchester United"
         }
       ],
       "trademarkRisk": "high",
       "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Coverage from espn.com — league/studio/label IP very likely.",
-        "Mainstream news coverage — event-driven, not a durable merch niche."
+        "Coverage from espn.com — league/studio/label IP very likely."
       ]
     },
     {
-      "title": "crunchyroll",
+      "title": "lincoln city vs wrexham",
       "traffic": 100,
       "trafficLabel": "100+",
-      "pubDate": "Fri, 20 Nov 2026 06:30:00 -0800",
+      "pubDate": "Sat, 21 Nov 2026 08:40:00 -0800",
       "geo": "AU",
       "newsItems": [
         {
-          "title": "10 Best Anime to Watch If You Can't Wait for Skip & Loafer Season 2",
-          "url": "https://www.cbr.com/best-anime-to-watch-before-skip-and-loafer-season-2/",
-          "source": "Comic Book Resources"
+          "title": "Lincoln City v Wrexham: Championship stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmzx953xx12wt",
+          "source": "BBC"
         },
         {
-          "title": "Major Crunchyroll Anime Confirms Spring 2027 Return for Season 2 – Watch Trailer",
-          "url": "https://comicbook.com/anime/news/major-crunchyroll-anime-confirms-spring-2027-return-for-season-2-watch-trailer/",
-          "source": "ComicBook.com"
+          "title": "Lincoln 0-1 Wrexham: George Thomason nets winner for Red Dragons",
+          "url": "https://www.skysports.com/football/news/13611554/lincoln-0-1-wrexham-george-thomason-nets-winner-for-red-dragons",
+          "source": "Sky Sports"
         },
         {
-          "title": "Skip and Loafer Season 2 Gets Trailer and Visual",
-          "url": "https://anitrendz.net/news/2026/11/16/skip-and-loafer-season-2-gets-trailer-and-visual/",
-          "source": "Anime Trending"
+          "title": "Lincoln City vs. Wrexham: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/lincoln-city-vs-wrexham-preview-predictions-lineups-11-21-26",
+          "source": "Sports Illustrated"
         }
       ],
-      "trademarkRisk": "medium",
-      "podRelevance": 0.25,
+      "trademarkRisk": "high",
+      "podRelevance": 0,
       "printable": false,
       "reasons": [
-        "Contains \"season\" — commonly a protected mark or event name."
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
       ]
     }
   ],
@@ -1277,30 +1270,30 @@
   "printfulBestsellers": [],
   "etsyNiches": [],
   "drawBrief": {
-    "generatedFor": "2026-11-20",
+    "generatedFor": "2026-11-21",
     "basis": "model-inferred",
     "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
     "lead": {
-      "niche": "Cottagecore botanical",
+      "niche": "Dark academia",
       "motifs": [
-        "pressed flowers",
-        "mushroom clusters",
-        "hand-lettered herbs"
+        "etched owl",
+        "stacked antique books",
+        "marginalia typography"
       ],
       "suggestedProducts": [
-        "graphic tee",
-        "tote bag",
-        "poster"
+        "poster",
+        "hoodie",
+        "mug"
       ],
       "why": "Evergreen rotation.",
       "market": null
     },
     "support": {
-      "niche": "Outdoors / van life",
+      "niche": "Plant parent",
       "motifs": [
-        "retro park badge",
-        "mountain line art",
-        "camper silhouette"
+        "single-line monstera",
+        "propagation station",
+        "terracotta row"
       ],
       "market": null
     },
