@@ -12934,5 +12934,159 @@
       "printfulBestsellers": 0,
       "etsyNiches": 0
     }
+  },
+  {
+    "date": "2026-11-22",
+    "topTrends": [
+      {
+        "title": "liverpool vs man utd",
+        "traffic": 10000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "carlos alcaraz",
+        "traffic": 5000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "un climate talks",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "terry bradshaw",
+        "traffic": 2000,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "dolphins vs bills",
+        "traffic": 2000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "carlos alcaraz",
+        "traffic": 2000,
+        "geo": "AU",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "poziții uta arad vs universitatea craiova",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "omaze",
+        "traffic": 1000,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "titans vs cowboys",
+        "traffic": 1000,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "sunday ticket",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "max hurleman",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "is kenneth walker playing this week",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "kerby joseph",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "eagles qb",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "ps5 console",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "kim novak",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "thanksgiving nfl games",
+        "traffic": 500,
+        "geo": "US",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "nyoni",
+        "traffic": 500,
+        "geo": "GB",
+        "printable": false,
+        "trademarkRisk": "medium"
+      },
+      {
+        "title": "ravens vs panthers",
+        "traffic": 500,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "high"
+      },
+      {
+        "title": "alcaraz",
+        "traffic": 500,
+        "geo": "CA",
+        "printable": false,
+        "trademarkRisk": "medium"
+      }
+    ],
+    "topVideos": [],
+    "etsyNiches": [],
+    "counts": {
+      "trends": 40,
+      "trendsPrintable": 0,
+      "youtube": 0,
+      "printfulBestsellers": 0,
+      "etsyNiches": 0
+    }
   }
 ]
