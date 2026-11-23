@@ -1,0 +1,1329 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T22:27:35.882Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 2,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "cruise ship",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Mon, 23 Nov 2026 13:20:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Cruise ship passenger airlifted to Scripps Memorial Hospital after medical emergency",
+          "url": "https://www.nbcsandiego.com/news/local/cruise-ship-passenger-airlifted-to-scripps-memorial-hospital-after-medical-emergency/4105329/",
+          "source": "NBC 7 San Diego"
+        },
+        {
+          "title": "Elderly Cruise Passenger Airlifted from Ship 80 Miles Off California Coast Amid Medical Emergency: VIDEO",
+          "url": "https://people.com/cruise-passenger-74-airlifted-to-san-diego-hospital-after-experiencing-medical-emergency-at-sea-12274541",
+          "source": "People.com"
+        },
+        {
+          "title": "Coast Guard Hoists Ailing 74-Year-Old Off Cruise Ship 80 Miles From San Diego",
+          "url": "https://hoodline.com/2026/11/coast-guard-hoists-ailing-74-year-old-off-cruise-ship-80-miles-from-san-diego/",
+          "source": "Hoodline"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "is there a full moon tonight",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky",
+          "url": "https://www.forbes.com/sites/jamiecartereurope/2026/11/23/supermoon-meets-the-seven-sisters-the-night-sky-this-week/",
+          "source": "Forbes"
+        },
+        {
+          "title": "This week’s Beaver Supermoon to bring king tides to Boston. Here’s how to catch a great lunar view.",
+          "url": "https://www.bostonglobe.com/2026/11/23/metro/viewing-beaver-supermoon-king-tides/",
+          "source": "The Boston Globe"
+        },
+        {
+          "title": "A Spectacular Streak of Supermoons Is About to Begin",
+          "url": "https://www.nationalgeographic.com/science/article/november-2026-supermoon",
+          "source": "National Geographic"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.75,
+      "printable": true,
+      "reasons": [
+        "Matches print-on-demand vocabulary (\"moon\")."
+      ]
+    },
+    {
+      "title": "tom holland",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Tom Holland’s Spider-Man Is Back in New Marvel Release as Avengers: Doomsday Trailer Debuts",
+          "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/tom-holland-spider-man-back-164948323.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Rosario Dawson Back as Night Nurse in Spider-Man Brand New Day Re-Release",
+          "url": "https://variety.com/2026/film/news/rosario-dawson-night-nurse-spider-man-brand-new-day-1236953529/",
+          "source": "Variety"
+        },
+        {
+          "title": "Tom Holland Officially Returns as Spider-Man in Stunning New Look",
+          "url": "https://collider.com/spider-man-brand-new-day-screenx-exclusive-variant-posters/",
+          "source": "Collider"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"trailer\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "michelle randolph",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Clashing Through the Snow review – Amazon’s Christmas romcom is a bust",
+          "url": "https://www.theguardian.com/film/2026/nov/23/clashing-through-the-snow-review-amazon",
+          "source": "The Guardian"
+        },
+        {
+          "title": "TSITP’s Chris Briney Breaks Silence on Surprise Cameo in His Christmas Movie: ‘Wish I Made It Happen’",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/tsitp-chris-briney-breaks-silence-150052752.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Christopher Briney Shocks Jenna and Sheinelle With a Magic Trick on TODAY: ‘What?!’",
+          "url": "https://www.today.com/popculture/movies/christopher-briney-magic-trick-today-jenna-sheinelle-reaction-rcna610908",
+          "source": "TODAY.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"movie\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "leomie anderson",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "I’m A Celeb star lined up for TV gig by ITV bosses after impressing in jungle",
+          "url": "https://www.thesun.co.uk/tv/41110334/leomie-anderson-itv-tv-gig-im-a-celeb/",
+          "source": "The Sun"
+        },
+        {
+          "title": "AJ Odudu looks terrified as I'm a Celeb stars dangle hundreds of feet over canyon in first look at new Bushtucker Trial",
+          "url": "https://www.thesun.co.uk/tv/41105964/im-a-celeb-aj-odudu-terrified-star-bushtucker-trial/",
+          "source": "The Sun"
+        },
+        {
+          "title": "First look at tonight's I'm A Celebrity trial as all campmates take on Your Are A Star | Sunday 22nd November 2026",
+          "url": "https://www.tvzoneuk.com/post/imacelebrity-tonight-sunday22ndnovember2026",
+          "source": "TV Zone UK"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "set for life results",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "National Lottery Set For Life results: Winning numbers for draw on Monday 23 November",
+          "url": "https://www.independent.co.uk/bulletin/news/set-for-life-results-tonight-monday-23-november-b3090206.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Winning EuroMillions and Thunderball lottery numbers for Friday's £31m jackpot",
+          "url": "https://www.chroniclelive.co.uk/news/uk-news/winning-euromillions-thunderball-lottery-numbers-34945926",
+          "source": "Chronicle Live"
+        },
+        {
+          "title": "Lottery results LIVE: National Lottery Set For Life draw tonight, November 23, 2026",
+          "url": "https://www.thesun.co.uk/news/41118927/national-lottery-set-for-life-draw-november-23-2026/",
+          "source": "The Sun"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "next full moon",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Mon, 23 Nov 2026 13:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky",
+          "url": "https://www.forbes.com/sites/jamiecartereurope/2026/11/23/supermoon-meets-the-seven-sisters-the-night-sky-this-week/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Look up! The Full Beaver Supermoon shines Monday night",
+          "url": "https://www.theweathernetwork.com/en/news/science/space/full-beaver-supermoon-2026-shines-monday-night",
+          "source": "The Weather Network"
+        },
+        {
+          "title": "First of 3 supermoons peaks tonight over SC. Here’s the best time to see it",
+          "url": "https://ca.news.yahoo.com/first-3-supermoons-peaks-tonight-163913920.html",
+          "source": "Yahoo News Canada"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.75,
+      "printable": true,
+      "reasons": [
+        "Matches print-on-demand vocabulary (\"moon\")."
+      ]
+    },
+    {
+      "title": "byu basketball",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "No. 21 BYU faces Washington in Southwest Maui Invitational",
+          "url": "https://byucougars.com/news/2026/11/22/no-21-byu-faces-washington-in-southwest-maui-invitational",
+          "source": "BYU Athletics"
+        },
+        {
+          "title": "Washington vs BYU live updates: Score, highlights, predictions, analysis",
+          "url": "https://sports.yahoo.com/articles/washington-vs-byu-live-updates-210102339.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "BYU coach Kevin Young previews Maui Invitational",
+          "url": "https://www.deseret.com/sports/2026/11/22/byu-basketball-kevin-young-previews-maui-invitational-2026/",
+          "source": "Deseret News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "russia",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+          "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
+          "url": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
+          "source": "The Guardian"
+        },
+        {
+          "title": "More than 700,000 Russian soldiers have been killed in Ukraine: Analysis",
+          "url": "https://thehill.com/policy/defense/6238400-russian-casualties-ukraine-war-putin-zelensky/",
+          "source": "The Hill"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "golf",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Aussie has ‘no regrets’ about LIV Golf move despite career limbo",
+          "url": "https://www.nine.com.au/sport/golf/news-marc-leishman-liv-golf-move-contract-future-australian-pga-championship-20261123-p61gj1.html",
+          "source": "Nine.com.au"
+        },
+        {
+          "title": "Leishman chasing DP World Tour status at Aus PGA",
+          "url": "https://www.heraldsun.com.au/sport/golf/leishman-chasing-dp-world-tour-status-at-aus-pga/video/fba03fdc3dc71d8130193faa247a4b82",
+          "source": "Herald Sun"
+        },
+        {
+          "title": "Lucas Herbert was ‘sick of the soap opera’ around LIV Golf. But this is what he loved",
+          "url": "https://www.theage.com.au/sport/golf/lucas-herbert-was-sick-of-the-soap-opera-around-liv-golf-but-this-is-what-he-loved-20261123-p61gi3.html",
+          "source": "The Age"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"tour\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "papua new guinea chiefs",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Mon, 23 Nov 2026 13:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Origin star Young locked in for switch to PNG Chiefs",
+          "url": "https://www.espn.com.au/nrl/story/_/id/50575464/state-origin-star-hudson-young-locked-switch-png-chiefs",
+          "source": "ESPN"
+        },
+        {
+          "title": "Chiefs lock in Origin star as another target plays golf with PM",
+          "url": "https://www.nine.com.au/sport/nrl/news-hudson-young-signs-png-chiefs-canberra-raiders-exit-aj-brimson-plays-golf-prime-minister-james-marape-20261123-p61gi2.html",
+          "source": "Nine.com.au"
+        },
+        {
+          "title": "Club’s cold act, star signs insane deal",
+          "url": "https://www.news.com.au/sport/nrl/canberra-raiders-cold-contract-act-as-hudson-young-makes-png-chiefs-move-official/news-story/175ce8ba30b84996ffa5c63d8a2b0e1e",
+          "source": "News.com.au"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "grayson chrisley",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Judge allows access to Grayson Chrisley’s medical records in 2022 crash lawsuit",
+          "url": "https://www.wsbtv.com/news/local/atlanta/judge-allows-access-grayson-chrisleys-medical-records-2022-crash-lawsuit/XQW33GJYIRERVLCRM6HGLO6JH4/",
+          "source": "WSB-TV"
+        },
+        {
+          "title": "Judge Rules Against Todd Chrisley in Battle Over Son Grayson’s Drug Test Records After Car Crash",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/judge-rules-against-todd-chrisley-110955975.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Todd Chrisley Shut Down in Effort to Completely Block Son's Drug Test Results From 2022 Car Crash",
+          "url": "https://www.tmz.com/2026/11/23/judge-partially-denies-todd-chrisley-effort-to-block-son-grayson-medical-records/",
+          "source": "TMZ"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"lawsuit\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "blade runner 2099",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Blade Runner 2099: fans will have no idea what is happening in this sci-fi sequel. Why is it even on TV?",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/blade-runner-2099-fans-will-have-no-idea-what-is-happening-in-this-sci-fi-sequel-why-is-it-even-on-tv",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Blade Runner 2099 is a sequel with a human heartbeat",
+          "url": "https://www.telegraph.co.uk/tv/0/blade-runner-2099-amazon-prime-video-review/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Ridley Scott's franchise adds female-led 'Blade Runner 2099' TV series",
+          "url": "https://www.reuters.com/lifestyle/ridley-scotts-franchise-adds-female-led-blade-runner-2099-tv-series-2026-11-23/",
+          "source": "Reuters"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "clare sweeney",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Claire Sweeney, 55, uses walking and yoga to maintain 4-stone weight loss – why it works for body recomp",
+          "url": "https://www.womenshealthmag.com/uk/fitness/fat-loss/a74438683/claire-sweeney-fitness-weight-loss-walking-yoga/",
+          "source": "Women's Health"
+        },
+        {
+          "title": "Claire Sweeney becomes first I'm A Celeb bikini babe to strip off for shower",
+          "url": "https://www.dailystar.co.uk/tv/claire-sweeney-becomes-first-im-37903794",
+          "source": "Daily Star"
+        },
+        {
+          "title": "Video: Claire Sweeney braves the famous jungle shower",
+          "url": "https://www.dailymail.com/video/tvshowbiz/video-3747199/Video-Claire-Sweeney-braves-famous-jungle-shower.html",
+          "source": "Daily Mail"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "estonia",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+          "url": "https://www.reuters.com/world/moscow-accuses-estonia-hostile-actions-verge-triggering-open-war-2026-11-23/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Estonia to close border with Russia, Moscow decries ‘new Iron Curtain’",
+          "url": "https://www.nbcnews.com/world/europe/estonia-close-border-russia-moscow-decries-new-iron-curtain-rcna610652",
+          "source": "NBC News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "christian nørgaard",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Christian Norgaard could face former club Brentford as Moyes gives Everton fitness update",
+          "url": "https://readeverton.com/christian-norgaard-brentford-reunion-everton-moyes-fitness/",
+          "source": "Read Everton"
+        },
+        {
+          "title": "Everton handed new Christian Norgaard transfer verdict after David Moyes apology",
+          "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-handed-new-christian-norgaard-34949881",
+          "source": "Liverpool Echo"
+        },
+        {
+          "title": "Confidence Everton player can still deliver despite frustrating start to season",
+          "url": "https://www.everton.news/confidence-everton-player-can-still-deliver-despite-frustrating-start-to-season/",
+          "source": "Everton News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"verdict\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "andrew mountbatten-windsor",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Mon, 23 Nov 2026 13:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Andrew received £750,000 from Turkish millionaire, court told",
+          "url": "https://www.bbc.com/news/articles/c9gkldn06l87o",
+          "source": "BBC"
+        },
+        {
+          "title": "Turkish heiress paid former prince Andrew 750 pound 'bribe', UK court told",
+          "url": "https://www.abc.net.au/news/2026-11-24/ex-prince-andrew-took-bribe-to-help-turkish-heiress-court-told/107419512",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Andrew took $1.4m bribe to help Turkish woman obtain British residency, court hears",
+          "url": "https://www.nine.com.au/world-news/andrew-mountbatten-windsor-bribe-from-turkish-woman-for-passport-fraud-trial-begins-20261124-p61gnq.html",
+          "source": "Nine.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"court\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "internacional vs vitória",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Internacional x Vitória: onde assistir ao vivo, horário e escalações",
+          "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/noticia/2026/11/23/internacional-x-vitoria-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+          "source": "ge"
+        },
+        {
+          "title": "Beira-Rio deve receber 40 mil torcedores em partida decisiva para o Inter",
+          "url": "https://somoscolorados.com/beira-rio-deve-receber-40-mil-torcedores-em-partida-decisiva-para-o-inter",
+          "source": "Portal Somos Colorados"
+        },
+        {
+          "title": "Eduardo Baptista surpreende e escala novidade no meio-campo do Inter; veja o time para encarar o Vitória",
+          "url": "https://gauchazh.clicrbs.com.br/esportes/inter/noticia/2026/11/eduardo-baptista-surpreende-e-escala-novidade-no-meio-campo-do-inter-veja-o-time-para-encarar-o-vitoria-cmwtsfs3t00b0016mjfuoxxm6.html",
+          "source": "GZH"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "nevada basketball",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Nevada basketball versus San Francisco: Three keys to victory and a prediction",
+          "url": "https://nevadasportsnet.com/news/reporters/nevada-basketball-versus-san-francisco-three-keys-to-victory-and-a-prediction",
+          "source": "Nevada Sports Net"
+        },
+        {
+          "title": "Acrisure Series continues as Wolf Pack take on San Francisco in Tahoe",
+          "url": "https://www.kolotv.com/2026/11/23/acrisure-series-continues-wolf-pack-take-san-francisco-tahoe/",
+          "source": "KOLO | 8 News Now"
+        },
+        {
+          "title": "Nevada faces San Francisco in the Acrisure Series - University of Nevada Athletics",
+          "url": "https://nevadawolfpack.com/news/2026/11/22/mens-basketball-nevada-faces-san-francisco-in-the-acrisure-series.aspx",
+          "source": "University of Nevada Athletics"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "manny manuel",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Arrestan a Manny Manuel por conducir en estado de embriaguez",
+          "url": "https://www.elnuevodia.com/noticias/seguridad/notas/arrestan-a-manny-manuel-por-conducir-en-estado-de-embriaguez/",
+          "source": "El Nuevo Día"
+        },
+        {
+          "title": "Arrestan en Salinas a Manny Manuel por conducir en alegado estado de embriaguez",
+          "url": "https://www.primerahora.com/noticias/policia-tribunales/notas/arrestan-en-salinas-a-manny-manuel-por-conducir-borracho/",
+          "source": "Primera Hora"
+        },
+        {
+          "title": "Manny Manuel es arrestado en supuesto estado de embriaguez",
+          "url": "https://es-us.vida-estilo.yahoo.com/manny-manuel-arrestado-supuesto-estado-203207469.html",
+          "source": "Yahoo en Español Vida y Estilo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "wwe raw",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Raw preview, Nov. 23, 2026: How will Roman Reigns and The Bloodline react to The 946 getting the WarGames advantage?",
+          "url": "https://www.wwe.com/shows/raw/2026-11-23",
+          "source": "WWE"
+        },
+        {
+          "title": "Roman Reigns Returns on WWE Raw Tonight, Which Starts Two Hours Early",
+          "url": "https://sports.yahoo.com/articles/roman-reigns-returns-wwe-raw-183032078.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "3 Names Cody Rhodes Could Have Called To Fill Team USA's Final WWE Spot",
+          "url": "https://newsable.asianetnews.com/gallery/entertainment/three-names-cody-rhodes-could-have-called-to-fill-team-usa-final-wwe-spot-6nukl3p",
+          "source": "Asianet Newsable"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from wwe.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "fábio carvalho",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "What Fabio Carvalho’s expected return means for Everton’s trip to Brentford",
+          "url": "https://www.everton.news/what-fabio-carvalhos-expected-return-means-for-evertons-trip-to-brentford/",
+          "source": "Everton News"
+        },
+        {
+          "title": "Brentford enfrenta Everton em jogo crucial da Premier League",
+          "url": "https://futebolnews.com.br/brentford-busca-recuperacao-contra-everton/",
+          "source": "futebolnews.com.br"
+        },
+        {
+          "title": "Brentford-Everton: o Brentford chega com seis desfalques e uma dúvida",
+          "url": "https://www.tufutbolero.com/pt/noticias/brentford-everton-o-brentford-chega-com-seis-desfalques-e-fe80d7",
+          "source": "Tu Futbolero"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"premier league\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "springholm",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "'Increasing concern' for missing 20-year-old woman",
+          "url": "https://www.bbc.co.uk/news/articles/c8lydn1z93vgo",
+          "source": "BBC"
+        },
+        {
+          "title": "Appeal to trace missing woman last seen in Castle Douglas",
+          "url": "https://www.dgwgo.com/dumfries-galloway-news/appeal-to-trace-missing-woman-last-seen-in-castle-douglas/",
+          "source": "DGWGO"
+        },
+        {
+          "title": "Police swoop on Scots street amid desperate search for woman, 20, who vanished",
+          "url": "https://www.thescottishsun.co.uk/news/17105315/police-search-missing-kelsey-hunter/",
+          "source": "The Scottish Sun"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ann widdecombe",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 14:00:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Items from Ann Widdecombe's estate up for auction",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9700g2rpjo",
+          "source": "BBC"
+        },
+        {
+          "title": "Ann Widdecombe’s ‘well-used’ red dispatch box to be sold",
+          "url": "https://www.telegraph.co.uk/news/2026/11/23/ann-widdecombes-well-used-red-dispatch-box-to-be-sold/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Ann Widdecombe's 'deeply personal' belongings to be auctioned off",
+          "url": "https://www.devonlive.com/news/devon-news/ann-widdecombes-deeply-personal-belongings-11251636",
+          "source": "Devon Live"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "ellie kildunne",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "'Right on time' - Kildunne on Quins exit stories",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4kq78yj93o",
+          "source": "BBC"
+        },
+        {
+          "title": "Kildunne returns to haunt Harlequins as Bristol get PWR season off to a flyer",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/harlequins-bristol-premiership-womens-rugby-union-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Report: Harlequins 21-48 Bristol Bears – PWR R1",
+          "url": "https://www.bristolbearsrugby.com/match-report/report-harlequins-21-48-bristol-bears-pwr-r1/",
+          "source": "Bristol Bears Rugby"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "estonia",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 14:00:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+          "url": "https://www.reuters.com/world/moscow-accuses-estonia-hostile-actions-verge-triggering-open-war-2026-11-23/",
+          "source": "Reuters"
+        },
+        {
+          "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates?page=with%3Ablock-6b0422e38f083dc0e3995171",
+          "source": "The Guardian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "estonia",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 14:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+          "url": "https://www.reuters.com/world/moscow-accuses-estonia-hostile-actions-verge-triggering-open-war-2026-11-23/",
+          "source": "Reuters"
+        },
+        {
+          "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
+          "source": "Al Jazeera"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "leonida",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Mon, 23 Nov 2026 13:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
+          "url": "http://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+          "source": "Take-Two Interactive Software, Inc."
+        },
+        {
+          "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+          "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+          "source": "The Guardian"
+        },
+        {
+          "title": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated.",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-fans-reaction-celebration-player-profiles-rcna609640",
+          "source": "NBC News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "gisele pelicot",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
+          "url": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Gisele Pelicot ‘deeply shocked’ after her nude images used in promotion of book",
+          "url": "https://www.ctvnews.ca/world/article/gisele-pelicot-deeply-shocked-after-her-nude-images-used-in-promotion-of-book/",
+          "source": "CTV News"
+        },
+        {
+          "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+          "url": "https://www.bbc.com/news/articles/cm3eg502nxw2o",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "the voice live top 10",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "It’s Dolly Parton Week on ‘The Voice’: See the Full List of Tribute Songs the Top 10 Will Perform",
+          "url": "https://www.billboard.com/lists/dolly-parton-week-the-voice-song-list-top-10-perform/",
+          "source": "Billboard"
+        },
+        {
+          "title": "What time is ‘The Voice’ Top 10 on tonight? When is the season finale?",
+          "url": "https://decider.com/2026/11/23/the-voice-live-top-10-what-time-tonight-when-is-the-voice-season-finale/",
+          "source": "Decider"
+        },
+        {
+          "title": "How to Watch The Voice Season 30, Episode 14",
+          "url": "https://www.fubo.tv/news/entertainment/how-to-watch-the-voice-season-30-episode-14/",
+          "source": "Fubo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "highway 407",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 14:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Hwy. 407 tolls to go up on Jan. 1. Here is how much more drivers will have to pay",
+          "url": "https://www.cp24.com/local/toronto/2026/11/23/hwy-407-tolls-to-go-up-on-jan-1-here-is-how-much-more-drivers-will-have-to-pay/",
+          "source": "CP24"
+        },
+        {
+          "title": "Highway 407 ETR hiking rates for 2027 and here's what it'll cost Ontario drivers",
+          "url": "https://www.blogto.com/city/2026/11/highway-407-rates-2027/",
+          "source": "blogTO"
+        },
+        {
+          "title": "Highway 407 increasing toll costs on January 1, 2027",
+          "url": "https://www.ctvnews.ca/toronto/video/2026/11/22/highway-407-increasing-toll-costs-on-january-1-2027/",
+          "source": "CTV News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "404 media",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 14:00:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+          "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+          "source": "Google Cloud"
+        },
+        {
+          "title": "Outpace automated cyber threats with security built for nonstop defense.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+          "source": "blog.google"
+        },
+        {
+          "title": "Agentic Attacks in the Wild: ARTEX & Offensive AI Frameworks",
+          "url": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks",
+          "source": "wiz.io"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "dwts finale",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Dancing with the Stars Season 35 finale: What you can expect",
+          "url": "https://www.cbc.ca/news/entertainment/dwts-season-35-finale-songs-9.7430229",
+          "source": "CBC"
+        },
+        {
+          "title": "‘Dancing With The Stars’ Reveals Finale Songs And Dances, Including Freestyle",
+          "url": "https://www.forbes.com/sites/monicamercuri/2026/11/22/dancing-with-the-stars-finale-unveils-freestyle-songs-and-major-viewing-change/",
+          "source": "Forbes"
+        },
+        {
+          "title": "‘DWTS’ Boss Explains 5-Team Final, Freestyle Process, Voting Trends & More",
+          "url": "https://www.imdb.com/de/news/ni66125169/?ref_=nwc_art_perm",
+          "source": "IMDb"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "international criminal court",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 13:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Tajikistan moves to leave ICC amid US push against court",
+          "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push",
+          "url": "https://www.reuters.com/world/asia-pacific/tajikistan-becomes-fourth-country-withdraw-icc-since-us-diplomatic-push-2026-11-23/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tajikistan follows US calls, withdraws from ICC after Putin visit",
+          "url": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903",
+          "source": "DW.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"court\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "bateau",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 13:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "L’Ukraine revendique une attaque contre deux bateaux près de la Libye",
+          "url": "https://ici.radio-canada.ca/article/info/2302569/attaque-bateaux-russie-libye-revendication-ukraine",
+          "source": "Radio-Canada"
+        },
+        {
+          "title": "Guerre en Ukraine | Kyiv a frappé un navire de guerre russe amarré en Libye, annonce Zelensky",
+          "url": "https://www.lapresse.ca/international/europe/2026-11-23/guerre-en-ukraine/kyiv-a-frappe-un-navire-de-guerre-russe-amarre-en-libye-annonce-zelensky.php",
+          "source": "La Presse"
+        },
+        {
+          "title": "EN VIDÉO | L'Ukraine frappe deux navires près de la Libye",
+          "url": "https://www.tvanouvelles.ca/2026/11/22/libye--deux-navires-dont-un-russe-attaques-pres-de-benghazi-lonu-demande-une-enquete",
+          "source": "TVA Nouvelles"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "thanksgiving",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 13:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade",
+          "url": "https://www.cnn.com/2026/11/22/weather/east-west-coast-storms-thanksgiving-travel-climate-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "The weather could be gnarly for Thanksgiving travel in the East",
+          "url": "https://www.washingtonpost.com/weather/2026/11/23/weather-could-be-gnarly-thanksgiving-travel-east/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Powerful East Coast storm to unleash heavy rain, damaging winds to millions as holiday travel rush begins",
+          "url": "https://www.foxweather.com/weather-news/thanksgiving-travel-storm-heavy-rain-strong-winds-east-coast",
+          "source": "FOX Weather"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"storm\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "singer-songwriter",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 13:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Beloved country singer/songwriter dies in his sleep: ‘Will be missed’",
+          "url": "https://www.pennlive.com/entertainment/2026/11/beloved-country-singersongwriter-dies-in-his-sleep-will-be-missed.html",
+          "source": "PennLive.com"
+        },
+        {
+          "title": "Country Singer-Songwriter Dies in His Sleep While Recovering From a Stroke",
+          "url": "https://www.wideopencountry.com/country-singer-songwriter-dies-in-his-sleep-while-recovering-from-a-stroke/",
+          "source": "Wide Open Country"
+        },
+        {
+          "title": "Tony Stampley Dies After Battling Life Changing Strokes",
+          "url": "https://suaragarut.id/en/tony-stampley-country-songwriter-dies",
+          "source": "SuaraGarut.ID"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "robert de niro",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 13:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "'Saturday Night Live' Taps Amanda Seyfried, Robert De Niro, Timothée Chalamet as Holiday Hosts",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-december-hosts-timothee-chalamet-amanda-seyfried-1235663031/",
+          "source": "Rolling Stone"
+        },
+        {
+          "title": "‘SNL’ Recruits Robert De Niro, Timothée Chalamet & These Two Dance-Pop Sensations for Final 2026 Episodes",
+          "url": "https://www.billboard.com/culture/tv-film/snl-charli-xcx-slayyter-december-2026-1236388131/",
+          "source": "Billboard"
+        },
+        {
+          "title": "Saturday Night Live Reveals Amanda Seyfried As December's First Host — Who's The Musical Guest?",
+          "url": "https://www.imdb.com/news/ni66111901/",
+          "source": "IMDb"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "monza vs fiorentina",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 13:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Monza vs Fiorentina: Preview",
+          "url": "https://www.violanation.com/fiorentina-match-coverage/23288/monza-fiorentina-preview-serie-a-score-prediction",
+          "source": "Viola Nation"
+        },
+        {
+          "title": "Vanoli weighs up his XI for Monza: selection dilemmas and possible changes",
+          "url": "https://onefootball.com/en/news/vanoli-weighs-up-his-xi-for-monza-selection-dilemmas-and-possible-changes-43817810",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Licensable picture: Monza vs Fiorentina - Serie A Enilive - Brianteo, Monza",
+          "url": "https://www.reutersconnect.com/item/monza-vs-fiorentina-serie-a-enilive-brianteo-monza/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaUUM3UlA",
+          "source": "Reuters Connect"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "thanksgiving 2026",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Mon, 23 Nov 2026 13:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
+          "source": "NPR"
+        },
+        {
+          "title": "Thanksgiving Dinner Cost Ticks Upward in 2026",
+          "url": "https://www.fb.org/intel/markets/thanksgiving-dinner-cost-ticks-upward-in-2026",
+          "source": "American Farm Bureau Federation"
+        },
+        {
+          "title": "Farmers who produce our Thanksgiving meals are working harder than ever to make ends meet",
+          "url": "https://www.kcur.org/environment-agriculture/2026-11-23/farmers-thanksgiving-meal-tough-year",
+          "source": "KCUR"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-11-23",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Outdoors / van life",
+      "motifs": [
+        "retro park badge",
+        "mountain line art",
+        "camper silhouette"
+      ],
+      "suggestedProducts": [
+        "graphic tee",
+        "mug",
+        "sticker"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Seasonal spooky",
+      "motifs": [
+        "friendly ghost",
+        "vintage pumpkin label",
+        "black cat crescent"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [
+      {
+        "topic": "is there a full moon tonight",
+        "geo": "US",
+        "traffic": "5000+",
+        "trademarkRisk": "low",
+        "caution": "Verify trademark/likeness clearance before printing anything tied to a trending topic."
+      },
+      {
+        "topic": "next full moon",
+        "geo": "CA",
+        "traffic": "2000+",
+        "trademarkRisk": "low",
+        "caution": "Verify trademark/likeness clearance before printing anything tied to a trending topic."
+      }
+    ],
+    "timelyHookNote": "2 trending topic(s) passed filtering. Still verify clearance yourself."
+  }
+}
