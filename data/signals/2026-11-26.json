@@ -1,0 +1,1295 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T19:59:36.413Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "will ferrell",
+      "traffic": 100000,
+      "trafficLabel": "100000+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Will Ferrell golf show 'The Hawk' canceled by Netflix after flopping in first season",
+          "url": "https://www.foxnews.com/outkick-sports/will-ferrell-golf-show-hawk-canceled-netflix-flopping-first-season",
+          "source": "Fox News"
+        },
+        {
+          "title": "Will Ferrell Comedy ‘The Hawk’ Canceled By Netflix After One Season",
+          "url": "https://deadline.com/2026/11/will-ferrell-the-hawk-canceled-netflix-one-season-1237233347/",
+          "source": "Deadline"
+        },
+        {
+          "title": "Happy Thanksgiving, Netflix Just Canceled Two Shows With Major Stars",
+          "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/happy-thanksgiving-netflix-just-canceled-134231269.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"season\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "super bowl halftime show 2027",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+          "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Disney, ESPN and NFL take Super Bowl to IMAX theaters",
+          "url": "https://www.reuters.com/sports/disney-espn-nfl-take-super-bowl-imax-theaters-2026-11-23/",
+          "source": "Reuters"
+        },
+        {
+          "title": "IMAX to Show Super Bowl LXI in Theaters Through Partnership With Disney, the NFL",
+          "url": "https://www.wsj.com/business/media/imax-to-show-super-bowl-lxi-in-theaters-through-partnership-with-disney-the-nfl-997dc4be",
+          "source": "WSJ"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"super bowl\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "john 3:16",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Thankfulness at John 3:16",
+          "url": "https://ktul.com/news/local/thankfulness-at-john-316",
+          "source": "KTUL"
+        },
+        {
+          "title": "John 3:16 Mission",
+          "url": "https://tulsaworld.com/image_ed0bc5a9-8186-45a1-83f6-2ce329d4dee3.html",
+          "source": "Tulsa World"
+        },
+        {
+          "title": "John 3:16 Mission",
+          "url": "https://tulsaworld.com/image_fcd3a603-9db3-4116-aec1-f0e240ee2cc7.html",
+          "source": "Tulsa World"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "cowboys halftime show thanksgiving 2026",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Miranda Lambert NFL Halftime Show 2026: Where to Watch Philadelphia Eagles vs. Dallas Cowboys Live Online Free",
+          "url": "https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-phl-dal-miranda-lambert-halftime-watch-free-1236385793/",
+          "source": "Billboard"
+        },
+        {
+          "title": "Cowboys celebrate 30 years of Red Kettle Kickoff with The Salvation Army",
+          "url": "https://www.dallascowboys.com/news/cowboys-celebrate-30-years-of-red-kettle-kickoff-with-the-salvation-army",
+          "source": "Dallas Cowboys | Official Site of the Dallas Cowboys"
+        },
+        {
+          "title": "Jerry Jones, Cowboys donate $30M to Salvation Army in honor of 30 years of partnership",
+          "url": "https://www.wfaa.com/article/life/holidays/jerry-jones-cowboys-donate-30-million-salvation-army/287-1cb3738f-9334-470a-b4bc-2686a6e9bcb2",
+          "source": "WFAA"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "iran attacks",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Thu, 26 Nov 2026 11:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement",
+          "url": "https://www.cnn.com/2026/11/26/middleeast/italians-killed-iranian-attack-kuwait-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "Iran war live: Tehran denies carrying out drone attack that killed 2",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "2 Italians killed in Iranian drone attack in Kuwait, Italy says",
+          "url": "https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089",
+          "source": "CBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"war\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "georgetown vs texas",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Texas vs. Georgetown preview: Hoyas’ inside-out offense tests the Longhorns in San Diego",
+          "url": "https://www.burntorangenation.com/texas-longhorns-basketball/107596/texas-longhorns-rady-invitational-preview",
+          "source": "Burnt Orange Nation"
+        },
+        {
+          "title": "No. 6 Texas Men's Basketball Live Game Thread: vs Georgetown",
+          "url": "https://247sports.com/college/texas/article/no-6-texas-mens-basketball-live-game-thread-vs-georgetown-293347736/",
+          "source": "247Sports"
+        },
+        {
+          "title": "Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/georgetown-vs-texas-prediction-pick-101543565.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "joe biden",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Joe Biden, 84, pictured inside home amid cancer battle: 'I am humbled'",
+          "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/joe-biden-84-pictured-inside-170534890.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Shapiro Accuses Biden of Not Doing Enough to Rein In Netanyahu",
+          "url": "https://www.wsj.com/politics/policy/shapiro-accuses-biden-of-not-doing-enough-to-rein-in-netanyahu-b139e9de",
+          "source": "WSJ"
+        },
+        {
+          "title": "Josh Shapiro, set to run in 2028, slams ‘failed’ Netanyahu, says Biden didn’t check Israel enough",
+          "url": "https://www.timesofisrael.com/josh-shapiro-set-to-run-in-2028-slams-failed-netanyahu-says-biden-didnt-check-israel-enough/",
+          "source": "The Times of Israel"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "juventus vs omonoia",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Thu, 26 Nov 2026 11:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Juventus vs Omonia Nicosia: UEFA Europa League stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/cqx2evdl13lrt",
+          "source": "BBC"
+        },
+        {
+          "title": "Juventus, Ekhator to start before possible Monza move for Varela",
+          "url": "https://www.livescore.com/en/news/football/serie-a/juventus-ekhator-to-start-before-possible-monza-move-for-varela-goal/",
+          "source": "LiveScore"
+        },
+        {
+          "title": "Treble hero returns! Man Utd legend Henning Berg plots Omonia shock against Juventus as Spalletti warns tense stars not to slip up",
+          "url": "https://uk.sports.yahoo.com/news/treble-hero-returns-man-utd-062021893.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "dj jacobs",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Top247 DL Jacobs nearing decision after visiting Vols again, has Tennessee 'high up on my list'",
+          "url": "https://247sports.com/college/tennessee/article/dawson-jacobs-tennessee-recruiting-top247-dl-nearing-decision-after-visiting-vols-again-has-ut-high-up-on-my-list-293293094/",
+          "source": "247Sports"
+        },
+        {
+          "title": "'I don't see him doing something before then' - Insider shares the latest on when 5-star Vols recruiting target DJ Jacobs could make a final decision",
+          "url": "https://atozsports.com/nashville/volunteers/football-ohio-state-tennessee-5-star-vols-recruiting-target-dj-jacobs-final-decision/",
+          "source": "A to Z Sports"
+        },
+        {
+          "title": "Georgia May Find Out This Weekend if They or Hated Rival Land Shocking Flip",
+          "url": "https://sports.yahoo.com/articles/georgia-may-weekend-hated-rival-142302323.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "cowboys eagles halftime show",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Antonio Cipriano sings National Anthem before Lions Thanksgiving game",
+          "url": "https://www.detroitnews.com/story/entertainment/music/2026/11/26/video-antonio-cipriano-sings-anthem-before-lions-thanksgiving-game/92971887007/",
+          "source": "The Detroit News"
+        },
+        {
+          "title": "Bears vs Lions national anthem singer: What to know about Antonio Cipriano",
+          "url": "https://www.usatoday.com/story/sports/nfl/2026/11/26/bears-lions-national-anthem-singer-antonio-cipriano-thanksgiving-game/92929696007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Cowboys vs. Eagles: Thanksgiving game info, halftime show and national anthem singers",
+          "url": "https://www.wfaa.com/article/sports/nfl/cowboys/dallas-cowboys-game-today-thanksgiving-eagles-watch-stream-live-halftime-show-national-anthem-singer/287-3c692e3e-4f46-4b2a-8e23-f32418737b9b",
+          "source": "WFAA"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "laporta",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Barcelona: Laporta atiza a Real Madrid y amenaza con llevar al club a juicio",
+          "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17560012/barcelona-real-madrid-laporta-amenaza-llevar-juicio",
+          "source": "ESPN Deportes"
+        },
+        {
+          "title": "Caso Negreira: ¿por qué el FC Barcelona y Florentino Pérez terminaron en los tribunales?",
+          "url": "https://www.si.com/es-us/caso-negreira-por-que-el-fc-barcelona-y-florentino-perez-terminaron-en-los-tribunales",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Joan Laporta, presidente del FC Barcelona, lanza una nueva indirecta al Real Madrid: “Acabaremos pidiéndoles royalties”",
+          "url": "https://www.eluniverso.com/deportes/futbol/joan-laporta-presidente-del-fc-barcelona-lanza-una-nueva-indirecta-al-real-madrid-acabaremos-pidiendoles-royalties-nota/",
+          "source": "El Universo"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espndeportes.espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "ol vs lillestrøm",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "[FREE!!] Lyon vs Lillestrøm Live: UEFA Europa League - League Stage",
+          "url": "https://www.tallahatchienews.ms/node/461657",
+          "source": "Charleston Sun-Sentinel"
+        },
+        {
+          "title": "Olympique Lyonnais vs Lillestrøm Predictions, Picks & Odds – 26/11/2026",
+          "url": "https://www.toffeeweb.com/int/olympique-lyonnais-vs-lillestrom-predictions-picks-odds-26-11-2026/",
+          "source": "ToffeeWeb"
+        },
+        {
+          "title": "Licensable picture: UEFA Europa League - Olympique Lyonnais v Lillestrom",
+          "url": "https://www.reutersconnect.com/item/uefa-europa-league-olympique-lyonnais-v-lillestrom/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExSTBPQzU",
+          "source": "Reuters Connect"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "doncaster vs huddersfield",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Thu, 26 Nov 2026 11:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "EFL League One tips: Doncaster vs Huddersfield predictions and preview",
+          "url": "https://www.sportinglife.com/football/news/efl-league-one-tips-doncaster-vs-huddersfield-predictions-and-preview/235667",
+          "source": "Sporting Life"
+        },
+        {
+          "title": "Huddersfield Town digest: Injury latest ahead of Doncaster trip",
+          "url": "https://www.weareterriers.com/p/huddersfield-town-digest-injury-latest-828",
+          "source": "We Are Terriers"
+        },
+        {
+          "title": "League One live: Doncaster Rovers vs Huddersfield Town - Text commentary, score updates and match stats",
+          "url": "https://www.bbc.com/sport/football/live/cq2e8wp72mm8t",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "double jeopardy",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "William Dunlop recommended for release by Parole Board",
+          "url": "https://www.bbc.co.uk/news/articles/c8n50e4z9559o",
+          "source": "BBC"
+        },
+        {
+          "title": "Double jeopardy killer recommended for prison release",
+          "url": "https://www.telegraph.co.uk/news/2026/11/26/double-jeopardy-killer-recommended-for-prison-release/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Killer jailed after double jeopardy law change recommended for release | ITV News",
+          "url": "https://www.itv.com/news/tyne-tees/2026-11-26/killer-jailed-after-double-jeopardy-law-change-recommended-for-release",
+          "source": "ITVX"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "folarin balogun",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Man Utd receive transfer boost as club ‘desperate’ to sell fearless star wanted by Pochettino",
+          "url": "https://utdreport.co.uk/2026/11/26/man-utd-monaco-folarin-balogun-january/",
+          "source": "utdreport"
+        },
+        {
+          "title": "Former Gunner open to Manchester United transfer in January",
+          "url": "https://dailycannon.com/2026/11/balogun-manchester-united-transfer/",
+          "source": "Daily Cannon"
+        },
+        {
+          "title": "Pochettino gets come and get me plea from striker - Paper Round",
+          "url": "https://www.tntsports.co.uk/football/transfers/2026-2027/folarin-balogun-manchester-united-mauricio-pochettino-arsenal-finn-jeltsch_sto23357802/story.shtml",
+          "source": "TNT Sports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"united\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "trabzonspor",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "CSKA Sofya Trabzonspor MAÇ ÖZETİ ve golleri nereden, nasıl izlenir?",
+          "url": "https://www.haberler.com/haber/cska-sofya-trabzonspor-mac-ozeti-ve-golleri-20466566-haberi/",
+          "source": "Haberler"
+        },
+        {
+          "title": "Thomas Reis, Onuachu'ya güveniyor! \"O golü bulduğunda çok daha iyi olacak\"",
+          "url": "https://www.haber61.net/trabzonspor/thomas-reis-onuachu-ya-guveniyor-o-golu-buldugunda-cok-daha-iyi-olacak/650683",
+          "source": "Haber61"
+        },
+        {
+          "title": "Thomas Reis tan rotasyon açıklaması Kendisini korumak istedik",
+          "url": "https://beinsports.com.tr/haber/thomas-reistan-rotasyon-aciklamasi-kendisini-korumak-istedik",
+          "source": "beinsports.com.tr"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "bob dylan review bournemouth",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Bob Dylan review – at 85, he is in finer voice now than he was 40 years ago",
+          "url": "https://www.theguardian.com/music/2026/nov/26/bob-dylan-review-bournemouth-international-centre-uk-tour",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Bob Dylan sang his weirdest, most divisive songs, but I was still spellbound",
+          "url": "https://www.telegraph.co.uk/music/concerts/bob-dylan-lights-autumn-review/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Bob Dylan live in Bournemouth – spellbinding and immortal",
+          "url": "https://www.uncut.co.uk/reviews/live/bob-dylan-live-in-bournemouth-spellbinding-and-immortal-157238/",
+          "source": "UNCUT"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "henry cole",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Henry Cole's cancer surgery was a success",
+          "url": "https://www.motorcyclenews.com/news/2026/november/henry-cole-cancer-surgery-early-success/",
+          "source": "Motorcycle News"
+        },
+        {
+          "title": "Flog It star battling cancer taken for surgery as he gives emotional health update",
+          "url": "https://www.express.co.uk/celebrity-news/2268026/flog-it-star-henry-cole-cancer-surgery",
+          "source": "Daily Express"
+        },
+        {
+          "title": "The Motorbike Show presenter Henry Cole undergoes successful cancer operation",
+          "url": "https://www.visordown.com/news/motorbike-show-presenter-henry-cole-undergoes-successful-cancer-operation",
+          "source": "Visordown"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "charlene white",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Hundreds complain to Ofcom about I'm A Celebrity",
+          "url": "https://www.bbc.co.uk/news/videos/cm62p5xdz3d9o",
+          "source": "BBC"
+        },
+        {
+          "title": "Mariella Frostrup’s jungle aggression was middling not micro",
+          "url": "https://www.thetimes.com/culture/tv-radio/article/mariella-frostrup-im-a-celebrity-aggressive-3hn0sxzwv",
+          "source": "The Times"
+        },
+        {
+          "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+          "url": "https://www.bbc.com/news/articles/c6ly5v11q194o",
+          "source": "BBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "khloé kardashian",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Travis Barker makes ‘awkward’ confession to Khloé Kardashian about his and Kourtney’s marriage",
+          "url": "https://pagesix.com/2026/11/26/celebrity-news/travis-barker-makes-awkward-confession-to-khloe-kardashian-about-his-and-kourtneys-marriage/",
+          "source": "Page Six"
+        },
+        {
+          "title": "Khloe Kardashian Claims Travis Barker Told Her He ‘Never Sees’ Wife Kourtney Kardashian",
+          "url": "https://www.usmagazine.com/entertainment/news/khloe-kardashian-claims-travis-barker-never-sees-wife-kourtney/",
+          "source": "Us Weekly"
+        },
+        {
+          "title": "Khloe Kardashian Says Travis Barker \"Never\" Sees Kourtney Kardashian",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/khloe-kardashian-says-travis-barker-181900466.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "cska sofia vs trabzonspor",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Top-eight target comes into focus before Cska Sofia Vs Trabzonspor",
+          "url": "https://twaslnews1.twaslnews.com/8360485/",
+          "source": "شبكة تواصل الإخبارية"
+        },
+        {
+          "title": "Licensable picture: Trabzonspor holds pre-match press conference ahead of CSKA Sofia clash in Sofia",
+          "url": "https://www.reutersconnect.com/item/trabzonspor-holds-pre-match-press-conference-ahead-of-cska-sofia-clash-in-sofia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwVVk1TjA5",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Salah’s Trabzonspor face CSKA Sofia, and Zamalek and Pyramids return to CAF Champions League action",
+          "url": "https://enterpriseam.com/egypt/2026/11/26/salahs-trabzonspor-face-cska-sofia-and-zamalek-and-pyramids-return-to-caf-champions-league-action/",
+          "source": "EnterpriseAM"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "palace vs real sociedad",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Crystal Palace without a key attacker for Europa League clash",
+          "url": "https://www.dazn.com/en-CA/news/soccer/ismaila-sarr-injury-update-crystal-palace-thomas-frank/1gm4jeyir4e6r1uhu6i1v9fmqe",
+          "source": "DAZN"
+        },
+        {
+          "title": "🚨 Crystal Palace-Real Sociedad: La Real rotate their squad",
+          "url": "https://ca.sports.yahoo.com/news/crystal-palace-real-sociedad-la-191000207.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "STAR FOOTBALL PREVIEW Thurs: Crystal Palace v Real Sociedad",
+          "url": "https://www.starsportsbet.co.uk/star-football-preview-thurs-crystal-palace-v-real-sociedad/",
+          "source": "Star Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "john 3:16",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "John 3:16 Mission Expands Holiday Meals and Recovery Support in Tulsa",
+          "url": "https://cwibc.co.id/en/john-316-mission-tulsa-community",
+          "source": "cwibc.co.id"
+        },
+        {
+          "title": "Christian Ministers Alliance marks 45 years of annual Thanksgiving food giveaway",
+          "url": "https://fox23.com/news/local/christian-ministers-alliance-marks-45-years-of-annual-thanksgiving-food-giveaway",
+          "source": "KOKI FOX 23"
+        },
+        {
+          "title": "GIVING BACK: Organizations asking for the public's help in assisting community",
+          "url": "https://www.kjrh.com/news/local-news/giving-back-organizations-asking-for-the-publics-help-in-assisting-community",
+          "source": "KJRH"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "salvon ahmed",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Bears Promote 2 From Practice Squad Before Thanksgiving",
+          "url": "https://www.bleachernation.com/bears/2026/11/25/bears-promotions-wk-12/",
+          "source": "Bleacher Nation"
+        },
+        {
+          "title": "Salvon Ahmed Elevated for Week 12",
+          "url": "https://www.thefantasyfootballers.com/news/649747/salvon-ahmed-elevated-for-week-12/",
+          "source": "Fantasy Footballers Podcast"
+        },
+        {
+          "title": "Chicago Bears practice squad call up earns Ben Johnson endorsement",
+          "url": "https://www.chicitysports.com/chicago-bears-practice-squad-call-up-ben-johnson-endorsement/",
+          "source": "ChiCitySports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "jannik sinner",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Jannik Sinner set to miss Australian Open",
+          "url": "https://www.abc.net.au/news/2026-11-25/jannik-sinner-australian-open-2027-injuries/107423672",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Alcaraz 'can't wait' for rival Sinner's court return",
+          "url": "https://www.canberratimes.com.au/story/9398456/alcaraz-cant-wait-for-rival-sinners-court-return/",
+          "source": "The Canberra Times"
+        },
+        {
+          "title": "Sinner's horror news set to spoil Aus Open return plan... but could give Demon big boost",
+          "url": "https://www.foxsports.com.au/en-AU/news/tennis/australian-open-2027-jannik-sinner-injury-alex-de-minaur-seed/vz9cy2wgcqe91xehpqjtb7drr",
+          "source": "Fox Sports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"open\" — commonly a protected mark or event name.",
+        "Reads as news/current affairs (\"court\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "reece walsh",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Reece Walsh set to attend Run Nation event’s Sydney return from court order in support of brother Zac",
+          "url": "https://7news.com.au/sport/rugby-league/reece-walsh-set-to-attend-run-nation-events-sydney-return-from-court-order-in-support-of-brother-zac-c-23215990",
+          "source": "7NEWS"
+        },
+        {
+          "title": "Hunt: \"It's been really enjoyable and there are a lot of fresh faces\"",
+          "url": "https://www.nrl.com/news/2026/11/26/hunt-im-feeling-good-its-been-really-enjoyable-and-there-are-a-lot-of-fresh-faces/",
+          "source": "NRL.com"
+        },
+        {
+          "title": "The curious clue which has star in box seat for coveted Broncos role in shock development",
+          "url": "https://www.foxsports.com.au/en-AU/news/rugby-league/nrl-2026-ben-hunt-in-box-seat-be-broncos-halfback-news-reaction-michael-maguire/wyk8vysd0fha1gjjdkf4akwel",
+          "source": "Fox Sports"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"court\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "weather radar",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Thu, 26 Nov 2026 11:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "A turkey of a winter storm",
+          "url": "https://fox2now.com/news/weather/a-turkey-of-a-storm/",
+          "source": "FOX 2"
+        },
+        {
+          "title": "Record-breaking snowfall confirmed in St. Louis region, National Weather Service says",
+          "url": "https://www.ksdk.com/article/weather/weather-impact/record-breaking-snowfall-st-louis-national-weather-service-says/63-4f9a818a-1171-40e3-bedf-82bc4f4e0cbf",
+          "source": "KSDK"
+        },
+        {
+          "title": "Accumulating snow for the Thanksgiving holiday",
+          "url": "https://krcgtv.com/weather/beyond-the-forecast/accumulating-snow-for-the-thanksgiving-holiday",
+          "source": "KRCG"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"storm\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "the social reckoning",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "From The Social Reckoning to The Altruists, we can’t stop watching tech moguls rise and fall",
+          "url": "https://vogueadria.com/films-tv-shows-tech-industry/",
+          "source": "Vogue Adria"
+        },
+        {
+          "title": "5 movies and TV series documenting infamous big tech meltdowns",
+          "url": "https://www.tatlerasia.com/lifestyle/entertainment/movies-and-tv-series-about-big-tech-meltdowns",
+          "source": "Tatler Asia"
+        },
+        {
+          "title": "‘The Social Reckoning’ Arrives On Streaming This Week",
+          "url": "https://www.forbes.com/sites/timlammers/2026/11/21/the-social-reckoning-pulled-from-theaters-after-3-weeks-pivots-to-digital-release/",
+          "source": "Forbes"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "anthony kim",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Anthony Kim Set to Make History With Joe Rogan Podcast Appearance",
+          "url": "https://sports.yahoo.com/golf/articles/anthony-kim-set-history-joe-162429115.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Anthony Kim set for Joe Rogan appearance after historic LIV Golf comeback",
+          "url": "https://www.golfmagic.com/tour/liv-golf/anthony-kim-set-joe-rogan-appearance-after-historic-liv-golf-comeback",
+          "source": "Golfmagic"
+        },
+        {
+          "title": "Joe Rogan and Anthony Kim Have Big News Coming: Report",
+          "url": "https://heavy.com/sports/golf/joe-rogan-anthony-kim-big-report/",
+          "source": "Heavy.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "ligue europa",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:50:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Violents incidents en tribunes du Stade Vélodrome avant OM-Levski Sofia en Ligue Europa",
+          "url": "https://www.lequipe.fr/Football/Actualites/Violents-incidents-en-tribunes-du-stade-velodrome-avant-om-levski-sofia-en-ligue-europa/1746419",
+          "source": "L'Équipe"
+        },
+        {
+          "title": "Face au Levski Sofia, l'OM assure l'essentiel et entretient l'espoir",
+          "url": "https://www.eurosport.fr/football/ligue-europa/2026-2027/ligue-europa-om-levski-sofia-grace-a-un-penalty-de-gouiri-marseille-peut-continuer-a-croire-a-la-qualification_sto23359120/story.shtml",
+          "source": "Eurosport"
+        },
+        {
+          "title": "Ligue Europa, OM : la panenka manquée d’Amine Gouiri",
+          "url": "https://www.footmercato.net/a7106219447607868016-ligue-europa-om-la-panenka-manque-damine-gouiri",
+          "source": "Foot Mercato"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "john tuggle",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "jared goff",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Who Is Jared Goff’s Wife? He’s Married to a ‘Si’ Swimsuit Model & They Have 1 Child (Photos)",
+          "url": "https://www.imdb.com/news/ni66129502/?ref_=nwc_art_perm",
+          "source": "IMDb"
+        },
+        {
+          "title": "Jared Goff’s Wife Has Everyone’s Attention With ‘Perfect’ Swimsuit Pic",
+          "url": "https://www.newsbreak.com/total-pro-sports-313944020/5031857525721-jared-goff-s-wife-has-everyone-s-attention-with-perfect-swimsuit-pic",
+          "source": "NewsBreak: Local News & Alerts"
+        },
+        {
+          "title": "Jared Goff Wife: Model Christen Harper Posed for Sports Illustrated Swimsuit",
+          "url": "https://www.mensjournal.com/news/jared-goff-wife-christen-harper-sports-illustrated-swimsuit-photos-lions-bears",
+          "source": "Men's Journal"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "jameson williams",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Fantasy Football Week 12 Start ‘Em, Sit ‘Em: Jameson Williams vs. DeVonta Smith",
+          "url": "https://www.si.com/onsi/fantasy/start-em-sit-em/fantasy-football-week-12-start-em-sit-em-jameson-williams-vs-devonta-smith",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Jameson Williams Player Props Week 12: Anytime TD Props and Odds vs. the Bears",
+          "url": "https://www.bleachernation.com/picks/2026/11/24/jameson-williams-player-props-week-12-anytime-td-props-and-odds-vs-the-bears/",
+          "source": "Bleacher Nation"
+        },
+        {
+          "title": "Jameson Williams Faces Bears After 93-Yard Game",
+          "url": "https://journalarta.com/en/2026/11/27/jameson-williams-bears-week-12-fantasy-outlook/",
+          "source": "JournalArta"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "hearts vs monaco",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Licensable picture: UEFA Conference League - Heart of Midlothian v AS Monaco",
+          "url": "https://www.reutersconnect.com/item/uefa-conference-league-heart-of-midlothian-v-as-monaco/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExSTBDQzQ",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Honours, European run, 0–8… Everything you need to know about Hearts",
+          "url": "https://www.asmonaco.com/en/news/honours-european-run-08-everything-you-need-to-know-about-hearts",
+          "source": "AS Monaco"
+        },
+        {
+          "title": "Vrancken welcomes Monaco test as Spittal returns for Hearts",
+          "url": "https://sports.yahoo.com/soccer/articles/vrancken-welcomes-monaco-test-spittal-164218933.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "jess wilson",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:40:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Coalition to privatise Melbourne sewage plants and sell state land and renewables if it wins election",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Jess Wilson told Victorians she'd outlined her plan — but some key policies were missing",
+          "url": "https://www.abc.net.au/news/2026-11-27/vic-election-liberal-costings-sewerage-privatisation-plans-vote/107431750",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Sewerage network, VicRoads in $13.8 billion Liberal privatisation binge",
+          "url": "https://www.theage.com.au/politics/victoria/sewerage-network-vicroads-in-13-8-billion-liberal-privatisation-binge-20261126-p61hog.html",
+          "source": "The Age"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"election\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "charlotte arnould",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
+          "url": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "⁠Gérard Depardieu to face trial on charges ‌of raping ​actor Charlotte ⁠Arnould",
+          "url": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould",
+          "source": "The Guardian"
+        },
+        {
+          "title": "French actor Gerard Depardieu to face trial for rape, his lawyer says",
+          "url": "https://www.cnn.com/2026/11/26/europe/gerard-depardieu-courts-intl",
+          "source": "CNN"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"trial\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "conference league",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "‘Very happy with the goal’ – Joao Felix on spectacular bicycle kick goal in AFC Champions League Elite",
+          "url": "https://www.news.com.au/sport/very-happy-with-the-goal-joao-felix-on-spectacular-bicycle-kick-goal-in-afc-champions-league-elite/video/179a76da0ae35c384429cd727698bc83",
+          "source": "News.com.au"
+        },
+        {
+          "title": "MD5: Al Nassr Club (KSA) 2-1 Al Sadd SC (QAT)",
+          "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-al-nassr-club-ksa-2-1-al-sadd-sc-qat",
+          "source": "The AFC"
+        },
+        {
+          "title": "Al-Nassr vs Al Sadd - Prediction, where to watch, kick-off time and line-ups 24-11-2026",
+          "url": "https://onefootball.com/en/betting/predictions/al-nassr-vs-al-sadd-24-11-2026",
+          "source": "OneFootball"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "beşiktaş vs h. beer-sheva",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Match between Turkey’s Besiktas and Hapoel Beersheba halted amid clash in stands",
+          "url": "https://www.timesofisrael.com/liveblog_entry/match-between-turkeys-besiktas-and-hapoel-beersheba-halted-amid-clash-in-stands/",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Beşiktaş eighth in Europa League standings ahead of 26 November 2026 clash — Beşiktaş Vs H. Beer-sheva has automatic qualification on the line",
+          "url": "https://twaslnews1.twaslnews.com/8355499/",
+          "source": "شبكة تواصل الإخبارية"
+        },
+        {
+          "title": "Georgian police target Beşiktaş fans for waving Palestinian flags | Daily Sabah",
+          "url": "https://www.dailysabah.com/sports/football/georgian-police-target-besiktas-fans-for-waving-palestinian-flags",
+          "source": "Daily Sabah"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "leighton meester",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:20:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Netflix’s Best New Christmas Movie Has A Near-Record Rotten Tomatoes Score",
+          "url": "https://www.forbes.com/sites/paultassi/2026/11/24/netflixs-best-new-christmas-movie-has-a-near-record-rotten-tomatoes-score/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Guarding Stars Secures the No. 1 Spot in This Week’s Top 10",
+          "url": "https://www.netflix.com/tudum/articles/top-10-november-16-2026",
+          "source": "Netflix"
+        },
+        {
+          "title": "With ‘Guarding Stars,’ Jared Padalecki Finally Takes A Break From All That Action",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/jared-padalecki-guarding-stars-netflix-holiday-1236760738/",
+          "source": "The Hollywood Reporter"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from netflix.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "radar",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Thu, 26 Nov 2026 11:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Ukraine: Poland to create no-fly zone near Ukraine border",
+          "url": "https://www.dw.com/en/ukraine-poland-to-set-up-no-fly-zone-near-ukraine-border/live-80047122",
+          "source": "DW.com"
+        },
+        {
+          "title": "NATO witnesses a surge of airspace violations by Russia as Moscow seeks to test alliance",
+          "url": "https://theconversation.com/nato-witnesses-a-surge-of-airspace-violations-by-russia-as-moscow-seeks-to-test-alliance-297361",
+          "source": "The Conversation"
+        },
+        {
+          "title": "NATO deploys AWACS airborne radar to monitor Polish airspace",
+          "url": "https://www.euronews.com/2026/11/26/nato-deploys-awacs-airborne-radar-to-monitor-polish-airspace",
+          "source": "Euronews.com"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-11-26",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Seasonal spooky",
+      "motifs": [
+        "friendly ghost",
+        "vintage pumpkin label",
+        "black cat crescent"
+      ],
+      "suggestedProducts": [
+        "graphic tee",
+        "sticker",
+        "mug"
+      ],
+      "why": "Evergreen rotation.",
+      "market": null
+    },
+    "support": {
+      "niche": "Dark academia",
+      "motifs": [
+        "etched owl",
+        "stacked antique books",
+        "marginalia typography"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
