@@ -1,0 +1,1311 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T19:48:18.208Z",
+  "sources": [
+    {
+      "id": "google_trends_rss:US",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:GB",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:CA",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "google_trends_rss:AU",
+      "status": "ok",
+      "count": 10,
+      "license": "public_first_party_feed",
+      "confidence": "medium"
+    },
+    {
+      "id": "youtube_data_api",
+      "status": "not_configured",
+      "note": "Set YOUTUBE_API_KEY to enable."
+    },
+    {
+      "id": "printful_catalog_bestsellers",
+      "status": "not_configured",
+      "note": "Set PRINTFUL_TOKEN to enable."
+    },
+    {
+      "id": "etsy_open_api_v3",
+      "status": "not_configured",
+      "note": "Set ETSY_API_KEY as 'keystring:sharedsecret'."
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "trends": 40,
+    "trendsPrintable": 0,
+    "youtube": 0,
+    "printfulBestsellers": 0,
+    "etsyNiches": 0
+  },
+  "trends": [
+    {
+      "title": "broncos vs steelers",
+      "traffic": 100000,
+      "trafficLabel": "100000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "When is the Broncos vs. Steelers game?",
+          "url": "https://www.dazn.com/en-CA/news/football/broncos-steelers-nfl-watch-week-12-news-kickoff-time-date-prediction/1i0b5m265beh61ml2b1vejdxje",
+          "source": "DAZN"
+        },
+        {
+          "title": "Broncos Could Add To McCarthy’s Struggles With A Strong Game",
+          "url": "https://ca.sports.yahoo.com/news/broncos-could-add-mccarthy-struggles-142519015.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Why you should back Broncos defence to carry team to road win vs. Steelers",
+          "url": "https://www.sportsnet.ca/nfl/video/why-you-should-back-broncos-defence-to-carry-team-to-road-win-vs-steelers/",
+          "source": "Sportsnet.ca"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "bom radar melbourne",
+      "traffic": 20000,
+      "trafficLabel": "20000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Wild weekend of storms caps off wettest ever El Niño spring",
+          "url": "https://www.abc.net.au/news/2026-11-28/australia-wild-weekend-weather-caps-off-wettest-el-nino-spring/107435544",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+          "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+          "source": "The Guardian"
+        },
+        {
+          "title": "‘Intense’: Storms, wild winds to lash Aust",
+          "url": "https://www.theaustralian.com.au/breaking-news/severe-storms-and-100mm-rain-to-batter-australias-east-coast-across-the-weekend/news-story/3e8a3c5168270529a9755013f58173a0",
+          "source": "The Australian"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "nottm forest vs chelsea",
+      "traffic": 10000,
+      "trafficLabel": "10000+",
+      "pubDate": "Fri, 27 Nov 2026 11:00:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Nottingham Forest vs Chelsea LIVE: Premier League score, lineups, commentary & updates",
+          "url": "https://www.bbc.com/sport/football/live/cme3d91zygp8t",
+          "source": "BBC"
+        },
+        {
+          "title": "Nottingham Forest vs. Chelsea LIVE: Premier League score, updates and commentary",
+          "url": "https://www.espn.com/soccer/story/_/id/50612653/nottingham-forest-chelsea-live-premier-league-updates",
+          "source": "ESPN"
+        },
+        {
+          "title": "Chavarria: We're going to treat it like it's the last game we play | News | Official Site",
+          "url": "https://www.chelseafc.com/en/news/article/chavarria-were-going-to-treat-it-like-its-the-last-game-we-play",
+          "source": "Chelsea Football Club"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0.35,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Matches print-on-demand vocabulary (\"forest\")."
+      ]
+    },
+    {
+      "title": "tim tawa",
+      "traffic": 5000,
+      "trafficLabel": "5000+",
+      "pubDate": "Fri, 27 Nov 2026 10:40:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "C Davis -- 2021 No. 1 pick -- headed to Arizona; Bucs get utility man Tawa (source)",
+          "url": "https://www.mlb.com/news/henry-davis-traded-to-d-backs-for-tim-tawa",
+          "source": "MLB.com"
+        },
+        {
+          "title": "Pirates reportedly trading former first-overall pick Henry Davis to Arizona",
+          "url": "https://www.cbsnews.com/pittsburgh/news/pirates-trading-henry-davis-to-arizona/",
+          "source": "CBS News"
+        },
+        {
+          "title": "Diamondbacks make trade, acquire former No. 1 overall pick from Pirates",
+          "url": "https://sports.yahoo.com/mlb/articles/diamondbacks-trade-acquire-former-no-185156464.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from mlb.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "app state vs south alabama",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "App State vs South Alabama Prediction, Pick, College Football Odds for Friday, Nov. 27",
+          "url": "https://sports.yahoo.com/betting/articles/app-state-vs-south-alabama-120123925.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Scouting report: What you need to know for South Alabama’s game vs. Appalachian State",
+          "url": "https://www.al.com/sports/2026/11/scouting-report-what-you-need-to-know-for-south-alabamas-game-vs-appalachian-state.html",
+          "source": "AL.com"
+        },
+        {
+          "title": "Mountaineers aim to conquer Jaguars’ territory in season finale",
+          "url": "https://theappalachianonline.com/mountaineers-aim-to-conquer-jaguars-territory-in-season-finale/",
+          "source": "The Appalachian Online"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "levante - racing de santander",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Levante - Racing en directo: LaLiga EA Sports hoy en vivo",
+          "url": "https://as.com/futbol/primera/levante-racing-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Demasiada rabia como para caer en la frustración",
+          "url": "https://www.superdeporte.es/levante-ud/2026/11/27/rabia-caer-frustracion-136886094.html",
+          "source": "Superdeporte"
+        },
+        {
+          "title": "La previa: Levante UD-Real Racing Club",
+          "url": "https://www.levanteud.com/noticias/la-previa-levante-ud-real-racing-club",
+          "source": "Levante UD | Web Oficial"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "panthers vs capitals",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Caps Power Play Quietly Surging",
+          "url": "https://www.nhl.com/capitals/news/caps-power-play-quietly-surging",
+          "source": "NHL.com"
+        },
+        {
+          "title": "How to watch Panthers vs. Capitals: TV channel and streaming options for November 27 - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7816340/2026/11/27/panthers-vs-capitals-stream-how-to-watch-nov-27/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Florida visits Washington in Eastern Conference action",
+          "url": "https://apnews.com/article/florida-panthers-washington-capitals-florida-a0077350d73c4950a8a1f5ee0e8d251b",
+          "source": "AP News"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nhl.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "canucks vs flyers",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Matvei Michkov Suspended by Flyers For Canucks Game, Latest NHL Rumors Amid Trade Buzz",
+          "url": "https://bleacherreport.com/articles/25538099-matvei-michkov-suspended-flyers-canucks-game-latest-nhl-rumors-amid-trade-buzz",
+          "source": "Bleacher Report"
+        },
+        {
+          "title": "Flyers’ Matvei Michkov scratched vs. Canucks due to internal team matter",
+          "url": "https://www.nytimes.com/athletic/7817096/2026/11/27/flyers-matvei-michkov-scratched-team-violation/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Flyers’ Michkov removed from Canucks game over ‘internal team matter’",
+          "url": "https://www.tsn.ca/nhl/article/flyers-michkov-out-of-canucks-game-over-internal-team-matter/",
+          "source": "TSN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from bleacherreport.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "russia",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "‘Mass-casualty event’ in Europe possible amid rise in Russian sabotage, says thinktank",
+          "url": "https://www.theguardian.com/world/2026/nov/27/mass-casualty-event-europe-possible-russian-sabotage-says-thinktank",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Russia’s sabotage attacks on Europe grow in number and complexity",
+          "url": "https://www.thetimes.com/uk/defence/article/russia-sabotage-attacks-europe-grow-number-complexity-bnh0r3k78",
+          "source": "The Times"
+        },
+        {
+          "title": "Alleged Russia-directed sabotage in Europe risks mass-casualty event, think tank warns",
+          "url": "https://www.cnn.com/2026/11/26/europe/russias-europe-ukraine-iiss-report-intl-hnk-ml",
+          "source": "CNN"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "nottm forest vs chelsea",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Nottingham Forest vs. Chelsea: Former Blues eye win | DAZN News Canada",
+          "url": "https://www.dazn.com/en-CA/news/soccer/nottingham-forest-chelsea-premier-league-preview-liam-delap/18unq4cb9wo4019qluuyoe80nj",
+          "source": "DAZN"
+        },
+        {
+          "title": "Nottingham Forest vs Chelsea LIVE: Premier League score, lineups, commentary & updates",
+          "url": "https://www.bbc.com/sport/football/live/cme3d91zygp8t",
+          "source": "BBC"
+        },
+        {
+          "title": "Liam Delap has a chance to show Chelsea what they're missing when they travel to Nottingham Forest",
+          "url": "https://www.skysports.com/football/news/13615913/liam-delap-has-a-chance-to-show-chelsea-what-theyre-missing-when-they-travel-to-nottingham-forest",
+          "source": "Sky Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0.35,
+      "printable": false,
+      "reasons": [
+        "Coverage from skysports.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Matches print-on-demand vocabulary (\"forest\")."
+      ]
+    },
+    {
+      "title": "canucks vs flyers",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Flyers' Matvei Michkov won't play vs. Canucks after violating team rules",
+          "url": "https://www.sportsnet.ca/nhl/article/flyers-matvei-michkov-wont-play-vs-canucks-after-violating-team-rules/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Matvei Michkov Suspended by Flyers For Canucks Game, Latest NHL Rumors Amid Trade Buzz",
+          "url": "https://bleacherreport.com/articles/25538099-matvei-michkov-suspended-flyers-canucks-game-latest-nhl-rumors-amid-trade-buzz",
+          "source": "Bleacher Report"
+        },
+        {
+          "title": "Flyers’ Michkov removed from Canucks game over ‘internal team matter’",
+          "url": "https://www.tsn.ca/nhl/article/flyers-michkov-out-of-canucks-game-over-internal-team-matter/",
+          "source": "TSN"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from bleacherreport.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "ireland vs australia",
+      "traffic": 2000,
+      "trafficLabel": "2000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Twickenham set to be half empty for Nations Championship finals opening night",
+          "url": "https://www.bbc.com/sport/rugby-union/articles/c65y1k8428qdo",
+          "source": "BBC"
+        },
+        {
+          "title": "Ireland v Australia: Nations Championship finals weekend – live",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/27/ireland-v-australia-nations-championship-finals-weekend-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Ireland v Wallabies Preview",
+          "url": "https://www.rugby.com.au/news/ireland-wallabies-preview-predictions-facts-stats-players-teams-rugby-20261127",
+          "source": "RUGBY.com.au"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "red wings vs blue jackets",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Columbus Blue Jackets Lines, Defensive Pairings, & Scratches For Tonight's Game vs. Detroit Red Wings",
+          "url": "https://sports.yahoo.com/nhl/articles/columbus-blue-jackets-lines-defensive-172640419.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Red Wings at Blue Jackets projected lineups",
+          "url": "https://www.nhl.com/redwings/news/detroit-red-wings-columbus-blue-jackets-game-preview-november-27-2026",
+          "source": "NHL.com"
+        },
+        {
+          "title": "How to watch Red Wings vs. Blue Jackets: TV channel and streaming options for November 27",
+          "url": "https://www.nytimes.com/athletic/7816336/2026/11/27/red-wings-vs-blue-jackets-stream-how-to-watch-nov-27/",
+          "source": "The New York Times"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nhl.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "sophie willan",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Sophie Willan’s life from foster care to chef partner as star joins The Repair Shop",
+          "url": "https://www.express.co.uk/showbiz/tv-radio/2269219/sophie-willans-life-foster-care-chef-partner-the-repair-shop",
+          "source": "Daily Express"
+        },
+        {
+          "title": "BBC Repair Shop guest Sophie Willan's life from 'difficult' upbringing to tragic death",
+          "url": "https://www.mirror.co.uk/tv/tv-news/bbc-repair-shop-guest-sophie-37914561",
+          "source": "The Mirror"
+        },
+        {
+          "title": "Bolton's Sophie Willan takes on heartfelt Christmas mission for BBC show",
+          "url": "https://www.theboltonnews.co.uk/news/26741521.boltons-sophie-willan-joins-repair-shop-christmas-special/",
+          "source": "The Bolton News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"death\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "nottm forest vs chelsea",
+      "traffic": 1000,
+      "trafficLabel": "1000+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Nottingham Forest vs Chelsea LIVE: Premier League score, lineups, commentary & updates",
+          "url": "https://www.bbc.com/sport/football/live/cme3d91zygp8t",
+          "source": "BBC"
+        },
+        {
+          "title": "Nottingham Forest vs. Chelsea LIVE: Premier League score, updates and commentary",
+          "url": "https://www.espn.com/soccer/story/_/id/50612653/nottingham-forest-chelsea-live-premier-league-updates",
+          "source": "ESPN"
+        },
+        {
+          "title": "Chavarria: We're going to treat it like it's the last game we play | News | Official Site",
+          "url": "https://www.chelseafc.com/en/news/article/chavarria-were-going-to-treat-it-like-its-the-last-game-we-play",
+          "source": "Chelsea Football Club"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0.35,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely.",
+        "Mainstream news coverage — event-driven, not a durable merch niche.",
+        "Matches print-on-demand vocabulary (\"forest\")."
+      ]
+    },
+    {
+      "title": "ireland vs australia",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 27 Nov 2026 11:20:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Twickenham set to be half empty for Nations Championship finals opening night",
+          "url": "https://www.bbc.com/sport/rugby-union/articles/c65y1k8428qdo",
+          "source": "BBC"
+        },
+        {
+          "title": "Ireland v Australia: Nations Championship finals weekend – live",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/27/ireland-v-australia-nations-championship-finals-weekend-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Ireland must be ruthless to back up their Springboks win",
+          "url": "https://www.rte.ie/sport/rugby/2026/1126/1600815-ireland-must-be-ruthless-to-back-up-their-springboks-win/",
+          "source": "RTE.ie"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "venezia vs bologna",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Venezia vs Bologna Live Stream: How to Watch Italian Serie A in Canada (Nov. 27, 2026)",
+          "url": "https://www.fubo.tv/news/canada/venezia-vs-bologna-live-stream-how-to-watch-italian-serie-a-in-canada-nov-27-2026/",
+          "source": "Fubo"
+        },
+        {
+          "title": "✅ Official Venezia-Bologna teams: Orsolini out! The Adams and Zortea call",
+          "url": "https://sports.yahoo.com/soccer/articles/official-venezia-bologna-teams-orsolini-185200126.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "November 27, 2026: Venezia FC vs Bologna FC 1909: Total Goals Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/soccer/events/63c1d998-23ad-48e6-86ec-507d970d246f/",
+          "source": "Robinhood"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "werder vs mönchengladbach",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "US",
+      "newsItems": [
+        {
+          "title": "Startelf-Debüt für Paul Erevbenagie, Justin Njinmah fällt aus",
+          "url": "https://www.werder.de/news/maenner/2026-2027/aufstellung-gladbach-27112026",
+          "source": "Werder Bremen"
+        },
+        {
+          "title": "Bundesliga live: Schießt Füllkrug Gladbach noch näher an den Abgrund?",
+          "url": "https://www.express.de/sport/fussball/bundesliga-live-alle-spiele-des-11-spieltags-im-liveticker-1091029",
+          "source": "Express"
+        },
+        {
+          "title": "Heute Heimspiel im Weserstadion",
+          "url": "https://bremennews.de/heute-heimspiel-im-weserstadion/",
+          "source": "BremenNews"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "maryborough meteorite",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 27 Nov 2026 11:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "In 2015, a prospector in Australia dug up a heavy reddish rock and hoped for gold inside. Three years later, a museum told him it was a 4.6-billion-year-old meteorite",
+          "url": "https://www.futura-sciences.com/en/in-2015-a-prospector-in-australia-dug-up-a-heavy-reddish-rock-and-hoped-for-gold-inside-three-years-later-a-museum-told-him-it-was-a-4-6-billion-year-old-meteorite_903345/",
+          "source": "Futura, le média qui explore le monde"
+        },
+        {
+          "title": "Man Keeps a Rock For Years, Hoping It's Gold. It Turned Out to Be So Much More Valuable",
+          "url": "https://www.sciencealert.com/man-keeps-a-rock-for-years-hoping-its-gold-it-turned-out-to-be-even-more-valuable",
+          "source": "ScienceAlert"
+        },
+        {
+          "title": "Australian prospector's 17-kilogram find confirmed as 4.6-billion-year-old meteorite",
+          "url": "https://www.geo.tv/latest/692934-australian-prospectors-17-kilogram-find-confirmed-as-46-billion-year-old-meteorite",
+          "source": "Geo News"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "tom brady",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Brady disappointed in Rodgers' McCarthy comments: 'Nobody wins'",
+          "url": "https://www.espn.com/nfl/story/_/id/50607635/tom-brady-disappointed-aaron-rodgers-mccarthy-comments",
+          "source": "ESPN"
+        },
+        {
+          "title": "Tom Brady Reacts to Aaron Rodgers' Remarks on Steelers' McCarthy, Reflects on Belichick Relationship",
+          "url": "https://bleacherreport.com/articles/25537966-tom-brady-reacts-aaron-rodgers-remarks-steelers-mccarthy-reflects-belichick-relationship",
+          "source": "Bleacher Report"
+        },
+        {
+          "title": "Aaron Rodgers: Tom Brady and NFL react to stunning Mike McCarthy claims as pundits say Rodgers is 'losing respect'",
+          "url": "https://www.skysports.com/nfl/news/13616939/aaron-rodgers-quarterback-losing-respect-as-nfl-reacts-to-stunning-mike-mccarthy-claims",
+          "source": "Sky Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from espn.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "mackenzie valley highway",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 27 Nov 2026 11:00:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Mackenzie Valley Highway becomes first major project of national interest in Canada’s North",
+          "url": "https://www.ctvnews.ca/politics/article/carney-travels-to-yellowknife-for-announcement-on-major-initiative/",
+          "source": "CTV News"
+        },
+        {
+          "title": "Ottawa lists Mackenzie Valley Highway as project of national interest",
+          "url": "https://ca.finance.yahoo.com/news/ottawa-lists-mackenzie-valley-highway-184924706.html",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "Carney holds news conference in Yellowknife",
+          "url": "https://www.cbc.ca/player/play/video/9.7438533",
+          "source": "CBC"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "fiji vs italy",
+      "traffic": 500,
+      "trafficLabel": "500+",
+      "pubDate": "Fri, 27 Nov 2026 08:50:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Italy snap 7-match skid and survive late Fiji charge for Nations Championship rugby win",
+          "url": "https://sports.yahoo.com/general/articles/italy-snap-7-match-skid-190054589.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Tommaso Allan Kicks Italy Past Fiji 23-21 In Nations Championship Rematch",
+          "url": "https://www.florugby.com/articles/16469064-fiji-vs-italy-rugby-live-score-updates-and-result",
+          "source": "FloRugby"
+        },
+        {
+          "title": "Britain Nations Championship Rugby",
+          "url": "https://www.wvnews.com/sports/pro/britain-nations-championship-rugby/image_6f74c761-a2c1-5c92-afbf-6e5c5e0bfb19.html",
+          "source": "WV News"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "rob baloucoune",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Cian Tracey: How Ireland's late-blooming, electric back-three was four years in the making",
+          "url": "https://www.independent.ie/sport/rugby/cian-tracey-how-irelands-late-blooming-electric-back-three-was-four-years-in-the-making/a/165045729.html",
+          "source": "Irish Independent"
+        },
+        {
+          "title": "Enniskillen’s Baloucoune braced for Australia challenge",
+          "url": "https://fermanaghherald.com/2026/11/enniskillens-baloucoune-braced-for-australia-challenge/",
+          "source": "The Fermanagh Herald"
+        },
+        {
+          "title": "Ireland's bravery against the blitz rewarded as Baloucoune prospers",
+          "url": "https://www.the42.ie/ireland-analysis-springboks-3-7234079-Nov2026/",
+          "source": "The 42"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "górnik zabrze – wisła płock",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Mecz Ekstraklasy zagrożony. Klub walczy ze skutkami śnieżycy",
+          "url": "https://sportowefakty.wp.pl/pilka-nozna/1286391/mecz-ekstraklasy-zagrozony-klub-walczy-ze-skutkami-sniezycy",
+          "source": "SportoweFakty"
+        },
+        {
+          "title": "Ekstraklasa. Górnik Zabrze - Wisła Płock. Relacja live i wynik na żywo",
+          "url": "https://przegladsportowy.onet.pl/pilka-nozna/gornik-zabrze-wisla-plock-relacja-na-zywo/y4cekrh",
+          "source": "Przegląd Sportowy"
+        },
+        {
+          "title": "Arbiter z Krakowa posędziuje Górnikowi Zabrze po ponad czterech latach przerwy. Znów przyniesie szczęście?",
+          "url": "https://roosevelta81.pl/arbiter-z-krakowa-posedziuje-gornikowi-zabrze-po-ponad-czterech-latach-przerwy-znow-przyniesie-szczescie/",
+          "source": "Roosevelta 81"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": []
+    },
+    {
+      "title": "largs thistle",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Watch: Largs Thistle v Ayr United - in Scottish Cup",
+          "url": "https://www.bbc.co.uk/sport/football/live/cqe87096465wt",
+          "source": "BBC"
+        },
+        {
+          "title": "Scottish Gas Men's Scottish Cup Third Round 2026/2027: Preview",
+          "url": "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+          "source": "Scottish Football Association"
+        },
+        {
+          "title": "Largs legend John Crawford warns Ayr United to underestimate 'Theesel' at their peril",
+          "url": "https://www.dailyrecord.co.uk/ayrshire/largs-legend-john-crawford-warns-37915376",
+          "source": "Daily Record"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Contains \"united\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "levante vs racing santander",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "El Levante sale con Víctor García, Romero y Thiago en ataque y el Racing mantiene a Zabiri",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/27/el-levante-sale-con-victor-garcia-romero-y-thiago-en-ataque-y-el-racing-mantiene-a-zabiri/",
+          "source": "Infobae"
+        },
+        {
+          "title": "Demasiada rabia como para caer en la frustración",
+          "url": "https://www.superdeporte.es/levante-ud/2026/11/27/rabia-caer-frustracion-136886094.html",
+          "source": "Superdeporte"
+        },
+        {
+          "title": "La previa: Levante UD-Real Racing Club",
+          "url": "https://www.levanteud.com/noticias/la-previa-levante-ud-real-racing-club",
+          "source": "Levante UD | Web Oficial"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "jonathan frakes",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:30:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Beloved ‘Star Trek’ No. 1 Jonathan Frakes reveals his battle with cancer",
+          "url": "https://www.latimes.com/entertainment-arts/story/2026-11-27/star-trek-jonathan-frakes-reveals-cancer-battle",
+          "source": "Los Angeles Times"
+        },
+        {
+          "title": "‘Star Trek’ Actor Jonathan Frakes Says an Unexpected Symptom Led to His Bladder Cancer Diagnosis",
+          "url": "https://people.com/star-trek-actor-jonathan-frakes-says-an-unexpected-symptom-led-to-his-bladder-cancer-diagnosis-12281233",
+          "source": "People.com"
+        },
+        {
+          "title": "Popular actor says bladder cancer discovery followed one strange bathroom symptom",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/popular-actor-says-bladder-cancer-203308899.html",
+          "source": "Yahoo"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "scunthorpe vs wealdstone",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Scunthorpe United vs Wealdstone: National League stats, head-to-head & radio commentary",
+          "url": "https://www.bbc.co.uk/sport/football/live/c6g7l1gvdez8t",
+          "source": "BBC"
+        },
+        {
+          "title": "Scunthorpe United vs Wealdstone Prediction: 17/5 For Successful Raid For Stones",
+          "url": "https://news.williamhill.com/football/national-league/scunthorpe-united-vs-wealdstone-prediction-17-5-for-successful-raid-for-stones/",
+          "source": "William Hill News"
+        },
+        {
+          "title": "Watch Scunthorpe United vs Wealdstone live today: Who is broadcasting the match on TV and via live stream?",
+          "url": "https://www.goal.com/en-ca/news/live-stream-online-tv-where-to-watch-scunthorpe-united-v-wealdstone/blt38831e6d737aee70",
+          "source": "Goal.com"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Contains \"vs\" — commonly a protected mark or event name.",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "jambo",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:20:00 -0800",
+      "geo": "GB",
+      "newsItems": [
+        {
+          "title": "Hairless chimp Jambo among four apes to die at zoo",
+          "url": "https://www.bbc.co.uk/news/articles/cw0k6zrrr42zo",
+          "source": "BBC"
+        },
+        {
+          "title": "Four apes die at Twycross Zoo",
+          "url": "https://www.bbc.com/news/videos/c6rrg2vd5j7jo",
+          "source": "BBC"
+        },
+        {
+          "title": "Utterly devastating news! 💔",
+          "url": "https://www.facebook.com/ManchesterEveningNews/posts/utterly-devastating-news/1672117071617318/",
+          "source": "Facebook"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Mainstream news coverage — event-driven, not a durable merch niche."
+      ]
+    },
+    {
+      "title": "red wings vs blue jackets",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Red Wings at Blue Jackets projected lineups",
+          "url": "https://www.nhl.com/news/detroit-red-wings-columbus-blue-jackets-game-preview-november-27-2026",
+          "source": "NHL.com"
+        },
+        {
+          "title": "Line Combinations: Red Wings at Blue Jackets",
+          "url": "https://ca.sports.yahoo.com/news/line-combinations-red-wings-blue-153817338.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Red Wings visit Blue Jackets in clash of playoff hopefuls",
+          "url": "https://www.cbssports.com/nhl/news/red-wings-visit-blue-jackets-in-clash-of-playoff-hopefuls/",
+          "source": "CBS Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nhl.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "panthers vs capitals",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:40:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Panthers at Capitals projected lineups",
+          "url": "https://www.nhl.com/news/florida-panthers-washington-capitals-game-preview-november-27-2026",
+          "source": "NHL.com"
+        },
+        {
+          "title": "Capitals look to sweep holiday homestand",
+          "url": "https://sports.yahoo.com/nhl/articles/capitals-look-sweep-holiday-homestand-200037153.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Panthers visit Capitals with Aleksander Barkov, Brad Marchand back",
+          "url": "https://www.cbssports.com/nhl/news/panthers-visit-capitals-with-aleksander-barkov-brad-marchand-back/",
+          "source": "CBS Sports"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nhl.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "nhl games today",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Palmieri expected out rest of season for Islanders with right knee injury",
+          "url": "https://www.nhl.com/news/islanders-kyle-palmieri-expected-out-for-season-with-right-knee-injury",
+          "source": "NHL.com"
+        },
+        {
+          "title": "Islanders’ Kyle Palmieri out 6-8 months with torn ACL",
+          "url": "https://www.dailyfaceoff.com/news/kyle-palmieri-new-york-islanders-torn-acl-knee-injury-out-months",
+          "source": "Daily Faceoff"
+        },
+        {
+          "title": "Snapshots: Ritchie, Hodgson, Connelly",
+          "url": "https://www.prohockeyrumors.com/2026/11/roster-notes-warren-hodgson-connelly.html",
+          "source": "Pro Hockey Rumors"
+        }
+      ],
+      "trademarkRisk": "high",
+      "podRelevance": 0,
+      "printable": false,
+      "reasons": [
+        "Coverage from nhl.com — league/studio/label IP very likely."
+      ]
+    },
+    {
+      "title": "jojo siwa",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "JoJo Siwa and Chris Hughes Split After a Year and a Half Together: ‘She Needed to Choose Herself’ (Exclusive Source)",
+          "url": "https://people.com/jojo-siwa-chris-hughes-split-exclusive-11835326",
+          "source": "People.com"
+        },
+        {
+          "title": "Jojo Siwa & Chris Hughes: Romance Rewind",
+          "url": "https://www.eonline.com/ca/photos/38421/jojo-siwa-chris-hughes-romance-rewind",
+          "source": "E! News"
+        },
+        {
+          "title": "Are JoJo Siwa & Chris Hughes Still Together? Inside Their Reported Breakup",
+          "url": "https://hollywoodlife.com/feature/are-jojo-siwa-chris-hughes-still-together-breakup-5421016/",
+          "source": "Hollywood Life"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "flood",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:10:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Major Thanksgiving storms inundate US with heavy rain, wind and flooding",
+          "url": "https://www.abc.net.au/news/2026-11-27/thanksgiving-floods-storms-across-us/107433308",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Thanksgiving storm moves to Northeast, bringing snow, winds, flooding",
+          "url": "https://weather.com/2026/11/27/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "Chaotic Thanksgiving weather strikes the US",
+          "url": "https://www.nine.com.au/australia-news/videos/chaotic-thanksgiving-weather-strikes-the-us/cmwyk339b001b0hnn1rdbinjg",
+          "source": "Nine.com.au"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"storm\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "weather sydney",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 11:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Weather report for Central Sydney",
+          "url": "https://www.dailytelegraph.com.au/newslocal/central-sydney/hyperlocal/heres-what-you-can-expect-with-todays-central-sydney-weather/news-story/dfedbfc7e029f5aacb2c81b37a8ebe49",
+          "source": "The Daily Telegraph"
+        },
+        {
+          "title": "Weather report for Southern",
+          "url": "https://www.dailytelegraph.com.au/newslocal/southern-courier/hyperlocal/heres-what-you-can-expect-with-todays-southern-weather/news-story/e8e862ea197b82200a9e84e6cb332835",
+          "source": "The Daily Telegraph"
+        },
+        {
+          "title": "Weather report for Southern",
+          "url": "https://www.dailytelegraph.com.au/newslocal/southern-courier/hyperlocal/heres-what-you-can-expect-with-todays-southern-weather/news-story/b5f293c101ea225fd002c5cd7772a650",
+          "source": "The Daily Telegraph"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "john farnham health update",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 10:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Whispering Jack: John Farnham musical is a triumph of big hits and stratospheric vocals",
+          "url": "https://theconversation.com/whispering-jack-john-farnham-musical-is-a-triumph-of-big-hits-and-stratospheric-vocals-296836",
+          "source": "The Conversation"
+        },
+        {
+          "title": "John Farnham soars again in this raucous musical love-in",
+          "url": "https://www.theaustralian.com.au/culture/john-farnham-soars-again-in-this-raucous-musical-lovein/news-story/25ef68dfaf82ec782059ffc49a12ce2a",
+          "source": "The Australian"
+        },
+        {
+          "title": "The verdict on the new John Farnham musical",
+          "url": "https://www.afr.com/life-and-luxury/arts-and-culture/the-verdict-on-the-new-john-farnham-musical-20261126-p61hei",
+          "source": "AFR"
+        }
+      ],
+      "trademarkRisk": "low",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Reads as news/current affairs (\"verdict\") rather than an aesthetic."
+      ]
+    },
+    {
+      "title": "gold price",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 10:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Price of gold in total freefall, $22.5t vanishes",
+          "url": "https://www.news.com.au/finance/markets/its-crazy-gold-prices-plunge-with-225-trillion-wiped-off-value-in-just-10-months/news-story/4d77ef9ce3b9dc73c681fe3ad9b32841",
+          "source": "News.com.au"
+        },
+        {
+          "title": "Precious metals: From historic exuberance to historic distress",
+          "url": "https://www.home.saxo/content/articles/commodities/precious-metals-from-historic-exuberance-to-historic-distress-26112026",
+          "source": "Saxo"
+        },
+        {
+          "title": "The silver trade that cost Felix Zulauf 50%, and why he says gold's fall is different",
+          "url": "https://www.kitco.com/news/article/2026-11-25/silver-trade-cost-felix-zulauf-50-and-why-he-says-golds-fall-different",
+          "source": "Kitco"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "home alone meal",
+      "traffic": 200,
+      "trafficLabel": "200+",
+      "pubDate": "Fri, 27 Nov 2026 06:30:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "McDonald’s and Home Alone is a match made in 90s heaven",
+          "url": "https://www.thedrum.com/opinion/mcdonald-s-and-home-alone-is-a-match-made-in-90s-heaven",
+          "source": "The Drum"
+        },
+        {
+          "title": "McDonald’s Christmas ad scores highest for ‘brand link’, data finds",
+          "url": "https://www.marketingweek.com/mcdonalds-christmas-brand-link/",
+          "source": "Marketing Week"
+        },
+        {
+          "title": "Here's what McDonald's 'Home Alone Meal' has inside",
+          "url": "https://www.cincinnati.com/story/entertainment/dining/2026/11/26/mcdonalds-home-alone-meal-ohio-date/92826373007/",
+          "source": "Cincinnati Enquirer"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Contains \"match\" — commonly a protected mark or event name."
+      ]
+    },
+    {
+      "title": "christopher schwarzenegger",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 27 Nov 2026 11:30:00 -0800",
+      "geo": "CA",
+      "newsItems": [
+        {
+          "title": "Arnold Schwarzenegger’s rarely seen son Christopher shows off massive weight loss on Thanksgiving",
+          "url": "https://pagesix.com/2026/11/27/celebrity-news/arnold-schwarzeneggers-son-christopher-shows-off-weight-loss-2/",
+          "source": "Page Six"
+        },
+        {
+          "title": "Arnold Schwarzenegger's son Chris flaunts weight loss on Thanksgiving",
+          "url": "https://www.dailymail.com/tvshowbiz/article-16325699/arnold-schwarzenegger-son-christopher-weight-loss-thanksgiving.html",
+          "source": "Daily Mail"
+        },
+        {
+          "title": "Arnold Schwarzenegger's rarely seen son shows off 250lb weight loss during Thanksgiving outing",
+          "url": "https://www.hellomagazine.com/celebrities/937634/arnold-schwarzenegger-son-weight-loss/",
+          "source": "HELLO!"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.25,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights)."
+      ]
+    },
+    {
+      "title": "geelong weather",
+      "traffic": 100,
+      "trafficLabel": "100+",
+      "pubDate": "Fri, 27 Nov 2026 10:00:00 -0800",
+      "geo": "AU",
+      "newsItems": [
+        {
+          "title": "Weather report for Geelong",
+          "url": "https://www.geelongadvertiser.com.au/news/geelong/hyperlocal/heres-what-you-can-expect-with-todays-geelong-weather/news-story/ab16be7bb3a4c88640d431a543a50e39",
+          "source": "Geelong Advertiser"
+        },
+        {
+          "title": "Weather report for Geelong",
+          "url": "https://www.geelongadvertiser.com.au/news/geelong/hyperlocal/heres-what-you-can-expect-with-todays-geelong-weather/news-story/8b4d3afbd5bd20ea90f58f1d4136adaf",
+          "source": "Geelong Advertiser"
+        },
+        {
+          "title": "Weather report for Geelong",
+          "url": "https://www.geelongadvertiser.com.au/news/geelong/hyperlocal/heres-what-you-can-expect-with-todays-geelong-weather/news-story/02c343d0eb40a6b3a9bbae375944588d",
+          "source": "Geelong Advertiser"
+        }
+      ],
+      "trademarkRisk": "medium",
+      "podRelevance": 0.1,
+      "printable": false,
+      "reasons": [
+        "Short proper-noun query — likely a person or brand (likeness/name rights).",
+        "Reads as news/current affairs (\"weather\") rather than an aesthetic."
+      ]
+    }
+  ],
+  "youtube": [],
+  "printfulBestsellers": [],
+  "etsyNiches": [],
+  "drawBrief": {
+    "generatedFor": "2026-11-27",
+    "basis": "model-inferred",
+    "disclaimer": "Model-inferred design direction, not demand data. Evergreen niches lead; trending searches only modulate them, because daily trending topics are mostly news and sport and rarely make sellable (or legally safe) merch.",
+    "lead": {
+      "niche": "Cosy reading",
+      "motifs": [
+        "cat on a book stack",
+        "tea and paperback",
+        "library window light"
+      ],
+      "suggestedProducts": [
+        "mug",
+        "tote bag",
+        "graphic tee"
+      ],
+      "why": "Seasonally weighted for 2026-11.",
+      "market": null
+    },
+    "support": {
+      "niche": "Celestial / tarot",
+      "motifs": [
+        "moon phases",
+        "hand-drawn tarot suit",
+        "constellation map"
+      ],
+      "market": null
+    },
+    "blankSuggestion": null,
+    "timelyHooks": [],
+    "timelyHookNote": "No trending search today passed both the printability and trademark-safety filters. That is a normal result — most days, evergreen is the better bet."
+  }
+}
